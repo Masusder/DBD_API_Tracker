@@ -1,0 +1,601 @@
+[
+    {
+        "value": {
+            "killer": {
+                "acceptable_ratio": 0.33,
+                "moderate_ratio": 0.43,
+                "long_ratio": 0.56
+            },
+            "survivor": {
+                "acceptable_ratio": 0.86,
+                "moderate_ratio": 0.9,
+                "long_ratio": 0.92
+            }
+        },
+        "keyName": "MATCHMAKING_INCENTIVE_CONFIG"
+    },
+    {
+        "value": "true",
+        "keyName": "MATCHMAKING_ALLOW_CROSSPLAY"
+    },
+    {
+        "value": "10",
+        "keyName": "SOCIAL_PLATFORM_FRIENDLIST_QUERY_RATE"
+    },
+    {
+        "value": {
+            "WalesCypher": true
+        },
+        "keyName": "BUTTON_SEQUENCE_ENABLE"
+    },
+    {
+        "value": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAuq878RHxy7gwEGnjh/vXcOH+1evTjEA9ygzmKEmG4s2xfNTXgneht6IsCSt5rGgpB3SabgdfUlfZyNNcwx18H7PGdsEwDcbrpZvNsgVt12oSXANjUaWDhUFJ1mVV3QmRIMyknWsA7pRX5Vy1Jr9vZ6IfFopGD++OEGsGooCA7CLGi0+E2v9UvKu/CU+PeaLNTriLa/R8B2YnhmNtSa94U+6sxNt4tzY85+TOfM7SMIgagQcZgREnXsSYhHWs4zfrz6ANaKzi4x0Tep0rK1kTnVv431+VA2zcvFahujVYncQIim+Ivee3TttJMBygxQUGR2/0qJfMkjitldpR3c3sIQIDAQAB",
+        "keyName": "KRAKEN_RSA_PUBLIC_KEY"
+    },
+    {
+        "value": "true",
+        "keyName": "CANCEL_MATCH_ON_DISCONNECT_DURING_LOADING"
+    },
+    {
+        "value": "7200",
+        "keyName": "GAMELIFT_INSTANCE_SHUTDOWN_TIMER"
+    },
+    {
+        "value": {
+            "readonlyConfigs": [
+                "ANALYTICS_RULES",
+                "ANALYTICS_RULES_DEDICATED_SERVER",
+                "READ_ONLY_CONFIGS"
+            ]
+        },
+        "keyName": "READ_ONLY_CONFIGS"
+    },
+    {
+        "value": "https://xbox1-live2-dbd.bhvronline.com/restservice.svc",
+        "keyName": "MS_ENDPOINT"
+    },
+    {
+        "value": {
+            "uncategorized": {
+                "enabled": false
+            }
+        },
+        "keyName": "offenceCategories"
+    },
+    {
+        "value": [
+            {
+                "data": "Core",
+                "children": [
+                    {
+                        "data": "steam",
+                        "label": "Steam"
+                    },
+                    {
+                        "data": "grdk",
+                        "label": "Windows Store"
+                    },
+                    {
+                        "data": "Consoles",
+                        "children": [
+                            {
+                                "data": "ps4",
+                                "label": "PlayStation"
+                            },
+                            {
+                                "data": "xbox",
+                                "label": "XBOX"
+                            },
+                            {
+                                "data": "switch",
+                                "label": "Switch"
+                            }
+                        ],
+                        "label": "Consoles"
+                    }
+                ],
+                "label": "Core"
+            },
+            {
+                "data": "Mobile",
+                "children": [
+                    {
+                        "data": "android",
+                        "label": "Android"
+                    },
+                    {
+                        "data": "ios",
+                        "label": "iOS"
+                    },
+                    {
+                        "data": "google",
+                        "label": "Google"
+                    },
+                    {
+                        "data": "facebook",
+                        "label": "Facebook"
+                    }
+                ],
+                "label": "Mobile"
+            }
+        ],
+        "keyName": "AVAILABLE_PLATFORMS"
+    },
+    {
+        "value": "true",
+        "keyName": "GAME_CLIENT_VERSION_CHECK_ENABLED"
+    },
+    {
+        "value": "25",
+        "keyName": "FRAME_HIKE_ANALYTIC_LOG_BUFFER_SIZE"
+    },
+    {
+        "value": {
+            "KL": [
+                "CustomerSupportAnalytics",
+                "DisconnectionAnalytics",
+                "EACClientAuthChallengeAnalytics",
+                "EACClientAuthInitAnalytics",
+                "EACClientInitAnalytics",
+                "EACClientViolationAnalytics",
+                "EACServerValidateAnalytics",
+                "GameEventLogAnalytics",
+                "GameInitAnalytics",
+                "InvalidLoadoutAnalytics",
+                "LogMirrorsAnalytics",
+                "S3CommandAnalytics",
+                "S3CommandErrorAnalytics",
+                "SaveGameErrorAnalytics",
+                "SpecialEventAnalytics",
+                "SpecialEventBaseAnalytics"
+            ],
+            "BL": [
+                "MatchmakingApproveLoginAnalytics",
+                "MatchmakingHostCreatedAnalytics",
+                "MatchmakingHostSettingAnalytics",
+                "MatchmakingJoinCompleteAnalytics",
+                "MatchmakingJoinSessionAnalytics",
+                "MatchmakingSearchCompleteAnalytics",
+                "MatchmakingSearchParamAnalytics",
+                "MatchmakingSearchResultAnalytics",
+                "MatchmakingSessionSpotReservationAnalytics",
+                "PerformanceChartingAnalytics",
+                "RTMAnalytics"
+            ],
+            "KA": [
+                "ChatAnalytics",
+                "DetailedScoreAnalytics",
+                "HookAnalytics",
+                "LoadingStepAnalytics",
+                "LoadingTimeoutAnalytics",
+                "MapCoordAnalytics",
+                "ProceduralGenerationAnalytics",
+                "ScoreAnalytics"
+            ],
+            "KAL": [
+                "DedicatedServerStatusAnalytics",
+                "DisconnectionDetailsAnalytics",
+                "FrameHikeAnalytics",
+                "LevelLoadingStepAnalytics",
+                "LevelLoadingTimeoutAnalytics",
+                "PerformanceAnalytics",
+                "S3CommandAnalytics"
+            ]
+        },
+        "keyName": "ANALYTICS_RULES_DEDICATED_SERVER"
+    },
+    {
+        "value": {
+            "ios": {
+                "date": "2020-06-18T13:00:00.000Z",
+                "version": "3.7.013"
+            },
+            "android": {
+                "date": "2020-06-18T13:00:00.000Z",
+                "version": "3.7.013"
+            }
+        },
+        "keyName": "CLIENT_VERSION"
+    },
+    {
+        "value": "600",
+        "keyName": "RICH_PRESENCE_SERVER_TIMER_RATE"
+    },
+    {
+        "value": {
+            "NetEase": {
+                "ios": {
+                    "date": "2020-05-26T08:35:00.000Z",
+                    "version": "3.6.210"
+                },
+                "android": {
+                    "date": "2020-05-26T08:35:00.000Z",
+                    "version": "3.6.210"
+                }
+            },
+            "fallback": {
+                "ios": {
+                    "date": "2020-06-18T13:00:00.000Z",
+                    "version": "3.7.013"
+                },
+                "android": {
+                    "date": "2020-06-18T13:00:00.000Z",
+                    "version": "3.7.013"
+                }
+            }
+        },
+        "keyName": "CLIENT_VERSION_V2"
+    },
+    {
+        "value": "60",
+        "keyName": "SOCIAL_FRIENDLIST_MANUAL_UPDATE_MIN_DELAY"
+    },
+    {
+        "value": {
+            "DeltaDnaEngageAddress": "https://engage14352dbdmb.deltadna.net/86609205096052418441976264915429",
+            "DeltaDnaAnalytics": "https://collect14352dbdmb.deltadna.net/collect/api/86609205096052418441976264915429",
+            "KrakenAnalytics": "https://gamelogs.live.bhvrdbd.com/api/v1/gameDataAnalytics/binary/batch",
+            "KrakenLogs": "https://gamelogs.live.bhvrdbd.com/api/v1/gameLogs/batch"
+        },
+        "keyName": "ANALYTICS_ENDPOINTS"
+    },
+    {
+        "value": {
+            "Mobile": {
+                "dbd_match_making_filter_unidirectional_always": true,
+                "dbd_match_making_filter_good_latency": 120,
+                "dbd_match_making_filter_skip_region_checks": false,
+                "dbd_match_making_filter_min_geo_distance": 1000,
+                "dbd_match_making_filter_ok_latency": 250,
+                "dbd_match_making_filter_expansion_duration": 90000,
+                "dbd_match_making_filter_max_geo_distance": 10000,
+                "dbd_match_making_filter_unidirectional": true,
+                "dbd_match_making_filter_max_rank_diff": 20,
+                "dbd_match_making_filter_min_rank_diff": 1
+            }
+        },
+        "keyName": "MATCHMAKING_CONFIG"
+    },
+    {
+        "value": "https://cdn.live.dbd.bhvronline.com",
+        "keyName": "ASSET_MANAGEMENT_CDN_PATH"
+    },
+    {
+        "value": "4fabea45-bce0-4461-8950-162659636437",
+        "keyName": "CDN_ROOT_FOLDER_PATH"
+    },
+    {
+        "value": {
+            "gameContentId": "m_3.7.0_305423live",
+            "catalogId": "m_3.7.0_305423live"
+        },
+        "keyName": "clientData"
+    },
+    {
+        "value": {
+            "DD": [
+                "AtlantaGraphicsSettingsAnalytics",
+                "AtlantaKillerTutorialAnalytics",
+                "AtlantaPartyGameAnalytics",
+                "AtlantaPerkSelectionAnalytics",
+                "AtlantaPlayerLevelAnalytics",
+                "AtlantaSessionStartAnalytics",
+                "AtlantaSurvivorTutorialAnalytics",
+                "BloodMarketRefreshAnalytics",
+                "BloodMarketTransactionAnalytics",
+                "DailyCalendarRewardAnalytics",
+                "FreeTicketAnalytics",
+                "MatchmakingIncentiveAnalytics",
+                "MobileBannerClickedAnalytics",
+                "MobileCdnDownloadAnalytics",
+                "MobileLoginAnalytics",
+                "MobilePostGameAnalytics",
+                "NewPlayerAnalytics"
+            ],
+            "KL": [
+                "CustomerSupportAnalytics",
+                "CustomerSupportClientLoginAnalytics",
+                "DisconnectionAnalytics",
+                "EACClientAuthChallengeAnalytics",
+                "EACClientAuthInitAnalytics",
+                "EACClientInitAnalytics",
+                "EACClientViolationAnalytics",
+                "EACServerValidateAnalytics",
+                "EntitlementAnalytics",
+                "ErrorAnalytics",
+                "FallOutOfWorldAnalytics",
+                "GameEventLogAnalytics",
+                "GameInitAnalytics",
+                "HeartbeatPerfAnalytics",
+                "InvalidLoadoutAnalytics",
+                "KrakenRequestAnalytics",
+                "LogAnalytics",
+                "LogMirrorsAnalytics",
+                "LogPresencePluginAnalytics",
+                "MatchmakingApproveLoginAnalytics",
+                "MatchmakingHostCreatedAnalytics",
+                "MatchmakingJoinCompleteAnalytics",
+                "MatchmakingJoinSessionAnalytics",
+                "MatchmakingSearchCompleteAnalytics",
+                "MatchmakingSessionSpotReservationAnalytics",
+                "MatchmakingSurviveWithFriendsAnalytics",
+                "RecordRanksMigrateCheatAnalytics",
+                "S3CommandErrorAnalytics",
+                "SaveGameErrorAnalytics",
+                "SaveGameLoadResultAnalytics",
+                "SaveGameSaveResultAnalytics",
+                "SaveGameSummaryCharacterStatsAnalytics",
+                "SaveGameSummaryPlayerStatsAnalytics",
+                "ShopAnalytics",
+                "SpecialEventAnalytics",
+                "SpecialEventBaseAnalytics",
+                "SyncLoadAnalytics"
+            ],
+            "BL": [
+                "MatchmakingHostSettingAnalytics",
+                "MatchmakingSearchParamAnalytics",
+                "MatchmakingSearchResultAnalytics",
+                "PerformanceChartingAnalytics",
+                "RTMAnalytics"
+            ],
+            "AF": [
+                "af_complete_registrationAnalytics",
+                "af_killer_tutorial_completionAnalytics",
+                "af_loginAnalytics",
+                "af_survivor_tutorial_completionAnalytics"
+            ],
+            "KA": [
+                "CustomizationLobbyAnalytics",
+                "DailyRitualAnalytics",
+                "DetailedScoreAnalytics",
+                "EmblemProgressionAnalytics",
+                "EndpointLatencyAnalytics",
+                "FreeTrialLoginAnalytics",
+                "GameOnTournamentParticipationInfoAnalytics",
+                "Gameplay_ChaseAnalytics",
+                "Gameplay_KillerAnalytics",
+                "Gameplay_PigKillerAnalytics",
+                "Gameplay_PigSurvivorAnalytics",
+                "Gameplay_SurvivorAnalytics",
+                "GhostKillerAnalytics",
+                "HeartbeatAnalytics",
+                "HookAnalytics",
+                "KillerTutorialAnalytics",
+                "LegionKillerAnalytics",
+                "LegionSurvivorAnalytics",
+                "LoadOutLobbyAnalytics",
+                "LoadingStepAnalytics",
+                "LoadingTimeoutAnalytics",
+                "MapCoordAnalytics",
+                "MatchRatingAnalytics",
+                "MatchmakingLobbyAnalytics",
+                "MatchmakingQueueAnalytics",
+                "MenuFlowAnalytics",
+                "PerkAcquisitionAnalytics",
+                "PlagueSurvivorAnalytics",
+                "PostGame_KillerAnalytics",
+                "PostGame_SurvivorAnalytics",
+                "ProceduralGenerationAnalytics",
+                "QueueAnalytics",
+                "ScoreAnalytics",
+                "StoreMenuFlowAnalytics",
+                "SurvivorTutorialAnalytics",
+                "TransactionAnalytics",
+                "WaitTimeAnalytics",
+                "WalesCypherAnalytics"
+            ],
+            "KAL": [
+                "ChatAnalytics",
+                "CurrencyBalanceAnalytics",
+                "CustomizationAnalytics",
+                "EnvironmentAnalytics",
+                "FrameHikeAnalytics",
+                "LevelLoadingStepAnalytics",
+                "LevelLoadingTimeoutAnalytics",
+                "LoadOutAnalytics",
+                "MatchInfoAnalytics",
+                "PerformanceAnalytics",
+                "ReportAnalytics",
+                "S3CommandAnalytics"
+            ]
+        },
+        "keyName": "ANALYTICS_RULES"
+    },
+    {
+        "value": "False",
+        "keyName": "DBD_USING_LOOT_TABLES"
+    },
+    {
+        "value": {
+            "ap-south-1": "https://gamelift.ap-south-1.amazonaws.com/ping",
+            "eu-west-1": "https://gamelift.eu-west-1.amazonaws.com/ping",
+            "ap-southeast-1": "https://gamelift.ap-southeast-1.amazonaws.com/ping",
+            "ap-southeast-2": "https://gamelift.ap-southeast-2.amazonaws.com/ping",
+            "eu-central-1": "https://gamelift.eu-central-1.amazonaws.com/ping",
+            "ap-northeast-2": "https://gamelift.ap-northeast-2.amazonaws.com/ping",
+            "ap-northeast-1": "https://gamelift.ap-northeast-1.amazonaws.com/ping",
+            "us-east-1": "https://gamelift.us-east-1.amazonaws.com/ping",
+            "sa-east-1": "https://gamelift.sa-east-1.amazonaws.com/ping",
+            "us-west-2": "https://gamelift.us-west-2.amazonaws.com/ping"
+        },
+        "keyName": "GAMELIFT_ENDPOINTS"
+    },
+    {
+        "value": {
+            "3.3.0_240899live": "3.3.0_240899live-1572383573",
+            "3.3.0_241792live": "3.3.0_241792live-1572620532",
+            "3.3.0_244688live": "3.3.0_244688live-1573508813",
+            "3.3.0_250527live": "3.3.0_250527live-1574958268",
+            "3.3.0_250683live": "3.3.0_250683live-1574970778",
+            "3.3.0_251055live": "3.3.0_251055live-1575045272",
+            "3.3.0_251388live": "3.3.0_251388live-1575302019",
+            "3.4.0_251837live": "3.4.0_251837live-1575385796",
+            "3.4.0_252858live": "3.4.0_252858live-1575561684",
+            "3.4.0_252923live": "3.4.0_252923live-1575566091",
+            "3.4.0_253718live": "3.4.0_253718live-1575905044",
+            "3.4.0_256480live": "3.4.0_256480live-1576681380",
+            "3.4.0_259113live": "3.4.0_259113live-1578500174",
+            "3.4.0_259477live": "3.4.0_259477live-1578522191",
+            "3.4.0_260791live": "3.4.0_260791live-1578946418",
+            "3.4.0_261612live": "3.4.0_261612live-1579104046",
+            "3.4.0_262171live": "3.4.0_262171live-1579191067",
+            "3.5.0_263718live": "3.5.0_263718live-1579622253",
+            "3.5.0_266393live": "3.5.0_266393live-1580228947",
+            "3.5.0_268674live": "3.5.0_268674live-1580771593",
+            "3.5.0_268836live": "3.5.0_268836live-1580832501",
+            "3.5.0_269644live": "3.5.0_269644live-1580940814",
+            "3.5.0_270406live": "3.5.0_270406live-1581098187",
+            "3.5.0_271208live": "3.5.0_271208live-1581437178",
+            "3.5.0_271955live": "3.5.0_271955live-1581545196",
+            "3.5.0_272526live": "3.5.0_272526live-1581634028",
+            "3.5.0_279100live": "3.5.0_279100live-1583424417",
+            "3.6.0_278273live": "3.6.0_278273live-1583272090",
+            "3.6.0_280524live": "3.6.0_280524live-1583851636",
+            "3.6.0_281460live": "3.6.0_281460live-1584027415",
+            "3.6.0_287302live": "3.6.0_287302live-1585755046",
+            "3.6.0_289644live": "3.6.0_289644live-1586364084",
+            "3.7.0_295705live": "3.7.0_295705live-1588086667",
+            "3.7.0_296097live": "3.7.0_296097live-1588174684",
+            "3.7.0_296298live": "3.7.0_296298live-1588188779",
+            "3.7.0_297033live": "3.7.0_297033live-1588345278",
+            "3.7.0_297145live": "3.7.0_297145live-1588355683",
+            "3.7.0_297697live": "3.7.0_297697live-1588605440",
+            "3.7.0_299646live": "3.7.0_299646live-1588950290",
+            "3.7.0_310704live": "3.7.0_310704live-1591712206",
+            "3.7.0_311092live": "3.7.0_311092live-1591745417",
+            "3.7.0_312055live": "3.7.0_312055live-1591972116",
+            "4.0.0_312777live": "4.0.0_312777live-1592317723",
+            "4.0.0_313969live": "4.0.0_313969live-1592517384",
+            "m_3.0.2_219921live": "m_3.0.2_219921live-1566230507",
+            "m_3.0.3_241022live": "m_3.0.3_241022live-1572449159",
+            "m_3.3.3_220000live": "m_3.3.3_220000live-1574880017",
+            "m_3.3.3_244883live": "m_3.3.3_244883live-1573581592",
+            "m_3.3.3_249880live": "m_3.3.3_249880live-1574865740",
+            "m_3.3.3_249941live": "m_3.3.3_249941live-1574867268",
+            "m_3.3.3_250036live": "m_3.3.3_250036live-1574872981",
+            "m_3.3.4_267868live": "m_3.3.4_267868live-1580497193",
+            "m_3.3.5_267886live": "m_3.3.5_267886live-1580497608",
+            "m_3.3.6_267895live": "m_3.3.6_267895live-1580498116",
+            "m_3.4.0_274457live": "m_3.4.0_274457live-1582217939",
+            "m_3.6.0_275870live": "m_3.6.0_275870live-1582661936",
+            "m_3.6.0_279337live": "m_3.6.0_279337live-1583513258",
+            "m_3.6.0_279613live": "m_3.6.0_279613live-1583512574",
+            "m_3.6.0_280356live": "m_3.6.0_280356live-1583786865",
+            "m_3.6.0_280779live": "m_3.6.0_280779live-1583870664",
+            "m_3.6.0_280799live": "m_3.6.0_280799live-1583871485",
+            "m_3.6.0_284473live": "m_3.6.0_284473live-1585057350",
+            "m_3.6.0_287303live": "m_3.6.0_287303live-1585755593",
+            "m_3.6.2_289548live": "m_3.6.2_289548live-1586357067",
+            "m_3.6.2_289558live": "m_3.6.2_289558live-1586360358",
+            "m_3.6.2_289662live": "m_3.6.2_289662live-1586365693",
+            "m_3.6.2_290930live": "m_3.6.2_290930live-1586870358",
+            "m_3.6.2_290967live": "m_3.6.2_290967live-1586875858",
+            "m_3.6.2_291551live": "m_3.6.2_291551live-1586976934",
+            "m_3.6.2_291748live": "m_3.6.2_291748live-1586987640",
+            "m_3.6.2_291993live": "m_3.6.2_291993live-1587049088",
+            "m_3.6.2_293735live": "m_3.6.2_293735live-1587572694",
+            "m_3.6.2_294142live": "m_3.6.2_294142live-1587653125",
+            "m_3.6.2_294697live": "m_3.6.2_294697live-1587746863",
+            "m_3.6.2_299129live": "m_3.6.2_299129live-1588863989",
+            "m_3.6.2_299602live": "m_3.6.2_299602live-1588947608",
+            "m_3.6.2_299631live": "m_3.6.2_299631live-1588949575",
+            "m_3.6.2_299662live": "m_3.6.2_299662live-1588950822",
+            "m_3.7.0_297765live": "m_3.7.0_297765live-1588611021",
+            "m_3.7.0_300489live": "m_3.7.0_300489live-1589289213",
+            "m_3.7.0_302900live": "m_3.7.0_302900live-1589898486",
+            "m_3.7.0_303763live": "m_3.7.0_303763live-1590009537",
+            "m_3.7.0_304986live": "m_3.7.0_304986live-1590415198",
+            "m_3.7.0_305423live": "m_3.7.0_305423live-1590499123",
+            "m_3.7.2_311268live": "m_3.7.2_311268live-1591810058",
+            "m_3.7.2_311686live": "m_3.7.2_311686live-1591887828",
+            "m_3.7.2_313207live": "m_3.7.2_313207live-1592405931",
+            "m_3.7.2_313296live": "m_3.7.2_313296live-1592415292",
+            "m_3.7.2_313385live": "m_3.7.2_313385live-1592420625",
+            "m_3.7.2_313513live": "m_3.7.2_313513live-1592429490",
+            "m_3.7.2_314575live": "m_3.7.2_314575live-1592834782"
+        },
+        "keyName": "VER_CLIENT_DATA"
+    },
+    {
+        "value": "60",
+        "keyName": "SOCIAL_MIN_DELAY_BETWEEN_BACKEND_FRIENDLIST_SYNC"
+    },
+    {
+        "value": "10",
+        "keyName": "FRAME_HIKE_THRESHOLD"
+    },
+    {
+        "value": "600",
+        "keyName": "RICH_PRESENCE_PLAYER_TIMER_RATE"
+    },
+    {
+        "value": "true",
+        "keyName": "MATCHMAKING_USE_QUEUE_API"
+    },
+    {
+        "value": "https://kibana-logs.live.dbd.bhvronline.com/app/kibana#/dashboard/f9722400-391e-11e9-b6e1-a7681f9f0f51?_a=%28query:%28query_string:%28analyze_wildcard:!t,query:'\"queueName\"'%29%29%29",
+        "keyName": "MATCHMAKING_QUEUE_DASHBOARD_URL"
+    },
+    {
+        "value": "paNOt2JkswAXOt7TRxqGH9vksAYE5CgG",
+        "keyName": "DELTA_DNA_HASH_KEY"
+    },
+    {
+        "value": "5000",
+        "keyName": "DELTADNA_ENGAGE_TIMEOUT"
+    },
+    {
+        "value": "True",
+        "keyName": "APPSFLYER_CUSTOMER_ID_ENABLED"
+    },
+    {
+        "value": "https://wstore-live-dbd.bhvronline.com/restservice.svc",
+        "keyName": "MS_ENDPOINT_GRDK"
+    },
+    {
+        "value": "60",
+        "keyName": "SOCIAL_BACKEND_FRIEND_SYNC_RATE"
+    },
+    {
+        "value": "https://console.aws.amazon.com/gamelift/home?region=us-east-1#/r/game-session-queues/[[gameliftQueueName]]",
+        "keyName": "MATCHMAKING_GAMELIFT_DASHBOARD_URL"
+    },
+    {
+        "value": "{\"0\":\"Harassment\",\"1\":\"Griefing\",\"2\":\"Exploits\",\"3\":\"Unsportsmanlike\"}",
+        "keyName": "BAN_REASON_ENUM"
+    },
+    {
+        "value": {
+            "delayBetweenPenalties": "60",
+            "reasons": [
+                "leave_game"
+            ],
+            "banActive": true,
+            "penalty": {
+                "1": 5,
+                "2": 5,
+                "3": 15,
+                "4": 15,
+                "5": 30,
+                "6": 30,
+                "7": 60,
+                "8": 360,
+                "9": 1440,
+                "10": 2880,
+                "11": 4320
+            },
+            "decayRate": 1440,
+            "decayMatch": 20,
+            "allowedProviders": [
+                "grdk",
+                "nintendo",
+                "ps4",
+                "psn",
+                "steam",
+                "switch",
+                "xbox"
+            ]
+        },
+        "keyName": "DBD_DISCONNECTION_PENALTY_POINTS"
+    }
+]

@@ -1,0 +1,29 @@
+{
+    "Tome01": {
+        "endDate": "2020-01-08T16:00:00",
+        "postEndDate": "2020-01-08T16:00:00",
+        "preStartDate": "2019-10-29T00:00:00",
+        "starsEarnedPerLevel": 1,
+        "starsTierRequirement": 10,
+        "startDate": "2019-10-29T00:00:00",
+        "xpRequirement": 800
+    },
+    "Tome02": {
+        "endDate": "2020-04-01T15:00:00",
+        "postEndDate": "2020-04-01T15:00:00",
+        "preStartDate": "2020-01-07T16:00:00",
+        "starsEarnedPerLevel": 1,
+        "starsTierRequirement": 10,
+        "startDate": "2020-01-22T16:00:00",
+        "xpRequirement": 800
+    },
+    "Tome03": {
+        "endDate": "2020-07-08T15:00:00",
+        "postEndDate": "2020-07-08T15:00:00",
+        "preStartDate": "2020-04-29T15:00:00",
+        "starsEarnedPerLevel": 1,
+        "starsTierRequirement": 10,
+        "startDate": "2020-04-29T15:00:00",
+        "xpRequirement": 800
+    }
+}

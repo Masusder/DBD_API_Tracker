@@ -1,0 +1,366 @@
+{
+    "emblemThresholds": {
+        "Emblem_Killer_Chaser": [
+            0,
+            650,
+            1230,
+            1800,
+            2550
+        ],
+        "Emblem_Killer_Devout": [
+            0,
+            1,
+            4,
+            8,
+            10
+        ],
+        "Emblem_Killer_Gatekeeper": [
+            0,
+            10,
+            15,
+            25,
+            35
+        ],
+        "Emblem_Killer_Malicious": [
+            0,
+            11,
+            22,
+            30,
+            36
+        ],
+        "Emblem_Survivor_Benevolent": [
+            0,
+            25,
+            45,
+            75,
+            100
+        ],
+        "Emblem_Survivor_Evader": [
+            0,
+            230,
+            380,
+            560,
+            880
+        ],
+        "Emblem_Survivor_Lightbringer": [
+            0,
+            30,
+            100,
+            190,
+            270
+        ],
+        "Emblem_Survivor_Unbroken": [
+            999,
+            899,
+            799,
+            699,
+            0
+        ]
+    },
+    "emblemValues": [
+        {
+            "id": "Survivor_Lightbringer_StartPoints",
+            "value": 0.0
+        },
+        {
+            "id": "Survivor_Lightbringer_PointsPerGeneratorPercentage",
+            "value": 100.0
+        },
+        {
+            "id": "Survivor_Lightbringer_PointsPerGeneratorPercentageWhileChased",
+            "value": 33.333332
+        },
+        {
+            "id": "Survivor_Lightbringer_MaxPointsPerGeneratorForRepairWhileChased",
+            "value": 33.333332
+        },
+        {
+            "id": "Survivor_Lightbringer_PointsPerGeneratorCoopPercentage",
+            "value": 0.0
+        },
+        {
+            "id": "Survivor_Lightbringer_PointsPerGeneratorComplete",
+            "value": 5.0
+        },
+        {
+            "id": "Survivor_Lightbringer_PointsPerExitGatePowerPercent",
+            "value": 15.0
+        },
+        {
+            "id": "Survivor_Lightbringer_PointsPerDullTotemCleansed",
+            "value": 20.0
+        },
+        {
+            "id": "Survivor_Lightbringer_PointsPerDullTotemCleansedWhileChased",
+            "value": 5.0
+        },
+        {
+            "id": "Survivor_Lightbringer_PointsPerHexTotemCleansed",
+            "value": 50.0
+        },
+        {
+            "id": "Survivor_Lightbringer_PointsPerHexTotemCleansedWhileChased",
+            "value": 10.0
+        },
+        {
+            "id": "Killer_Gatekeeper_StartPoints",
+            "value": 0.0
+        },
+        {
+            "id": "Killer_Gatekeeper_PointsPerMin_PerGenerator",
+            "value": 1.0
+        },
+        {
+            "id": "Killer_Gatekeeper_PointsGateClosed",
+            "value": 10.0
+        },
+        {
+            "id": "Killer_Gatekeeper_MaxMinutesEvaluated",
+            "value": 9.0
+        },
+        {
+            "id": "Killer_Gatekeeper_PointsGameEnd_0Generators",
+            "value": 0.0
+        },
+        {
+            "id": "Killer_Gatekeeper_PointsGameEnd_1Generators",
+            "value": 0.0
+        },
+        {
+            "id": "Killer_Gatekeeper_PointsGameEnd_2Generators",
+            "value": 0.0
+        },
+        {
+            "id": "Killer_Gatekeeper_PointsGameEnd_3Generators",
+            "value": 0.0
+        },
+        {
+            "id": "Killer_Gatekeeper_PointsGameEnd_4Generators",
+            "value": 0.0
+        },
+        {
+            "id": "Killer_Gatekeeper_PointsGameEnd_5Generators",
+            "value": 0.0
+        },
+        {
+            "id": "Survivor_Unbroken_StartPoints",
+            "value": 0.0
+        },
+        {
+            "id": "Survivor_Unbroken_PointsPerHit",
+            "value": 0.0
+        },
+        {
+            "id": "Survivor_Unbroken_DownedPoints",
+            "value": 1.0
+        },
+        {
+            "id": "Killer_Devout_StartPoints",
+            "value": 0.0
+        },
+        {
+            "id": "Killer_Devout_SacrificePoints",
+            "value": 2.0
+        },
+        {
+            "id": "Killer_Devout_KillPoints",
+            "value": 2.0
+        },
+        {
+            "id": "Killer_Devout_BleedoutPoints",
+            "value": 0.0
+        },
+        {
+            "id": "Killer_Devout_DisconnectPoints",
+            "value": 2.0
+        },
+        {
+            "id": "Killer_Devout_AllSurvivorsHookedPoints",
+            "value": 1.0
+        },
+        {
+            "id": "Killer_Devout_HooksBonusPoints",
+            "value": 1.0
+        },
+        {
+            "id": "Killer_Devout_HooksBonusPointsThreshold",
+            "value": 9.0
+        },
+        {
+            "id": "Survivor_Benevolent_StartPoints",
+            "value": 35.0
+        },
+        {
+            "id": "Survivor_Benevolent_HitPoints",
+            "value": 0.0
+        },
+        {
+            "id": "Survivor_Benevolent_HealedPoints",
+            "value": 0.0
+        },
+        {
+            "id": "Survivor_Benevolent_HealPerformedPoints",
+            "value": 10.0
+        },
+        {
+            "id": "Survivor_Benevolent_HookedPoints",
+            "value": -10.0
+        },
+        {
+            "id": "Survivor_Benevolent_UnhookedPoints",
+            "value": 10.0
+        },
+        {
+            "id": "Survivor_Benevolent_UnhookPerformedPoints",
+            "value": 20.0
+        },
+        {
+            "id": "Survivor_Benevolent_GraspEscapedPoints",
+            "value": 0.0
+        },
+        {
+            "id": "Survivor_Benevolent_GraspEscapePerformedPoints",
+            "value": 30.0
+        },
+        {
+            "id": "Survivor_Benevolent_HealSkillCheckFailedPoints",
+            "value": 0.0
+        },
+        {
+            "id": "Survivor_Benevolent_PenaltyTimerAfterUnhook",
+            "value": 10.0
+        },
+        {
+            "id": "Survivor_Benevolent_UnhookedSurvivorDownedPoints",
+            "value": -30.0
+        },
+        {
+            "id": "Survivor_Benevolent_HookedPointsRefundTimer",
+            "value": 10.0
+        },
+        {
+            "id": "Survivor_Benevolent_HitWhileSlasherIsCarryingPoints",
+            "value": 10.0
+        },
+        {
+            "id": "Survivor_Benevolent_InBasementPointsMultiplier",
+            "value": 0.15
+        },
+        {
+            "id": "Survivor_Benevolent_PostGatesOpenedPointsMultiplier",
+            "value": 0.15
+        },
+        {
+            "id": "Survivor_Benevolent_SabotagedHookThenWiggleFreePoints",
+            "value": 10.0
+        },
+        {
+            "id": "Survivor_Benevolent_MaxDistanceSabotagedHookAndCarryingKiller",
+            "value": 1000.0
+        },
+        {
+            "id": "Killer_Malicious_StartPoints",
+            "value": 0.0
+        },
+        {
+            "id": "Killer_Malicious_HitPoints",
+            "value": 1.0
+        },
+        {
+            "id": "Killer_Malicious_NewHookStatePoints",
+            "value": 2.0
+        },
+        {
+            "id": "Killer_Malicious_SurvivorHealedPoints",
+            "value": -1.0
+        },
+        {
+            "id": "Killer_Malicious_GraspEscapedPoints",
+            "value": -1.0
+        },
+        {
+            "id": "Survivor_Evader_StartPoints",
+            "value": 100.0
+        },
+        {
+            "id": "Survivor_Evader_InTerrorRadiusPoints",
+            "value": 1.0
+        },
+        {
+            "id": "Survivor_Evader_EnterChasePoints",
+            "value": 0.0
+        },
+        {
+            "id": "Survivor_Evader_ChaseEndTimerDuration",
+            "value": 5.0
+        },
+        {
+            "id": "Survivor_Evader_ChaseFailPoints",
+            "value": -10.0
+        },
+        {
+            "id": "Survivor_Evader_PointsBankedInterval",
+            "value": 15.0
+        },
+        {
+            "id": "Survivor_Evader_ChasePointsMultiplierForEscapingChase",
+            "value": 2.0
+        },
+        {
+            "id": "Survivor_Evader_PalletStunPoints",
+            "value": 50.0
+        },
+        {
+            "id": "Killer_Chaser_StartPoints",
+            "value": 0.0
+        },
+        {
+            "id": "Killer_Chaser_SurvivorFoundPoints",
+            "value": 5.0
+        },
+        {
+            "id": "Killer_Chaser_SurvivorLostTimer",
+            "value": 5.0
+        },
+        {
+            "id": "Killer_Chaser_SurvivorLostPoints",
+            "value": 0.0
+        },
+        {
+            "id": "Killer_Chaser_PointsOnSurvivorHit",
+            "value": 55.0
+        },
+        {
+            "id": "Killer_Chaser_HookedCamperProximityPenaltyDelay",
+            "value": 10.0
+        },
+        {
+            "id": "Killer_Chaser_ExtremeHookProximityRadius",
+            "value": 800.0
+        },
+        {
+            "id": "Killer_Chaser_ModerateHookProximityRadius",
+            "value": 1600.0
+        },
+        {
+            "id": "Killer_Chaser_ExtremeHookProximityPoints",
+            "value": -7.5
+        },
+        {
+            "id": "Killer_Chaser_ModerateHookProximityPoints",
+            "value": -3.0
+        },
+        {
+            "id": "Survivor_Unbroken_Silver_Progression_Percentage",
+            "value": 50.0
+        },
+        {
+            "id": "Survivor_Unbroken_Gold_Progression_Percentage",
+            "value": 75.0
+        },
+        {
+            "id": "Survivor_Unbroken_Iridescent_Progression_Percentage",
+            "value": 100.0
+        }
+    ]
+}

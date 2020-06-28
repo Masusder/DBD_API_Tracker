@@ -1,0 +1,63 @@
+{
+    "openStories": [
+        "Tome03",
+        "Tome02",
+        "Tome01"
+    ],
+    "storiesStatus": [
+        {
+            "id": "Tome03",
+            "levelStatus": [
+                {
+                    "status": "open",
+                    "hasUnseenContent": true
+                },
+                {
+                    "status": "locked"
+                },
+                {
+                    "status": "locked"
+                },
+                {
+                    "status": "locked"
+                }
+            ]
+        },
+        {
+            "id": "Tome02",
+            "levelStatus": [
+                {
+                    "status": "open",
+                    "hasUnseenContent": true
+                },
+                {
+                    "status": "locked"
+                },
+                {
+                    "status": "locked"
+                },
+                {
+                    "status": "locked"
+                }
+            ]
+        },
+        {
+            "id": "Tome01",
+            "levelStatus": [
+                {
+                    "status": "open",
+                    "hasUnseenContent": true
+                },
+                {
+                    "status": "locked"
+                },
+                {
+                    "status": "locked"
+                },
+                {
+                    "status": "locked"
+                }
+            ]
+        }
+    ]
+}

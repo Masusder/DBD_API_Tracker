@@ -1,0 +1,31 @@
+{
+    "listOfNodes": [
+        {
+            "nodeTreeCoordinate": {
+                "storyId": "Tome02",
+                "level": 0,
+                "nodeId": "nodeStart"
+            },
+            "status": "completed"
+        },
+        {
+            "nodeTreeCoordinate": {
+                "storyId": "Tome02",
+                "level": 0,
+                "nodeId": "node_L1_02"
+            },
+            "status": "open"
+        },
+        {
+            "nodeTreeCoordinate": {
+                "storyId": "Tome02",
+                "level": 0,
+                "nodeId": "node_L1_09"
+            },
+            "status": "open"
+        }
+    ],
+    "highestLevelIsNewContent": true,
+    "activeNodes": [],
+    "hasUnreadJournal": false
+}

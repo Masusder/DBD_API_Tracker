@@ -1,0 +1,46 @@
+{
+    "bonusPointEvents": [
+        {
+            "eventTitle": "BPEVENT_Bloodhunt_NAME",
+            "eventType": 0,
+            "endTime": "2015-10-13T00:00:00",
+            "startTime": "2015-10-11T00:00:00",
+            "multiplier": 2.0
+        },
+        {
+            "eventTitle": "BPEVENT_Bloodfeast_NAME",
+            "eventType": 0,
+            "endTime": "2015-09-12T00:00:00",
+            "startTime": "2015-09-11T00:00:00",
+            "multiplier": 1.0
+        },
+        {
+            "eventTitle": "BPEVENT_Bloodhunt_NAME",
+            "eventType": 0,
+            "endTime": "2018-09-27T00:00:00",
+            "startTime": "2018-09-21T00:00:00",
+            "multiplier": 2.0
+        },
+        {
+            "eventTitle": "BPEVENT_Bloodrush_NAME",
+            "eventType": 0,
+            "endTime": "2018-11-12T19:00:00",
+            "startTime": "2018-11-05T19:00:00",
+            "multiplier": 1.5
+        },
+        {
+            "eventTitle": "BPEVENT_WinterBloodhunt_NAME",
+            "eventType": 0,
+            "endTime": "2019-01-03T19:00:00",
+            "startTime": "2018-12-27T19:00:00",
+            "multiplier": 2.0
+        },
+        {
+            "eventTitle": "BPEVENT_Bloodhunt_NAME",
+            "eventType": 0,
+            "endTime": "2019-05-06T18:00:00",
+            "startTime": "2019-05-02T18:00:00",
+            "multiplier": 2.0
+        }
+    ]
+}

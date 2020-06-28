@@ -1,0 +1,741 @@
+[
+    {
+        "value": "0.8",
+        "keyName": "MATCHMAKING_INCENTIVE_LONG_SURVIVOR_RATIO"
+    },
+    {
+        "value": {
+            "killer": {
+                "acceptable_ratio": 0.33,
+                "moderate_ratio": 0.33,
+                "long_ratio": 0.33
+            },
+            "survivor": {
+                "acceptable_ratio": 0.86,
+                "moderate_ratio": 0.86,
+                "long_ratio": 0.86
+            }
+        },
+        "keyName": "MATCHMAKING_INCENTIVE_CONFIG"
+    },
+    {
+        "value": [
+            " "
+        ],
+        "keyName": "COMMANDS_MENU"
+    },
+    {
+        "value": "true",
+        "keyName": "MATCHMAKING_ALLOW_CROSSPLAY"
+    },
+    {
+        "value": "0.6",
+        "keyName": "MATCHMAKING_INCENTIVE_MODERATE_KILLER_RATIO"
+    },
+    {
+        "value": "0.8",
+        "keyName": "MATCHMAKING_INCENTIVE_SURVIVOR_RATIO"
+    },
+    {
+        "value": "10",
+        "keyName": "SOCIAL_PLATFORM_FRIENDLIST_QUERY_RATE"
+    },
+    {
+        "value": "0.4",
+        "keyName": "MATCHMAKING_INCENTIVE_ACCEPTABLE_KILLER_RATIO"
+    },
+    {
+        "value": {
+            "PS4": false,
+            "GRDK": true,
+            "Switch": false,
+            "DMM": false,
+            "Steam": true,
+            "Xbox": false,
+            "IOS": false,
+            "Mobile": false,
+            "Android": false
+        },
+        "keyName": "MATCHMAKING_CROSSPLAY_PLATFORMS"
+    },
+    {
+        "value": {
+            "WalesCypher": true
+        },
+        "keyName": "BUTTON_SEQUENCE_ENABLE"
+    },
+    {
+        "value": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAoM9+RtdMftKTnO9Ds5JYezx6/KRAwDk3DwJufHimEuIZi5QhrtLFhO5WQkoxxUx1oHqacEKYFkhgr+j1lnxm4e7mietuUZ2GNVHWtpRMTU4L/rmOGlw+V0jM6q/XFhKC6yAaEV50pwcq1RBZsH2LsocpO9/fTundMiN3eoMTBbuzpOatu5hNGeZj5p2Ox/L4AL8nA0hwrFY5Rf5rDU8smQhCKwsl+T5nd5OgyIKf2WBgFtS5Wu+8x/qs9mTlnyyJgrpXBiclo7k+pEswlUwsJ1ruLH7MW+8tpO/CU93szoAroLovOAA7E4dLCRx1j1Hda1fUdF66xawleez9L6kTlwIDAQAB",
+        "keyName": "KRAKEN_RSA_PUBLIC_KEY"
+    },
+    {
+        "value": "86400",
+        "keyName": "GAMELIFT_IDLE_INSTANCE_SHUTDOWN_TIMER"
+    },
+    {
+        "value": "true",
+        "keyName": "CANCEL_MATCH_ON_DISCONNECT_DURING_LOADING"
+    },
+    {
+        "value": "7200",
+        "keyName": "GAMELIFT_INSTANCE_SHUTDOWN_TIMER"
+    },
+    {
+        "value": {
+            "readonlyConfigs": [
+                "ANALYTICS_RULES",
+                "ANALYTICS_RULES_DEDICATED_SERVER",
+                "READ_ONLY_CONFIGS"
+            ]
+        },
+        "keyName": "READ_ONLY_CONFIGS"
+    },
+    {
+        "value": "https://xbox1-dev1.bhvrdbd.com/restservice.svc",
+        "keyName": "MS_ENDPOINT"
+    },
+    {
+        "value": {
+            "uncategorized": {
+                "enabled": false
+            }
+        },
+        "keyName": "offenceCategories"
+    },
+    {
+        "value": "0.8",
+        "keyName": "MATCHMAKING_INCENTIVE_LONG_KILLER_RATIO"
+    },
+    {
+        "value": "ianfrederic.dissaux@bhvr.com;remi.veilleux@bhvr.com;stefan.beauchamp-daniel@bhvr.com;edule@bhvr.com;vincent.achim@bhvr.com;alvaro.castro@bhvr.com;fadi.beyrouti@bhvr.com;dev.ops@bhvr.com;joseph.suh@bhvr.com",
+        "keyName": "CERTIFICATE_EMAIL_NOTIFICATION"
+    },
+    {
+        "value": [
+            "EnableCheats",
+            "dbd.EnableCheatsPersistently 1"
+        ],
+        "keyName": "COMMANDS_BOOT"
+    },
+    {
+        "value": [
+            {
+                "data": "Core",
+                "children": [
+                    {
+                        "data": "steam",
+                        "label": "Steam"
+                    },
+                    {
+                        "data": "grdk",
+                        "label": "Windows Store"
+                    },
+                    {
+                        "data": "Consoles",
+                        "children": [
+                            {
+                                "data": "ps4",
+                                "label": "PlayStation"
+                            },
+                            {
+                                "data": "xbox",
+                                "label": "XBOX"
+                            },
+                            {
+                                "data": "switch",
+                                "label": "Switch"
+                            }
+                        ],
+                        "label": "Consoles"
+                    }
+                ],
+                "label": "Core"
+            },
+            {
+                "data": "Mobile",
+                "children": [
+                    {
+                        "data": "android",
+                        "label": "Android"
+                    },
+                    {
+                        "data": "ios",
+                        "label": "iOS"
+                    },
+                    {
+                        "data": "google",
+                        "label": "Google"
+                    },
+                    {
+                        "data": "facebook",
+                        "label": "Facebook"
+                    }
+                ],
+                "label": "Mobile"
+            }
+        ],
+        "keyName": "AVAILABLE_PLATFORMS"
+    },
+    {
+        "value": "true",
+        "keyName": "GAME_CLIENT_VERSION_CHECK_ENABLED"
+    },
+    {
+        "value": "10",
+        "keyName": "FRAME_HIKE_ANALYTIC_LOG_BUFFER_SIZE"
+    },
+    {
+        "value": {
+            "KL": [
+                "CustomerSupportAnalytics",
+                "DisconnectionAnalytics",
+                "EACClientAuthChallengeAnalytics",
+                "EACClientAuthInitAnalytics",
+                "EACClientInitAnalytics",
+                "EACClientViolationAnalytics",
+                "EACServerValidateAnalytics",
+                "GameEventLogAnalytics",
+                "GameInitAnalytics",
+                "InvalidLoadoutAnalytics",
+                "KrakenRequestAnalytics",
+                "LogMirrorsAnalytics",
+                "S3CommandAnalytics",
+                "S3CommandErrorAnalytics",
+                "SaveGameErrorAnalytics",
+                "SpecialEventAnalytics",
+                "SpecialEventBaseAnalytics"
+            ],
+            "BL": [
+                "CannibalAnalytics",
+                "HillbillyAnalytics",
+                "MatchmakingApproveLoginAnalytics",
+                "MatchmakingHostCreatedAnalytics",
+                "MatchmakingHostSettingAnalytics",
+                "MatchmakingJoinCompleteAnalytics",
+                "MatchmakingJoinSessionAnalytics",
+                "MatchmakingSearchCompleteAnalytics",
+                "MatchmakingSearchParamAnalytics",
+                "MatchmakingSearchResultAnalytics",
+                "MatchmakingSessionSpotReservationAnalytics",
+                "RTMAnalytics"
+            ],
+            "KAL": [
+                "ChatAnalytics",
+                "DedicatedServerStatusAnalytics",
+                "DetailedHitAnalytics",
+                "DetailedScoreAnalytics",
+                "DisconnectionDetailsAnalytics",
+                "FrameHikeAnalytics",
+                "FranklinsDemiseConsumedItemAnalytics",
+                "FranklinsHitNearDroppedItemAnalytics",
+                "HookAnalytics",
+                "KnockoutSurvivorFoundAnalytics",
+                "LevelLoadingStepAnalytics",
+                "LevelLoadingTimeoutAnalytics",
+                "LightbornAuraRevealedAnalytics",
+                "LoadingStepAnalytics",
+                "LoadingTimeoutAnalytics",
+                "MapCoordAnalytics",
+                "PerformanceAnalytics",
+                "PerformanceChartingAnalytics",
+                "ProceduralGenerationAnalytics",
+                "ScoreAnalytics",
+                "TinkererUndetectableHitNearGeneratorAnalytics",
+                "TinkererUndetectableInterruptAnalytics"
+            ]
+        },
+        "keyName": "ANALYTICS_RULES_DEDICATED_SERVER"
+    },
+    {
+        "value": "asfd",
+        "keyName": "TEST_CONFIG"
+    },
+    {
+        "value": {
+            "ios": {
+                "date": "2020-02-05T00:00:00.000Z",
+                "version": "3.4.0"
+            },
+            "android": {
+                "date": "2020-02-05T00:00:00.000Z",
+                "version": "3.4.0"
+            }
+        },
+        "keyName": "CLIENT_VERSION"
+    },
+    {
+        "value": {
+            "c": "1.0.0-1533244367"
+        },
+        "keyName": "VER_LATEST_CLIENT_DATA"
+    },
+    {
+        "value": "30",
+        "keyName": "RICH_PRESENCE_SERVER_TIMER_RATE"
+    },
+    {
+        "value": {
+            "NetEase": {
+                "ios": {
+                    "date": "2020-02-05T00:00:00.000Z",
+                    "version": "3.4.0"
+                },
+                "android": {
+                    "date": "2020-02-05T00:00:00.000Z",
+                    "version": "3.4.0"
+                }
+            },
+            "fallback": {
+                "ios": {
+                    "date": "2020-02-05T00:00:00.000Z",
+                    "version": "3.4.0"
+                },
+                "android": {
+                    "date": "2020-02-05T00:00:00.000Z",
+                    "version": "3.4.0"
+                }
+            }
+        },
+        "keyName": "CLIENT_VERSION_V2"
+    },
+    {
+        "value": "60",
+        "keyName": "SOCIAL_FRIENDLIST_MANUAL_UPDATE_MIN_DELAY"
+    },
+    {
+        "value": {
+            "DeltaDnaEngageAddress": "https://engage14352dbdmb.deltadna.net/86609193614997436569595476515429",
+            "DeltaDnaAnalytics": "https://collect14352dbdmb.deltadna.net/collect/api/86609193614997436569595476515429",
+            "KrakenAnalytics": "https://latest.dev.bhvrdbd.com/api/v1/gameDataAnalytics/batch",
+            "KrakenLogs": "https://latest.dev.bhvrdbd.com/api/v1/gameLogs/batch"
+        },
+        "keyName": "ANALYTICS_ENDPOINTS"
+    },
+    {
+        "value": {
+            "Mobile": {
+                "dbd_match_making_filter_unidirectional_always": true,
+                "dbd_match_making_filter_good_latency": 120,
+                "dbd_match_making_filter_skip_region_checks": false,
+                "dbd_match_making_filter_min_geo_distance": 1000,
+                "dbd_match_making_filter_ok_latency": 250,
+                "dbd_match_making_filter_expansion_duration": 90000,
+                "dbd_match_making_filter_max_geo_distance": 7000,
+                "dbd_match_making_filter_unidirectional": true,
+                "dbd_match_making_filter_max_rank_diff": 20,
+                "dbd_match_making_filter_min_rank_diff": 1
+            }
+        },
+        "keyName": "MATCHMAKING_CONFIG"
+    },
+    {
+        "value": "https://cdn.dev.dbd.bhvronline.com",
+        "keyName": "ASSET_MANAGEMENT_CDN_PATH"
+    },
+    {
+        "value": "b114b47d-a3e6-44b7-90eb-cd110b09acc1",
+        "keyName": "CDN_ROOT_FOLDER_PATH"
+    },
+    {
+        "value": [
+            "DBD_AddBloodPoints 100000",
+            "DBD_AddCells 5000",
+            "DBD_AddEverythingToInventory 1",
+            "dbd.UnlockAllCustomizationItems 1"
+        ],
+        "keyName": "COMMANDS_QATEST"
+    },
+    {
+        "value": "0.6",
+        "keyName": "MATCHMAKING_INCENTIVE_MODERATE_SURVIVOR_RATIO"
+    },
+    {
+        "value": {
+            "leaderboardId": "m_3.6.2_290272dev",
+            "catalogId": "m_3.6.2_290272dev",
+            "subscriptionId": "mcmallet_m_3.3.3_0dev",
+            "statesPermissionsId": "mcmallet_m_3.3.3_0dev"
+        },
+        "keyName": "clientData"
+    },
+    {
+        "value": {
+            "DD": [
+                "AtlantaGraphicsSettingsAnalytics",
+                "AtlantaKillerTutorialAnalytics",
+                "AtlantaPartyGameAnalytics",
+                "AtlantaPerkSelectionAnalytics",
+                "AtlantaPlayerLevelAnalytics",
+                "AtlantaSessionStartAnalytics",
+                "AtlantaSurvivorTutorialAnalytics",
+                "BloodMarketRefreshAnalytics",
+                "BloodMarketTransactionAnalytics",
+                "DailyCalendarRewardAnalytics",
+                "FreeTicketAnalytics",
+                "MatchmakingIncentiveAnalytics",
+                "MobileBannerClickedAnalytics",
+                "MobileCdnDownloadAnalytics",
+                "MobileLoginAnalytics",
+                "MobilePostGameAnalytics",
+                "NewPlayerAnalytics"
+            ],
+            "KL": [
+                "CustomerSupportAnalytics",
+                "CustomerSupportClientLoginAnalytics",
+                "DisconnectionAnalytics",
+                "EACClientAuthChallengeAnalytics",
+                "EACClientAuthInitAnalytics",
+                "EACClientInitAnalytics",
+                "EACClientViolationAnalytics",
+                "EACServerValidateAnalytics",
+                "EntitlementAnalytics",
+                "ErrorAnalytics",
+                "FallOutOfWorldAnalytics",
+                "GameEventLogAnalytics",
+                "GameInitAnalytics",
+                "HeartbeatPerfAnalytics",
+                "InvalidLoadoutAnalytics",
+                "KrakenRequestAnalytics",
+                "LogAnalytics",
+                "LogMirrorsAnalytics",
+                "LogPresencePluginAnalytics",
+                "MatchmakingApproveLoginAnalytics",
+                "MatchmakingHostCreatedAnalytics",
+                "MatchmakingJoinCompleteAnalytics",
+                "MatchmakingJoinSessionAnalytics",
+                "MatchmakingSearchCompleteAnalytics",
+                "MatchmakingSessionSpotReservationAnalytics",
+                "MatchmakingSurviveWithFriendsAnalytics",
+                "S3CommandAnalytics",
+                "S3CommandErrorAnalytics",
+                "SaveGameErrorAnalytics",
+                "SaveGameLoadResultAnalytics",
+                "SaveGameSaveResultAnalytics",
+                "SaveGameSummaryCharacterStatsAnalytics",
+                "SaveGameSummaryPlayerStatsAnalytics",
+                "ShopAnalytics",
+                "SpecialEventAnalytics",
+                "SpecialEventBaseAnalytics",
+                "StoreMenuFlowAnalytics",
+                "SyncLoadAnalytics"
+            ],
+            "BL": [
+                "MatchmakingHostSettingAnalytics",
+                "MatchmakingSearchParamAnalytics",
+                "MatchmakingSearchResultAnalytics",
+                "RTMAnalytics"
+            ],
+            "AF": [
+                "af_complete_registrationAnalytics",
+                "af_killer_tutorial_completionAnalytics",
+                "af_loginAnalytics",
+                "af_survivor_tutorial_completionAnalytics"
+            ],
+            "KAL": [
+                "CannibalAnalytics",
+                "ChatAnalytics",
+                "CrowdChoiceAnalytics",
+                "CrowdPlayAnalytics",
+                "CurrencyBalanceAnalytics",
+                "CustomizationLobbyAnalytics",
+                "DailyRitualAnalytics",
+                "DetailedScoreAnalytics",
+                "FrameHikeAnalytics",
+                "FranklinsDemiseConsumedItemAnalytics",
+                "FranklinsHitNearDroppedItemAnalytics",
+                "GameOnTournamentParticipationInfoAnalytics",
+                "Gameplay_ChaseAnalytics",
+                "GhostKillerAnalytics",
+                "HillbillyAnalytics",
+                "KnockoutSurvivorFoundAnalytics",
+                "LevelLoadingStepAnalytics",
+                "LevelLoadingTimeoutAnalytics",
+                "LightbornAuraRevealedAnalytics",
+                "LoadOutLobbyAnalytics",
+                "LoadingStepAnalytics",
+                "LoadingTimeoutAnalytics",
+                "MapCoordAnalytics",
+                "MatchInfoAnalytics",
+                "MatchmakingQueueAnalytics",
+                "MenuFlowAnalytics",
+                "PerformanceAnalytics",
+                "PerformanceChartingAnalytics",
+                "RecordRanksMigrateCheatAnalytics",
+                "ReportAnalytics",
+                "ScoreAnalytics",
+                "StadiaLivestreamAnalytics",
+                "TinkererUndetectableHitNearGeneratorAnalytics",
+                "TinkererUndetectableInterruptAnalytics",
+                "WaitTimeAnalytics",
+                "WalesCypherAnalytics"
+            ]
+        },
+        "keyName": "ANALYTICS_RULES"
+    },
+    {
+        "value": "7",
+        "keyName": "RECOMMENDATION_RECENT_RELEASE_THRESHOLD"
+    },
+    {
+        "value": [
+            "EnableCheats",
+            "dbd.EnableCheatsPersistently 1"
+        ],
+        "keyName": "COMMANDS_DS_BOOT"
+    },
+    {
+        "value": "False",
+        "keyName": "DBD_USING_LOOT_TABLES"
+    },
+    {
+        "value": {
+            "ap-south-1": "https://gamelift.ap-south-1.amazonaws.com/ping",
+            "eu-west-1": "https://gamelift.eu-west-1.amazonaws.com/ping",
+            "ap-southeast-1": "https://gamelift.ap-southeast-1.amazonaws.com/ping",
+            "ap-southeast-2": "https://gamelift.ap-southeast-2.amazonaws.com/ping",
+            "eu-central-1": "https://gamelift.eu-central-1.amazonaws.com/ping",
+            "ap-northeast-2": "https://gamelift.ap-northeast-2.amazonaws.com/ping",
+            "ap-northeast-1": "https://gamelift.ap-northeast-1.amazonaws.com/ping",
+            "us-east-1": "https://gamelift.us-east-1.amazonaws.com/ping",
+            "sa-east-1": "https://gamelift.sa-east-1.amazonaws.com/ping",
+            "us-west-2": "https://gamelift.us-west-2.amazonaws.com/ping"
+        },
+        "keyName": "GAMELIFT_ENDPOINTS"
+    },
+    {
+        "value": "0.8",
+        "keyName": "MATCHMAKING_INCENTIVE_KILLER_RATIO"
+    },
+    {
+        "value": {
+            "3.2.0_235824dev": "3.2.0_235824dev-1575304523",
+            "3.3.0_246816dev": "3.3.0_246816dev-1574105438",
+            "3.4.0_257221dev": "3.4.0_257221dev-1576857189",
+            "3.5.0_272375dev": "3.5.0_272375dev-1581623275",
+            "3.6.0_287471dev": "3.6.0_287471dev-1585771719",
+            "3.7.0_303055dev": "3.7.0_303055dev-1589909631",
+            "3.7.0_303212dev": "3.7.0_303212dev-1589921582",
+            "3.7.0_303741dev": "3.7.0_303741dev-1590004549",
+            "3.7.1_301475dev": "3.7.1_301475dev-1589397947",
+            "4.0.0_315089dev": "4.0.0_315089dev-1592921882",
+            "4.0.0_315103dev": "4.0.0_315103dev-1592922785",
+            "4.0.0_315115dev": "4.0.0_315115dev-1592923372",
+            "4.0.0_315138dev": "4.0.0_315138dev-1592926797",
+            "4.0.0_315169dev": "4.0.0_315169dev-1592929969",
+            "4.0.0_315357dev": "4.0.0_315357dev-1592949810",
+            "4.0.0_315399dev": "4.0.0_315399dev-1592960572",
+            "4.0.0_315528dev": "4.0.0_315528dev-1593097067",
+            "4.0.0_315541dev": "4.0.0_315541dev-1593097669",
+            "4.0.0_315753dev": "4.0.0_315753dev-1593120472",
+            "4.0.0_315765dev": "4.0.0_315765dev-1593122875",
+            "4.0.0_315925dev": "4.0.0_315925dev-1593184457",
+            "4.0.0_315960dev": "4.0.0_315960dev-1593187374",
+            "4.0.0_316027dev": "4.0.0_316027dev-1593196782",
+            "4.0.0_316048dev": "4.0.0_316048dev-1593198466",
+            "4.0.0_316086dev": "4.0.0_316086dev-1593202365",
+            "4.0.0_316109dev": "4.0.0_316109dev-1593203264",
+            "4.0.0_316144dev": "4.0.0_316144dev-1593206868",
+            "4.0.0_316159dev": "4.0.0_316159dev-1593209911",
+            "build_dbd_3.6.0_0dev": "build_dbd_3.6.0_0dev-1582846204",
+            "build_dbd_m_3.6.0_0dev": "build_dbd_m_3.6.0_0dev-1582905148",
+            "cbessette_3.5.0_0dev": "cbessette_3.5.0_0dev-1581089605",
+            "cbessette_3.6.0_0dev": "cbessette_3.6.0_0dev-1582744258",
+            "cbessette_m_3.6.2_0dev": "cbessette_m_3.6.2_0dev-1585655239",
+            "edule_3.6.0_0dev": "edule_3.6.0_0dev-1582757885",
+            "emadaule_3.4.0_0dev": "emadaule_3.4.0_0dev-1575570719",
+            "emadaule_3.6.0_0dev": "emadaule_3.6.0_0dev-1583414862",
+            "fpareja_m_3.7.2_0dev": "fpareja_m_3.7.2_0dev-1591296734",
+            "llomuscio_3.4.0_0dev": "llomuscio_3.4.0_0dev-1576782921",
+            "llomuscio_3.5.0_0dev": "llomuscio_3.5.0_0dev-1580402435",
+            "llomuscio_3.6.0_0dev": "llomuscio_3.6.0_0dev-1581967404",
+            "m_3.0.2_219752dev": "m_3.0.2_219752dev-1566171570",
+            "m_3.0.3_231832dev": "m_3.0.3_231832dev-1569605942",
+            "m_3.3.0_245924dev": "m_3.3.0_245924dev-1573767487",
+            "m_3.3.1_241134dev": "m_3.3.1_241134dev-1572451878",
+            "m_3.3.3_250093dev": "m_3.3.3_250093dev-1574879893",
+            "m_3.3.4_254354dev": "m_3.3.4_254354dev-1576006717",
+            "m_3.3.5_259317dev": "m_3.3.5_259317dev-1578512219",
+            "m_3.3.6_267125dev": "m_3.3.6_267125dev-1580334462",
+            "m_3.4.0_272212dev": "m_3.4.0_272212dev-1581611872",
+            "m_3.6.0_277830dev": "m_3.6.0_277830dev-1583192447",
+            "m_3.6.0_280224dev": "m_3.6.0_280224dev-1583781659",
+            "m_3.6.1_285003dev": "m_3.6.1_285003dev-1585157838",
+            "m_3.6.2_290272dev": "m_3.6.2_290272dev-1586464777",
+            "m_3.7.0_309345dev": "m_3.7.0_309345dev-1591281221",
+            "m_3.7.1_303822dev": "m_3.7.1_303822dev-1590068000",
+            "m_3.7.2_309351dev": "m_3.7.2_309351dev-1591281862",
+            "m_3.7.2_309374dev": "m_3.7.2_309374dev-1591285376",
+            "m_3.7.2_309504dev": "m_3.7.2_309504dev-1591295877",
+            "m_3.7.2_309614dev": "m_3.7.2_309614dev-1591306695",
+            "m_3.7.2_309837dev": "m_3.7.2_309837dev-1591364780",
+            "m_3.7.2_309926dev": "m_3.7.2_309926dev-1591371489",
+            "m_3.7.2_310012dev": "m_3.7.2_310012dev-1591378674",
+            "m_3.7.2_310059dev": "m_3.7.2_310059dev-1591382021",
+            "m_3.7.2_310178dev": "m_3.7.2_310178dev-1591396681",
+            "m_3.7.2_310347dev": "m_3.7.2_310347dev-1591628090",
+            "m_3.7.2_310394dev": "m_3.7.2_310394dev-1591632076",
+            "m_3.7.2_310421dev": "m_3.7.2_310421dev-1591634276",
+            "m_3.7.2_310704dev": "m_3.7.2_310704dev-1591710460",
+            "m_3.7.2_310738dev": "m_3.7.2_310738dev-1591713497",
+            "m_3.7.2_310747dev": "m_3.7.2_310747dev-1591717093",
+            "m_3.7.2_310988dev": "m_3.7.2_310988dev-1591734479",
+            "m_3.7.2_310996dev": "m_3.7.2_310996dev-1591735038",
+            "m_3.7.2_311176dev": "m_3.7.2_311176dev-1591797037",
+            "m_3.7.2_311516dev": "m_3.7.2_311516dev-1591832272",
+            "m_3.7.2_311737dev": "m_3.7.2_311737dev-1591893480",
+            "m_3.7.2_312042dev": "m_3.7.2_312042dev-1591969069",
+            "m_3.7.3_312199dev": "m_3.7.3_312199dev-1591990190",
+            "m_3.7.3_312458dev": "m_3.7.3_312458dev-1592233543",
+            "m_3.7.3_312570dev": "m_3.7.3_312570dev-1592249866",
+            "m_3.7.3_312649dev": "m_3.7.3_312649dev-1592257067",
+            "m_3.7.3_312777dev": "m_3.7.3_312777dev-1592316842",
+            "m_3.7.3_312834dev": "m_3.7.3_312834dev-1592320524",
+            "m_3.7.3_312853dev": "m_3.7.3_312853dev-1592321872",
+            "m_3.7.3_312883dev": "m_3.7.3_312883dev-1592325469",
+            "m_3.7.3_312957dev": "m_3.7.3_312957dev-1592332673",
+            "m_3.7.3_312978dev": "m_3.7.3_312978dev-1592336270",
+            "m_3.7.3_313041dev": "m_3.7.3_313041dev-1592339448",
+            "m_3.7.3_313158dev": "m_3.7.3_313158dev-1592401706",
+            "m_3.7.3_313474dev": "m_3.7.3_313474dev-1592426866",
+            "m_3.7.3_313513dev": "m_3.7.3_313513dev-1592429872",
+            "m_3.7.3_313676dev": "m_3.7.3_313676dev-1592489694",
+            "m_3.7.3_313740dev": "m_3.7.3_313740dev-1592495170",
+            "m_3.7.3_313747dev": "m_3.7.3_313747dev-1592498290",
+            "m_3.7.3_313852dev": "m_3.7.3_313852dev-1592509067",
+            "m_3.7.3_313969dev": "m_3.7.3_313969dev-1592519866",
+            "m_3.7.3_314250dev": "m_3.7.3_314250dev-1592595497",
+            "m_3.7.3_314310dev": "m_3.7.3_314310dev-1592602665",
+            "m_3.7.3_314654dev": "m_3.7.3_314654dev-1592840370",
+            "m_3.7.3_314750dev": "m_3.7.3_314750dev-1592851068",
+            "m_3.7.3_314812dev": "m_3.7.3_314812dev-1592854681",
+            "m_3.7.3_314884dev": "m_3.7.3_314884dev-1592858847",
+            "m_3.7.3_314911dev": "m_3.7.3_314911dev-1592860732",
+            "m_3.7.3_314960dev": "m_3.7.3_314960dev-1592865466",
+            "m_3.7.3_315103dev": "m_3.7.3_315103dev-1592923080",
+            "m_3.7.3_315115dev": "m_3.7.3_315115dev-1592923475",
+            "m_3.7.3_315138dev": "m_3.7.3_315138dev-1592926688",
+            "m_3.7.3_315169dev": "m_3.7.3_315169dev-1592930277",
+            "m_3.7.3_315357dev": "m_3.7.3_315357dev-1592951872",
+            "m_3.7.3_315399dev": "m_3.7.3_315399dev-1592962673",
+            "m_3.7.3_315541dev": "m_3.7.3_315541dev-1593099467",
+            "m_3.7.3_315753dev": "m_3.7.3_315753dev-1593121069",
+            "m_3.7.3_315765dev": "m_3.7.3_315765dev-1593124673",
+            "m_3.7.3_315925dev": "m_3.7.3_315925dev-1593184349",
+            "m_3.7.3_315960dev": "m_3.7.3_315960dev-1593189468",
+            "m_3.7.3_316027dev": "m_3.7.3_316027dev-1593196675",
+            "m_3.7.3_316058dev": "m_3.7.3_316058dev-1593200274",
+            "m_3.7.3_316121dev": "m_3.7.3_316121dev-1593203869",
+            "m_3.7.3_316144dev": "m_3.7.3_316144dev-1593207469",
+            "m_3.7.3_316159dev": "m_3.7.3_316159dev-1593211075",
+            "mcharron_3.4.0_0dev": "mcharron_3.4.0_0dev-1575325513",
+            "mcharron_3.6.0_0dev": "mcharron_3.6.0_0dev-1582911097",
+            "ofilippelli_3.4.0_0dev": "ofilippelli_3.4.0_0dev-1576612449",
+            "rli_3.3.0_0dev": "rli_3.3.0_0dev-1572278191",
+            "rli_3.4.0_0dev": "rli_3.4.0_0dev-1575566239",
+            "rli_3.5.0_0dev": "rli_3.5.0_0dev-1578324074",
+            "sjiang_3.4.0_0dev": "sjiang_3.4.0_0dev-1576172826",
+            "tleonard_3.5.0_0dev": "tleonard_3.5.0_0dev-1579625694"
+        },
+        "keyName": "VER_CLIENT_DATA"
+    },
+    {
+        "value": {
+            "PS4": false,
+            "GRDK": false,
+            "Switch": false,
+            "DMM": false,
+            "Steam": false,
+            "Xbox": false,
+            "IOS": false,
+            "Mobile": false,
+            "Android": false
+        },
+        "keyName": "SOCIAL_CROSSFRIENDS_PLATFORMS"
+    },
+    {
+        "value": "5",
+        "keyName": "FRAME_HIKE_THRESHOLD"
+    },
+    {
+        "value": "30",
+        "keyName": "RICH_PRESENCE_PLAYER_TIMER_RATE"
+    },
+    {
+        "value": "true",
+        "keyName": "MATCHMAKING_USE_QUEUE_API"
+    },
+    {
+        "value": "https://kibana-logs.live.dbd.bhvronline.com/app/kibana#/dashboard/f9722400-391e-11e9-b6e1-a7681f9f0f51?_a=%28query:%28query_string:%28analyze_wildcard:!t,query:'\"queueName\"'%29%29%29",
+        "keyName": "MATCHMAKING_QUEUE_DASHBOARD_URL"
+    },
+    {
+        "value": "wg5AL9shgIrmvj4abQfWnXHD25r8DZbS",
+        "keyName": "DELTA_DNA_HASH_KEY"
+    },
+    {
+        "value": "5000",
+        "keyName": "DELTADNA_ENGAGE_TIMEOUT"
+    },
+    {
+        "value": "False",
+        "keyName": "APPSFLYER_CUSTOMER_ID_ENABLED"
+    },
+    {
+        "value": "https://wstore-dev1.bhvrdbd.com/restservice.svc",
+        "keyName": "MS_ENDPOINT_GRDK"
+    },
+    {
+        "value": "60",
+        "keyName": "SOCIAL_BACKEND_FRIEND_SYNC_RATE"
+    },
+    {
+        "value": "https://console.aws.amazon.com/gamelift/home?region=us-east-1#/r/game-session-queues/[[gameliftQueueName]]",
+        "keyName": "MATCHMAKING_GAMELIFT_DASHBOARD_URL"
+    },
+    {
+        "value": "{\"0\":\"Harassment\",\"1\":\"Griefing\",\"2\":\"Exploits\",\"3\":\"Unsportsmanlike\"}",
+        "keyName": "BAN_REASON_ENUM"
+    },
+    {
+        "value": {
+            "delayBetweenPenalties": "60",
+            "banActive": false,
+            "reasons": [
+                "leave_game",
+                "leave_loading",
+                "leave_lobby"
+            ],
+            "penalty": {
+                "1": 5,
+                "2": 5,
+                "3": 15,
+                "4": 15,
+                "5": 30,
+                "6": 30,
+                "7": 60,
+                "8": 360,
+                "9": 1440,
+                "10": 2880,
+                "11": 4320
+            },
+            "decayRate": 2880,
+            "decayMatch": 2,
+            "allowedProviders": [
+                "dmm",
+                "grdk",
+                "live",
+                "nintendo",
+                "ps4",
+                "psn",
+                "steam",
+                "switch",
+                "xbox"
+            ]
+        },
+        "keyName": "DBD_DISCONNECTION_PENALTY_POINTS"
+    },
+    {
+        "value": "0.4",
+        "keyName": "MATCHMAKING_INCENTIVE_ACCEPTABLE_SURVIVOR_RATIO"
+    }
+]

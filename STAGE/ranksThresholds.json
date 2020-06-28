@@ -1,0 +1,150 @@
+{
+    "globalData": {
+        "baseTrialPips": -1,
+        "maxPips": 85,
+        "noPipLossRankThreshold": 17,
+        "noRankLossThreshold": 16
+    },
+    "rankGroupDefinition": {
+        "killerRankGroup": [
+            {
+                "emblemThreshold": [
+                    9,
+                    13,
+                    16,
+                    999
+                ],
+                "rankThreshold": 4
+            },
+            {
+                "emblemThreshold": [
+                    8,
+                    12,
+                    15,
+                    999
+                ],
+                "rankThreshold": 8
+            },
+            {
+                "emblemThreshold": [
+                    7,
+                    11,
+                    15,
+                    999
+                ],
+                "rankThreshold": 12
+            },
+            {
+                "emblemThreshold": [
+                    6,
+                    10,
+                    14,
+                    999
+                ],
+                "rankThreshold": 16
+            },
+            {
+                "emblemThreshold": [
+                    0,
+                    9,
+                    14,
+                    999
+                ],
+                "rankThreshold": 20
+            }
+        ],
+        "survivorRankGroup": [
+            {
+                "emblemThreshold": [
+                    9,
+                    12,
+                    15,
+                    999
+                ],
+                "rankThreshold": 4
+            },
+            {
+                "emblemThreshold": [
+                    8,
+                    11,
+                    14,
+                    999
+                ],
+                "rankThreshold": 8
+            },
+            {
+                "emblemThreshold": [
+                    7,
+                    10,
+                    14,
+                    999
+                ],
+                "rankThreshold": 12
+            },
+            {
+                "emblemThreshold": [
+                    6,
+                    10,
+                    14,
+                    999
+                ],
+                "rankThreshold": 16
+            },
+            {
+                "emblemThreshold": [
+                    0,
+                    9,
+                    14,
+                    999
+                ],
+                "rankThreshold": 20
+            }
+        ]
+    },
+    "rankThreshold": {
+        "pipsRequired": [
+            85,
+            80,
+            75,
+            70,
+            65,
+            60,
+            55,
+            50,
+            45,
+            40,
+            35,
+            30,
+            26,
+            22,
+            18,
+            14,
+            10,
+            6,
+            3,
+            0
+        ],
+        "resetStartingPips": [
+            65,
+            65,
+            65,
+            65,
+            45,
+            45,
+            45,
+            45,
+            26,
+            26,
+            26,
+            26,
+            10,
+            10,
+            10,
+            10,
+            0,
+            0,
+            0,
+            0
+        ]
+    }
+}

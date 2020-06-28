@@ -1,0 +1,134 @@
+{
+    "schedule": [
+        {
+            "description": "Default Schedule",
+            "maps_theme_weight": {
+                "Asylum": "1",
+                "Boreal": "1",
+                "England": "1",
+                "Farm": "1",
+                "Finland": "1",
+                "GYM": "0",
+                "Haiti": "1",
+                "Hawkins": "1",
+                "Hospital": "1",
+                "Industrial": "1",
+                "Junkyard": "1",
+                "Suburbs": "1",
+                "Swamp": "1",
+                "Ukraine": "1",
+                "Wales": "1"
+            },
+            "maps_weight": {
+                "Asy_Asylum": "10",
+                "Asy_Chapel": "10",
+                "Brl_MaHouse": "10",
+                "Brl_Temple": "10",
+                "Eng_Street_01": "3",
+                "Eng_Street_02": "3",
+                "Eng_Street_03": "3",
+                "Eng_Street_04": "3",
+                "Eng_Street_05": "3",
+                "Fin_Hideout": "10",
+                "Frm_Barn": "10",
+                "Frm_Cornfield": "10",
+                "Frm_Farmhouse": "10",
+                "Frm_Silo": "10",
+                "Frm_Slaughterhouse": "10",
+                "Hos_Treatment": "10",
+                "Hti_Manor": "10",
+                "Hti_Shrine": "10",
+                "Ind_CoalTower": "10",
+                "Ind_Forest": "10",
+                "Ind_Foundry": "10",
+                "Ind_Mine": "10",
+                "Ind_Storehouse": "10",
+                "Jnk_Garage": "10",
+                "Jnk_GasStation": "10",
+                "Jnk_Lodge": "10",
+                "Jnk_Office": "10",
+                "Jnk_Scrapyard": "10",
+                "Kny_Cottage": "10",
+                "Qat_Lab": "10",
+                "Sub_Street": "10",
+                "Swp_GrimPantry": "10",
+                "Swp_PaleRose": "10",
+                "Ukr_Saloon": "10",
+                "Wal_Level_01": "10"
+            },
+            "priority": "0"
+        },
+        {
+            "description": "Wales PTB",
+            "end_date": "2020-05-27T14:59:59",
+            "maps_weight": {
+                "Wal_Level_01": "130"
+            },
+            "priority": "101",
+            "start_date": "2020-05-26T15:00:00"
+        },
+        {
+            "description": "Wales PTB",
+            "end_date": "2020-05-28T14:59:59",
+            "maps_weight": {
+                "Wal_Level_01": "100"
+            },
+            "priority": "102",
+            "start_date": "2020-05-27T15:00:00"
+        },
+        {
+            "description": "Wales PTB",
+            "end_date": "2020-06-05T14:59:59",
+            "maps_weight": {
+                "Wal_Level_01": "75"
+            },
+            "priority": "103",
+            "start_date": "2020-05-28T15:00:00"
+        },
+        {
+            "description": "Wales LIVE RELEASE",
+            "end_date": "2020-06-17T14:59:59",
+            "maps_weight": {
+                "Wal_Level_01": "130"
+            },
+            "priority": "104",
+            "start_date": "2020-06-16T15:00:00"
+        },
+        {
+            "description": "Wales LIVE RELEASE",
+            "end_date": "2020-06-18T14:59:59",
+            "maps_weight": {
+                "Wal_Level_01": "100"
+            },
+            "priority": "105",
+            "start_date": "2020-06-17T15:00:00"
+        },
+        {
+            "description": "Wales LIVE RELEASE",
+            "end_date": "2020-06-19T14:59:59",
+            "maps_weight": {
+                "Wal_Level_01": "75"
+            },
+            "priority": "106",
+            "start_date": "2020-06-18T15:00:00"
+        },
+        {
+            "description": "Wales LIVE RELEASE",
+            "end_date": "2020-06-22T14:59:59",
+            "maps_weight": {
+                "Wal_Level_01": "60"
+            },
+            "priority": "107",
+            "start_date": "2020-06-19T15:00:00"
+        },
+        {
+            "description": "Wales LIVE RELEASE",
+            "end_date": "2020-06-23T14:59:59",
+            "maps_weight": {
+                "Wal_Level_01": "40"
+            },
+            "priority": "108",
+            "start_date": "2020-06-22T15:00:00"
+        }
+    ]
+}

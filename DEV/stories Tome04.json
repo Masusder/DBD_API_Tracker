@@ -1,0 +1,39 @@
+{
+    "listOfNodes": [
+        {
+            "nodeTreeCoordinate": {
+                "storyId": "Tome04",
+                "level": 0,
+                "nodeId": "node_T4L1_04"
+            },
+            "status": "open"
+        },
+        {
+            "nodeTreeCoordinate": {
+                "storyId": "Tome04",
+                "level": 0,
+                "nodeId": "node_T4L1_09"
+            },
+            "status": "open"
+        },
+        {
+            "nodeTreeCoordinate": {
+                "storyId": "Tome04",
+                "level": 0,
+                "nodeId": "node_T4L1_Start01"
+            },
+            "status": "completed"
+        },
+        {
+            "nodeTreeCoordinate": {
+                "storyId": "Tome04",
+                "level": 0,
+                "nodeId": "node_T4L1_Start02"
+            },
+            "status": "completed"
+        }
+    ],
+    "highestLevelIsNewContent": true,
+    "activeNodes": [],
+    "hasUnreadJournal": false
+}
