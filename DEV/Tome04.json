@@ -43,6 +43,7 @@
                                 "conditions": [],
                                 "incrementWithEventRepetitions": true,
                                 "neededProgression": 12,
+                                "objectiveId": "EarnEmblemsSilver",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -83,6 +84,7 @@
                                 "conditions": [],
                                 "incrementWithEventRepetitions": true,
                                 "neededProgression": 50000,
+                                "objectiveId": "EarnBloodpoints",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -128,6 +130,7 @@
                                 ],
                                 "incrementWithEventRepetitions": true,
                                 "neededProgression": 400,
+                                "objectiveId": "RepairPerc",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -176,6 +179,7 @@
                                 ],
                                 "incrementWithEventRepetitions": true,
                                 "neededProgression": 60,
+                                "objectiveId": "ChasedByKiller",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -223,6 +227,7 @@
                                 ],
                                 "incrementWithEventRepetitions": true,
                                 "neededProgression": 2,
+                                "objectiveId": "ConsumeMedkit",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -269,6 +274,7 @@
                                 ],
                                 "incrementWithEventRepetitions": true,
                                 "neededProgression": 6,
+                                "objectiveId": "SearchFinish",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -317,6 +323,7 @@
                                 ],
                                 "incrementWithEventRepetitions": true,
                                 "neededProgression": 3,
+                                "objectiveId": "EscapeOther",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -365,6 +372,7 @@
                                 ],
                                 "incrementWithEventRepetitions": true,
                                 "neededProgression": 4,
+                                "objectiveId": "PalletDropInChase",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -412,6 +420,7 @@
                                 ],
                                 "incrementWithEventRepetitions": true,
                                 "neededProgression": 15,
+                                "objectiveId": "BreakPalletsGens",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -460,6 +469,7 @@
                                 ],
                                 "incrementWithEventRepetitions": true,
                                 "neededProgression": 20,
+                                "objectiveId": "Hook",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -509,6 +519,7 @@
                                 ],
                                 "incrementWithEventRepetitions": true,
                                 "neededProgression": 180,
+                                "objectiveId": "Chase",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -566,10 +577,11 @@
                                 ],
                                 "incrementWithEventRepetitions": false,
                                 "neededProgression": 1,
+                                "objectiveId": "HideInLockerInOrAfterChaseWithPerkInTrial",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
-                                        "parameters": "instigator:me",
+                                        "parameters": "instigator:me;TimeLimit:10",
                                         "questEventId": "QuestEvent.HideInLockerInOrAfterChase",
                                         "repetition": 1
                                     }
@@ -621,6 +633,7 @@
                                 ],
                                 "incrementWithEventRepetitions": false,
                                 "neededProgression": 1,
+                                "objectiveId": "EscapeWithItemNoChargesWithPerkInTrial",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -676,6 +689,7 @@
                                 ],
                                 "incrementWithEventRepetitions": false,
                                 "neededProgression": 1,
+                                "objectiveId": "SearchFinishAsCharacterInTrial",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -726,6 +740,7 @@
                                 ],
                                 "incrementWithEventRepetitions": false,
                                 "neededProgression": 1,
+                                "objectiveId": "BlindBurnInTrial",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -776,12 +791,13 @@
                                 ],
                                 "incrementWithEventRepetitions": false,
                                 "neededProgression": 1,
+                                "objectiveId": "HookDifferentInTrial",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
                                         "parameters": "instigator:me",
                                         "questEventId": "QuestEvent.HookDifferent",
-                                        "repetition": 4
+                                        "repetition": 3
                                     }
                                 ]
                             }
@@ -825,12 +841,13 @@
                                 ],
                                 "incrementWithEventRepetitions": false,
                                 "neededProgression": 1,
+                                "objectiveId": "DownSuccessively60InTrial",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
                                         "parameters": "Time:60",
                                         "questEventId": "QuestEvent.DownSuccessively",
-                                        "repetition": 2
+                                        "repetition": 1
                                     }
                                 ]
                             }
@@ -880,6 +897,7 @@
                                 ],
                                 "incrementWithEventRepetitions": false,
                                 "neededProgression": 1,
+                                "objectiveId": "HitWithPerkInTrial",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -935,6 +953,7 @@
                                 ],
                                 "incrementWithEventRepetitions": false,
                                 "neededProgression": 1,
+                                "objectiveId": "HagTeleportInTrial",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -959,7 +978,7 @@
                         ]
                     },
                     "node_T4L1_20": {
-                        "clientInfoId": "RepairFinishPreventWithRuinInTrial",
+                        "clientInfoId": "GeneratorsNeededAtEndTrialWithHexRuinInTrial",
                         "coordinates": {
                             "x": 1265,
                             "y": 605
@@ -973,7 +992,7 @@
                         ],
                         "nodeType": "quest:challenge",
                         "objectives": {
-                            "RepairFinishPreventWithPerkInTrial": {
+                            "GeneratorsNeededAtEndTrialWithPerkInTrial": {
                                 "conditions": [
                                     {
                                         "key": "role",
@@ -990,12 +1009,12 @@
                                 ],
                                 "incrementWithEventRepetitions": false,
                                 "neededProgression": 1,
+                                "objectiveId": "GeneratorsNeededAtEndTrialWithPerkInTrial",
                                 "questEvent": [
                                     {
-                                        "operation": "<",
-                                        "parameters": "instigator:other",
-                                        "questEventId": "QuestEvent.RepairFinish",
-                                        "repetition": 5
+                                        "operation": ">=",
+                                        "questEventId": "QuestEvent.GeneratorsNeededAtEndTrial",
+                                        "repetition": 1
                                     }
                                 ]
                             }
@@ -1070,7 +1089,8 @@
                     }
                 ],
                 "end": [
-                    "node_T4L2_End01"
+                    "node_T4L2_End01",
+                    "node_T4L2_End02"
                 ],
                 "endNodeRewards": [
                     {
@@ -1093,7 +1113,7 @@
                         },
                         "neighbors": [
                             "node_T4L2_15",
-                            "node_T4L2_Start02",
+                            "node_T4L2_End02",
                             "node_T4L2_13"
                         ],
                         "nodeType": "quest:task",
@@ -1108,7 +1128,8 @@
                                     }
                                 ],
                                 "incrementWithEventRepetitions": true,
-                                "neededProgression": 4,
+                                "neededProgression": 5,
+                                "objectiveId": "ConsumeToolbox",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -1121,7 +1142,12 @@
                         },
                         "reward": [
                             {
-                                "amount": 15000,
+                                "amount": 3,
+                                "id": "star",
+                                "type": "progressionDbD"
+                            },
+                            {
+                                "amount": 25000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
                             }
@@ -1150,6 +1176,7 @@
                                 ],
                                 "incrementWithEventRepetitions": true,
                                 "neededProgression": 16,
+                                "objectiveId": "RepairFinishTeam",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -1161,7 +1188,12 @@
                         },
                         "reward": [
                             {
-                                "amount": 15000,
+                                "amount": 3,
+                                "id": "star",
+                                "type": "progressionDbD"
+                            },
+                            {
+                                "amount": 25000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
                             }
@@ -1190,9 +1222,11 @@
                                 ],
                                 "incrementWithEventRepetitions": true,
                                 "neededProgression": 8,
+                                "objectiveId": "EarnEmblemsSurvivorGold",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
+                                        "parameters": "EmblemQuality:Gold",
                                         "questEventId": "QuestEvent.EarnEmblemsQuality",
                                         "repetition": 1
                                     }
@@ -1201,7 +1235,12 @@
                         },
                         "reward": [
                             {
-                                "amount": 15000,
+                                "amount": 3,
+                                "id": "star",
+                                "type": "progressionDbD"
+                            },
+                            {
+                                "amount": 25000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
                             }
@@ -1231,6 +1270,7 @@
                                 ],
                                 "incrementWithEventRepetitions": true,
                                 "neededProgression": 10,
+                                "objectiveId": "SabotageFinish",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -1243,7 +1283,12 @@
                         },
                         "reward": [
                             {
-                                "amount": 15000,
+                                "amount": 3,
+                                "id": "star",
+                                "type": "progressionDbD"
+                            },
+                            {
+                                "amount": 25000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
                             }
@@ -1273,6 +1318,7 @@
                                 ],
                                 "incrementWithEventRepetitions": true,
                                 "neededProgression": 15,
+                                "objectiveId": "UnhookProtectionHit",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -1285,7 +1331,12 @@
                         },
                         "reward": [
                             {
-                                "amount": 15000,
+                                "amount": 3,
+                                "id": "star",
+                                "type": "progressionDbD"
+                            },
+                            {
+                                "amount": 25000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
                             }
@@ -1316,6 +1367,7 @@
                                 ],
                                 "incrementWithEventRepetitions": true,
                                 "neededProgression": 180,
+                                "objectiveId": "CoopAction",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -1328,7 +1380,12 @@
                         },
                         "reward": [
                             {
-                                "amount": 15000,
+                                "amount": 3,
+                                "id": "star",
+                                "type": "progressionDbD"
+                            },
+                            {
+                                "amount": 25000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
                             }
@@ -1357,6 +1414,7 @@
                                 ],
                                 "incrementWithEventRepetitions": true,
                                 "neededProgression": 5,
+                                "objectiveId": "EscapeChase",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -1369,7 +1427,12 @@
                         },
                         "reward": [
                             {
-                                "amount": 15000,
+                                "amount": 3,
+                                "id": "star",
+                                "type": "progressionDbD"
+                            },
+                            {
+                                "amount": 25000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
                             }
@@ -1399,6 +1462,7 @@
                                 ],
                                 "incrementWithEventRepetitions": true,
                                 "neededProgression": 5,
+                                "objectiveId": "HitExposed",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -1411,7 +1475,12 @@
                         },
                         "reward": [
                             {
-                                "amount": 15000,
+                                "amount": 3,
+                                "id": "star",
+                                "type": "progressionDbD"
+                            },
+                            {
+                                "amount": 25000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
                             }
@@ -1441,9 +1510,11 @@
                                 ],
                                 "incrementWithEventRepetitions": true,
                                 "neededProgression": 8,
+                                "objectiveId": "EarnEmblemsKillerGold",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
+                                        "parameters": "EmblemQuality:Gold",
                                         "questEventId": "QuestEvent.EarnEmblemsQuality",
                                         "repetition": 1
                                     }
@@ -1452,7 +1523,12 @@
                         },
                         "reward": [
                             {
-                                "amount": 15000,
+                                "amount": 3,
+                                "id": "star",
+                                "type": "progressionDbD"
+                            },
+                            {
+                                "amount": 25000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
                             }
@@ -1482,6 +1558,7 @@
                                 ],
                                 "incrementWithEventRepetitions": true,
                                 "neededProgression": 10,
+                                "objectiveId": "Kill",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -1493,7 +1570,12 @@
                         },
                         "reward": [
                             {
-                                "amount": 15000,
+                                "amount": 3,
+                                "id": "star",
+                                "type": "progressionDbD"
+                            },
+                            {
+                                "amount": 25000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
                             }
@@ -1522,6 +1604,7 @@
                                 ],
                                 "incrementWithEventRepetitions": true,
                                 "neededProgression": 4,
+                                "objectiveId": "HookBasement",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -1534,7 +1617,12 @@
                         },
                         "reward": [
                             {
-                                "amount": 15000,
+                                "amount": 3,
+                                "id": "star",
+                                "type": "progressionDbD"
+                            },
+                            {
+                                "amount": 25000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
                             }
@@ -1562,6 +1650,7 @@
                                 "conditions": [],
                                 "incrementWithEventRepetitions": false,
                                 "neededProgression": 1,
+                                "objectiveId": "EarnEmblemsGoldInTrial",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -1574,7 +1663,12 @@
                         },
                         "reward": [
                             {
-                                "amount": 15000,
+                                "amount": 5,
+                                "id": "star",
+                                "type": "progressionDbD"
+                            },
+                            {
+                                "amount": 25000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
                             }
@@ -1607,19 +1701,25 @@
                                 ],
                                 "incrementWithEventRepetitions": false,
                                 "neededProgression": 1,
+                                "objectiveId": "EscapeWithItemVeryRareInTrial",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
                                         "parameters": "instigator:me;ItemRarity:VeryRare",
                                         "questEventId": "QuestEvent.EscapeWithItemRarity",
-                                        "repetition": 3
+                                        "repetition": 1
                                     }
                                 ]
                             }
                         },
                         "reward": [
                             {
-                                "amount": 25000,
+                                "amount": 5,
+                                "id": "star",
+                                "type": "progressionDbD"
+                            },
+                            {
+                                "amount": 35000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
                             }
@@ -1651,12 +1751,13 @@
                                     {
                                         "key": "perk",
                                         "value": [
-                                            "Up_The_Ante"
+                                            "Ace_In_The_Hole"
                                         ]
                                     }
                                 ],
                                 "incrementWithEventRepetitions": false,
                                 "neededProgression": 1,
+                                "objectiveId": "SearchFinishWithPerkInTrial",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -1669,7 +1770,12 @@
                         },
                         "reward": [
                             {
-                                "amount": 25000,
+                                "amount": 5,
+                                "id": "star",
+                                "type": "progressionDbD"
+                            },
+                            {
+                                "amount": 35000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
                             }
@@ -1707,6 +1813,7 @@
                                 ],
                                 "incrementWithEventRepetitions": false,
                                 "neededProgression": 1,
+                                "objectiveId": "RepairFinishUnhookCleanseAsCharacterInTrial",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -1731,7 +1838,12 @@
                         },
                         "reward": [
                             {
-                                "amount": 25000,
+                                "amount": 5,
+                                "id": "star",
+                                "type": "progressionDbD"
+                            },
+                            {
+                                "amount": 35000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
                             }
@@ -1769,6 +1881,7 @@
                                 ],
                                 "incrementWithEventRepetitions": false,
                                 "neededProgression": 1,
+                                "objectiveId": "VaultInChaseAsCharacterInTrial",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -1781,7 +1894,12 @@
                         },
                         "reward": [
                             {
-                                "amount": 25000,
+                                "amount": 5,
+                                "id": "star",
+                                "type": "progressionDbD"
+                            },
+                            {
+                                "amount": 35000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
                             }
@@ -1819,6 +1937,7 @@
                                 ],
                                 "incrementWithEventRepetitions": false,
                                 "neededProgression": 1,
+                                "objectiveId": "EscapeChaseWithPerkInTrial",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -1831,7 +1950,12 @@
                         },
                         "reward": [
                             {
-                                "amount": 25000,
+                                "amount": 5,
+                                "id": "star",
+                                "type": "progressionDbD"
+                            },
+                            {
+                                "amount": 35000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
                             }
@@ -1868,6 +1992,7 @@
                                 ],
                                 "incrementWithEventRepetitions": false,
                                 "neededProgression": 1,
+                                "objectiveId": "ChaseStartDifferentWithPerkInTrial",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -1880,7 +2005,12 @@
                         },
                         "reward": [
                             {
-                                "amount": 25000,
+                                "amount": 5,
+                                "id": "star",
+                                "type": "progressionDbD"
+                            },
+                            {
+                                "amount": 35000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
                             }
@@ -1918,6 +2048,7 @@
                                 ],
                                 "incrementWithEventRepetitions": false,
                                 "neededProgression": 1,
+                                "objectiveId": "WraithBellNearSurvivorDifferent",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -1930,7 +2061,12 @@
                         },
                         "reward": [
                             {
-                                "amount": 25000,
+                                "amount": 5,
+                                "id": "star",
+                                "type": "progressionDbD"
+                            },
+                            {
+                                "amount": 35000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
                             }
@@ -1963,6 +2099,7 @@
                                 ],
                                 "incrementWithEventRepetitions": false,
                                 "neededProgression": 1,
+                                "objectiveId": "HookDifferentInTrial",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -1975,7 +2112,12 @@
                         },
                         "reward": [
                             {
-                                "amount": 25000,
+                                "amount": 5,
+                                "id": "star",
+                                "type": "progressionDbD"
+                            },
+                            {
+                                "amount": 35000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
                             }
@@ -1992,6 +2134,17 @@
                         ],
                         "nodeType": "narrative"
                     },
+                    "node_T4L2_End02": {
+                        "clientInfoId": "End",
+                        "coordinates": {
+                            "x": 1355,
+                            "y": 155
+                        },
+                        "neighbors": [
+                            "node_T4L2_01"
+                        ],
+                        "nodeType": "narrative"
+                    },
                     "node_T4L2_Start01": {
                         "clientInfoId": "Start",
                         "coordinates": {
@@ -2001,17 +2154,6 @@
                         "neighbors": [
                             "node_T4L2_03",
                             "node_T4L2_09"
-                        ],
-                        "nodeType": "narrative"
-                    },
-                    "node_T4L2_Start02": {
-                        "clientInfoId": "Start",
-                        "coordinates": {
-                            "x": 1355,
-                            "y": 155
-                        },
-                        "neighbors": [
-                            "node_T4L2_01"
                         ],
                         "nodeType": "narrative"
                     }
@@ -2058,13 +2200,19 @@
                             "x": 455,
                             "y": 455
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T4L3_14",
+                            "node_T4L3_11",
+                            "node_T4L3_09",
+                            "node_T4L3_19"
+                        ],
                         "nodeType": "quest:task",
                         "objectives": {
                             "EarnBloodpoints": {
                                 "conditions": [],
                                 "incrementWithEventRepetitions": true,
                                 "neededProgression": 100000,
+                                "objectiveId": "EarnBloodpoints",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -2081,7 +2229,7 @@
                                 "type": "progressionDbD"
                             },
                             {
-                                "amount": 15000,
+                                "amount": 30000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
                             }
@@ -2090,10 +2238,13 @@
                     "node_T4L3_02": {
                         "clientInfoId": "EscapeOther",
                         "coordinates": {
-                            "x": 815,
+                            "x": 1265,
                             "y": 155
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T4L3_04",
+                            "node_T4L3_End01"
+                        ],
                         "nodeType": "quest:task",
                         "objectives": {
                             "EscapeOther": {
@@ -2107,6 +2258,7 @@
                                 ],
                                 "incrementWithEventRepetitions": true,
                                 "neededProgression": 6,
+                                "objectiveId": "EscapeOther",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -2124,7 +2276,7 @@
                                 "type": "progressionDbD"
                             },
                             {
-                                "amount": 15000,
+                                "amount": 30000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
                             }
@@ -2136,7 +2288,11 @@
                             "x": 545,
                             "y": 5
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T4L3_05",
+                            "node_T4L3_17",
+                            "node_T4L3_06"
+                        ],
                         "nodeType": "quest:task",
                         "objectives": {
                             "Unhook": {
@@ -2150,6 +2306,7 @@
                                 ],
                                 "incrementWithEventRepetitions": true,
                                 "neededProgression": 12,
+                                "objectiveId": "Unhook",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -2167,7 +2324,7 @@
                                 "type": "progressionDbD"
                             },
                             {
-                                "amount": 15000,
+                                "amount": 30000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
                             }
@@ -2176,10 +2333,13 @@
                     "node_T4L3_04": {
                         "clientInfoId": "BlindBurn",
                         "coordinates": {
-                            "x": 185,
-                            "y": 5
+                            "x": 905,
+                            "y": 155
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T4L3_02",
+                            "node_T4L3_06"
+                        ],
                         "nodeType": "quest:task",
                         "objectives": {
                             "BlindBurn": {
@@ -2193,6 +2353,7 @@
                                 ],
                                 "incrementWithEventRepetitions": true,
                                 "neededProgression": 5,
+                                "objectiveId": "BlindBurn",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -2210,7 +2371,7 @@
                                 "type": "progressionDbD"
                             },
                             {
-                                "amount": 15000,
+                                "amount": 30000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
                             }
@@ -2219,10 +2380,13 @@
                     "node_T4L3_05": {
                         "clientInfoId": "HealOther",
                         "coordinates": {
-                            "x": 365,
-                            "y": 5
+                            "x": 545,
+                            "y": 155
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T4L3_03",
+                            "node_T4L3_08"
+                        ],
                         "nodeType": "quest:task",
                         "objectives": {
                             "HealOtherPerc": {
@@ -2236,11 +2400,12 @@
                                 ],
                                 "incrementWithEventRepetitions": true,
                                 "neededProgression": 1000,
+                                "objectiveId": "HealOtherPerc",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
-                                        "parameters": "instigator:me",
-                                        "questEventId": "QuestEvent.HealOther",
+                                        "parameters": "instigator:me;target:other",
+                                        "questEventId": "QuestEvent.Heal",
                                         "repetition": 1
                                     }
                                 ]
@@ -2253,7 +2418,7 @@
                                 "type": "progressionDbD"
                             },
                             {
-                                "amount": 15000,
+                                "amount": 30000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
                             }
@@ -2262,10 +2427,14 @@
                     "node_T4L3_06": {
                         "clientInfoId": "SkillCheckGreatSuccess",
                         "coordinates": {
-                            "x": 905,
+                            "x": 815,
                             "y": 5
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T4L3_04",
+                            "node_T4L3_03",
+                            "node_T4L3_16"
+                        ],
                         "nodeType": "quest:task",
                         "objectives": {
                             "SkillCheckGreatSuccess": {
@@ -2279,6 +2448,7 @@
                                 ],
                                 "incrementWithEventRepetitions": true,
                                 "neededProgression": 10,
+                                "objectiveId": "SkillCheckGreatSuccess",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -2296,7 +2466,7 @@
                                 "type": "progressionDbD"
                             },
                             {
-                                "amount": 15000,
+                                "amount": 30000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
                             }
@@ -2305,10 +2475,13 @@
                     "node_T4L3_07": {
                         "clientInfoId": "FallInChase",
                         "coordinates": {
-                            "x": 455,
-                            "y": 455
+                            "x": 275,
+                            "y": 305
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T4L3_14",
+                            "node_T4L3_08"
+                        ],
                         "nodeType": "quest:task",
                         "objectives": {
                             "FallInChase": {
@@ -2322,6 +2495,7 @@
                                 ],
                                 "incrementWithEventRepetitions": true,
                                 "neededProgression": 3,
+                                "objectiveId": "FallInChase",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -2339,7 +2513,7 @@
                                 "type": "progressionDbD"
                             },
                             {
-                                "amount": 15000,
+                                "amount": 30000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
                             }
@@ -2348,10 +2522,14 @@
                     "node_T4L3_08": {
                         "clientInfoId": "Repair",
                         "coordinates": {
-                            "x": 455,
+                            "x": 185,
                             "y": 155
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T4L3_05",
+                            "node_T4L3_Start01",
+                            "node_T4L3_07"
+                        ],
                         "nodeType": "quest:task",
                         "objectives": {
                             "RepairPerc": {
@@ -2365,6 +2543,7 @@
                                 ],
                                 "incrementWithEventRepetitions": true,
                                 "neededProgression": 1200,
+                                "objectiveId": "RepairPerc",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -2382,7 +2561,7 @@
                                 "type": "progressionDbD"
                             },
                             {
-                                "amount": 15000,
+                                "amount": 30000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
                             }
@@ -2391,10 +2570,13 @@
                     "node_T4L3_09": {
                         "clientInfoId": "BreakGens",
                         "coordinates": {
-                            "x": 995,
-                            "y": 155
+                            "x": 185,
+                            "y": 455
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T4L3_Start02",
+                            "node_T4L3_01"
+                        ],
                         "nodeType": "quest:task",
                         "objectives": {
                             "BreakGens": {
@@ -2408,6 +2590,7 @@
                                 ],
                                 "incrementWithEventRepetitions": true,
                                 "neededProgression": 15,
+                                "objectiveId": "BreakGens",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -2425,7 +2608,7 @@
                                 "type": "progressionDbD"
                             },
                             {
-                                "amount": 15000,
+                                "amount": 30000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
                             }
@@ -2434,10 +2617,14 @@
                     "node_T4L3_10": {
                         "clientInfoId": "Scream",
                         "coordinates": {
-                            "x": 185,
-                            "y": 455
+                            "x": 995,
+                            "y": 305
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T4L3_20",
+                            "node_T4L3_12",
+                            "node_T4L3_13"
+                        ],
                         "nodeType": "quest:task",
                         "objectives": {
                             "Scream": {
@@ -2451,6 +2638,7 @@
                                 ],
                                 "incrementWithEventRepetitions": true,
                                 "neededProgression": 45,
+                                "objectiveId": "Scream",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -2467,7 +2655,7 @@
                                 "type": "progressionDbD"
                             },
                             {
-                                "amount": 15000,
+                                "amount": 30000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
                             }
@@ -2476,10 +2664,13 @@
                     "node_T4L3_11": {
                         "clientInfoId": "HookObsession",
                         "coordinates": {
-                            "x": 665,
-                            "y": 305
+                            "x": 725,
+                            "y": 455
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T4L3_12",
+                            "node_T4L3_01"
+                        ],
                         "nodeType": "quest:task",
                         "objectives": {
                             "HookObsession": {
@@ -2493,6 +2684,7 @@
                                 ],
                                 "incrementWithEventRepetitions": true,
                                 "neededProgression": 8,
+                                "objectiveId": "HookObsession",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -2510,7 +2702,7 @@
                                 "type": "progressionDbD"
                             },
                             {
-                                "amount": 15000,
+                                "amount": 30000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
                             }
@@ -2519,10 +2711,14 @@
                     "node_T4L3_12": {
                         "clientInfoId": "ChaseStartDifferent",
                         "coordinates": {
-                            "x": 455,
-                            "y": 605
+                            "x": 905,
+                            "y": 455
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T4L3_11",
+                            "node_T4L3_10",
+                            "node_T4L3_18"
+                        ],
                         "nodeType": "quest:task",
                         "objectives": {
                             "ChaseStartDifferent": {
@@ -2536,6 +2732,7 @@
                                 ],
                                 "incrementWithEventRepetitions": true,
                                 "neededProgression": 16,
+                                "objectiveId": "ChaseStartDifferent",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -2553,7 +2750,7 @@
                                 "type": "progressionDbD"
                             },
                             {
-                                "amount": 15000,
+                                "amount": 30000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
                             }
@@ -2562,19 +2759,23 @@
                     "node_T4L3_13": {
                         "clientInfoId": "EarnEmblemsIridescentIntrial",
                         "coordinates": {
-                            "x": 905,
+                            "x": 815,
                             "y": 305
                         },
                         "journal": [
                             "Tome04_Observer"
                         ],
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T4L3_15",
+                            "node_T4L3_10"
+                        ],
                         "nodeType": "quest:challenge",
                         "objectives": {
                             "EarnEmblemsIridescentInTrial": {
                                 "conditions": [],
                                 "incrementWithEventRepetitions": false,
                                 "neededProgression": 1,
+                                "objectiveId": "EarnEmblemsIridescentInTrial",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -2587,12 +2788,12 @@
                         },
                         "reward": [
                             {
-                                "amount": 3,
+                                "amount": 5,
                                 "id": "star",
                                 "type": "progressionDbD"
                             },
                             {
-                                "amount": 15000,
+                                "amount": 50000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
                             }
@@ -2601,13 +2802,17 @@
                     "node_T4L3_14": {
                         "clientInfoId": "EscapeChaseAsMegInTrial",
                         "coordinates": {
-                            "x": 1175,
-                            "y": 155
+                            "x": 455,
+                            "y": 305
                         },
                         "journal": [
                             "Tome04_Meg"
                         ],
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T4L3_15",
+                            "node_T4L3_01",
+                            "node_T4L3_07"
+                        ],
                         "nodeType": "quest:challenge",
                         "objectives": {
                             "EscapeChaseAsCharacterInTrial": {
@@ -2627,6 +2832,7 @@
                                 ],
                                 "incrementWithEventRepetitions": false,
                                 "neededProgression": 1,
+                                "objectiveId": "EscapeChaseAsCharacterInTrial",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -2644,7 +2850,7 @@
                                 "type": "progressionDbD"
                             },
                             {
-                                "amount": 25000,
+                                "amount": 50000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
                             }
@@ -2654,12 +2860,15 @@
                         "clientInfoId": "EscapeGateWithAdrenalineinTrial",
                         "coordinates": {
                             "x": 635,
-                            "y": 155
+                            "y": 305
                         },
                         "journal": [
                             "Tome04_Meg"
                         ],
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T4L3_14",
+                            "node_T4L3_13"
+                        ],
                         "nodeType": "quest:challenge",
                         "objectives": {
                             "EscapeGateWithPerkInTrial": {
@@ -2679,11 +2888,12 @@
                                 ],
                                 "incrementWithEventRepetitions": false,
                                 "neededProgression": 1,
+                                "objectiveId": "EscapeGateWithPerkInTrial",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
                                         "parameters": "instigator:me",
-                                        "questEventId": "QuestEvent.Escape",
+                                        "questEventId": "QuestEvent.EscapeGate",
                                         "repetition": 1
                                     }
                                 ]
@@ -2696,7 +2906,7 @@
                                 "type": "progressionDbD"
                             },
                             {
-                                "amount": 25000,
+                                "amount": 50000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
                             }
@@ -2705,13 +2915,15 @@
                     "node_T4L3_16": {
                         "clientInfoId": "EscapeObsessionInTrial",
                         "coordinates": {
-                            "x": 1175,
+                            "x": 1085,
                             "y": 5
                         },
                         "journal": [
                             "Tome04_Meg"
                         ],
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T4L3_06"
+                        ],
                         "nodeType": "quest:challenge",
                         "objectives": {
                             "EscapeObsessionInTrial": {
@@ -2725,6 +2937,7 @@
                                 ],
                                 "incrementWithEventRepetitions": false,
                                 "neededProgression": 1,
+                                "objectiveId": "EscapeObsessionInTrial",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -2742,7 +2955,7 @@
                                 "type": "progressionDbD"
                             },
                             {
-                                "amount": 25000,
+                                "amount": 50000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
                             }
@@ -2751,13 +2964,15 @@
                     "node_T4L3_17": {
                         "clientInfoId": "StunInTrial",
                         "coordinates": {
-                            "x": 275,
-                            "y": 155
+                            "x": 365,
+                            "y": 5
                         },
                         "journal": [
                             "Tome04_Meg"
                         ],
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T4L3_03"
+                        ],
                         "nodeType": "quest:challenge",
                         "objectives": {
                             "StunInTrial": {
@@ -2771,6 +2986,7 @@
                                 ],
                                 "incrementWithEventRepetitions": false,
                                 "neededProgression": 1,
+                                "objectiveId": "StunInTrial",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -2788,7 +3004,7 @@
                                 "type": "progressionDbD"
                             },
                             {
-                                "amount": 25000,
+                                "amount": 50000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
                             }
@@ -2797,13 +3013,16 @@
                     "node_T4L3_18": {
                         "clientInfoId": "WraithHitAfterUncloakInTrial",
                         "coordinates": {
-                            "x": 665,
+                            "x": 905,
                             "y": 605
                         },
                         "journal": [
                             "Tome04_Wraith"
                         ],
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T4L3_12",
+                            "node_T4L3_19"
+                        ],
                         "nodeType": "quest:challenge",
                         "objectives": {
                             "WraithHitAfterUncloakInTrial": {
@@ -2823,6 +3042,7 @@
                                 ],
                                 "incrementWithEventRepetitions": false,
                                 "neededProgression": 1,
+                                "objectiveId": "WraithHitAfterUncloakInTrial",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -2840,7 +3060,7 @@
                                 "type": "progressionDbD"
                             },
                             {
-                                "amount": 25000,
+                                "amount": 50000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
                             }
@@ -2849,13 +3069,16 @@
                     "node_T4L3_19": {
                         "clientInfoId": "ChaseWithBloodhoundInTrial",
                         "coordinates": {
-                            "x": 1175,
+                            "x": 545,
                             "y": 605
                         },
                         "journal": [
                             "Tome04_Wraith"
                         ],
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T4L3_18",
+                            "node_T4L3_01"
+                        ],
                         "nodeType": "quest:challenge",
                         "objectives": {
                             "ChaseWithPerkInTrial": {
@@ -2875,11 +3098,12 @@
                                 ],
                                 "incrementWithEventRepetitions": false,
                                 "neededProgression": 1,
+                                "objectiveId": "ChaseWithPerkInTrial",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
                                         "parameters": "instigator:me",
-                                        "questEventId": "QuestEvent.HookInTrial",
+                                        "questEventId": "QuestEvent.Chase",
                                         "repetition": 120
                                     }
                                 ]
@@ -2892,7 +3116,7 @@
                                 "type": "progressionDbD"
                             },
                             {
-                                "amount": 25000,
+                                "amount": 50000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
                             }
@@ -2901,13 +3125,16 @@
                     "node_T4L3_20": {
                         "clientInfoId": "LivingAtEndTrial",
                         "coordinates": {
-                            "x": 185,
-                            "y": 605
+                            "x": 1175,
+                            "y": 305
                         },
                         "journal": [
                             "Tome04_Wraith"
                         ],
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T4L3_10",
+                            "node_T4L3_End01"
+                        ],
                         "nodeType": "quest:challenge",
                         "objectives": {
                             "LivingAtEndTrial": {
@@ -2921,6 +3148,7 @@
                                 ],
                                 "incrementWithEventRepetitions": false,
                                 "neededProgression": 1,
+                                "objectiveId": "LivingAtEndTrial",
                                 "questEvent": [
                                     {
                                         "operation": "<=",
@@ -2937,7 +3165,7 @@
                                 "type": "progressionDbD"
                             },
                             {
-                                "amount": 25000,
+                                "amount": 50000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
                             }
@@ -2946,33 +3174,41 @@
                     "node_T4L3_End01": {
                         "clientInfoId": "End",
                         "coordinates": {
-                            "x": 1265,
+                            "x": 1355,
                             "y": 305
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T4L3_20",
+                            "node_T4L3_02"
+                        ],
                         "nodeType": "narrative"
                     },
                     "node_T4L3_Start01": {
                         "clientInfoId": "Start",
                         "coordinates": {
                             "x": 5,
-                            "y": 455
+                            "y": 155
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T4L3_08"
+                        ],
                         "nodeType": "narrative"
                     },
                     "node_T4L3_Start02": {
                         "clientInfoId": "Start",
                         "coordinates": {
                             "x": 5,
-                            "y": 605
+                            "y": 455
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T4L3_09"
+                        ],
                         "nodeType": "narrative"
                     }
                 },
                 "start": [
-                    "node_T4L3_Start01"
+                    "node_T4L3_Start01",
+                    "node_T4L3_Start02"
                 ],
                 "startDate": "2020-05-03T00:00:00",
                 "taskRewards": [
@@ -2992,7 +3228,8 @@
                     }
                 ],
                 "end": [
-                    "node_T4L4_End01"
+                    "node_T4L4_End01",
+                    "node_T4L4_End02"
                 ],
                 "endNodeRewards": [
                     {
@@ -3008,22 +3245,28 @@
                 ],
                 "nodes": {
                     "node_T4L4_01": {
-                        "clientInfoId": "EarnBloodpoints",
+                        "clientInfoId": "EarnEmblemsIridescent",
                         "coordinates": {
-                            "x": 455,
-                            "y": 455
+                            "x": 545,
+                            "y": 155
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T4L4_13",
+                            "node_T4L4_17",
+                            "node_T4L4_09"
+                        ],
                         "nodeType": "quest:task",
                         "objectives": {
-                            "EarnBloodpoints": {
+                            "EarnEmblemsIridescent": {
                                 "conditions": [],
                                 "incrementWithEventRepetitions": true,
-                                "neededProgression": 1,
+                                "neededProgression": 15,
+                                "objectiveId": "EarnEmblemsIridescent",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
-                                        "questEventId": "QuestEvent.EarnBloodpoints",
+                                        "parameters": "EmblemQuality:Iridescent",
+                                        "questEventId": "QuestEvent.EarnEmblemsQuality",
                                         "repetition": 1
                                     }
                                 ]
@@ -3036,22 +3279,25 @@
                                 "type": "progressionDbD"
                             },
                             {
-                                "amount": 15000,
+                                "amount": 45000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
                             }
                         ]
                     },
                     "node_T4L4_02": {
-                        "clientInfoId": "Escape",
+                        "clientInfoId": "Stun",
                         "coordinates": {
-                            "x": 815,
-                            "y": 155
+                            "x": 185,
+                            "y": 605
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T4L4_03",
+                            "node_T4L4_06"
+                        ],
                         "nodeType": "quest:task",
                         "objectives": {
-                            "Escape": {
+                            "Stun": {
                                 "conditions": [
                                     {
                                         "key": "role",
@@ -3061,12 +3307,13 @@
                                     }
                                 ],
                                 "incrementWithEventRepetitions": true,
-                                "neededProgression": 1,
+                                "neededProgression": 10,
+                                "objectiveId": "Stun",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
                                         "parameters": "instigator:me",
-                                        "questEventId": "QuestEvent.Escape",
+                                        "questEventId": "QuestEvent.Stun",
                                         "repetition": 1
                                     }
                                 ]
@@ -3079,22 +3326,26 @@
                                 "type": "progressionDbD"
                             },
                             {
-                                "amount": 15000,
+                                "amount": 45000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
                             }
                         ]
                     },
                     "node_T4L4_03": {
-                        "clientInfoId": "Escape",
+                        "clientInfoId": "UnhookWhoUnhooked",
                         "coordinates": {
-                            "x": 545,
-                            "y": 5
+                            "x": 95,
+                            "y": 455
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T4L4_02",
+                            "node_T4L4_16",
+                            "node_T4L4_Start01"
+                        ],
                         "nodeType": "quest:task",
                         "objectives": {
-                            "Escape": {
+                            "UnhookWhoUnhooked": {
                                 "conditions": [
                                     {
                                         "key": "role",
@@ -3104,12 +3355,13 @@
                                     }
                                 ],
                                 "incrementWithEventRepetitions": true,
-                                "neededProgression": 1,
+                                "neededProgression": 5,
+                                "objectiveId": "UnhookWhoUnhooked",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
                                         "parameters": "instigator:me",
-                                        "questEventId": "QuestEvent.Escape",
+                                        "questEventId": "QuestEvent.UnhookWhoUnhooked",
                                         "repetition": 1
                                     }
                                 ]
@@ -3122,22 +3374,26 @@
                                 "type": "progressionDbD"
                             },
                             {
-                                "amount": 15000,
+                                "amount": 45000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
                             }
                         ]
                     },
                     "node_T4L4_04": {
-                        "clientInfoId": "Escape",
+                        "clientInfoId": "RepairCoop",
                         "coordinates": {
-                            "x": 185,
-                            "y": 5
+                            "x": 1085,
+                            "y": 455
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T4L4_End02",
+                            "node_T4L4_15",
+                            "node_T4L4_05"
+                        ],
                         "nodeType": "quest:task",
                         "objectives": {
-                            "Escape": {
+                            "RepairCoop": {
                                 "conditions": [
                                     {
                                         "key": "role",
@@ -3147,12 +3403,13 @@
                                     }
                                 ],
                                 "incrementWithEventRepetitions": true,
-                                "neededProgression": 1,
+                                "neededProgression": 600,
+                                "objectiveId": "RepairCoop",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
                                         "parameters": "instigator:me",
-                                        "questEventId": "QuestEvent.Escape",
+                                        "questEventId": "QuestEvent.RepairCoop",
                                         "repetition": 1
                                     }
                                 ]
@@ -3165,22 +3422,25 @@
                                 "type": "progressionDbD"
                             },
                             {
-                                "amount": 15000,
+                                "amount": 45000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
                             }
                         ]
                     },
                     "node_T4L4_05": {
-                        "clientInfoId": "Escape",
+                        "clientInfoId": "SkillCheckGreatSuccess",
                         "coordinates": {
-                            "x": 365,
-                            "y": 5
+                            "x": 905,
+                            "y": 455
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T4L4_04",
+                            "node_T4L4_07"
+                        ],
                         "nodeType": "quest:task",
                         "objectives": {
-                            "Escape": {
+                            "SkillCheckGreatSuccess": {
                                 "conditions": [
                                     {
                                         "key": "role",
@@ -3190,12 +3450,13 @@
                                     }
                                 ],
                                 "incrementWithEventRepetitions": true,
-                                "neededProgression": 1,
+                                "neededProgression": 20,
+                                "objectiveId": "SkillCheckGreatSuccess",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
                                         "parameters": "instigator:me",
-                                        "questEventId": "QuestEvent.Escape",
+                                        "questEventId": "QuestEvent.SkillCheckGreatSuccess",
                                         "repetition": 1
                                     }
                                 ]
@@ -3208,22 +3469,25 @@
                                 "type": "progressionDbD"
                             },
                             {
-                                "amount": 15000,
+                                "amount": 45000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
                             }
                         ]
                     },
                     "node_T4L4_06": {
-                        "clientInfoId": "Escape",
+                        "clientInfoId": "EarnEmblemsBenevolent",
                         "coordinates": {
-                            "x": 905,
-                            "y": 5
+                            "x": 545,
+                            "y": 605
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T4L4_02",
+                            "node_T4L4_07"
+                        ],
                         "nodeType": "quest:task",
                         "objectives": {
-                            "Escape": {
+                            "EarnEmblemsBenevolentIridescent": {
                                 "conditions": [
                                     {
                                         "key": "role",
@@ -3233,12 +3497,13 @@
                                     }
                                 ],
                                 "incrementWithEventRepetitions": true,
-                                "neededProgression": 1,
+                                "neededProgression": 3,
+                                "objectiveId": "EarnEmblemsBenevolentIridescent",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
-                                        "parameters": "instigator:me",
-                                        "questEventId": "QuestEvent.Escape",
+                                        "parameters": "EmblemType:Benevolent;EmblemQuality:Iridescent",
+                                        "questEventId": "QuestEvent.EarnEmblemsQuality",
                                         "repetition": 1
                                     }
                                 ]
@@ -3251,22 +3516,28 @@
                                 "type": "progressionDbD"
                             },
                             {
-                                "amount": 15000,
+                                "amount": 45000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
                             }
                         ]
                     },
                     "node_T4L4_07": {
-                        "clientInfoId": "Escape",
+                        "clientInfoId": "MissInRange",
                         "coordinates": {
-                            "x": 455,
+                            "x": 635,
                             "y": 455
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T4L4_13",
+                            "node_T4L4_14",
+                            "node_T4L4_05",
+                            "node_T4L4_16",
+                            "node_T4L4_06"
+                        ],
                         "nodeType": "quest:task",
                         "objectives": {
-                            "Escape": {
+                            "MissInRange": {
                                 "conditions": [
                                     {
                                         "key": "role",
@@ -3276,12 +3547,13 @@
                                     }
                                 ],
                                 "incrementWithEventRepetitions": true,
-                                "neededProgression": 1,
+                                "neededProgression": 5,
+                                "objectiveId": "MissInRange",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
                                         "parameters": "instigator:me",
-                                        "questEventId": "QuestEvent.Escape",
+                                        "questEventId": "QuestEvent.MissInRange",
                                         "repetition": 1
                                     }
                                 ]
@@ -3294,22 +3566,25 @@
                                 "type": "progressionDbD"
                             },
                             {
-                                "amount": 15000,
+                                "amount": 45000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
                             }
                         ]
                     },
                     "node_T4L4_08": {
-                        "clientInfoId": "Hook",
+                        "clientInfoId": "Down",
                         "coordinates": {
-                            "x": 455,
+                            "x": 995,
                             "y": 155
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T4L4_12",
+                            "node_T4L4_11"
+                        ],
                         "nodeType": "quest:task",
                         "objectives": {
-                            "Hook": {
+                            "Down": {
                                 "conditions": [
                                     {
                                         "key": "role",
@@ -3319,12 +3594,12 @@
                                     }
                                 ],
                                 "incrementWithEventRepetitions": true,
-                                "neededProgression": 1,
+                                "neededProgression": 25,
+                                "objectiveId": "Down",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
-                                        "parameters": "instigator:me",
-                                        "questEventId": "QuestEvent.Hook",
+                                        "questEventId": "QuestEvent.Down",
                                         "repetition": 1
                                     }
                                 ]
@@ -3337,22 +3612,25 @@
                                 "type": "progressionDbD"
                             },
                             {
-                                "amount": 15000,
+                                "amount": 45000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
                             }
                         ]
                     },
                     "node_T4L4_09": {
-                        "clientInfoId": "Hook",
+                        "clientInfoId": "EarnEmblemsDevout",
                         "coordinates": {
-                            "x": 995,
+                            "x": 365,
                             "y": 155
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T4L4_01",
+                            "node_T4L4_10"
+                        ],
                         "nodeType": "quest:task",
                         "objectives": {
-                            "Hook": {
+                            "EarnEmblemsDevoutIridescent": {
                                 "conditions": [
                                     {
                                         "key": "role",
@@ -3362,12 +3640,13 @@
                                     }
                                 ],
                                 "incrementWithEventRepetitions": true,
-                                "neededProgression": 1,
+                                "neededProgression": 3,
+                                "objectiveId": "EarnEmblemsDevoutIridescent",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
-                                        "parameters": "instigator:me",
-                                        "questEventId": "QuestEvent.Hook",
+                                        "parameters": "EmblemType:Devout;EmblemQuality:Iridescent",
+                                        "questEventId": "QuestEvent.EarnEmblemsQuality",
                                         "repetition": 1
                                     }
                                 ]
@@ -3380,22 +3659,26 @@
                                 "type": "progressionDbD"
                             },
                             {
-                                "amount": 15000,
+                                "amount": 45000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
                             }
                         ]
                     },
                     "node_T4L4_10": {
-                        "clientInfoId": "Hook",
+                        "clientInfoId": "KillObsession",
                         "coordinates": {
-                            "x": 185,
-                            "y": 455
+                            "x": 95,
+                            "y": 155
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T4L4_20",
+                            "node_T4L4_09",
+                            "node_T4L4_Start01"
+                        ],
                         "nodeType": "quest:task",
                         "objectives": {
-                            "Hook": {
+                            "KillObsession": {
                                 "conditions": [
                                     {
                                         "key": "role",
@@ -3405,12 +3688,12 @@
                                     }
                                 ],
                                 "incrementWithEventRepetitions": true,
-                                "neededProgression": 1,
+                                "neededProgression": 10,
+                                "objectiveId": "KillObsession",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
-                                        "parameters": "instigator:me",
-                                        "questEventId": "QuestEvent.Hook",
+                                        "questEventId": "QuestEvent.KillObsession",
                                         "repetition": 1
                                     }
                                 ]
@@ -3423,22 +3706,26 @@
                                 "type": "progressionDbD"
                             },
                             {
-                                "amount": 15000,
+                                "amount": 45000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
                             }
                         ]
                     },
                     "node_T4L4_11": {
-                        "clientInfoId": "Hook",
+                        "clientInfoId": "Chase",
                         "coordinates": {
-                            "x": 665,
-                            "y": 305
+                            "x": 1175,
+                            "y": 155
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T4L4_End01",
+                            "node_T4L4_18",
+                            "node_T4L4_08"
+                        ],
                         "nodeType": "quest:task",
                         "objectives": {
-                            "Hook": {
+                            "Chase": {
                                 "conditions": [
                                     {
                                         "key": "role",
@@ -3448,12 +3735,13 @@
                                     }
                                 ],
                                 "incrementWithEventRepetitions": true,
-                                "neededProgression": 1,
+                                "neededProgression": 300,
+                                "objectiveId": "Chase",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
                                         "parameters": "instigator:me",
-                                        "questEventId": "QuestEvent.Hook",
+                                        "questEventId": "QuestEvent.Chase",
                                         "repetition": 1
                                     }
                                 ]
@@ -3466,22 +3754,26 @@
                                 "type": "progressionDbD"
                             },
                             {
-                                "amount": 15000,
+                                "amount": 45000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
                             }
                         ]
                     },
                     "node_T4L4_12": {
-                        "clientInfoId": "Hook",
+                        "clientInfoId": "BreakPalletsGens",
                         "coordinates": {
-                            "x": 455,
-                            "y": 605
+                            "x": 725,
+                            "y": 155
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T4L4_08",
+                            "node_T4L4_13",
+                            "node_T4L4_19"
+                        ],
                         "nodeType": "quest:task",
                         "objectives": {
-                            "Hook": {
+                            "BreakPalletsGens": {
                                 "conditions": [
                                     {
                                         "key": "role",
@@ -3491,12 +3783,13 @@
                                     }
                                 ],
                                 "incrementWithEventRepetitions": true,
-                                "neededProgression": 1,
+                                "neededProgression": 40,
+                                "objectiveId": "BreakPalletsGens",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
                                         "parameters": "instigator:me",
-                                        "questEventId": "QuestEvent.Hook",
+                                        "questEventId": "QuestEvent.BreakPalletsGens",
                                         "repetition": 1
                                     }
                                 ]
@@ -3509,68 +3802,89 @@
                                 "type": "progressionDbD"
                             },
                             {
-                                "amount": 15000,
+                                "amount": 45000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
                             }
                         ]
                     },
                     "node_T4L4_13": {
-                        "clientInfoId": "EarnBloodpoints",
+                        "clientInfoId": "EarnEmblemsGoldInTrial",
                         "coordinates": {
-                            "x": 905,
+                            "x": 635,
                             "y": 305
                         },
                         "journal": [
                             "Tome04_Observer"
                         ],
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T4L4_12",
+                            "node_T4L4_07",
+                            "node_T4L4_01"
+                        ],
                         "nodeType": "quest:challenge",
                         "objectives": {
-                            "EarnBloodpoints": {
+                            "EarnEmblemsGoldInTrial": {
                                 "conditions": [],
                                 "incrementWithEventRepetitions": false,
                                 "neededProgression": 1,
+                                "objectiveId": "EarnEmblemsGoldInTrial",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
-                                        "questEventId": "QuestEvent.EarnBloodpoints",
-                                        "repetition": 1
+                                        "parameters": "EmblemQuality:Gold",
+                                        "questEventId": "QuestEvent.EarnEmblemsQuality",
+                                        "repetition": 4
                                     }
                                 ]
                             }
                         },
                         "reward": [
                             {
-                                "amount": 3,
+                                "amount": 5,
                                 "id": "star",
                                 "type": "progressionDbD"
                             },
                             {
-                                "amount": 15000,
+                                "amount": 60000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
                             }
                         ]
                     },
                     "node_T4L4_14": {
-                        "clientInfoId": "SurvivorPerkChallenge",
+                        "clientInfoId": "EscapeWithAcePerksInTrial",
                         "coordinates": {
-                            "x": 1175,
-                            "y": 155
+                            "x": 725,
+                            "y": 605
                         },
                         "journal": [
                             "Tome04_Observer"
                         ],
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T4L4_15",
+                            "node_T4L4_07"
+                        ],
                         "nodeType": "quest:challenge",
                         "objectives": {
-                            "UnhookInTrial": {
+                            "EscapeWithAcePerksInTrial": {
                                 "conditions": [
                                     {
                                         "key": "role",
                                         "value": [
                                             "survivor"
+                                        ]
+                                    },
+                                    {
+                                        "key": "perk",
+                                        "value": [
+                                            "Open_Handed"
+                                        ]
+                                    },
+                                    {
+                                        "key": "perk",
+                                        "value": [
+                                            "Up_The_Ante"
                                         ]
                                     },
                                     {
@@ -3582,11 +3896,12 @@
                                 ],
                                 "incrementWithEventRepetitions": false,
                                 "neededProgression": 1,
+                                "objectiveId": "EscapeWithAcePerksInTrial",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
                                         "parameters": "instigator:me",
-                                        "questEventId": "QuestEvent.Unhook",
+                                        "questEventId": "QuestEvent.Escape",
                                         "repetition": 1
                                     }
                                 ]
@@ -3599,25 +3914,28 @@
                                 "type": "progressionDbD"
                             },
                             {
-                                "amount": 25000,
+                                "amount": 60000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
                             }
                         ]
                     },
                     "node_T4L4_15": {
-                        "clientInfoId": "SurvivorCharacterChallenge",
+                        "clientInfoId": "RepairFinishUnhookCleanseAsAceInTrial",
                         "coordinates": {
-                            "x": 635,
-                            "y": 155
+                            "x": 1085,
+                            "y": 605
                         },
                         "journal": [
                             "Tome04_Observer"
                         ],
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T4L4_14",
+                            "node_T4L4_04"
+                        ],
                         "nodeType": "quest:challenge",
                         "objectives": {
-                            "UnhookInTrial": {
+                            "RepairFinishUnhookCleanseAsCharacterInTrial": {
                                 "conditions": [
                                     {
                                         "key": "role",
@@ -3628,17 +3946,30 @@
                                     {
                                         "key": "character",
                                         "value": [
-                                            "Ace_In_The_Hole"
+                                            "Ace"
                                         ]
                                     }
                                 ],
                                 "incrementWithEventRepetitions": false,
                                 "neededProgression": 1,
+                                "objectiveId": "RepairFinishUnhookCleanseAsCharacterInTrial",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
                                         "parameters": "instigator:me",
+                                        "questEventId": "QuestEvent.RepairFinish",
+                                        "repetition": 1
+                                    },
+                                    {
+                                        "operation": ">=",
+                                        "parameters": "instigator:me",
                                         "questEventId": "QuestEvent.Unhook",
+                                        "repetition": 1
+                                    },
+                                    {
+                                        "operation": ">=",
+                                        "parameters": "instigator:me",
+                                        "questEventId": "QuestEvent.CleanseFinish",
                                         "repetition": 1
                                     }
                                 ]
@@ -3651,25 +3982,28 @@
                                 "type": "progressionDbD"
                             },
                             {
-                                "amount": 25000,
+                                "amount": 60000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
                             }
                         ]
                     },
                     "node_T4L4_16": {
-                        "clientInfoId": "SurvivorCharacterChallenge",
+                        "clientInfoId": "EscapeChaseEscapeAsMegInTrial",
                         "coordinates": {
-                            "x": 1175,
-                            "y": 5
+                            "x": 365,
+                            "y": 455
                         },
                         "journal": [
                             "Tome04_Observer"
                         ],
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T4L4_03",
+                            "node_T4L4_07"
+                        ],
                         "nodeType": "quest:challenge",
                         "objectives": {
-                            "UnhookInTrial": {
+                            "EscapeChaseEscapeAsCharacterInTrial": {
                                 "conditions": [
                                     {
                                         "key": "role",
@@ -3686,11 +4020,18 @@
                                 ],
                                 "incrementWithEventRepetitions": false,
                                 "neededProgression": 1,
+                                "objectiveId": "EscapeChaseEscapeAsCharacterInTrial",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
                                         "parameters": "instigator:me",
-                                        "questEventId": "QuestEvent.Unhook",
+                                        "questEventId": "QuestEvent.EscapeChase",
+                                        "repetition": 2
+                                    },
+                                    {
+                                        "operation": ">=",
+                                        "parameters": "instigator:me",
+                                        "questEventId": "QuestEvent.Escape",
                                         "repetition": 1
                                     }
                                 ]
@@ -3703,25 +4044,28 @@
                                 "type": "progressionDbD"
                             },
                             {
-                                "amount": 25000,
+                                "amount": 60000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
                             }
                         ]
                     },
                     "node_T4L4_17": {
-                        "clientInfoId": "KillerPerkChallenge",
+                        "clientInfoId": "HookHitExposedMoriWithHexDevourHopeInTrial",
                         "coordinates": {
-                            "x": 275,
-                            "y": 155
+                            "x": 455,
+                            "y": 5
                         },
                         "journal": [
                             "Tome04_Wraith"
                         ],
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T4L4_20",
+                            "node_T4L4_01"
+                        ],
                         "nodeType": "quest:challenge",
                         "objectives": {
-                            "HookInTrial": {
+                            "HookHitExposedMoriWithPerkInTrial": {
                                 "conditions": [
                                     {
                                         "key": "role",
@@ -3738,11 +4082,24 @@
                                 ],
                                 "incrementWithEventRepetitions": false,
                                 "neededProgression": 1,
+                                "objectiveId": "HookHitExposedMoriWithPerkInTrial",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
                                         "parameters": "instigator:me",
-                                        "questEventId": "QuestEvent.HookInTrial",
+                                        "questEventId": "QuestEvent.Hook",
+                                        "repetition": 5
+                                    },
+                                    {
+                                        "operation": ">=",
+                                        "parameters": "instigator:me",
+                                        "questEventId": "QuestEvent.HitExposed",
+                                        "repetition": 2
+                                    },
+                                    {
+                                        "operation": ">=",
+                                        "parameters": "instigator:me",
+                                        "questEventId": "QuestEvent.Mori",
                                         "repetition": 1
                                     }
                                 ]
@@ -3755,30 +4112,45 @@
                                 "type": "progressionDbD"
                             },
                             {
-                                "amount": 25000,
+                                "amount": 60000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
                             }
                         ]
                     },
                     "node_T4L4_18": {
-                        "clientInfoId": "KillerPerkChallenge",
+                        "clientInfoId": "LivingAtEndTrialWithWraithPerksInTrial",
                         "coordinates": {
-                            "x": 665,
-                            "y": 605
+                            "x": 1085,
+                            "y": 5
                         },
                         "journal": [
                             "Tome04_Wraith"
                         ],
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T4L4_19",
+                            "node_T4L4_11"
+                        ],
                         "nodeType": "quest:challenge",
                         "objectives": {
-                            "HookInTrial": {
+                            "LivingAtEndTrialWithWraithPerksInTrial": {
                                 "conditions": [
                                     {
                                         "key": "role",
                                         "value": [
                                             "killer"
+                                        ]
+                                    },
+                                    {
+                                        "key": "perk",
+                                        "value": [
+                                            "Predator"
+                                        ]
+                                    },
+                                    {
+                                        "key": "perk",
+                                        "value": [
+                                            "Bloodhound"
                                         ]
                                     },
                                     {
@@ -3790,12 +4162,12 @@
                                 ],
                                 "incrementWithEventRepetitions": false,
                                 "neededProgression": 1,
+                                "objectiveId": "LivingAtEndTrialWithWraithPerksInTrial",
                                 "questEvent": [
                                     {
-                                        "operation": ">=",
-                                        "parameters": "instigator:me",
-                                        "questEventId": "QuestEvent.HookInTrial",
-                                        "repetition": 1
+                                        "operation": "<=",
+                                        "questEventId": "QuestEvent.LivingAtEndTrial",
+                                        "repetition": 0
                                     }
                                 ]
                             }
@@ -3807,25 +4179,28 @@
                                 "type": "progressionDbD"
                             },
                             {
-                                "amount": 25000,
+                                "amount": 60000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
                             }
                         ]
                     },
                     "node_T4L4_19": {
-                        "clientInfoId": "KillerCharacterChallenge",
+                        "clientInfoId": "WraithStalkWraithHitAfterUncloakInTrial",
                         "coordinates": {
-                            "x": 1175,
-                            "y": 605
+                            "x": 815,
+                            "y": 5
                         },
                         "journal": [
                             "Tome04_Wraith"
                         ],
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T4L4_12",
+                            "node_T4L4_18"
+                        ],
                         "nodeType": "quest:challenge",
                         "objectives": {
-                            "HookInTrial": {
+                            "WraithStalkWraithHitAfterUncloakInTrial": {
                                 "conditions": [
                                     {
                                         "key": "role",
@@ -3842,12 +4217,19 @@
                                 ],
                                 "incrementWithEventRepetitions": false,
                                 "neededProgression": 1,
+                                "objectiveId": "WraithStalkWraithHitAfterUncloakInTrial",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
                                         "parameters": "instigator:me",
-                                        "questEventId": "QuestEvent.HookInTrial",
-                                        "repetition": 1
+                                        "questEventId": "QuestEvent.WraithStalk",
+                                        "repetition": 60
+                                    },
+                                    {
+                                        "operation": ">=",
+                                        "parameters": "instigator:me",
+                                        "questEventId": "QuestEvent.WraithHitAfterUncloak",
+                                        "repetition": 4
                                     }
                                 ]
                             }
@@ -3859,25 +4241,28 @@
                                 "type": "progressionDbD"
                             },
                             {
-                                "amount": 25000,
+                                "amount": 60000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
                             }
                         ]
                     },
                     "node_T4L4_20": {
-                        "clientInfoId": "KillerCharacterChallenge",
+                        "clientInfoId": "HagTeleportInTrial",
                         "coordinates": {
                             "x": 185,
-                            "y": 605
+                            "y": 5
                         },
                         "journal": [
                             "Tome04_Wraith"
                         ],
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T4L4_17",
+                            "node_T4L4_10"
+                        ],
                         "nodeType": "quest:challenge",
                         "objectives": {
-                            "HookInTrial": {
+                            "HagTeleportInTrial": {
                                 "conditions": [
                                     {
                                         "key": "role",
@@ -3894,12 +4279,13 @@
                                 ],
                                 "incrementWithEventRepetitions": false,
                                 "neededProgression": 1,
+                                "objectiveId": "HagTeleportInTrial",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
                                         "parameters": "instigator:me",
-                                        "questEventId": "QuestEvent.HookInTrial",
-                                        "repetition": 1
+                                        "questEventId": "QuestEvent.HagTeleport",
+                                        "repetition": 10
                                     }
                                 ]
                             }
@@ -3911,7 +4297,7 @@
                                 "type": "progressionDbD"
                             },
                             {
-                                "amount": 25000,
+                                "amount": 60000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
                             }
@@ -3920,28 +4306,35 @@
                     "node_T4L4_End01": {
                         "clientInfoId": "End",
                         "coordinates": {
-                            "x": 1265,
-                            "y": 305
+                            "x": 1355,
+                            "y": 155
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T4L4_11"
+                        ],
+                        "nodeType": "narrative"
+                    },
+                    "node_T4L4_End02": {
+                        "clientInfoId": "End",
+                        "coordinates": {
+                            "x": 1355,
+                            "y": 455
+                        },
+                        "neighbors": [
+                            "node_T4L4_04"
+                        ],
                         "nodeType": "narrative"
                     },
                     "node_T4L4_Start01": {
                         "clientInfoId": "Start",
                         "coordinates": {
                             "x": 5,
-                            "y": 455
+                            "y": 305
                         },
-                        "neighbors": [],
-                        "nodeType": "narrative"
-                    },
-                    "node_T4L4_Start02": {
-                        "clientInfoId": "Start",
-                        "coordinates": {
-                            "x": 5,
-                            "y": 605
-                        },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T4L4_03",
+                            "node_T4L4_10"
+                        ],
                         "nodeType": "narrative"
                     }
                 },
@@ -4004,6 +4397,7 @@
                                 ],
                                 "incrementWithEventRepetitions": true,
                                 "neededProgression": 1,
+                                "objectiveId": "HagTrapTriggeredInTrial",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -4015,12 +4409,12 @@
                         },
                         "reward": [
                             {
-                                "amount": 3,
+                                "amount": 1,
                                 "id": "star",
                                 "type": "progressionDbD"
                             },
                             {
-                                "amount": 15000,
+                                "amount": 1,
                                 "id": "Bloodpoints",
                                 "type": "currency"
                             }
@@ -4049,6 +4443,7 @@
                                 ],
                                 "incrementWithEventRepetitions": true,
                                 "neededProgression": 1,
+                                "objectiveId": "HagHitAfterTrapTriggeredInTrial",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -4060,12 +4455,12 @@
                         },
                         "reward": [
                             {
-                                "amount": 3,
+                                "amount": 1,
                                 "id": "star",
                                 "type": "progressionDbD"
                             },
                             {
-                                "amount": 15000,
+                                "amount": 1,
                                 "id": "Bloodpoints",
                                 "type": "currency"
                             }
@@ -4094,6 +4489,7 @@
                                 ],
                                 "incrementWithEventRepetitions": true,
                                 "neededProgression": 1,
+                                "objectiveId": "HagTeleportShortDistanceInTrial",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -4106,12 +4502,12 @@
                         },
                         "reward": [
                             {
-                                "amount": 3,
+                                "amount": 1,
                                 "id": "star",
                                 "type": "progressionDbD"
                             },
                             {
-                                "amount": 15000,
+                                "amount": 1,
                                 "id": "Bloodpoints",
                                 "type": "currency"
                             }
@@ -4140,6 +4536,7 @@
                                 ],
                                 "incrementWithEventRepetitions": true,
                                 "neededProgression": 1,
+                                "objectiveId": "HagTeleportLongDistanceInTrial",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -4152,12 +4549,12 @@
                         },
                         "reward": [
                             {
-                                "amount": 3,
+                                "amount": 1,
                                 "id": "star",
                                 "type": "progressionDbD"
                             },
                             {
-                                "amount": 15000,
+                                "amount": 1,
                                 "id": "Bloodpoints",
                                 "type": "currency"
                             }
@@ -4186,6 +4583,7 @@
                                 ],
                                 "incrementWithEventRepetitions": true,
                                 "neededProgression": 1,
+                                "objectiveId": "HagTrapMultipleInTrial",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -4197,12 +4595,12 @@
                         },
                         "reward": [
                             {
-                                "amount": 3,
+                                "amount": 1,
                                 "id": "star",
                                 "type": "progressionDbD"
                             },
                             {
-                                "amount": 15000,
+                                "amount": 1,
                                 "id": "Bloodpoints",
                                 "type": "currency"
                             }
@@ -4231,6 +4629,7 @@
                                 ],
                                 "incrementWithEventRepetitions": true,
                                 "neededProgression": 1,
+                                "objectiveId": "WraithStalkInTrial",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -4242,12 +4641,12 @@
                         },
                         "reward": [
                             {
-                                "amount": 3,
+                                "amount": 1,
                                 "id": "star",
                                 "type": "progressionDbD"
                             },
                             {
-                                "amount": 15000,
+                                "amount": 1,
                                 "id": "Bloodpoints",
                                 "type": "currency"
                             }
@@ -4269,6 +4668,7 @@
                                 "conditions": [],
                                 "incrementWithEventRepetitions": true,
                                 "neededProgression": 1,
+                                "objectiveId": "BlindBurnInTrial",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -4280,12 +4680,12 @@
                         },
                         "reward": [
                             {
-                                "amount": 3,
+                                "amount": 1,
                                 "id": "star",
                                 "type": "progressionDbD"
                             },
                             {
-                                "amount": 15000,
+                                "amount": 1,
                                 "id": "Bloodpoints",
                                 "type": "currency"
                             }
@@ -4314,6 +4714,7 @@
                                 ],
                                 "incrementWithEventRepetitions": true,
                                 "neededProgression": 1,
+                                "objectiveId": "WraithHitAfterUncloakInTrial",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -4325,12 +4726,12 @@
                         },
                         "reward": [
                             {
-                                "amount": 3,
+                                "amount": 1,
                                 "id": "star",
                                 "type": "progressionDbD"
                             },
                             {
-                                "amount": 15000,
+                                "amount": 1,
                                 "id": "Bloodpoints",
                                 "type": "currency"
                             }
@@ -4359,6 +4760,7 @@
                                 ],
                                 "incrementWithEventRepetitions": true,
                                 "neededProgression": 1,
+                                "objectiveId": "WraithBellInTrial",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -4370,12 +4772,12 @@
                         },
                         "reward": [
                             {
-                                "amount": 3,
+                                "amount": 1,
                                 "id": "star",
                                 "type": "progressionDbD"
                             },
                             {
-                                "amount": 15000,
+                                "amount": 1,
                                 "id": "Bloodpoints",
                                 "type": "currency"
                             }
@@ -4404,6 +4806,7 @@
                                 ],
                                 "incrementWithEventRepetitions": true,
                                 "neededProgression": 1,
+                                "objectiveId": "WraithBellNearSurvivorInTrial",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -4416,12 +4819,12 @@
                         },
                         "reward": [
                             {
-                                "amount": 3,
+                                "amount": 1,
                                 "id": "star",
                                 "type": "progressionDbD"
                             },
                             {
-                                "amount": 15000,
+                                "amount": 1,
                                 "id": "Bloodpoints",
                                 "type": "currency"
                             }
@@ -4450,6 +4853,7 @@
                                 ],
                                 "incrementWithEventRepetitions": true,
                                 "neededProgression": 1,
+                                "objectiveId": "WraithBellNearSurvivorDifferentInTrial",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -4462,12 +4866,12 @@
                         },
                         "reward": [
                             {
-                                "amount": 3,
+                                "amount": 1,
                                 "id": "star",
                                 "type": "progressionDbD"
                             },
                             {
-                                "amount": 15000,
+                                "amount": 1,
                                 "id": "Bloodpoints",
                                 "type": "currency"
                             }
@@ -4489,6 +4893,7 @@
                                 "conditions": [],
                                 "incrementWithEventRepetitions": true,
                                 "neededProgression": 1,
+                                "objectiveId": "HideInLockerInOrAfterChaseInTrial",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -4500,12 +4905,12 @@
                         },
                         "reward": [
                             {
-                                "amount": 3,
+                                "amount": 1,
                                 "id": "star",
                                 "type": "progressionDbD"
                             },
                             {
-                                "amount": 15000,
+                                "amount": 1,
                                 "id": "Bloodpoints",
                                 "type": "currency"
                             }
@@ -4527,6 +4932,7 @@
                                 "conditions": [],
                                 "incrementWithEventRepetitions": true,
                                 "neededProgression": 1,
+                                "objectiveId": "DebugContextualQuest",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -4543,12 +4949,12 @@
                         },
                         "reward": [
                             {
-                                "amount": 3,
+                                "amount": 1,
                                 "id": "star",
                                 "type": "progressionDbD"
                             },
                             {
-                                "amount": 15000,
+                                "amount": 1,
                                 "id": "Bloodpoints",
                                 "type": "currency"
                             }
@@ -4615,6 +5021,6 @@
             }
         ],
         "rewardData": "Tome04",
-        "version": 26
+        "version": 35
     }
 }

@@ -8,7 +8,181 @@
                 "switch",
                 "grdk"
             ],
-            "description": "As we released the event this week&#44; it\u2019s been brought to our attention that some issues were occurring with the Ghastly Gateau Offering and Crown of the Entity cosmetics. To make sure everyone is able to enjoy the 4th Anniversary event&#44; we have decided to extend the event and offer a one-time additional Bloodpoint login bonus.<br/><br/>Changes to the Event<li>The event is extended to July 14th&#44; 2020 11AM ET</li><li>A one-time bonus Bloodpoint will be available on loginbetween July 7th 11AM ET and July 14th 11AM ET</li><br/><br/>Known Issues Status<br/>We are aiming for a hotfix for the Ghastly Gateau Offering and Konami code late next week.<li>Ghastly Gateau stacking issue will be fixed in the next hotfix</li><li>Ghastly Gateau Bloodpoint bonus will be fixed from 140% to 104% in the next hotfix</li><li>Players sometimes are unable to unlock crowns (Still under investigation)</li><br/><br/>Thank you to players who have reported the issues and sent information&#44; this helps us continue our internal investigations as we work towards a fix for the remaining issue with the Crown of the Entity.",
+            "description": "Stay out of the heat and enjoy these refreshing discounts: for <b><font color=\"#FFD700\">two weeks</font></b>&#44; save <b><font color=\"#FFD700\">up to 75&#37;</font></b> on a selection of outfits!<br/><br/><b><font color=\"#FFD700\">20&#37; OFF</font></b><br/><b>960</b> Auric Cells<li>Nancy\u2019s <b>Justice Seeker</b></li><li>Yui\u2019s <b>Wild Card</b></li><li>Meg\u2019s <b>Fortune Teller</b></li><li>The Legion\u2019s <b>Devil&#45;May&#45;Care &#45; Joey</b></li><li>The Ghostface\u2019s <b>Viper Ghost</b></li><br/><br/><b><font color=\"#FFD700\">30&#37; OFF</font></b><br/><b>840</b> Auric Cells <li>Steve\u2019s <b>This&#45;is&#45;not&#45;Happening</b></li><li>Zarina\u2019s <b>Guerilla Filmmaker</b></li><li>Ash\u2019s <b>Water Trash</b></li><li>Kate\u2019s <b>Main Headliner</b></li><li>Laurie\u2019s <b>Wolf in Sheep\u2019s Clothing</b></li><li>The Deathslinger\u2019s <b>Double&#45;Crossed</b></li><br/><br/><b><font color=\"#FFD700\">40&#37; OFF</font></b><br/><b>720</b> Auric Cells <li>Jane\u2019s <b>Photoshoot Ready</b></li><li>The Trapper\u2019s <b>Seaside Psycho</b></li><li>Claudette\u2019s <b>Spring Break</b></li><li>The Doctor\u2019s <b>Lord Chloroform</b></li><br/><br/><b><font color=\"#FFD700\">50&#37; OFF</font></b><br/><b>600</b> Auric Cells <li>The Wraith\u2019s <b>The Angel of Music</b></li><li>Dwight\u2019s <b>The Great Gas Jockey</b></li><li>Nea\u2019s <b>Northern Lights</b></li><li>The Plague\u2019s <b>Sea&#45;Goat Worshiper</b></li><li>The Hillbilly\u2019s <b>Buoy on the Beach</b></li><br/><br/><b><font color=\"#FFD700\">75&#37; OFF</font></b><br/><b>300</b> Auric Cells <li>Jeff\u2019s <b>Gallery Opening Gala</b></li><li>Ace\u2019s <b>The High Roller</b></li><li>The Nurse\u2019s <b>Kampo Trainee</b></li><li>Adam\u2019s <b>Freshman</b></li><li>The Hag\u2019s <b>Queen of the Mire</b></li><br/><br/>Offer ends <font color=\"#FFD700\">July 22nd 11AM ET</font><br/><br/>Discount limited to outfits purchased with Auric Cells",
+            "dwnImagePath": "",
+            "imageHeight": "",
+            "imagePath": "UI/Icons/NewContentSplash/splashBanner_summersale.png",
+            "isHidden": false,
+            "startDate": "2020-07-08T15:00:00",
+            "title": "UP TO <font color=\"#FFD700\">75% OFF</font> SELECT OUTFITS",
+            "type": 5,
+            "version": "4.0.2",
+            "weight": 730.0
+        },
+        {
+            "contentTags": [
+                "steam"
+            ],
+            "description": "People of The Fog&#44; <br/><br/>Thank you for participating in the Player Test Build! <br/><br/>Here\u2019s a few things to know about your save data & progress in the Player Test Build:<li>Your personal profile (save data&#44; inventory&#44; currencies) has been copied from the Live servers to the PTB servers on <b>July 2nd&#44; 2020 at 4:15 AM UTC</b>. Any progress or purchases made on the Live servers after this date will not be reflected on the PTB.</li><li>All progress made during the PTB <b>will not</b> be transferred over to the Live servers.</li><br/>You can leave feedback of your experience here: <br/><a href=\"event:forum.deadbydaylight.com/en/categories/4-1-0-ptb\"><font color=\"#ff0000\">https://forum.deadbydaylight.com/en/categories/4-1-0-ptb</font></a><br/>See you in The Fog.<br/><br/>-The Dead by Daylight team",
+            "dwnImagePath": "",
+            "imageHeight": "",
+            "imagePath": "",
+            "isHidden": false,
+            "startDate": "2020-07-08T15:00:00",
+            "title": "PTB - SAVE GAME & PROGRESS",
+            "type": 4,
+            "version": "4.1.0",
+            "weight": 725.0
+        },
+        {
+            "contentTags": [
+                "steam"
+            ],
+            "description": "<span class=\"Heading2\">BALANCE</span><br/><b>The Cannibal:</b><br/>Added the Chainsaw Sweep charges. Using the Chainsaw will consume a charge and trigger a Chainsaw Sweep. During this time&#44; The Cannibal can extend the Chainsaw Sweep by pressing the power button before the power bar fully depletes. The more charges are used&#44; the longer the missed cooldown / tantrum (if colliding with obstacles). <br/><br/>In numbers: <br/><li>The Cannibal starts with <b>3</b> charges</li><li>Triggering the chainsaw will start a Chainsaw Sweep that lasts <b>2</b> seconds</li><li>During this&#44; each charge used after that will reset the Chainsaw Sweep timer back to <b>2</b> seconds</li><li>Each additional charge used increases the missed chainsaw attack cooldown / tantrum duration by <b>1</b> second</li><li>Charges refill at a rate of <b>1</b> every <b>4</b> seconds when the chainsaw is not being used.</li><li>The Cannibal\u2019s maximum speed during a Chainsaw Sweep has increased to <b>5.29</b> m/s from <b>5.06</b> m/s</li> <br/><br/>Furthermore&#44; if The Cannibal revs the chainsaw for too long&#44; a tantrum is automatically triggered for the base duration of 5 seconds. <br/><br/>When a tantrum is triggered&#44; all remaining charges are consumed. <br/><br/><b>The Cannibal:</b> Updated most of his add-ons. <br/><br/><b>The Hillbilly:</b><br/>Added the overheat mechanic. Using the chainsaw will now build up heat. When reaching the maximum amount of heat&#44; the chainsaw overheats and cannot be used until it has cooled off. <br/><br/>In numbers: <br/><li>The chainsaw heat meter starts at <b>0</b>.</li><li>Starting a rev adds <b>5</b> charges.</li><li>Actively revving adds <b>10</b> charges per second</li><li>Actively sprinting adds <b>2</b> charges per second</li><li>When not using the chainsaw&#44; the heat meter dissipates at a rate of <b>-3.5</b> charges per second</li><li>When the chainsaw overheats&#44; the heat meter dissipates at a rate of <b>-6.6</b> charges per second</li><br/>If the heat meter reaches <b>100</b> charges&#44; the chainsaw overheats.<br/><br/>If the chainsaw overheats during a chainsaw sprint: <br/><li>The sprint is not interrupted</li><li>The chainsaw goes through the cooldown phase after the sprint has ended</li><br/><b>The Hillbilly:</b> Updated most of his add-ons. <br/><br/><b>Perk updates: </b><br/><li>Franklin\u2019s Demise: Instead of the item losing charges when dropped&#44; the Entity will consume the item after <b>150/120/90</b> seconds if it is not picked up. Additionally&#44; Franklin\u2019s Demise will reveal the aura of items on the ground within <b>32/32/32</b> meters.</li> <li>Knock Out: Now triggers on basic attacks only. Additionally&#44; Survivors put in the dying state by your basic attacks will crawl <b>50/50/50%</b> slower for <b>15/15/15</b> seconds. During this time&#44; they are affected by the <b>Blindness</b> status effect.</li><li>Lightborn: Grants immunity to blindness caused by flashlights and firecrackers. Survivors that attempt blinding you have their aura revealed for <b>6/8/10</b> seconds.</li><li>Tinkerer: Now triggers at <b>70/70/70%</b> (down from 85%) and grants the <b>Undetectable</b> status effect for <b>12/14/16</b> seconds (up from 8/10/12)</li><br/><br/><span class=\"Heading2\">BUG FIXES</span><br/><li>The Oni: Fixed an issue that caused Survivors to drop twice the amount of Blood Orbs when performing actions while injured.</li><li>Fixed an issue that caused injured Survivors to sometimes make no sound after certain actions.</li><li>Sanctum of Wrath: Fixed an issue that prevented blinking on the stone steps with the Nurse.</li><li>Fixed an issue that allowed loading into a Public Match while in Custom Games.</li><li>The Doctor: Fixed an issue that caused Survivors outside of the Terror Radius to not hear the audio cue when charging the Static Blast ability.</li><li>Fixed an issue that caused Survivors to get stuck together after healing a downed Survivor while against a wall in several locations.</li><li>Sole Survivor: Fixed an issue that caused the perk to not always receive a token when other Survivors are sacrificed.</li><li>The Cannibal: Fixed an issue that caused the chainsaw SFX to continue playing when stunned while performing a chainsaw run.</li><li>Devour Hope: Fixed an issue that displayed the speed buff as active for a duration of 10 seconds when hooking a Survivor instead of starting 10 seconds after having hooked a Survivor. The effect remains unchanged.</li><li>Mount Ormond Resort: Fixed an invisible collision outside the cottage.</li><li>The Oni: Fixed an issue that prevented entering Blood Fury if the power meter was filled while carrying a Survivor.</li><li>Grim Pantry: Fixed an issue that allowed a tree to spawn at the Exit Gate.</li><li>Reverted the UI Scale back to the pre-4.0.0 size. We were a bit too overzealous with the scale value and have set it back to the original size as this was adversely effecting players in 1440p. However&#44; this means that players in 4k will temporarily have the smaller UI scale for the duration of the PTB. Our intention for release is to implement an increased UI scale only for players using 4k resolutions. Players playing in 1440p and below will continue to remain at the pre-4.0.0 size.</li><li>Haddonfield: Fixed a visible gap under exterior windows.</li><li>Badham Preschool: Fixed a visible seam next to the killer shack.</li><li>Fixed an issue that caused Jane Romero's hand to clip trough her chest after the Nurse Mori.</li><li>(Steam) Fixed an issue that caused skillchecks in a Cage of Atonement to not work while using a controller.</li><li>Dead Dawg Saloon: Fixed an issue that caused tumbleweeds to appear abruptly and disappear by passing through the floor.</li><li>Fixed an issue that allowed climbing on chests that spawn on dirt mounds.</li><li>Fixed an issue that caused the Plague to briefly stagger and not return smoothly to her idle animation after falling from high ground.</li><li>Midwich Elementary School: Fixed an issue that caused Crows to be seen going through ceilings once triggered.</li><li>Midwich Elementary School: Fixed multiple book piles where the Survivors could clip trough.</li><li>Midwich Elementary School: Fixed very bright textures on desks in the reception area.</li><li>Backwater Swamp: fixed an invisible collision that can be walked on in Maze tiles.</li><li>Fixed an issue that caused Survivors' screams to be muffled and low volume when found in a locker.</li><li>Make Your Choice: Now mentions in the perk description that the Survivor screams when unhooking another Survivor.</li><li>Mother's Dwelling: Fixed a superfluous texture displayed on a Hay Pile in Mother's Dwelling map.</li><li>Father Campbell's Chapel: Fixed the horse's legs which were clipping through the ground.</li><li>Fixed missing texture when pulling David King from a locker.</li><li>Ironworks of Misery: Fixed missing collision on one of the foundry's entrances.</li><li>The Underground Complex: Fixed an issue that allowed climbing on a specific box.</li><li>Family Residence: Fixed a visible seam on the floor.</li><li>The Plague: Fixed an issue that activated Corruption mode instantly after a Survivor cleanses with the last Pool of Devotion instead of 5 seconds after a Survivor cleanses with the last Pool of Devotion.</li><li>Fixed an issue that caused the camera to not focus on the Survivor when being rescued from a Deathbed.</li><li>Haddonfield: Fixed placeholder textures on the ceilings in certain houses.</li><li>Plunderer's Instinct: Fixed the aura outline to remain displayed on chests even if there are no obstacles.</li><li>Kindred: Fixed an issue that displayed the Killer's aura outline even if there are no obstacles.</li><li>Wake Up: Fixed the aura outline which remained displayed on the Exit Gates even if there are no obstacles.</li><li>The Hillbilly: Fixed an issue that caused the Hillbilly to not go into stun animation when letting go of the chainsaw sprint button at the same time as hitting a wall.</li><li>Fixed an issue that sometimes caused survivors to stand up and puke when being interrupted when cleansing themselves at a Pool of Devotion.</li><li>Badham Preschool II: Fixed a Generator that couldn't be accessed from its right side.</li><li>Fixed an issue that could cause a Survivor to get stuck after interacting with a Pool of Devotion that spawned on dirt mounds.</li><br/><br/><span class=\"Heading2\">DEV NOTES</span><br/><li>Added a Promo Code System</li>",
+            "dwnImagePath": "",
+            "imageHeight": "",
+            "imagePath": "",
+            "isHidden": false,
+            "startDate": "2020-07-08T15:00:00",
+            "title": "PTB - PATCH NOTES",
+            "type": 3,
+            "version": "4.1.0",
+            "weight": 720.0
+        },
+        {
+            "contentTags": [
+                "steam",
+                "xbox",
+                "ps4",
+                "switch",
+                "grdk"
+            ],
+            "description": "<b>The Rift closes in less than 24h!</b> Today is your last chance to get Tome III rewards.",
+            "dwnImagePath": "",
+            "imageHeight": "",
+            "imagePath": "UI/Icons/NewContentSplash/splashBanner_ARC2.png",
+            "isHidden": false,
+            "startDate": "2020-07-07T15:00:00",
+            "title": "Archives | 24h left to Tome III",
+            "type": 4,
+            "version": "4.0.2",
+            "weight": 715.0
+        },
+        {
+            "contentTags": [
+                "steam",
+                "xbox",
+                "ps4",
+                "switch",
+                "grdk"
+            ],
+            "description": "The Anniversary Event has been extended an extra week until July 14th 11AM ET!<br/><br/><u><b><a href=\"event:https://deadbydaylight.com/en/news/dead-by-daylight-4th-anniversary-announcement\"><font color=\"#ff0000\"><u>Click HERE for more information about the event.</u></font></a></b></u><br/><br/>To help keep the 4th anniversary party going&#44; any player logging in before the above date will receive 444,444 Bloodpoints for FREE!",
+            "dwnImagePath": "",
+            "imageHeight": "",
+            "imagePath": "UI/Icons/NewContentSplash/splashBanner_WK25.png",
+            "isHidden": false,
+            "startDate": "2020-07-07T15:00:00",
+            "title": "ANNIVERSARY EVENT EXTENSION + GIFT",
+            "type": 5,
+            "version": "4.0.2",
+            "weight": 707.0
+        },
+        {
+            "contentTags": [
+                "steam",
+                "xbox",
+                "ps4",
+                "switch",
+                "grdk"
+            ],
+            "description": "The Dead by Daylight team would like your feedback in a Player Satisfaction survey.<br/><br/>We encourage you to be as honest as possible in letting us know how you feel about the game. The information and answers provided are anonymous, not shared with any third-party, and will not be used for purposes other than survey analysis.<br/><br/>Access the survey <a href=\"event:https://www.surveymonkey.com/r/DbD-PSAT\"><font color=\"#ff0000\"><u>HERE!</u></font></a>",
+            "dwnImagePath": "",
+            "imageHeight": "",
+            "imagePath": "UI/Icons/NewContentSplash/splashBanner_events_news.png",
+            "isHidden": false,
+            "startDate": "2020-07-06T17:00:00",
+            "title": "PLAYER SATISFACTION SURVEY",
+            "type": 4,
+            "version": "4.0.2",
+            "weight": 706.0
+        },
+        {
+            "contentTags": [
+                "steam",
+                "grdk"
+            ],
+            "description": "Cross-Friends is now activated for Windows Store and Steam!<br/><br/>Click <a href=\"event:https://forum.deadbydaylight.com/en/discussion/167841\"><font color=\"#ff0000\"><u>HERE</u></font></a> for more information.",
+            "dwnImagePath": "",
+            "imageHeight": "",
+            "imagePath": "UI/Icons/NewContentSplash/splashBanner_news.png",
+            "isHidden": false,
+            "startDate": "2020-07-06T15:00:00",
+            "title": "CROSS-FRIENDS BETA ACTIVE ON PC",
+            "type": 4,
+            "version": "4.0.2",
+            "weight": 695.0
+        },
+        {
+            "contentTags": [
+                "steam",
+                "xbox",
+                "ps4",
+                "switch",
+                "grdk"
+            ],
+            "description": "<u><b>The Rift for Tome III will close on July 8th.</b></u><br/><br/>For those without a Rift Pass&#44; this will be the last chance to unlock it and claim any rewards you\u2019ve earned on the Premium track.<br/><br/>Once the Rift closes&#44; the below will come into effect:<br/><br/><ul><li>Challenges&#44; Entries&#44; and Bloodpoints from Tome III will remain available permanently after this date but will no longer award Rift Fragments. Once the next Tome begins&#44; Tome III will be available in the Compendium section.</li><li>Player Level XP will stop awarding Rift Fragments.</li><li>Unclaimed rewards from the Rift will be automatically claimed on your next launch of the game or tally screen, whichever comes first.</li></ul><br/><br/>Stay tuned for Tome IV to arrive with Mid-Chapter 16.5!",
+            "dwnImagePath": "",
+            "imageHeight": "",
+            "imagePath": "UI/Icons/NewContentSplash/splashBanner_ARC2.png",
+            "isHidden": false,
+            "startDate": "2020-07-03T15:00:00",
+            "title": "THE RIFT CLOSES IN 1 WEEK",
+            "type": 4,
+            "version": "4.0.2",
+            "weight": 691.0
+        },
+        {
+            "contentTags": [
+                "xbox",
+                "ps4",
+                "switch"
+            ],
+            "description": "<span class=\"Heading2\">BALANCE</span><br/><br/><li>Removed the ability for The Executioner to see the auras of Cages of Atonement and survivors inside them</li><li>The Cage of Atonement will now despawn if The Executioner spends longer than 1 second within a 5 meter radius of it. The Cage of Atonement (and the survivor inside it) will respawn in a new location. Survivors performing rescues will pause the timer.</li><br/><br/><span class=\"Heading2\">BUG FIXES</span><br/><br/><li>Fixed an issue that caused the Healthy Obsession achievement to not earn any progress when healing a Survivor marked as the Obsession.</li><li>Fixed an issue that caused the perk Kindred to activate when being sent to a Cage of Atonement.</li><li>Midwich Elementary School: Fixed an issue that caused the entity blockers created by the Blood Warden perk to not prevent the Survivors from escaping.</li><li>Fixed an issue that prevented the profile from showing up when selecting another players profile while on the tally screen.</li><li>Fixed an issue that would trigger the Midwich siren when Spectating another Survivor opening the Exit gates on different maps.</li><li>Fixed an issue that caused the Forced Penance perk to trigger a placeholder string when hitting a Survivor that is taking a protection hit.</li><li>Fixed an issue that caused the Executioner to turn while performing his ranged attack&#44; causing the ranged attack to go off in a direction he is no longer facing in.</li><li>Fixed an issue that caused the Adrenaline perk to trigger and provide a haste buff while the Survivor is still locked in a Cage of Atonement.</li><li>Fixed missing audio when a Survivor is rescued from a Cage of Atonement.</li><li>Fixed an issue that caused the face of David King to look distorted to various degrees when playing.</li><li>Fixed an issue that caused the a placeholder string to show up when rescuing a Survivor from a Cage of Atonement.</li><li>Fixed an issue that cause a loss of the Bloodpoints when purchased from the Shrine of Secrets while in a Custom Game Lobby.</li><li>Midwich Elementary School: Fixed missing texture on top of a table.</li><li>Midwich Elementary School: Fixed an issue that caused the Nurse to be able to Blink out of world.</li><li>Midwich Elementary School: Fixed an invisible collision for the Killer next to the Gore Pile on top of the stair case.</li><li>Gideon Meat Plant: Fixed an issue that caused survivors to be able to reach a safe spot after vaulting from the balcony.</li><li>Midwich Elementary School: Fixed an issue that caused the Killer to be unable to break pallets from one side.</li><li>The Executioner: Fixed an issue that caused the trail to rise above certain collisions instead of going through.</li><li>The Legion: Fixed an issue that caused the Party Crasher outfits to look extremely bright.</li><li>Thompson House: Fixed an issue that caused traps placed on the stairs to not activate when a Survivor walked or ran near it.</li><li>Fixed an issue that would sometimes show the Survivors floating above the hook.</li><li>Fixed an issue that caused kills from a Cage of Atonement to fail to award progress for Archive challenges which required to kill by any means.</li><li>Fixed an issue that caused the Killer stain to not be visible on certain surfaces.</li><li>The Executioner: Fixed an issue that failed to trigger a noise indicator when a Survivor is rescued from a Cage of Atonement.</li><li>Fixed an issue that someimes cause the Exit Gate to appear closed after it has been opened by the Killer.</li><li>Midwich Elementary School: Fixed an issue that allowed the Killer to stalk a Survivor hidden behind an opened school locker door.</li><li>Fixed the animation of the Survivor in a Cage of Atonement when the rescuer is being interrupted by the Killer.</li><li>Midwich Elementary School: Fixed an issue that caused Bear traps to be triggered when walking underneath them.</li><li>The Executioner: Fixed an issue that caused the weapon to clip through windows when vaulting.</li><li>Badham Preschool: Fixed an issue that prevented Killers to pick up Survivors in a corner of the boiler room.</li><li>Mount Ormond Resort: Fixed a totem on the second floor that couldn\u2019t be cleansed.</li><li>Midwich Elementary School: Fixed missing audio of walking footsteps.</li><li>The Oni: Fixed an issue that prevented Blood Fury from activating if the power meter was filled up while carrying a Survivor.</li><li>The Executioner: Fixed an issue that would sometimes allow the Executioner to avoid a pallet stun by cancelling the Rites of Judgment into an attack.</li><li>Fixed an issue that caused the perk Spies from the Shadow to have no cooldown.</li><li>Added additional instructions to the customization and store tooltips to clarify that Outfit Sets cannot be mixed with other cosmetic pieces.</li><li>Midwich Elementary School: Fixed an issue that could spawn the hatch under a gore pile.</li><li>The Underground Complex: Fixed an invisible collision between the scaffolding in the storage room.</li><li>The Nightmare: Fixed an issue that caused Dream Snares to not Hinder Survivors who walk on it.</li><li>Midwich Elementary School: Fixed a vaulting asset that could be walked on by falling from the second floor.</li><li>The Executioner: Fixed the walking animation in order to correspond with his movement speed.</li><li>Fixed an display issue that wouldn\u2019t show the barbed wire vignette to spectators when a Survivor is afflicted with Agony.</li><li>The Hillbilly: Fixed the chainsaw audio loops.</li><li>The Hillbilly: Fixed an issue that caused the chainsaw to sometimes miss the hit detection. </li><li>Fixed an issue that caused the Konami Code to not work on Console.</li><li>Fixed an issue that caused the Ghastly Gateau to incorrectly award 140% instead of 104%.</li><li>Fixed an issue that caused the Ghastly Gateau to not stack the bonus bloodpoints with other Bonuses.</li><li>Fixed an issue that would prevent some players from earning the Anniversary Crowns despite escaping with the Crown.",
+            "dwnImagePath": "",
+            "imageHeight": "",
+            "imagePath": "",
+            "isHidden": false,
+            "startDate": "2020-07-02T15:00:00",
+            "title": "4.0.2 Patch Notes",
+            "type": 3,
+            "version": "4.0.2",
+            "weight": 690.0
+        },
+        {
+            "contentTags": [
+                "steam",
+                "grdk"
+            ],
+            "description": "<span class=\"Heading2\">BALANCE</span><br/><br/><li>Removed the ability for The Executioner to see the auras of Cages of Atonement and survivors inside them</li><li>The Cage of Atonement will now despawn if The Executioner spends longer than 1 second within a 5 meter radius of it. The Cage of Atonement (and the survivor inside it) will respawn in a new location. Survivors performing rescues will pause the timer.</li><br/><br/><span class=\"Heading2\">BUG FIXES</span><br/><br/><li>Fixed an issue that caused the Healthy Obsession achievement to not earn any progress when healing a Survivor marked as the Obsession.</li><li>Fixed an issue that caused the perk Kindred to activate when being sent to a Cage of Atonement.</li><li>Midwich Elementary School: Fixed an issue that caused the entity blockers created by the Blood Warden perk to not prevent the Survivors from escaping.</li><li>Fixed an issue that prevented the profile from showing up when selecting another players profile while on the tally screen.</li><li>Fixed an issue that would trigger the Midwich siren when Spectating another Survivor opening the Exit gates on different maps.</li><li>Fixed an issue that caused the Forced Penance perk to trigger a placeholder string when hitting a Survivor that is taking a protection hit.</li><li>Fixed an issue that caused the Executioner to turn while performing his ranged attack&#44; causing the ranged attack to go off in a direction he is no longer facing in.</li><li>Fixed an issue that caused the Adrenaline perk to trigger and provide a haste buff while the Survivor is still locked in a Cage of Atonement.</li><li>Fixed missing audio when a Survivor is rescued from a Cage of Atonement.</li><li>Fixed an issue that caused the face of David King to look distorted to various degrees when playing.</li><li>Fixed an issue that caused the a placeholder string to show up when rescuing a Survivor from a Cage of Atonement.</li><li>Fixed an issue that cause a loss of the Bloodpoints when purchased from the Shrine of Secrets while in a Custom Game Lobby.</li><li>Midwich Elementary School: Fixed missing texture on top of a table.</li><li>Midwich Elementary School: Fixed an issue that caused the Nurse to be able to Blink out of world.</li><li>Midwich Elementary School: Fixed an invisible collision for the Killer next to the Gore Pile on top of the stair case.</li><li>Gideon Meat Plant: Fixed an issue that caused survivors to be able to reach a safe spot after vaulting from the balcony.</li><li>Midwich Elementary School: Fixed an issue that caused the Killer to be unable to break pallets from one side.</li><li>The Executioner: Fixed an issue that caused the trail to rise above certain collisions instead of going through.</li><li>The Legion: Fixed an issue that caused the Party Crasher outfits to look extremely bright.</li><li>Thompson House: Fixed an issue that caused traps placed on the stairs to not activate when a Survivor walked or ran near it.</li><li>Fixed an issue that would sometimes show the Survivors floating above the hook.</li><li>Fixed an issue that caused kills from a Cage of Atonement to fail to award progress for Archive challenges which required to kill by any means.</li><li>Fixed an issue that caused the Killer stain to not be visible on certain surfaces.</li><li>The Executioner: Fixed an issue that failed to trigger a noise indicator when a Survivor is rescued from a Cage of Atonement.</li><li>Fixed an issue that someimes cause the Exit Gate to appear closed after it has been opened by the Killer.</li><li>Midwich Elementary School: Fixed an issue that allowed the Killer to stalk a Survivor hidden behind an opened school locker door.</li><li>Fixed the animation of the Survivor in a Cage of Atonement when the rescuer is being interrupted by the Killer.</li><li>Midwich Elementary School: Fixed an issue that caused Bear traps to be triggered when walking underneath them.</li><li>The Executioner: Fixed an issue that caused the weapon to clip through windows when vaulting.</li><li>Badham Preschool: Fixed an issue that prevented Killers to pick up Survivors in a corner of the boiler room.</li><li>Mount Ormond Resort: Fixed a totem on the second floor that couldn\u2019t be cleansed.</li><li>Midwich Elementary School: Fixed missing audio of walking footsteps.</li><li>The Oni: Fixed an issue that prevented Blood Fury from activating if the power meter was filled up while carrying a Survivor.</li><li>The Executioner: Fixed an issue that would sometimes allow the Executioner to avoid a pallet stun by cancelling the Rites of Judgment into an attack.</li><li>Fixed an issue that caused the perk Spies from the Shadow to have no cooldown.</li><li>Added additional instructions to the customization and store tooltips to clarify that Outfit Sets cannot be mixed with other cosmetic pieces.</li><li>Midwich Elementary School: Fixed an issue that could spawn the hatch under a gore pile.</li><li>The Underground Complex: Fixed an invisible collision between the scaffolding in the storage room.</li><li>The Nightmare: Fixed an issue that caused Dream Snares to not Hinder Survivors who walk on it.</li><li>Midwich Elementary School: Fixed a vaulting asset that could be walked on by falling from the second floor.</li><li>The Executioner: Fixed the walking animation in order to correspond with his movement speed.</li><li>Fixed an display issue that wouldn\u2019t show the barbed wire vignette to spectators when a Survivor is afflicted with Agony.</li><li>The Hillbilly: Fixed the chainsaw audio loops.</li><li>The Hillbilly: Fixed an issue that caused the chainsaw to sometimes miss the hit detection.</li><li>Fixed an issue that caused the Ghastly Gateau to incorrectly award 140% instead of 104%.</li><li>Fixed an issue that caused the Ghastly Gateau to not stack the bonus bloodpoints with other Bonuses.</li><li>Fixed an issue that would prevent some players from earning the Anniversary Crowns despite escaping with the Crown.",
+            "dwnImagePath": "",
+            "imageHeight": "",
+            "imagePath": "",
+            "isHidden": false,
+            "startDate": "2020-07-02T15:00:00",
+            "title": "4.0.2 Patch Notes",
+            "type": 3,
+            "version": "4.0.2",
+            "weight": 689.0
+        },
+        {
+            "contentTags": [
+                "steam",
+                "xbox",
+                "ps4",
+                "switch",
+                "grdk"
+            ],
+            "description": "As we released the event this week&#44; it\u2019s been brought to our attention that some issues were occurring with the Ghastly Gateau Offering and Crown of the Entity cosmetics. To make sure everyone is able to enjoy the 4th Anniversary event&#44; we have decided to extend the event and offer a one-time additional Bloodpoint login bonus.<br/><br/>Changes to the Event<li>The event is extended to July 14th&#44; 2020 11AM ET</li><li>A one-time bonus Bloodpoint will be available on login between July 7th 11AM ET and July 14th 11AM ET</li><br/><br/>Known Issues Status<br/>We are aiming for a hotfix for the Ghastly Gateau Offering and Konami code late next week.<li>Ghastly Gateau stacking issue will be fixed in the next hotfix</li><li>Ghastly Gateau Bloodpoint bonus will be fixed from 140% to 104% in the next hotfix</li><li>Players sometimes are unable to unlock crowns (Still under investigation)</li><br/><br/>Thank you to players who have reported the issues and sent information&#44; this helps us continue our internal investigations as we work towards a fix for the remaining issue with the Crown of the Entity.",
             "dwnImagePath": "",
             "imageHeight": "",
             "imagePath": "",
@@ -16,15 +190,33 @@
             "startDate": "2020-06-26T15:00:00",
             "title": "4th ANNIVERSARY CHANGES AND HOTFIX",
             "type": "DEV_NOTE",
-            "version": "4.0.1",
-            "weight": 685.0
+            "version": "4.0.0",
+            "weight": 687.0
         },
         {
             "contentTags": [
                 "steam",
+                "xbox",
+                "ps4",
+                "switch",
+                "grdk"
+            ],
+            "description": "A terrible darkness has been conjured from the abyss to exact punishment on the guilty.<br/><br/>Available in the store:<br/><li><b>The Executioner:</b> The Corrupted",
+            "dwnImagePath": "",
+            "imageHeight": "",
+            "imagePath": "UI/Icons/NewContentSplash/splashBanner_WK20.png",
+            "isHidden": false,
+            "startDate": "2020-06-23T13:00:00",
+            "title": "DARK WISH COLLECTION",
+            "type": 2,
+            "version": "4.0.0",
+            "weight": 678.0
+        },
+        {
+            "contentTags": [
                 "ps4"
             ],
-            "description": "<span class=\"Heading2\">BUG FIXES</span><br/><br/><li>Fixed an issue that caused the Healthy Obsession achievement to not earn any progress when healing a Survivor marked as the Obsession.</li><li>Fixed an issue that caused the perk Kindred to activate when being sent to a Cage of Atonement.</li><li>Midwich Elementary School: Fixed an issue that caused the entity blockers created by the Blood Warden perk to not prevent the Survivors from escaping.</li><li>Fixed an issue that prevented the profile from showing up when selecting another players profile while on the tally screen.</li><li>Fixed an issue that would trigger the Midwich siren when Spectating another Survivor opening the Exit gates on different maps.</li><li>Fixed an issue that caused the Forced Penance perk to trigger a placeholder string when hitting a Survivor that is taking a protection hit.</li><li>Fixed an issue that caused the Executioner to turn while performing his ranged attack, causing the ranged attack to go off in a direction he is no longer facing in.</li><li>Fixed an issue that caused the Adrenaline perk to trigger and provide a haste buff while the Survivor is still locked in a Cage of Atonement.</li><li>Fixed missing audio when a Survivor is rescued from a Cage of Atonement.</li><li>Fixed an issue that caused the face of David King to look distorted to various degrees when playing.</li><li>Fixed an issue that caused the a placeholder string to show up when rescuing a Survivor from a Cage of Atonement.</li><li> Fixed an issue that cause a loss of the Bloodpoints when purchased from the Shrine of Secrets while in a Custom Game Lobby.</li><li>Midwich Elementary School: Fixed missing texture on top of a table.</li><li>Midwich Elementary School: Fixed an issue that caused the Nurse to be able to Blink out of world.</li><li>Midwich Elementary School: Fixed an invisible collision for the Killer next to the Gore Pile on top of the stair case.</li><li>Gideon Meat Plant: Fixed an issue that caused survivors to be able to reach a safe spot after vaulting from the balcony.</li><li>Midwich Elementary School: Fixed an issue that caused the Killer to be unable to break pallets from one side.</li><li>The Executioner: Fixed an issue that caused the trail to rise above certain collisions instead of going through.</li><li>The Legion: Fixed an issue that caused the Party Crasher outfits to look extremely bright.</li><li>Thompson House: Fixed an issue that caused traps placed on the stairs to not activate when a Survivor walked or ran near it.</li><li>Fixed an issue that would sometimes show the Survivors floating above the hook.</li>Fixed an issue that caused Kills from death beds to fail to award progress for Archive challenges which required to kill by any means.</li><li> Fixed an issue that caused the Killer stain to not be visible on certain surfaces.</li><li>The Executioner: Fixed an issue that failed to trigger a noise indicator when a Survivor is rescued from a Cage of Atonement.</li><li>Fixed an issue that sometimes cause the Exit Gate to appear closed after it has been opened by the Killer.</li><li>Midwich Elementary School: Fixed an issue that allowed the Killer to stalk a Survivor hidden behind an opened school locker door.</li><li>Fixed the animation of the Survivor in a Cage of Atonement when the rescuer is being interrupted by the Killer.</li><li>Midwich Elementary School: Fixed an issue that caused Bear traps to be triggered when walking underneath them.</li><li>The Executioner: Fixed an issue that caused the weapon to clip through windows when vaulting.",
+            "description": "<span class=\"Heading2\">BUG FIXES</span><br/><br/><li>Fixed an issue that caused the Healthy Obsession achievement to not earn any progress when healing a Survivor marked as the Obsession.</li><li>Fixed an issue that caused the perk Kindred to activate when being sent to a Cage of Atonement.</li><li>Midwich Elementary School: Fixed an issue that caused the entity blockers created by the Blood Warden perk to not prevent the Survivors from escaping.</li><li>Fixed an issue that prevented the profile from showing up when selecting another players profile while on the tally screen.</li><li>Fixed an issue that would trigger the Midwich siren when Spectating another Survivor opening the Exit gates on different maps.</li><li>Fixed an issue that caused the Forced Penance perk to trigger a placeholder string when hitting a Survivor that is taking a protection hit.</li><li>Fixed an issue that caused the Executioner to turn while performing his ranged attack, causing the ranged attack to go off in a direction he is no longer facing in.</li><li>Fixed an issue that caused the Adrenaline perk to trigger and provide a haste buff while the Survivor is still locked in a Cage of Atonement.</li><li>Fixed missing audio when a Survivor is rescued from a Cage of Atonement.</li><li>Fixed an issue that caused the face of David King to look distorted to various degrees when playing.</li><li>Fixed an issue that caused the a placeholder string to show up when rescuing a Survivor from a Cage of Atonement.</li><li> Fixed an issue that cause a loss of the Bloodpoints when purchased from the Shrine of Secrets while in a Custom Game Lobby.</li><li>Midwich Elementary School: Fixed missing texture on top of a table.</li><li>Midwich Elementary School: Fixed an issue that caused the Nurse to be able to Blink out of world.</li><li>Midwich Elementary School: Fixed an invisible collision for the Killer next to the Gore Pile on top of the stair case.</li><li>Gideon Meat Plant: Fixed an issue that caused survivors to be able to reach a safe spot after vaulting from the balcony.</li><li>Midwich Elementary School: Fixed an issue that caused the Killer to be unable to break pallets from one side.</li><li>The Executioner: Fixed an issue that caused the trail to rise above certain collisions instead of going through.</li><li>The Legion: Fixed an issue that caused the Party Crasher outfits to look extremely bright.</li><li>Thompson House: Fixed an issue that caused traps placed on the stairs to not activate when a Survivor walked or ran near it.</li><li>Fixed an issue that would sometimes show the Survivors floating above the hook.</li><li>Fixed an issue that caused Kills from death beds to fail to award progress for Archive challenges which required to kill by any means.</li><li>Fixed an issue that caused the Killer stain to not be visible on certain surfaces.</li><li>The Executioner: Fixed an issue that failed to trigger a noise indicator when a Survivor is rescued from a Cage of Atonement.</li><li>Fixed an issue that sometimes cause the Exit Gate to appear closed after it has been opened by the Killer.</li><li>Midwich Elementary School: Fixed an issue that allowed the Killer to stalk a Survivor hidden behind an opened school locker door.</li><li>Fixed the animation of the Survivor in a Cage of Atonement when the rescuer is being interrupted by the Killer.</li><li>Midwich Elementary School: Fixed an issue that caused Bear traps to be triggered when walking underneath them.</li><li>The Executioner: Fixed an issue that caused the weapon to clip through windows when vaulting.",
             "dwnImagePath": "",
             "imageHeight": "",
             "imagePath": "",
@@ -48,7 +240,7 @@
             "imageHeight": "",
             "imagePath": "UI/Icons/NewContentSplash/splashBanner_WK24.png",
             "isHidden": false,
-            "startDate": "2020-06-23T15:00:00",
+            "startDate": "2020-06-23T13:00:00",
             "title": "4TH ANNIVERSARY EVENT",
             "type": 2,
             "version": "4.0.0",
@@ -69,7 +261,7 @@
             "isHidden": false,
             "startDate": "2020-06-22T15:00:00",
             "title": "Unlocking Event Cosmetics",
-            "type": "DEV_NOTE",
+            "type": 2,
             "version": "4.0.0",
             "weight": 675.0
         },
@@ -81,7 +273,7 @@
                 "switch",
                 "grdk"
             ],
-            "description": "Like all esle&#44; memories of innocence become lost in time&#44; just beyond reach.<br/><br/>Available in the store:<br/><li><b>Cheryl Mason:</b> Alessa Gillespie",
+            "description": "Like all else&#44; memories of innocence become lost in time&#44; just beyond reach.<br/><br/>Available in the store:<br/><li><b>Cheryl Mason:</b> Alessa Gillespie",
             "dwnImagePath": "",
             "imageHeight": "",
             "imagePath": "UI/Icons/NewContentSplash/splashBanner_WS22_01.png",
@@ -90,7 +282,7 @@
             "title": "REINCARNATION COLLECTION",
             "type": 2,
             "version": "4.0.0",
-            "weight": 671.0
+            "weight": 672.0
         },
         {
             "contentTags": [
@@ -109,7 +301,7 @@
             "title": "SILENT HILL LEGENDS COLLECTION",
             "type": 2,
             "version": "4.0.0",
-            "weight": 670.0
+            "weight": 673.0
         },
         {
             "contentTags": [
@@ -128,7 +320,7 @@
             "title": "BLOODPOINT LOGIN GIFTS",
             "type": 2,
             "version": "4.0.0",
-            "weight": 661.0
+            "weight": 670.0
         },
         {
             "contentTags": [
@@ -138,12 +330,12 @@
                 "switch",
                 "grdk"
             ],
-            "description": "Find redemption or inflict punishment with the Silent Hill chapter.<br/><br/>The new Killer is The Executioner: take control of Pyramid Head and wield his great knife to unleash his twisted brand of punishment on all who cross him.<br/><br/>Cheryl Mason&#44; the newest Survivor&#44; is a courageous&#44; outspoken woman who survived the hellish Otherworld of Silent Hill&#44; and exacted revenge on the Order that killed her father. With experience beyond her years&#44; she\u2019s prepared to once again stand against any evil that confronts her.<br/>The Silent Hill Chapter includes:<br/><li>A new Killer: The Executioner</li><li>A new Survivor: Cheryl Mason</li><li>An exclusive Universal Charm: The Seal of Metatron</li><br/>Available to all playerts is also the new Chapter map: Midwich Elementary School. The chance of being sent to Midwich Elementary School will be increased for the first week of its release.<br/>Please note that there will be a delay between the Silent Hill characters being available via our in-game sttore and the full DLC package. Should you purchase a single character via our store&#44; you will not receive the DLC exclusive item. We also remind you that in-game store purchases are non-refundable.",
+            "description": "Find redemption or inflict punishment with the Silent Hill chapter.<br/><br/>The new Killer is The Executioner: take control of Pyramid Head and wield his great knife to unleash his twisted brand of punishment on all who cross him.<br/><br/>Cheryl Mason&#44; the newest Survivor&#44; is a courageous&#44; outspoken woman who survived the hellish Otherworld of Silent Hill&#44; and exacted revenge on the Order that killed her father. With experience beyond her years&#44; she\u2019s prepared to once again stand against any evil that confronts her.<br/>The Silent Hill Chapter includes:<br/><li>A new Killer: The Executioner</li><li>A new Survivor: Cheryl Mason</li><li>An exclusive Universal Charm: The Seal of Metatron</li><br/>Available to all players is also the new Chapter map: Midwich Elementary School. The chance of being sent to Midwich Elementary School will be increased for the first week of its release.<br/>Please note that there will be a delay between the Silent Hill characters being available via our in-game sttore and the full DLC package. Should you purchase a single character via our store&#44; you will not receive the DLC exclusive item. We also remind you that in-game store purchases are non-refundable.",
             "dwnImagePath": "",
             "imageHeight": "",
             "imagePath": "UI/Icons/NewContentSplash/splashBanner_WK26.png",
             "isHidden": false,
-            "startDate": "2020-06-16T14:00:00",
+            "startDate": "2020-06-16T15:00:00",
             "title": "Silent Hill Chapter Release",
             "type": 2,
             "version": "4.0.0",
@@ -157,12 +349,12 @@
                 "switch",
                 "grdk"
             ],
-            "description": "Find redemption or inflict punishment with the Silent Hill chapter.<br/>The Entiry welcomes Silent Hill into the fog. Watch the Collection <a href=\"event:https://youtu.be/H_s0TVpJw9Y\"><font color=\"#ff0000\"><u>Trailer!</u></font></a> and discover the Silent Hill Collection in the store now:<br/><li>The Executioner: The Corrupted</li><li>Cheryl Mason: Lisa Garland&#44; Alessa Gillespie</li><li>The Legion: Lost Mascot (Frank&#44; Julie&#44; Suzie&#44; Joey)",
+            "description": "Find redemption or inflict punishment with the Silent Hill chapter.<br/>The Entity welcomes Silent Hill into the fog. Watch the Collection <a href=\"event:https://youtu.be/H_s0TVpJw9Y\"><font color=\"#ff0000\"><u>Trailer</u></font></a> and discover the Silent Hill Collection in the store now:<br/><li>The Executioner: The Corrupted</li><li>Cheryl Mason: Lisa Garland&#44; Alessa Gillespie</li><li>The Legion: Lost Mascot (Frank&#44; Julie&#44; Suzie&#44; Joey)",
             "dwnImagePath": "",
             "imageHeight": "",
             "imagePath": "UI/Icons/NewContentSplash/splashBanner_WK23.png",
             "isHidden": false,
-            "startDate": "2020-06-16T14:00:00",
+            "startDate": "2020-06-16T15:00:00",
             "title": "SILENT HILL COLLECTION",
             "type": 2,
             "version": "4.0.0",
@@ -176,12 +368,12 @@
                 "switch",
                 "grdk"
             ],
-            "description": "<span class=\"Heading2\">FEATURES & CONTENT</span><li>Added Sets (2 or more linked Customization pieces that are always equipped together)</li><li>Added a new Rarity for Customizations (Legendary)</li><li>Added a new Killer: The Executioner</li><li>Added a new Survivor (Cheryl Mason)</li><li>Added a New Map (Midwich Elementary School)</li><li>Added the ability to sort a characters Customization Inventory by rarity&#44; outfit&#44; or item name.</li><li>Adjusted the user interface layout scaling to better accommodate 4k resolution screens.</li><li>Added Block feature to Tally Screen allowing to prevent someone from sending friends invite.</li><br/><br/><span class=\"Heading2\">BALANCE</span><br/><li>Clown: No longer slowed when throwing bottles</li><li>The Shape: Evil Within extending add-ons only increase the required stalking amount on the first activation of Evil Within III. The text of these add-ons has been adjusted to describe this behavior correctly.</li><br/><br/> You can read the full patch notes on our official forums  <a href=\"event:https://forum.deadbydaylight.com/en/kb/patchnotes\"><font color=\"#ff0000\"><u>HERE!</u></font></a> <br/><br/>-The Dead by Daylight Team",
+            "description": "<span class=\"Heading2\">FEATURES & CONTENT</span><li>Added Sets (2 or more linked Customization pieces that are always equipped together)</li><li>Added a new Rarity for Customizations (Legendary)</li><li>Added a new Killer (The Executioner)</li><li>Added a new Survivor (Cheryl Mason)</li><li>Added a New Map (Midwich Elementary School)</li><li>Added the ability to sort a characters Customization Inventory by rarity&#44; outfit&#44; or item name.</li><li>Adjusted the user interface layout scaling to better accommodate 4k resolution screens.</li><li>Added Block feature to Tally Screen allowing to prevent someone from sending friends invite.</li><br/><br/><span class=\"Heading2\">BALANCE</span><br/><li>Clown: No longer slowed when throwing bottles</li><li>The Shape: Evil Within extending add-ons only increase the required stalking amount on the first activation of Evil Within III. The text of these add-ons has been adjusted to describe this behavior correctly.</li><br/><br/> You can read the full patch notes on our official forums  <a href=\"event:https://forum.deadbydaylight.com/en/kb/patchnotes\"><font color=\"#ff0000\"><u>HERE!</u></font></a> <br/><br/>-The Dead by Daylight Team",
             "dwnImagePath": "",
             "imageHeight": "",
             "imagePath": "",
             "isHidden": false,
-            "startDate": "2020-06-16T14:00:00",
+            "startDate": "2020-06-16T15:00:00",
             "title": "4.0.0 Patch Notes",
             "type": 2,
             "version": "4.0.0",
@@ -195,12 +387,12 @@
                 "switch",
                 "grdk"
             ],
-            "description": "The Rift for Tome III will close on July 8th.<br/><br/>For Those without a Rift Pass&#44; this will be the last chance to unlock it and claim any rewards you\u2019ve earned on the Premium track.<br/><br/>Once the Rift closes&#44; the below will come into effect:<br/><li>Challenges&#44;Entries&#44; and Bloodpoints from Tome III will remain available permanently after this date but will no longer award Rift Fragments. Once the next Tome begins&#44; Tome III will be available in the Compendium section.</li><li>Player Level XP will stop awarding Rift Fragments.</li><li>Unclaimed rewards from the Rift will be automatically claimed on your next launch of the game or tally screen&#44; whichever comes first.",
+            "description": "The Rift for Tome III will close on July 8th.<br/><br/>For Those without a Rift Pass&#44; this will be the last chance to unlock it and claim any rewards you\u2019ve earned on the Premium track.<br/><br/>Once the Rift closes&#44; the below will come into effect:<br/><li>Challenges&#44; Entries&#44; and Bloodpoints from Tome III will remain available permanently after this date but will no longer award Rift Fragments. Once the next Tome begins&#44; Tome III will be available in the Compendium section.</li><li>Player Level XP will stop awarding Rift Fragments.</li><li>Unclaimed rewards from the Rift will be automatically claimed on your next launch of the game or tally screen&#44; whichever comes first.",
             "dwnImagePath": "",
             "imageHeight": "",
-            "imagePath": "UI/Icons/NewContentSplash/splashBanner_VARC.png",
+            "imagePath": "",
             "isHidden": false,
-            "startDate": "2020-06-05T15:00:00",
+            "startDate": "2020-07-01T15:00:00",
             "title": "THE RIFT CLOSES IN 1 WEEK",
             "type": 2,
             "version": "4.0.0",
@@ -214,12 +406,12 @@
                 "switch",
                 "grdk"
             ],
-            "description": "Level IV of Tome III is now available! With it comes the below: <br/><li>24 Challenges (incl. 12 Master Challenges)</li><li>12 Memory and Log Entries (including the final entry for the Legion\u2019s Soldiers of Mayhem)</li><li>More Bloodpoints</li><br/>To access Level IV&#44; you must have reached the Epilogue node of Level III with either role.",
+            "description": "Level IV of Tome III is now available! With it comes the below:<br/><br/><li>24 Challenges (incl. 12 Master Challenges)</li><li>12 Memory and Log Entries (including the final entry for the Legion\u2019s Soldiers of Mayhem)</li><li>More Bloodpoints</li><br/>To access Level IV&#44; you must have reached the Epilogue node of Level III with either role.",
             "dwnImagePath": "",
             "imageHeight": "",
             "imagePath": "UI/Icons/NewContentSplash/splashBanner_VARC.png",
             "isHidden": false,
-            "startDate": "2020-06-05T15:00:00",
+            "startDate": "2020-06-17T15:00:00",
             "title": "THE LEGION\u2019S SOLDIER\u2019S OF MAYEM",
             "type": 2,
             "version": "4.0.0",
@@ -233,7 +425,7 @@
                 "switch",
                 "grdk"
             ],
-            "description": "The Doctor will see you in just a moment. He is just washing up from his last patient.<br/><br/>Now available in the store:<br/><li>The Doctor: Test Subject 1",
+            "description": "The Doctor will see you in just a moment. He is just washing up from his last patient.<br/><br/>Now available in the store:<br/><br/><li>The Doctor: Test Subject 1",
             "dwnImagePath": "",
             "imageHeight": "",
             "imagePath": "UI/Icons/NewContentSplash/splashBanner_VD.png",
@@ -265,28 +457,13 @@
         },
         {
             "contentTags": [
-                "steam"
-            ],
-            "description": "You can read the full patch notes on our official forums  <a href=\"event:https://forum.deadbydaylight.com/en/kb/patchnotes\"><font color=\"#ff0000\"><u>HERE!</u></font></a> <br/><br/>-The Dead by Daylight Team",
-            "dwnImagePath": "",
-            "imageHeight": "",
-            "imagePath": "",
-            "isHidden": false,
-            "startDate": "2020-05-26T15:00:00",
-            "title": "4.0.0 PTB Patch Notes",
-            "type": 3,
-            "version": "4.0.0",
-            "weight": 645.0
-        },
-        {
-            "contentTags": [
                 "steam",
                 "xbox",
                 "ps4",
                 "switch",
                 "grdk"
             ],
-            "description": "Jake and Claudette got a lot more than they bargained for during their log cabin getaway. Looks like \u2019kicking back\u2019 just took on a whole new meaning!",
+            "description": "Jake and Claudette got a lot more than they bargained for during their log cabin getaway. Looks like \u2019kicking back\u2019 just took on a whole new meaning!<br/><br/>Now available in the store:<li>Claudette: Chalet Getaway</li><li>Jake: Woodworker</li>",
             "dwnImagePath": "",
             "imageHeight": "",
             "imagePath": "UI/Icons/NewContentSplash/splashBanner_VJC.png",
@@ -294,8 +471,8 @@
             "startDate": "2020-05-22T15:00:00",
             "title": "LOG CABIN COLLECTION",
             "type": 2,
-            "version": ".3.7.2",
-            "weight": 640.0
+            "version": "3.7.2",
+            "weight": 641.0
         },
         {
             "contentTags": [
@@ -324,7 +501,7 @@
                 "switch",
                 "grdk"
             ],
-            "description": "Level II of Tome III is now available! With it comes the below:<li>23 Challenges (incl. 10 Master Challenges)</li><li>10 Memory and Log Entries (including the final entry for The Huntress\u2019: A Lovely War)</li><li>More Bloodpoints.</li><br>To access Level II&#44; you must have reached the Epilogue node of Level I with either role.",
+            "description": "Level II of Tome III is now available! With it comes the below:<li>23 Challenges (incl. 10 Master Challenges)</li><li>10 Memory and Log Entries (including the final entry for The Huntress\u2019 A Lovely War)</li><li>More Bloodpoints.</li><br>To access Level II&#44; you must have reached the Epilogue node of Level I with either role.",
             "dwnImagePath": "",
             "imageHeight": "",
             "imagePath": "",
@@ -343,7 +520,7 @@
                 "switch",
                 "grdk"
             ],
-            "description": "<span class=\"Heading2\">BUG FIXES</span><br/><br/><li> Fixed an issue that caused Killers or Survivors to be stuck in a dropped pallet location.</li><li>Fixed an issue that caused the user to be stuck when hooking or unhooking a Survivor.</li><li>Fixed an issue that caused Meg to fly off the hook after being hooked a second time in the Tutorial.</li><li>The Cannibal: Fixed an issue that caused the chainsaw SFX to stay active after destroying a pallet.</li><li>Fixed an issue that caused the Entity Blockers to be invisible and have no smoke VFX after vaulting through a window 3 times.</li><li>The Nurse: Fixed an issue that caused the Nurse to be unable to blink in most of the Chapel.</li><li>Fixed an issue that caused the animation of the Hillbilly \u2019s chainsaw attack to display incorrectly when hitting a wall.</li><li>Fixed an issue that caused Stalking as Ghost Face and revealing Ghost Face as a Survivor to be difficult when hiding in tall grass.</li><li>Fixed an issue that caused the Undetectable status to trigger as soon as the Killer stopped moving when using the perk Insidious.</li><li>Fixed an issue that caused the Offerings on the offering screen to be displayed smaller.</li><li>Fixed an issue that caused some generators to be unable to be damaged by the Killer from certain angles.</li><li>The Nightmare: Fixed an issue that caused Pallet remains to not be cleared when the Nightmare puts down a Dream Pallet.</li><li>Fixed an issue that caused the perk Head-On to deactivate if another Survivor is grabbed from a locker.</li><li>Fixed an issue that caused the Huntress\u2019 hatchets\u2019 addon on-hit effects to not work.",
+            "description": "<span class=\"Heading2\">BUG FIXES</span><br/><br/><li>Fixed an issue that caused Killers or Survivors to be stuck in a dropped pallet location.</li><li>Fixed an issue that caused the user to be stuck when hooking or unhooking a Survivor.</li><li>Fixed an issue that caused Meg to fly off the hook after being hooked a second time in the Tutorial.</li><li>The Cannibal: Fixed an issue that caused the chainsaw SFX to stay active after destroying a pallet.</li><li>Fixed an issue that caused the Entity Blockers to be invisible and have no smoke VFX after vaulting through a window 3 times.</li><li>The Nurse: Fixed an issue that caused the Nurse to be unable to blink in most of the Chapel.</li><li>Fixed an issue that caused the animation of the Hillbilly \u2019s chainsaw attack to display incorrectly when hitting a wall.</li><li>Fixed an issue that caused Stalking as Ghost Face and revealing Ghost Face as a Survivor to be difficult when hiding in tall grass.</li><li>Fixed an issue that caused the Undetectable status to trigger as soon as the Killer stopped moving when using the perk Insidious.</li><li>Fixed an issue that caused the Offerings on the offering screen to be displayed smaller.</li><li>Fixed an issue that caused some generators to be unable to be damaged by the Killer from certain angles.</li><li>The Nightmare: Fixed an issue that caused Pallet remains to not be cleared when the Nightmare puts down a Dream Pallet.</li><li>Fixed an issue that caused the perk Head-On to deactivate if another Survivor is grabbed from a locker.</li><li>Fixed an issue that caused the Huntress\u2019 hatchets\u2019 addon on-hit effects to not work.",
             "dwnImagePath": "",
             "imageHeight": "",
             "imagePath": "",
@@ -476,13 +653,13 @@
                 "switch",
                 "grdk"
             ],
-            "description": "The Archives returns with a new Tome&#44; ESCALATION containing new Challenges&#44; new stories and new rewards. Explore the memories of The Huntress&#44; Kate Denson&#44; The Legion (Julie)&#44; Dwight Fairfield while earning memorable outfits and cosmetics.<br/><br/>Level 1: April 29th<br/>Level II: May 13th<br/>Level III: May 27th<br/>Level IV: June 17th<br/><br/> Please note these release dates are subject to change. All Previously unlocked levels will remain available once released but will stop providing Rift Fragments once the relevant Rift has expired.<br/><br/>LIMITED TIME SALE<br/>50% off the below featured characters for Tome III<br/><li>Kate Denson: 250 AC (was 500)</li><li>The Legion: 250 AC (was 500)</li><br/><br/> Discount ends May 8th",
+            "description": "The Archives returns with a new Tome&#44; ESCALATION containing new Challenges&#44; new stories and new rewards. Explore the memories of The Huntress&#44; Kate Denson&#44; The Legion (Julie)&#44; Dwight Fairfield while earning memorable outfits and cosmetics.<br/><br/>Level 1: April 29th<br/>Level II: May 13th<br/>Level III: May 27th<br/>Level IV: June 17th<br/><br/>Please note these release dates are subject to change. All Previously unlocked levels will remain available once released but will stop providing Rift Fragments once the relevant Rift has expired.<br/><br/>LIMITED TIME SALE<br/>50% off the below featured characters for Tome III<br/><li>Kate Denson: 250 AC (was 500)</li><li>The Legion: 250 AC (was 500)</li><br/><br/> Discount ends May 8th",
             "dwnImagePath": "",
             "imageHeight": "",
             "imagePath": "UI/Icons/NewContentSplash/splashBanner_VARC.png",
             "isHidden": false,
             "startDate": "2020-04-28T15:00:00",
-            "title": "eawfa",
+            "title": "Archives Tome III - ESCALATION",
             "type": 2,
             "version": "3.7.0",
             "weight": 618.0
