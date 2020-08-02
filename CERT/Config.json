@@ -1,23 +1,38 @@
 [
     {
-        "value": "0.8",
-        "keyName": "MATCHMAKING_INCENTIVE_LONG_SURVIVOR_RATIO"
+        "value": {
+            "killer": {
+                "acceptable_ratio": 0.4,
+                "moderate_ratio": 0.6,
+                "long_ratio": 0.8
+            },
+            "survivor": {
+                "acceptable_ratio": 0.4,
+                "moderate_ratio": 0.6,
+                "long_ratio": 0.8
+            }
+        },
+        "keyName": "MATCHMAKING_INCENTIVE_CONFIG"
     },
     {
         "value": "false",
         "keyName": "MATCHMAKING_ALLOW_CROSSPLAY"
     },
     {
-        "value": "0.6",
-        "keyName": "MATCHMAKING_INCENTIVE_MODERATE_KILLER_RATIO"
-    },
-    {
         "value": "10",
         "keyName": "SOCIAL_PLATFORM_FRIENDLIST_QUERY_RATE"
     },
     {
-        "value": "0.4",
-        "keyName": "MATCHMAKING_INCENTIVE_ACCEPTABLE_KILLER_RATIO"
+        "value": {
+            "ps4": false,
+            "grdk": true,
+            "android": false,
+            "steam": true,
+            "xbox": false,
+            "ios": false,
+            "switch": false
+        },
+        "keyName": "MATCHMAKING_CROSSPLAY_PLATFORMS"
     },
     {
         "value": {
@@ -60,8 +75,8 @@
         "keyName": "offenceCategories"
     },
     {
-        "value": "0.8",
-        "keyName": "MATCHMAKING_INCENTIVE_LONG_KILLER_RATIO"
+        "value": "true",
+        "keyName": "SEGMENTATION_V2_ENABLED"
     },
     {
         "value": "ianfrederic.dissaux@bhvr.com;remi.veilleux@bhvr.com;stefan.beauchamp-daniel@bhvr.com;alvaro.castro@bhvr.com;fadi.beyrouti@bhvr.com;dev.ops@bhvr.com",
@@ -144,12 +159,10 @@
                 "EACClientInitAnalytics",
                 "EACClientViolationAnalytics",
                 "EACServerValidateAnalytics",
-                "FrameHikeAnalytics",
                 "GameEventLogAnalytics",
                 "GameInitAnalytics",
                 "InvalidLoadoutAnalytics",
                 "LogMirrorsAnalytics",
-                "RTMAnalytics",
                 "S3CommandAnalytics",
                 "S3CommandErrorAnalytics",
                 "SaveGameErrorAnalytics",
@@ -157,6 +170,8 @@
                 "SpecialEventBaseAnalytics"
             ],
             "BL": [
+                "CannibalAnalytics",
+                "HillbillyAnalytics",
                 "MatchmakingApproveLoginAnalytics",
                 "MatchmakingHostCreatedAnalytics",
                 "MatchmakingHostSettingAnalytics",
@@ -166,24 +181,31 @@
                 "MatchmakingSearchParamAnalytics",
                 "MatchmakingSearchResultAnalytics",
                 "MatchmakingSessionSpotReservationAnalytics",
-                "PerformanceChartingAnalytics"
+                "PerformanceChartingAnalytics",
+                "RTMAnalytics"
             ],
-            "KA": [
+            "KAL": [
                 "ChatAnalytics",
+                "DedicatedServerStatusAnalytics",
+                "DetailedHitAnalytics",
                 "DetailedScoreAnalytics",
+                "DisconnectionDetailsAnalytics",
+                "FrameHikeAnalytics",
+                "FranklinsDemiseConsumedItemAnalytics",
+                "FranklinsHitNearDroppedItemAnalytics",
                 "HookAnalytics",
+                "KnockoutSurvivorFoundAnalytics",
+                "LevelLoadingStepAnalytics",
+                "LevelLoadingTimeoutAnalytics",
+                "LightbornAuraRevealedAnalytics",
                 "LoadingStepAnalytics",
                 "LoadingTimeoutAnalytics",
                 "MapCoordAnalytics",
+                "PerformanceAnalytics",
                 "ProceduralGenerationAnalytics",
-                "ScoreAnalytics"
-            ],
-            "KAL": [
-                "DedicatedServerStatusAnalytics",
-                "DisconnectionDetailsAnalytics",
-                "LevelLoadingStepAnalytics",
-                "LevelLoadingTimeoutAnalytics",
-                "PerformanceAnalytics"
+                "ScoreAnalytics",
+                "TinkererUndetectableHitNearGeneratorAnalytics",
+                "TinkererUndetectableInterruptAnalytics"
             ]
         },
         "keyName": "ANALYTICS_RULES_DEDICATED_SERVER"
@@ -202,7 +224,7 @@
         "keyName": "CLIENT_VERSION"
     },
     {
-        "value": "30",
+        "value": "600",
         "keyName": "RICH_PRESENCE_SERVER_TIMER_RATE"
     },
     {
@@ -229,10 +251,6 @@
             }
         },
         "keyName": "CLIENT_VERSION_V2"
-    },
-    {
-        "value": "60",
-        "keyName": "SOCIAL_FRIENDLIST_MANUAL_UPDATE_MIN_DELAY"
     },
     {
         "value": {
@@ -269,22 +287,20 @@
         "keyName": "CDN_ROOT_FOLDER_PATH"
     },
     {
-        "value": "0.6",
-        "keyName": "MATCHMAKING_INCENTIVE_MODERATE_SURVIVOR_RATIO"
-    },
-    {
         "value": {
             "DD": [
                 "AtlantaKillerTutorialAnalytics",
                 "AtlantaPartyGameAnalytics",
                 "AtlantaPerkSelectionAnalytics",
                 "AtlantaPlayerLevelAnalytics",
+                "AtlantaPurchasePopupAnalytics",
                 "AtlantaSessionStartAnalytics",
                 "AtlantaSurvivorTutorialAnalytics",
                 "BloodMarketRefreshAnalytics",
                 "BloodMarketTransactionAnalytics",
                 "DailyCalendarRewardAnalytics",
                 "FreeTicketAnalytics",
+                "MatchmakingIncentiveAnalytics",
                 "MobileBannerClickedAnalytics",
                 "MobileCdnDownloadAnalytics",
                 "MobileLoginAnalytics",
@@ -303,7 +319,6 @@
                 "EntitlementAnalytics",
                 "ErrorAnalytics",
                 "FallOutOfWorldAnalytics",
-                "FrameHikeAnalytics",
                 "GameEventLogAnalytics",
                 "GameInitAnalytics",
                 "HeartbeatPerfAnalytics",
@@ -318,8 +333,6 @@
                 "MatchmakingJoinSessionAnalytics",
                 "MatchmakingSearchCompleteAnalytics",
                 "MatchmakingSessionSpotReservationAnalytics",
-                "RTMAnalytics",
-                "RecordRanksMigrateCheatAnalytics",
                 "S3CommandAnalytics",
                 "S3CommandErrorAnalytics",
                 "SaveGameErrorAnalytics",
@@ -337,7 +350,8 @@
                 "MatchmakingSearchParamAnalytics",
                 "MatchmakingSearchResultAnalytics",
                 "MatchmakingSurviveWithFriendsAnalytics",
-                "PerformanceChartingAnalytics"
+                "PerformanceChartingAnalytics",
+                "RTMAnalytics"
             ],
             "AF": [
                 "af_complete_registrationAnalytics",
@@ -345,12 +359,23 @@
                 "af_loginAnalytics",
                 "af_survivor_tutorial_completionAnalytics"
             ],
-            "KA": [
+            "KAL": [
+                "CannibalAnalytics",
+                "ChatAnalytics",
+                "CrowdChoiceAnalytics",
+                "CrowdPlayAnalytics",
+                "CurrencyBalanceAnalytics",
+                "CustomizationAnalytics",
                 "CustomizationLobbyAnalytics",
                 "DailyRitualAnalytics",
+                "DetailedHitAnalytics",
                 "DetailedScoreAnalytics",
                 "EmblemProgressionAnalytics",
                 "EndpointLatencyAnalytics",
+                "EnvironmentAnalytics",
+                "FrameHikeAnalytics",
+                "FranklinsDemiseConsumedItemAnalytics",
+                "FranklinsHitNearDroppedItemAnalytics",
                 "FreeTrialLoginAnalytics",
                 "GameOnTournamentParticipationInfoAnalytics",
                 "Gameplay_ChaseAnalytics",
@@ -360,45 +385,49 @@
                 "Gameplay_SurvivorAnalytics",
                 "GhostKillerAnalytics",
                 "HeartbeatAnalytics",
+                "HillbillyAnalytics",
                 "HookAnalytics",
                 "KillerTutorialAnalytics",
+                "KnockoutSurvivorFoundAnalytics",
                 "LegionKillerAnalytics",
                 "LegionSurvivorAnalytics",
+                "LevelLoadingStepAnalytics",
+                "LevelLoadingTimeoutAnalytics",
+                "LightbornAuraRevealedAnalytics",
+                "LoadOutAnalytics",
                 "LoadOutLobbyAnalytics",
                 "LoadingStepAnalytics",
                 "LoadingTimeoutAnalytics",
                 "MapCoordAnalytics",
+                "MatchInfoAnalytics",
                 "MatchRatingAnalytics",
                 "MatchmakingLobbyAnalytics",
                 "MatchmakingQueueAnalytics",
                 "MenuFlowAnalytics",
+                "PerformanceAnalytics",
                 "PerkAcquisitionAnalytics",
                 "PlagueSurvivorAnalytics",
                 "PostGame_KillerAnalytics",
                 "PostGame_SurvivorAnalytics",
                 "ProceduralGenerationAnalytics",
                 "QueueAnalytics",
+                "ReportAnalytics",
                 "ScoreAnalytics",
+                "StadiaLivestreamAnalytics",
                 "StoreMenuFlowAnalytics",
                 "SurvivorTutorialAnalytics",
+                "TinkererUndetectableHitNearGeneratorAnalytics",
+                "TinkererUndetectableInterruptAnalytics",
                 "TransactionAnalytics",
-                "WaitTimeAnalytics"
-            ],
-            "KAL": [
-                "ChatAnalytics",
-                "CurrencyBalanceAnalytics",
-                "CustomizationAnalytics",
-                "EnvironmentAnalytics",
-                "LevelLoadingStepAnalytics",
-                "LevelLoadingTimeoutAnalytics",
-                "LoadOutAnalytics",
-                "MatchInfoAnalytics",
-                "PerformanceAnalytics",
-                "ReportAnalytics",
+                "WaitTimeAnalytics",
                 "WalesCypherAnalytics"
             ]
         },
         "keyName": "ANALYTICS_RULES"
+    },
+    {
+        "value": "7",
+        "keyName": "RECOMMENDATION_RECENT_RELEASE_THRESHOLD"
     },
     {
         "value": "False",
@@ -444,25 +473,23 @@
             "4.0.0_311516cert": "4.0.0_311516cert-1591884003",
             "4.0.0_312199cert": "4.0.0_312199cert-1592000799",
             "4.0.0_312406cert": "4.0.0_312406cert-1592220218",
-            "4.0.0_316036cert": "4.0.0_316036cert-1593197234"
+            "4.0.0_316036cert": "4.0.0_316036cert-1593197234",
+            "4.0.0_317650cert": "4.0.0_317650cert-1593811840",
+            "4.1.0_321297cert": "4.1.0_321297cert-1594844895",
+            "4.1.0_322267cert": "4.1.0_322267cert-1595002814",
+            "4.1.0_322515cert": "4.1.0_322515cert-1595033901"
         },
         "keyName": "VER_CLIENT_DATA"
     },
     {
-        "value": "30",
-        "keyName": "SOCIAL_MIN_DELAY_BETWEEN_BACKEND_FRIENDLIST_SYNC"
-    },
-    {
         "value": {
-            "PS4": false,
-            "GRDK": false,
-            "Switch": false,
-            "DMM": false,
-            "Steam": false,
-            "Xbox": false,
-            "IOS": false,
-            "Mobile": false,
-            "Android": false
+            "ps4": false,
+            "grdk": true,
+            "android": false,
+            "steam": true,
+            "xbox": false,
+            "ios": false,
+            "switch": false
         },
         "keyName": "SOCIAL_CROSSFRIENDS_PLATFORMS"
     },
@@ -471,7 +498,7 @@
         "keyName": "FRAME_HIKE_THRESHOLD"
     },
     {
-        "value": "30",
+        "value": "600",
         "keyName": "RICH_PRESENCE_PLAYER_TIMER_RATE"
     },
     {
@@ -542,9 +569,5 @@
             ]
         },
         "keyName": "DBD_DISCONNECTION_PENALTY_POINTS"
-    },
-    {
-        "value": "0.4",
-        "keyName": "MATCHMAKING_INCENTIVE_ACCEPTABLE_SURVIVOR_RATIO"
     }
 ]

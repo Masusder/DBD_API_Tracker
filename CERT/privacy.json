@@ -18,5 +18,13 @@
         "tr",
         "zh-Hans",
         "zh-Hant"
+    ],
+    "platform": [
+        "steam",
+        "xbox",
+        "switch",
+        "grdk",
+        "ps4",
+        "stadia"
     ]
 }

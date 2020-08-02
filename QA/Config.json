@@ -1,9 +1,5 @@
 [
     {
-        "value": "0.8",
-        "keyName": "MATCHMAKING_INCENTIVE_LONG_SURVIVOR_RATIO"
-    },
-    {
         "value": {
             "killer": {
                 "acceptable_ratio": 0.4,
@@ -23,32 +19,18 @@
         "keyName": "MATCHMAKING_ALLOW_CROSSPLAY"
     },
     {
-        "value": "0.6",
-        "keyName": "MATCHMAKING_INCENTIVE_MODERATE_KILLER_RATIO"
-    },
-    {
-        "value": "0.8",
-        "keyName": "MATCHMAKING_INCENTIVE_SURVIVOR_RATIO"
-    },
-    {
-        "value": "10",
+        "value": "14400",
         "keyName": "SOCIAL_PLATFORM_FRIENDLIST_QUERY_RATE"
     },
     {
-        "value": "0.4",
-        "keyName": "MATCHMAKING_INCENTIVE_ACCEPTABLE_KILLER_RATIO"
-    },
-    {
         "value": {
-            "PS4": false,
-            "GRDK": true,
-            "Switch": false,
-            "DMM": false,
-            "Steam": true,
-            "Xbox": false,
-            "IOS": false,
-            "Mobile": false,
-            "Android": false
+            "ps4": false,
+            "grdk": true,
+            "android": false,
+            "steam": true,
+            "xbox": false,
+            "ios": false,
+            "switch": false
         },
         "keyName": "MATCHMAKING_CROSSPLAY_PLATFORMS"
     },
@@ -93,8 +75,8 @@
         "keyName": "offenceCategories"
     },
     {
-        "value": "0.8",
-        "keyName": "MATCHMAKING_INCENTIVE_LONG_KILLER_RATIO"
+        "value": "true",
+        "keyName": "SEGMENTATION_V2_ENABLED"
     },
     {
         "value": [
@@ -147,14 +129,6 @@
                     {
                         "data": "ios",
                         "label": "iOS"
-                    },
-                    {
-                        "data": "google",
-                        "label": "Google"
-                    },
-                    {
-                        "data": "facebook",
-                        "label": "Facebook"
                     }
                 ],
                 "label": "Mobile"
@@ -208,6 +182,7 @@
             "KAL": [
                 "ChatAnalytics",
                 "DedicatedServerStatusAnalytics",
+                "DetailedHitAnalytics",
                 "DetailedScoreAnalytics",
                 "DisconnectionDetailsAnalytics",
                 "FrameHikeAnalytics",
@@ -244,7 +219,7 @@
         "keyName": "CLIENT_VERSION"
     },
     {
-        "value": "30",
+        "value": "600",
         "keyName": "RICH_PRESENCE_SERVER_TIMER_RATE"
     },
     {
@@ -271,10 +246,6 @@
             }
         },
         "keyName": "CLIENT_VERSION_V2"
-    },
-    {
-        "value": "60",
-        "keyName": "SOCIAL_FRIENDLIST_MANUAL_UPDATE_MIN_DELAY"
     },
     {
         "value": {
@@ -311,10 +282,6 @@
         "keyName": "CDN_ROOT_FOLDER_PATH"
     },
     {
-        "value": "0.6",
-        "keyName": "MATCHMAKING_INCENTIVE_MODERATE_SURVIVOR_RATIO"
-    },
-    {
         "value": {
             "retentionRewardId": "3.5.0_259488qa",
             "achievementId": "3.5.0_259488qa",
@@ -339,6 +306,7 @@
                 "AtlantaPartyGameAnalytics",
                 "AtlantaPerkSelectionAnalytics",
                 "AtlantaPlayerLevelAnalytics",
+                "AtlantaPurchasePopupAnalytics",
                 "AtlantaSessionStartAnalytics",
                 "AtlantaSurvivorTutorialAnalytics",
                 "BloodMarketRefreshAnalytics",
@@ -407,12 +375,16 @@
             "KAL": [
                 "CannibalAnalytics",
                 "ChatAnalytics",
-                "CrowdChoiceAnalytics",
-                "CrowdPlayAnalytics",
+                "CrowdChoiceOnGameRoundStartedAnalytics",
+                "CrowdChoiceSummaryResultAnalytics",
+                "CrowdChoiceVoteResultAnalytics",
+                "CrowdPlayLobbyEventsAnalytics",
+                "CrowdPlayLobbyResultsAnalytics",
                 "CurrencyBalanceAnalytics",
                 "CustomizationAnalytics",
                 "CustomizationLobbyAnalytics",
                 "DailyRitualAnalytics",
+                "DetailedHitAnalytics",
                 "DetailedScoreAnalytics",
                 "EmblemProgressionAnalytics",
                 "EndpointLatencyAnalytics",
@@ -470,6 +442,10 @@
         "keyName": "ANALYTICS_RULES"
     },
     {
+        "value": "7",
+        "keyName": "RECOMMENDATION_RECENT_RELEASE_THRESHOLD"
+    },
+    {
         "value": [
             "dbd.EnableCheatsPersistently 1"
         ],
@@ -495,10 +471,6 @@
         "keyName": "GAMELIFT_ENDPOINTS"
     },
     {
-        "value": "0.8",
-        "keyName": "MATCHMAKING_INCENTIVE_KILLER_RATIO"
-    },
-    {
         "value": {
             "3.3.0_246816qa": "3.3.0_246816qa-1574105589",
             "3.4.0_277031qa": "3.4.0_277031qa-1582906249",
@@ -512,6 +484,63 @@
             "3.7.0_302900qa": "3.7.0_302900qa-1589897928",
             "4.0.0_314988qa": "4.0.0_314988qa-1592876387",
             "4.0.0_316109qa": "4.0.0_316109qa-1593203085",
+            "4.0.0_316270qa": "4.0.0_316270qa-1593441584",
+            "4.0.0_316282qa": "4.0.0_316282qa-1593442964",
+            "4.0.0_316469qa": "4.0.0_316469qa-1593466184",
+            "4.0.0_316692qa": "4.0.0_316692qa-1593539119",
+            "4.0.0_316787qa": "4.0.0_316787qa-1593547220",
+            "4.0.0_316794qa": "4.0.0_316794qa-1593547825",
+            "4.0.0_319019qa": "4.0.0_319019qa-1594302137",
+            "4.1.0_317275qa": "4.1.0_317275qa-1593727492",
+            "4.1.0_317650qa": "4.1.0_317650qa-1593812172",
+            "4.1.0_317683qa": "4.1.0_317683qa-1593823327",
+            "4.1.0_317938qa": "4.1.0_317938qa-1594058707",
+            "4.1.0_318002qa": "4.1.0_318002qa-1594063841",
+            "4.1.0_318213qa": "4.1.0_318213qa-1594128742",
+            "4.1.0_318385qa": "4.1.0_318385qa-1594148479",
+            "4.1.0_318409qa": "4.1.0_318409qa-1594150526",
+            "4.1.0_318429qa": "4.1.0_318429qa-1594151760",
+            "4.1.0_318449qa": "4.1.0_318449qa-1594153677",
+            "4.1.0_318572qa": "4.1.0_318572qa-1594215219",
+            "4.1.0_318600qa": "4.1.0_318600qa-1594216489",
+            "4.1.0_318940qa": "4.1.0_318940qa-1594301545",
+            "4.1.0_319026qa": "4.1.0_319026qa-1594303141",
+            "4.1.0_319461qa": "4.1.0_319461qa-1594382738",
+            "4.1.0_320147qa": "4.1.0_320147qa-1594663489",
+            "4.1.0_320329qa": "4.1.0_320329qa-1594675616",
+            "4.1.0_320357qa": "4.1.0_320357qa-1594676392",
+            "4.1.0_321024qa": "4.1.0_321024qa-1594825041",
+            "4.1.0_321081qa": "4.1.0_321081qa-1594828169",
+            "4.1.0_321140qa": "4.1.0_321140qa-1594834370",
+            "4.1.0_321152qa": "4.1.0_321152qa-1594835135",
+            "4.1.0_321160qa": "4.1.0_321160qa-1594835742",
+            "4.1.0_321297qa": "4.1.0_321297qa-1594844780",
+            "4.1.0_321556qa": "4.1.0_321556qa-1594908893",
+            "4.1.0_321562qa": "4.1.0_321562qa-1594909198",
+            "4.1.0_321663qa": "4.1.0_321663qa-1594916098",
+            "4.1.0_322216qa": "4.1.0_322216qa-1594999257",
+            "4.1.0_322282qa": "4.1.0_322282qa-1595005214",
+            "4.1.0_322659qa": "4.1.0_322659qa-1595255355",
+            "4.1.0_323106qa": "4.1.0_323106qa-1595335986",
+            "4.1.0_323115qa": "4.1.0_323115qa-1595336759",
+            "4.1.0_323260qa": "4.1.0_323260qa-1595351123",
+            "4.1.0_323488qa": "4.1.0_323488qa-1595367358",
+            "4.1.0_323896qa": "4.1.0_323896qa-1595449246",
+            "4.1.0_324190qa": "4.1.0_324190qa-1595521784",
+            "4.1.0_324804qa": "4.1.0_324804qa-1595621313",
+            "4.1.0_325290qa": "4.1.0_325290qa-1595883651",
+            "4.1.0_325637qa": "4.1.0_325637qa-1595959843",
+            "4.1.0_325646qa": "4.1.0_325646qa-1595960489",
+            "4.1.0_325966qa": "4.1.0_325966qa-1596033026",
+            "4.1.0_325984qa": "4.1.0_325984qa-1596034462",
+            "4.1.0_326047qa": "4.1.0_326047qa-1596036644",
+            "4.1.0_326083qa": "4.1.0_326083qa-1596039923",
+            "4.1.0_326309qa": "4.1.0_326309qa-1596054053",
+            "4.1.0_326397qa": "4.1.0_326397qa-1596059993",
+            "4.1.0_326546qa": "4.1.0_326546qa-1596119088",
+            "4.1.0_326664qa": "4.1.0_326664qa-1596124853",
+            "4.1.0_326693qa": "4.1.0_326693qa-1596127443",
+            "4.1.0_327362qa": "4.1.0_327362qa-1596220207",
             "edule_3.4.0_0qa": "edule_3.4.0_0qa-1576698389",
             "m_3.0.2_220683qa": "m_3.0.2_220683qa-1566333505",
             "m_3.0.3_240244qa": "m_3.0.3_240244qa-1572275329",
@@ -544,21 +573,63 @@
             "m_3.7.2_314321qa": "m_3.7.2_314321qa-1592605574",
             "m_3.7.2_314911qa": "m_3.7.2_314911qa-1592861459",
             "m_3.7.2_314988qa": "m_3.7.2_314988qa-1592879450",
-            "m_3.7.2_316109qa": "m_3.7.2_316109qa-1593203452"
+            "m_3.7.2_316109qa": "m_3.7.2_316109qa-1593203452",
+            "m_3.7.2_316301qa": "m_3.7.2_316301qa-1593444690",
+            "m_3.7.2_316469qa": "m_3.7.2_316469qa-1593466287",
+            "m_3.7.2_316794qa": "m_3.7.2_316794qa-1593549052",
+            "m_3.7.2_317277qa": "m_3.7.2_317277qa-1593729050",
+            "m_3.7.2_317658qa": "m_3.7.2_317658qa-1593812273",
+            "m_3.7.2_317683qa": "m_3.7.2_317683qa-1593826278",
+            "m_3.7.2_317957qa": "m_3.7.2_317957qa-1594060291",
+            "m_3.7.2_318002qa": "m_3.7.2_318002qa-1594063952",
+            "m_3.7.2_318213qa": "m_3.7.2_318213qa-1594128872",
+            "m_3.7.2_318409qa": "m_3.7.2_318409qa-1594150371",
+            "m_3.7.2_318478qa": "m_3.7.2_318478qa-1594157658",
+            "m_3.7.2_318627qa": "m_3.7.2_318627qa-1594218807",
+            "m_3.7.2_319041qa": "m_3.7.2_319041qa-1594305067",
+            "m_3.7.2_319461qa": "m_3.7.2_319461qa-1594384278",
+            "m_3.7.2_320147qa": "m_3.7.2_320147qa-1594665088",
+            "m_3.7.2_320329qa": "m_3.7.2_320329qa-1594675503",
+            "m_3.7.2_320357qa": "m_3.7.2_320357qa-1594679462",
+            "m_3.7.2_321074qa": "m_3.7.2_321074qa-1594827695",
+            "m_3.7.2_321140qa": "m_3.7.2_321140qa-1594834496",
+            "m_3.7.2_321177qa": "m_3.7.2_321177qa-1594837860",
+            "m_3.7.2_321297qa": "m_3.7.2_321297qa-1594845064",
+            "m_3.7.2_321562qa": "m_3.7.2_321562qa-1594909913",
+            "m_3.7.2_321663qa": "m_3.7.2_321663qa-1594917087",
+            "m_3.7.2_322211qa": "m_3.7.2_322211qa-1594999007",
+            "m_3.7.2_322216qa": "m_3.7.2_322216qa-1595000152",
+            "m_3.7.2_322282qa": "m_3.7.2_322282qa-1595007051",
+            "m_3.7.2_322659qa": "m_3.7.2_322659qa-1595256775",
+            "m_3.7.2_323133qa": "m_3.7.2_323133qa-1595338319",
+            "m_3.7.3_323260qa": "m_3.7.3_323260qa-1595350940",
+            "m_3.7.3_323488qa": "m_3.7.3_323488qa-1595367220",
+            "m_3.7.3_323904qa": "m_3.7.3_323904qa-1595449854",
+            "m_3.7.3_324130qa": "m_3.7.3_324130qa-1595518298",
+            "m_3.7.3_324804qa": "m_3.7.3_324804qa-1595622674",
+            "m_3.7.3_325317qa": "m_3.7.3_325317qa-1595885477",
+            "m_3.7.3_325646qa": "m_3.7.3_325646qa-1595961076",
+            "m_3.7.3_325966qa": "m_3.7.3_325966qa-1596033201",
+            "m_3.7.3_326047qa": "m_3.7.3_326047qa-1596036786",
+            "m_3.7.3_326083qa": "m_3.7.3_326083qa-1596040782",
+            "m_3.7.3_326325qa": "m_3.7.3_326325qa-1596055317",
+            "m_3.7.3_326397qa": "m_3.7.3_326397qa-1596061882",
+            "m_3.7.3_326546qa": "m_3.7.3_326546qa-1596119470",
+            "m_3.7.3_326693qa": "m_3.7.3_326693qa-1596127161",
+            "m_3.7.3_326707qa": "m_3.7.3_326707qa-1596129604",
+            "m_3.7.3_327362qa": "m_3.7.3_327362qa-1596220513"
         },
         "keyName": "VER_CLIENT_DATA"
     },
     {
         "value": {
-            "PS4": false,
-            "GRDK": false,
-            "Switch": false,
-            "DMM": false,
-            "Steam": false,
-            "Xbox": false,
-            "IOS": false,
-            "Mobile": false,
-            "Android": false
+            "ps4": false,
+            "grdk": true,
+            "android": false,
+            "steam": true,
+            "xbox": false,
+            "ios": false,
+            "switch": false
         },
         "keyName": "SOCIAL_CROSSFRIENDS_PLATFORMS"
     },
@@ -567,7 +638,7 @@
         "keyName": "FRAME_HIKE_THRESHOLD"
     },
     {
-        "value": "30",
+        "value": "600",
         "keyName": "RICH_PRESENCE_PLAYER_TIMER_RATE"
     },
     {
@@ -605,44 +676,5 @@
     {
         "value": "{\"0\":\"Harassment\",\"1\":\"Griefing\",\"2\":\"Exploits\",\"3\":\"Unsportsmanlike\"}",
         "keyName": "BAN_REASON_ENUM"
-    },
-    {
-        "value": {
-            "delayBetweenPenalties": "60",
-            "banActive": true,
-            "reasons": [
-                "leave_game"
-            ],
-            "penalty": {
-                "1": 5,
-                "2": 5,
-                "3": 15,
-                "4": 15,
-                "5": 30,
-                "6": 30,
-                "7": 60,
-                "8": 360,
-                "9": 1440,
-                "10": 2880,
-                "11": 4320
-            },
-            "decayRate": 1440,
-            "decayMatch": 20,
-            "allowedProviders": [
-                "grdk",
-                "live",
-                "nintendo",
-                "ps4",
-                "psn",
-                "steam",
-                "switch",
-                "xbox"
-            ]
-        },
-        "keyName": "DBD_DISCONNECTION_PENALTY_POINTS"
-    },
-    {
-        "value": "0.4",
-        "keyName": "MATCHMAKING_INCENTIVE_ACCEPTABLE_SURVIVOR_RATIO"
     }
 ]

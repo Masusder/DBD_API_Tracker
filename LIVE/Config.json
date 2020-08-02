@@ -19,8 +19,20 @@
         "keyName": "MATCHMAKING_ALLOW_CROSSPLAY"
     },
     {
-        "value": "10",
+        "value": "14400",
         "keyName": "SOCIAL_PLATFORM_FRIENDLIST_QUERY_RATE"
+    },
+    {
+        "value": {
+            "ps4": false,
+            "grdk": true,
+            "android": false,
+            "steam": true,
+            "xbox": false,
+            "ios": false,
+            "switch": false
+        },
+        "keyName": "MATCHMAKING_CROSSPLAY_PLATFORMS"
     },
     {
         "value": {
@@ -31,6 +43,10 @@
     {
         "value": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAuq878RHxy7gwEGnjh/vXcOH+1evTjEA9ygzmKEmG4s2xfNTXgneht6IsCSt5rGgpB3SabgdfUlfZyNNcwx18H7PGdsEwDcbrpZvNsgVt12oSXANjUaWDhUFJ1mVV3QmRIMyknWsA7pRX5Vy1Jr9vZ6IfFopGD++OEGsGooCA7CLGi0+E2v9UvKu/CU+PeaLNTriLa/R8B2YnhmNtSa94U+6sxNt4tzY85+TOfM7SMIgagQcZgREnXsSYhHWs4zfrz6ANaKzi4x0Tep0rK1kTnVv431+VA2zcvFahujVYncQIim+Ivee3TttJMBygxQUGR2/0qJfMkjitldpR3c3sIQIDAQAB",
         "keyName": "KRAKEN_RSA_PUBLIC_KEY"
+    },
+    {
+        "value": "86400",
+        "keyName": "GAMELIFT_IDLE_INSTANCE_SHUTDOWN_TIMER"
     },
     {
         "value": "true",
@@ -51,7 +67,7 @@
         "keyName": "READ_ONLY_CONFIGS"
     },
     {
-        "value": "https://xbox1-live2-dbd.bhvronline.com/restservice.svc",
+        "value": "https://xbox1-live2.bhvrdbd.com/restservice.svc",
         "keyName": "MS_ENDPOINT"
     },
     {
@@ -61,6 +77,10 @@
             }
         },
         "keyName": "offenceCategories"
+    },
+    {
+        "value": "true",
+        "keyName": "SEGMENTATION_V2_ENABLED"
     },
     {
         "value": [
@@ -150,6 +170,8 @@
                 "SpecialEventBaseAnalytics"
             ],
             "BL": [
+                "CannibalAnalytics",
+                "HillbillyAnalytics",
                 "MatchmakingApproveLoginAnalytics",
                 "MatchmakingHostCreatedAnalytics",
                 "MatchmakingHostSettingAnalytics",
@@ -164,13 +186,20 @@
             ],
             "KA": [
                 "ChatAnalytics",
+                "DetailedHitAnalytics",
                 "DetailedScoreAnalytics",
+                "FranklinsDemiseConsumedItemAnalytics",
+                "FranklinsHitNearDroppedItemAnalytics",
                 "HookAnalytics",
+                "KnockoutSurvivorFoundAnalytics",
+                "LightbornAuraRevealedAnalytics",
                 "LoadingStepAnalytics",
                 "LoadingTimeoutAnalytics",
                 "MapCoordAnalytics",
                 "ProceduralGenerationAnalytics",
-                "ScoreAnalytics"
+                "ScoreAnalytics",
+                "TinkererUndetectableHitNearGeneratorAnalytics",
+                "TinkererUndetectableInterruptAnalytics"
             ],
             "KAL": [
                 "DedicatedServerStatusAnalytics",
@@ -215,12 +244,12 @@
             },
             "fallback": {
                 "ios": {
-                    "date": "2020-06-18T13:00:00.000Z",
-                    "version": "3.7.013"
+                    "date": "2020-07-10T15:30:00.000Z",
+                    "version": "3.7.210"
                 },
                 "android": {
-                    "date": "2020-06-18T13:00:00.000Z",
-                    "version": "3.7.013"
+                    "date": "2020-07-10T15:30:00.000Z",
+                    "version": "3.7.20"
                 }
             }
         },
@@ -279,6 +308,7 @@
                 "AtlantaPartyGameAnalytics",
                 "AtlantaPerkSelectionAnalytics",
                 "AtlantaPlayerLevelAnalytics",
+                "AtlantaPurchasePopupAnalytics",
                 "AtlantaSessionStartAnalytics",
                 "AtlantaSurvivorTutorialAnalytics",
                 "BloodMarketRefreshAnalytics",
@@ -345,11 +375,15 @@
                 "af_survivor_tutorial_completionAnalytics"
             ],
             "KA": [
+                "CannibalAnalytics",
                 "CustomizationLobbyAnalytics",
                 "DailyRitualAnalytics",
+                "DetailedHitAnalytics",
                 "DetailedScoreAnalytics",
                 "EmblemProgressionAnalytics",
                 "EndpointLatencyAnalytics",
+                "FranklinsDemiseConsumedItemAnalytics",
+                "FranklinsHitNearDroppedItemAnalytics",
                 "FreeTrialLoginAnalytics",
                 "GameOnTournamentParticipationInfoAnalytics",
                 "Gameplay_ChaseAnalytics",
@@ -359,10 +393,13 @@
                 "Gameplay_SurvivorAnalytics",
                 "GhostKillerAnalytics",
                 "HeartbeatAnalytics",
+                "HillbillyAnalytics",
                 "HookAnalytics",
                 "KillerTutorialAnalytics",
+                "KnockoutSurvivorFoundAnalytics",
                 "LegionKillerAnalytics",
                 "LegionSurvivorAnalytics",
+                "LightbornAuraRevealedAnalytics",
                 "LoadOutLobbyAnalytics",
                 "LoadingStepAnalytics",
                 "LoadingTimeoutAnalytics",
@@ -380,6 +417,8 @@
                 "ScoreAnalytics",
                 "StoreMenuFlowAnalytics",
                 "SurvivorTutorialAnalytics",
+                "TinkererUndetectableHitNearGeneratorAnalytics",
+                "TinkererUndetectableInterruptAnalytics",
                 "TransactionAnalytics",
                 "WaitTimeAnalytics",
                 "WalesCypherAnalytics"
@@ -400,6 +439,10 @@
             ]
         },
         "keyName": "ANALYTICS_RULES"
+    },
+    {
+        "value": "7",
+        "keyName": "RECOMMENDATION_RECENT_RELEASE_THRESHOLD"
     },
     {
         "value": "False",
@@ -466,6 +509,22 @@
             "3.7.0_312055live": "3.7.0_312055live-1591972116",
             "4.0.0_312777live": "4.0.0_312777live-1592317723",
             "4.0.0_313969live": "4.0.0_313969live-1592517384",
+            "4.0.0_316301live": "4.0.0_316301live-1593444586",
+            "4.0.0_317274live": "4.0.0_317274live-1593727306",
+            "4.0.0_318650live": "4.0.0_318650live-1594220607",
+            "4.0.0_321044live": "4.0.0_321044live-1594825463",
+            "4.0.0_322704live": "4.0.0_322704live-1595257832",
+            "4.0.0_323750live": "4.0.0_323750live-1595436537",
+            "4.1.0_325317live": "4.1.0_325317live-1595942269",
+            "4.1.0_325430live": "4.1.0_325430live-1595943467",
+            "4.1.0_325619live": "4.1.0_325619live-1595957813",
+            "4.1.0_325767live": "4.1.0_325767live-1595968330",
+            "4.1.0_325984live": "4.1.0_325984live-1596035390",
+            "4.1.0_326047live": "4.1.0_326047live-1596036475",
+            "4.1.0_326239live": "4.1.0_326239live-1596051081",
+            "4.1.0_326283live": "4.1.0_326283live-1596052864",
+            "4.1.0_326397live": "4.1.0_326397live-1596060278",
+            "4.1.0_327362live": "4.1.0_327362live-1596220390",
             "m_3.0.2_219921live": "m_3.0.2_219921live-1566230507",
             "m_3.0.3_241022live": "m_3.0.3_241022live-1572449159",
             "m_3.3.3_220000live": "m_3.3.3_220000live-1574880017",
@@ -512,13 +571,42 @@
             "m_3.7.2_313296live": "m_3.7.2_313296live-1592415292",
             "m_3.7.2_313385live": "m_3.7.2_313385live-1592420625",
             "m_3.7.2_313513live": "m_3.7.2_313513live-1592429490",
-            "m_3.7.2_314575live": "m_3.7.2_314575live-1592834782"
+            "m_3.7.2_314575live": "m_3.7.2_314575live-1592834782",
+            "m_3.7.2_316677live": "m_3.7.2_316677live-1593537414",
+            "m_3.7.2_316867live": "m_3.7.2_316867live-1593552787",
+            "m_3.7.2_318283live": "m_3.7.2_318283live-1594134735",
+            "m_3.7.2_318936live": "m_3.7.2_318936live-1594258930",
+            "m_3.7.2_319541live": "m_3.7.2_319541live-1594395851",
+            "m_3.7.3_321336live": "m_3.7.3_321336live-1594846886",
+            "m_3.7.3_323030live": "m_3.7.3_323030live-1595287812",
+            "m_3.7.3_323750live": "m_3.7.3_323750live-1595442285",
+            "m_3.7.3_324130live": "m_3.7.3_324130live-1595518070",
+            "m_3.7.3_324239live": "m_3.7.3_324239live-1595524958",
+            "m_3.7.3_324256live": "m_3.7.3_324256live-1595526030",
+            "m_3.7.3_324288live": "m_3.7.3_324288live-1595528405",
+            "m_3.7.3_324619live": "m_3.7.3_324619live-1595600217",
+            "m_3.7.3_326688live": "m_3.7.3_326688live-1596127042",
+            "m_3.7.3_326845live": "m_3.7.3_326845live-1596138282",
+            "m_3.7.3_326860live": "m_3.7.3_326860live-1596139338",
+            "m_3.7.3_326891live": "m_3.7.3_326891live-1596140308"
         },
         "keyName": "VER_CLIENT_DATA"
     },
     {
         "value": "60",
         "keyName": "SOCIAL_MIN_DELAY_BETWEEN_BACKEND_FRIENDLIST_SYNC"
+    },
+    {
+        "value": {
+            "ps4": false,
+            "grdk": true,
+            "android": false,
+            "steam": true,
+            "xbox": false,
+            "ios": false,
+            "switch": false
+        },
+        "keyName": "SOCIAL_CROSSFRIENDS_PLATFORMS"
     },
     {
         "value": "10",
@@ -549,7 +637,7 @@
         "keyName": "APPSFLYER_CUSTOMER_ID_ENABLED"
     },
     {
-        "value": "https://wstore-live-dbd.bhvronline.com/restservice.svc",
+        "value": "https://wstore-live2.bhvrdbd.com/restservice.svc",
         "keyName": "MS_ENDPOINT_GRDK"
     },
     {

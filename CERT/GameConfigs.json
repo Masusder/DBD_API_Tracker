@@ -10,7 +10,7 @@
     "hitValidation": {
         "enable": true,
         "recorder": {
-            "cacheTimespan": 0.4
+            "cacheTimespan": 0.35
         },
         "validators": [
             {

@@ -1,19 +1,42 @@
 [
     {
-        "value": "0.8",
-        "keyName": "MATCHMAKING_INCENTIVE_LONG_SURVIVOR_RATIO"
+        "value": {
+            "killer": {
+                "acceptable_ratio": 0.33,
+                "moderate_ratio": 0.33,
+                "long_ratio": 0.33
+            },
+            "survivor": {
+                "acceptable_ratio": 0.86,
+                "moderate_ratio": 0.86,
+                "long_ratio": 0.86
+            }
+        },
+        "keyName": "MATCHMAKING_INCENTIVE_CONFIG"
+    },
+    {
+        "value": "86400",
+        "keyName": "MIRRORS_CONFIG_KEY_GAMELIFT_IDLE_INSTANCE_SHUTDOWN_TIMER"
     },
     {
         "value": "false",
         "keyName": "MATCHMAKING_ALLOW_CROSSPLAY"
     },
     {
-        "value": "0.6",
-        "keyName": "MATCHMAKING_INCENTIVE_MODERATE_KILLER_RATIO"
+        "value": "10",
+        "keyName": "SOCIAL_PLATFORM_FRIENDLIST_QUERY_RATE"
     },
     {
-        "value": "0.4",
-        "keyName": "MATCHMAKING_INCENTIVE_ACCEPTABLE_KILLER_RATIO"
+        "value": {
+            "ps4": false,
+            "grdk": true,
+            "android": false,
+            "steam": true,
+            "xbox": false,
+            "ios": false,
+            "switch": false
+        },
+        "keyName": "MATCHMAKING_CROSSPLAY_PLATFORMS"
     },
     {
         "value": {
@@ -44,7 +67,7 @@
         "keyName": "READ_ONLY_CONFIGS"
     },
     {
-        "value": "https://xbox1-live-dbd.bhvronline.com/restservice.svc",
+        "value": "https://xbox1-live1.bhvrdbd.com/restservice.svc",
         "keyName": "MS_ENDPOINT"
     },
     {
@@ -56,8 +79,8 @@
         "keyName": "offenceCategories"
     },
     {
-        "value": "0.8",
-        "keyName": "MATCHMAKING_INCENTIVE_LONG_KILLER_RATIO"
+        "value": "true",
+        "keyName": "SEGMENTATION_V2_ENABLED"
     },
     {
         "value": [
@@ -123,6 +146,10 @@
         "keyName": "GAME_CLIENT_VERSION_CHECK_ENABLED"
     },
     {
+        "value": "10",
+        "keyName": "FRAME_HIKE_ANALYTIC_LOG_BUFFER_SIZE"
+    },
+    {
         "value": {
             "KL": [
                 "CustomerSupportAnalytics",
@@ -145,6 +172,8 @@
                 "SpecialEventBaseAnalytics"
             ],
             "BL": [
+                "CannibalAnalytics",
+                "HillbillyAnalytics",
                 "MatchmakingApproveLoginAnalytics",
                 "MatchmakingHostCreatedAnalytics",
                 "MatchmakingHostSettingAnalytics",
@@ -158,13 +187,20 @@
             ],
             "KA": [
                 "ChatAnalytics",
+                "DetailedHitAnalytics",
                 "DetailedScoreAnalytics",
+                "FranklinsDemiseConsumedItemAnalytics",
+                "FranklinsHitNearDroppedItemAnalytics",
                 "HookAnalytics",
+                "KnockoutSurvivorFoundAnalytics",
+                "LightbornAuraRevealedAnalytics",
                 "LoadingStepAnalytics",
                 "LoadingTimeoutAnalytics",
                 "MapCoordAnalytics",
                 "ProceduralGenerationAnalytics",
-                "ScoreAnalytics"
+                "ScoreAnalytics",
+                "TinkererUndetectableHitNearGeneratorAnalytics",
+                "TinkererUndetectableInterruptAnalytics"
             ],
             "KAL": [
                 "DedicatedServerStatusAnalytics",
@@ -190,7 +226,7 @@
         "keyName": "CLIENT_VERSION"
     },
     {
-        "value": "30",
+        "value": "600",
         "keyName": "RICH_PRESENCE_SERVER_TIMER_RATE"
     },
     {
@@ -217,10 +253,6 @@
             }
         },
         "keyName": "CLIENT_VERSION_V2"
-    },
-    {
-        "value": "60",
-        "keyName": "SOCIAL_FRIENDLIST_MANUAL_UPDATE_MIN_DELAY"
     },
     {
         "value": {
@@ -255,10 +287,6 @@
     {
         "value": "ef06650f-6108-4441-8677-8bc05a10b801",
         "keyName": "CDN_ROOT_FOLDER_PATH"
-    },
-    {
-        "value": "0.6",
-        "keyName": "MATCHMAKING_INCENTIVE_MODERATE_SURVIVOR_RATIO"
     },
     {
         "value": {
@@ -352,11 +380,15 @@
                 "af_survivor_tutorial_completionAnalytics"
             ],
             "KA": [
+                "CannibalAnalytics",
                 "CustomizationLobbyAnalytics",
                 "DailyRitualAnalytics",
+                "DetailedHitAnalytics",
                 "DetailedScoreAnalytics",
                 "EmblemProgressionAnalytics",
                 "EndpointLatencyAnalytics",
+                "FranklinsDemiseConsumedItemAnalytics",
+                "FranklinsHitNearDroppedItemAnalytics",
                 "FreeTrialLoginAnalytics",
                 "GameOnTournamentParticipationInfoAnalytics",
                 "Gameplay_ChaseAnalytics",
@@ -366,10 +398,13 @@
                 "Gameplay_SurvivorAnalytics",
                 "GhostKillerAnalytics",
                 "HeartbeatAnalytics",
+                "HillbillyAnalytics",
                 "HookAnalytics",
                 "KillerTutorialAnalytics",
+                "KnockoutSurvivorFoundAnalytics",
                 "LegionKillerAnalytics",
                 "LegionSurvivorAnalytics",
+                "LightbornAuraRevealedAnalytics",
                 "LoadOutLobbyAnalytics",
                 "LoadingStepAnalytics",
                 "LoadingTimeoutAnalytics",
@@ -387,6 +422,8 @@
                 "ScoreAnalytics",
                 "StoreMenuFlowAnalytics",
                 "SurvivorTutorialAnalytics",
+                "TinkererUndetectableHitNearGeneratorAnalytics",
+                "TinkererUndetectableInterruptAnalytics",
                 "TransactionAnalytics",
                 "WaitTimeAnalytics"
             ],
@@ -405,6 +442,10 @@
             ]
         },
         "keyName": "ANALYTICS_RULES"
+    },
+    {
+        "value": "7",
+        "keyName": "RECOMMENDATION_RECENT_RELEASE_THRESHOLD"
     },
     {
         "value": "False",
@@ -436,20 +477,36 @@
             "3.7.0_288476stage": "3.7.0_288476stage-1585956899",
             "4.0.0_304587stage": "4.0.0_304587stage-1590165976",
             "4.0.0_305074stage": "4.0.0_305074stage-1590419531",
-            "4.0.0_316067stage": "4.0.0_316067stage-1593200765"
+            "4.0.0_316067stage": "4.0.0_316067stage-1593200765",
+            "4.0.0_317650stage": "4.0.0_317650stage-1593811762",
+            "4.0.0_320780stage": "4.0.0_320780stage-1594758426",
+            "4.1.0_320798stage": "4.1.0_320798stage-1594759658",
+            "4.1.0_320808stage": "4.1.0_320808stage-1594761659",
+            "4.1.0_322267stage": "4.1.0_322267stage-1595002907",
+            "4.1.0_322515stage": "4.1.0_322515stage-1595033788",
+            "4.1.0_323857stage": "4.1.0_323857stage-1595446931",
+            "4.1.0_323892stage": "4.1.0_323892stage-1595448479"
         },
         "keyName": "VER_CLIENT_DATA"
     },
     {
-        "value": "60",
-        "keyName": "SOCIAL_MIN_DELAY_BETWEEN_BACKEND_FRIENDLIST_SYNC"
+        "value": {
+            "ps4": false,
+            "grdk": true,
+            "android": false,
+            "steam": true,
+            "xbox": false,
+            "ios": false,
+            "switch": false
+        },
+        "keyName": "SOCIAL_CROSSFRIENDS_PLATFORMS"
     },
     {
         "value": "5",
         "keyName": "FRAME_HIKE_THRESHOLD"
     },
     {
-        "value": "30",
+        "value": "600",
         "keyName": "RICH_PRESENCE_PLAYER_TIMER_RATE"
     },
     {
@@ -469,12 +526,12 @@
         "keyName": "APPSFLYER_CUSTOMER_ID_ENABLED"
     },
     {
-        "value": "https://wstore-live1-dbd.bhvronline.com/restservice.svc",
+        "value": "https://wstore-live1.bhvrdbd.com/restservice.svc",
         "keyName": "MS_ENDPOINT_GRDK"
     },
     {
-        "value": "15",
-        "keyName": "SOCIAL_MIN_DELAY_BETWEEN_PLATFORM_FRIENDLIST_QUERIES"
+        "value": "60",
+        "keyName": "SOCIAL_BACKEND_FRIEND_SYNC_RATE"
     },
     {
         "value": "https://console.aws.amazon.com/gamelift/home?region=us-east-1#/r/game-session-queues/[[gameliftQueueName]]",
@@ -483,33 +540,5 @@
     {
         "value": "{\"0\":\"Harassment\",\"1\":\"Griefing\",\"2\":\"Exploits\",\"3\":\"Unsportsmanlike\"}",
         "keyName": "BAN_REASON_ENUM"
-    },
-    {
-        "value": {
-            "delayBetweenPenalties": "60",
-            "banActive": false,
-            "reasons": [
-                "None"
-            ],
-            "penalty": {
-                "1": 1
-            },
-            "decayRate": 720,
-            "decayMatch": 1,
-            "allowedProviders": [
-                "grdk",
-                "nintendo",
-                "ps4",
-                "psn",
-                "steam",
-                "switch",
-                "xbox"
-            ]
-        },
-        "keyName": "DBD_DISCONNECTION_PENALTY_POINTS"
-    },
-    {
-        "value": "0.4",
-        "keyName": "MATCHMAKING_INCENTIVE_ACCEPTABLE_SURVIVOR_RATIO"
     }
 ]

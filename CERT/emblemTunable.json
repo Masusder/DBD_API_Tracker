@@ -16,10 +16,10 @@
         ],
         "Emblem_Killer_Gatekeeper": [
             0,
-            250,
-            350,
-            650,
-            900
+            10,
+            15,
+            25,
+            35
         ],
         "Emblem_Killer_Malicious": [
             0,
@@ -30,10 +30,10 @@
         ],
         "Emblem_Survivor_Benevolent": [
             0,
-            20,
-            40,
-            60,
-            80
+            25,
+            45,
+            75,
+            100
         ],
         "Emblem_Survivor_Evader": [
             0,
@@ -108,7 +108,11 @@
         },
         {
             "id": "Killer_Gatekeeper_PointsPerMin_PerGenerator",
-            "value": 5.0
+            "value": 1.0
+        },
+        {
+            "id": "Killer_Gatekeeper_PointsGateClosed",
+            "value": 10.0
         },
         {
             "id": "Killer_Gatekeeper_MaxMinutesEvaluated",
@@ -120,23 +124,23 @@
         },
         {
             "id": "Killer_Gatekeeper_PointsGameEnd_1Generators",
-            "value": 200.0
+            "value": 0.0
         },
         {
             "id": "Killer_Gatekeeper_PointsGameEnd_2Generators",
-            "value": 300.0
+            "value": 0.0
         },
         {
             "id": "Killer_Gatekeeper_PointsGameEnd_3Generators",
-            "value": 400.0
+            "value": 0.0
         },
         {
             "id": "Killer_Gatekeeper_PointsGameEnd_4Generators",
-            "value": 500.0
+            "value": 0.0
         },
         {
             "id": "Killer_Gatekeeper_PointsGameEnd_5Generators",
-            "value": 600.0
+            "value": 0.0
         },
         {
             "id": "Survivor_Unbroken_StartPoints",

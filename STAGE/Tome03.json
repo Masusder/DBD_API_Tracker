@@ -42,6 +42,7 @@
                                 "conditions": [],
                                 "incrementWithEventRepetitions": true,
                                 "neededProgression": 50000,
+                                "objectiveId": "EarnBloodpoints",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -82,6 +83,7 @@
                                 "conditions": [],
                                 "incrementWithEventRepetitions": true,
                                 "neededProgression": 50,
+                                "objectiveId": "Crow",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -129,6 +131,7 @@
                                 ],
                                 "incrementWithEventRepetitions": true,
                                 "neededProgression": 200,
+                                "objectiveId": "RepairCoop",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -175,6 +178,7 @@
                                 ],
                                 "incrementWithEventRepetitions": true,
                                 "neededProgression": 30,
+                                "objectiveId": "HideNearKiller",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -222,6 +226,7 @@
                                 ],
                                 "incrementWithEventRepetitions": true,
                                 "neededProgression": 3,
+                                "objectiveId": "PalletDropInChase",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -268,6 +273,7 @@
                                 ],
                                 "incrementWithEventRepetitions": true,
                                 "neededProgression": 3,
+                                "objectiveId": "SabotageFinishInTerrorRadius",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -314,6 +320,7 @@
                                 ],
                                 "incrementWithEventRepetitions": true,
                                 "neededProgression": 15,
+                                "objectiveId": "CleanseFinish",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -361,6 +368,7 @@
                                 ],
                                 "incrementWithEventRepetitions": true,
                                 "neededProgression": 3,
+                                "objectiveId": "EarnEmblemsBenevolentBronze",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -408,6 +416,7 @@
                                 ],
                                 "incrementWithEventRepetitions": true,
                                 "neededProgression": 8,
+                                "objectiveId": "HookDifferent",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -455,6 +464,7 @@
                                 ],
                                 "incrementWithEventRepetitions": true,
                                 "neededProgression": 3,
+                                "objectiveId": "EarnEmblemsChaserBronze",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -502,6 +512,7 @@
                                 ],
                                 "incrementWithEventRepetitions": true,
                                 "neededProgression": 12,
+                                "objectiveId": "BreakGens",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -549,6 +560,7 @@
                                 ],
                                 "incrementWithEventRepetitions": true,
                                 "neededProgression": 3,
+                                "objectiveId": "HookBasement",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -596,6 +608,7 @@
                                 ],
                                 "incrementWithEventRepetitions": true,
                                 "neededProgression": 20,
+                                "objectiveId": "Scream",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -639,6 +652,7 @@
                                 "conditions": [],
                                 "incrementWithEventRepetitions": false,
                                 "neededProgression": 1,
+                                "objectiveId": "EarnEmblemsBronzeInTrial",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -688,6 +702,7 @@
                                 ],
                                 "incrementWithEventRepetitions": false,
                                 "neededProgression": 1,
+                                "objectiveId": "PalletStunInTrial",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -744,6 +759,7 @@
                                 ],
                                 "incrementWithEventRepetitions": false,
                                 "neededProgression": 1,
+                                "objectiveId": "EscapeOtherWithPerkInTrial",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -800,6 +816,7 @@
                                 ],
                                 "incrementWithEventRepetitions": false,
                                 "neededProgression": 1,
+                                "objectiveId": "VaultInChaseWithPerkInTrial",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -850,6 +867,7 @@
                                 ],
                                 "incrementWithEventRepetitions": false,
                                 "neededProgression": 1,
+                                "objectiveId": "UnhookInTrial",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -905,6 +923,7 @@
                                 ],
                                 "incrementWithEventRepetitions": false,
                                 "neededProgression": 1,
+                                "objectiveId": "RepairFinishAsCharacterInTrial",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -960,6 +979,7 @@
                                 ],
                                 "incrementWithEventRepetitions": false,
                                 "neededProgression": 1,
+                                "objectiveId": "ChasedByKillerAsCharacterInTrial",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -1010,6 +1030,7 @@
                                 ],
                                 "incrementWithEventRepetitions": false,
                                 "neededProgression": 1,
+                                "objectiveId": "ChaseStartDifferentInTrial",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -1065,6 +1086,7 @@
                                 ],
                                 "incrementWithEventRepetitions": false,
                                 "neededProgression": 1,
+                                "objectiveId": "ChaseWithPerkInTrial",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -1119,6 +1141,7 @@
                                 ],
                                 "incrementWithEventRepetitions": false,
                                 "neededProgression": 1,
+                                "objectiveId": "InflictDeepWoundAsCharacterInTrial",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -1174,6 +1197,7 @@
                                 ],
                                 "incrementWithEventRepetitions": false,
                                 "neededProgression": 1,
+                                "objectiveId": "HuntressHatchetHitInTrial",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -1287,6 +1311,7 @@
                                 "conditions": [],
                                 "incrementWithEventRepetitions": true,
                                 "neededProgression": 75000,
+                                "objectiveId": "EarnBloodpoints",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -1325,6 +1350,7 @@
                                 "conditions": [],
                                 "incrementWithEventRepetitions": true,
                                 "neededProgression": 25,
+                                "objectiveId": "EarnEmblemsSilver",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -1372,6 +1398,7 @@
                                 ],
                                 "incrementWithEventRepetitions": true,
                                 "neededProgression": 8,
+                                "objectiveId": "SearchFinish",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -1421,6 +1448,7 @@
                                 ],
                                 "incrementWithEventRepetitions": true,
                                 "neededProgression": 6,
+                                "objectiveId": "PalletStun",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -1468,6 +1496,7 @@
                                 ],
                                 "incrementWithEventRepetitions": true,
                                 "neededProgression": 5,
+                                "objectiveId": "UnhookDifferent",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -1514,6 +1543,7 @@
                                 ],
                                 "incrementWithEventRepetitions": true,
                                 "neededProgression": 1000,
+                                "objectiveId": "RepairPerc",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -1561,6 +1591,7 @@
                                 ],
                                 "incrementWithEventRepetitions": true,
                                 "neededProgression": 5,
+                                "objectiveId": "EscapeChase",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -1607,6 +1638,7 @@
                                 ],
                                 "incrementWithEventRepetitions": true,
                                 "neededProgression": 2,
+                                "objectiveId": "Escape",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -1654,6 +1686,7 @@
                                 ],
                                 "incrementWithEventRepetitions": true,
                                 "neededProgression": 12,
+                                "objectiveId": "HitDifferent",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -1700,6 +1733,7 @@
                                 ],
                                 "incrementWithEventRepetitions": true,
                                 "neededProgression": 8,
+                                "objectiveId": "Kill",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -1747,6 +1781,7 @@
                                 ],
                                 "incrementWithEventRepetitions": true,
                                 "neededProgression": 30,
+                                "objectiveId": "Scream",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -1794,6 +1829,7 @@
                                 ],
                                 "incrementWithEventRepetitions": true,
                                 "neededProgression": 15,
+                                "objectiveId": "ChaseStartDifferent",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -1841,6 +1877,7 @@
                                 ],
                                 "incrementWithEventRepetitions": true,
                                 "neededProgression": 20,
+                                "objectiveId": "BreakPallets",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -1884,6 +1921,7 @@
                                 "conditions": [],
                                 "incrementWithEventRepetitions": false,
                                 "neededProgression": 1,
+                                "objectiveId": "EarnEmblemsSilverInTrial",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -1933,6 +1971,7 @@
                                 ],
                                 "incrementWithEventRepetitions": false,
                                 "neededProgression": 1,
+                                "objectiveId": "SkillCheckGreatSuccessInTrial",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -1990,6 +2029,7 @@
                                 ],
                                 "incrementWithEventRepetitions": false,
                                 "neededProgression": 1,
+                                "objectiveId": "CoopActionWithPerkInTrial",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -2045,6 +2085,7 @@
                                 ],
                                 "incrementWithEventRepetitions": false,
                                 "neededProgression": 1,
+                                "objectiveId": "VaultInChaseWithPerkInTrial",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -2100,6 +2141,7 @@
                                 ],
                                 "incrementWithEventRepetitions": false,
                                 "neededProgression": 1,
+                                "objectiveId": "EscapeAsCharacterInTrial",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -2154,6 +2196,7 @@
                                 ],
                                 "incrementWithEventRepetitions": false,
                                 "neededProgression": 1,
+                                "objectiveId": "FallInChaseAsCharacterInTrial",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -2208,6 +2251,7 @@
                                 ],
                                 "incrementWithEventRepetitions": false,
                                 "neededProgression": 1,
+                                "objectiveId": "HookBasementWithPerkInTrial",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -2262,6 +2306,7 @@
                                 ],
                                 "incrementWithEventRepetitions": false,
                                 "neededProgression": 1,
+                                "objectiveId": "GrabLockerWithPerkInTrial",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -2318,6 +2363,7 @@
                                 ],
                                 "incrementWithEventRepetitions": false,
                                 "neededProgression": 1,
+                                "objectiveId": "LegionHitMultipleInFrenzyInTrial",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -2373,6 +2419,7 @@
                                 ],
                                 "incrementWithEventRepetitions": false,
                                 "neededProgression": 1,
+                                "objectiveId": "HuntressHatchetChargedHitInTrial",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -2486,6 +2533,7 @@
                                 "conditions": [],
                                 "incrementWithEventRepetitions": true,
                                 "neededProgression": 20,
+                                "objectiveId": "EarnEmblemsGold",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -2526,6 +2574,7 @@
                                 "conditions": [],
                                 "incrementWithEventRepetitions": true,
                                 "neededProgression": 100000,
+                                "objectiveId": "EarnBloodpoints",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -2571,6 +2620,7 @@
                                 ],
                                 "incrementWithEventRepetitions": true,
                                 "neededProgression": 4,
+                                "objectiveId": "ConsumeToolbox",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -2618,6 +2668,7 @@
                                 ],
                                 "incrementWithEventRepetitions": true,
                                 "neededProgression": 240,
+                                "objectiveId": "CoopAction",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -2665,6 +2716,7 @@
                                 ],
                                 "incrementWithEventRepetitions": true,
                                 "neededProgression": 12,
+                                "objectiveId": "UnhookDifferent",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -2711,6 +2763,7 @@
                                 ],
                                 "incrementWithEventRepetitions": true,
                                 "neededProgression": 3,
+                                "objectiveId": "EarnEmblemsBenevolentGold",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -2759,6 +2812,7 @@
                                 ],
                                 "incrementWithEventRepetitions": true,
                                 "neededProgression": 20,
+                                "objectiveId": "CleanseFinish",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -2806,6 +2860,7 @@
                                 ],
                                 "incrementWithEventRepetitions": true,
                                 "neededProgression": 300,
+                                "objectiveId": "ChasedByKiller",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -2853,6 +2908,7 @@
                                 ],
                                 "incrementWithEventRepetitions": true,
                                 "neededProgression": 12,
+                                "objectiveId": "HookDifferent",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -2899,6 +2955,7 @@
                                 ],
                                 "incrementWithEventRepetitions": true,
                                 "neededProgression": 3,
+                                "objectiveId": "EarnEmblemsMaliciousSilver",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -2946,6 +3003,7 @@
                                 ],
                                 "incrementWithEventRepetitions": true,
                                 "neededProgression": 15,
+                                "objectiveId": "HookObsession",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -2993,6 +3051,7 @@
                                 ],
                                 "incrementWithEventRepetitions": true,
                                 "neededProgression": 4,
+                                "objectiveId": "HookEndgame",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -3039,6 +3098,7 @@
                                 ],
                                 "incrementWithEventRepetitions": true,
                                 "neededProgression": 20,
+                                "objectiveId": "ChaseStartDifferent",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -3087,6 +3147,7 @@
                                 ],
                                 "incrementWithEventRepetitions": false,
                                 "neededProgression": 1,
+                                "objectiveId": "RepairDifferentInTrial",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -3135,6 +3196,7 @@
                                 ],
                                 "incrementWithEventRepetitions": false,
                                 "neededProgression": 1,
+                                "objectiveId": "TotemsAtEndTrialAndEscapeInTrial",
                                 "questEvent": [
                                     {
                                         "operation": "<=",
@@ -3195,6 +3257,7 @@
                                 ],
                                 "incrementWithEventRepetitions": false,
                                 "neededProgression": 1,
+                                "objectiveId": "EscapeWithPerkInTrial",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -3250,6 +3313,7 @@
                                 ],
                                 "incrementWithEventRepetitions": false,
                                 "neededProgression": 1,
+                                "objectiveId": "HideNearKillerAsCharacterInTrial",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -3305,6 +3369,7 @@
                                 ],
                                 "incrementWithEventRepetitions": false,
                                 "neededProgression": 1,
+                                "objectiveId": "EscapeAfterBeingOnDeathHookAsCharacterInTrial",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -3354,6 +3419,7 @@
                                 ],
                                 "incrementWithEventRepetitions": false,
                                 "neededProgression": 1,
+                                "objectiveId": "HookDifferentInTrial",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -3404,6 +3470,7 @@
                                 ],
                                 "incrementWithEventRepetitions": false,
                                 "neededProgression": 1,
+                                "objectiveId": "BreakGensDifferentInTrial",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -3458,6 +3525,7 @@
                                 ],
                                 "incrementWithEventRepetitions": false,
                                 "neededProgression": 1,
+                                "objectiveId": "GrabGeneratorWithPerkInTrial",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -3513,6 +3581,7 @@
                                 ],
                                 "incrementWithEventRepetitions": false,
                                 "neededProgression": 1,
+                                "objectiveId": "LegionHitMultipleInFrenzyInTrial",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -3568,6 +3637,7 @@
                                 ],
                                 "incrementWithEventRepetitions": false,
                                 "neededProgression": 1,
+                                "objectiveId": "HuntressHatchetDistanceHitInTrial",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -3692,6 +3762,7 @@
                                 "conditions": [],
                                 "incrementWithEventRepetitions": true,
                                 "neededProgression": 150000,
+                                "objectiveId": "EarnBloodpoints",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -3731,6 +3802,7 @@
                                 "conditions": [],
                                 "incrementWithEventRepetitions": true,
                                 "neededProgression": 15,
+                                "objectiveId": "EarnEmblemsIridescent",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -3777,6 +3849,7 @@
                                 ],
                                 "incrementWithEventRepetitions": true,
                                 "neededProgression": 8,
+                                "objectiveId": "Blind",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -3823,6 +3896,7 @@
                                 ],
                                 "incrementWithEventRepetitions": true,
                                 "neededProgression": 360,
+                                "objectiveId": "CoopAction",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -3869,6 +3943,7 @@
                                 ],
                                 "incrementWithEventRepetitions": true,
                                 "neededProgression": 800,
+                                "objectiveId": "HealPerc",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -3916,6 +3991,7 @@
                                 ],
                                 "incrementWithEventRepetitions": true,
                                 "neededProgression": 3,
+                                "objectiveId": "UnhookWhoUnhooked",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -3962,6 +4038,7 @@
                                 ],
                                 "incrementWithEventRepetitions": true,
                                 "neededProgression": 10,
+                                "objectiveId": "Stun",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -4008,6 +4085,7 @@
                                 ],
                                 "incrementWithEventRepetitions": true,
                                 "neededProgression": 20,
+                                "objectiveId": "HookDifferent",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -4055,6 +4133,7 @@
                                 ],
                                 "incrementWithEventRepetitions": true,
                                 "neededProgression": 600,
+                                "objectiveId": "Chase",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -4101,6 +4180,7 @@
                                 ],
                                 "incrementWithEventRepetitions": true,
                                 "neededProgression": 6,
+                                "objectiveId": "Grab",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -4148,6 +4228,7 @@
                                 ],
                                 "incrementWithEventRepetitions": true,
                                 "neededProgression": 50,
+                                "objectiveId": "BreakPalletsGens",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -4194,6 +4275,7 @@
                                 ],
                                 "incrementWithEventRepetitions": true,
                                 "neededProgression": 12,
+                                "objectiveId": "Down",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -4235,6 +4317,7 @@
                                 "conditions": [],
                                 "incrementWithEventRepetitions": false,
                                 "neededProgression": 1,
+                                "objectiveId": "EarnEmblemsGoldInTrial",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -4284,6 +4367,7 @@
                                 ],
                                 "incrementWithEventRepetitions": false,
                                 "neededProgression": 1,
+                                "objectiveId": "SabotageFinishInTerrorRadiusInTrial",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -4333,6 +4417,7 @@
                                 ],
                                 "incrementWithEventRepetitions": false,
                                 "neededProgression": 1,
+                                "objectiveId": "SkillCheckConsecutiveInTrial",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -4390,6 +4475,7 @@
                                 ],
                                 "incrementWithEventRepetitions": false,
                                 "neededProgression": 1,
+                                "objectiveId": "EscapeWithDwightPerksInTrial",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -4447,6 +4533,7 @@
                                 ],
                                 "incrementWithEventRepetitions": false,
                                 "neededProgression": 1,
+                                "objectiveId": "EscapeWithKatePerksInTrial",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -4501,6 +4588,7 @@
                                 ],
                                 "incrementWithEventRepetitions": false,
                                 "neededProgression": 1,
+                                "objectiveId": "ChasedByKillerAndEscapeAsCharacterInTrial",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -4561,6 +4649,7 @@
                                 ],
                                 "incrementWithEventRepetitions": false,
                                 "neededProgression": 1,
+                                "objectiveId": "HideNearKillerAndEscapeAsCharacterInTrial",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -4624,6 +4713,7 @@
                                 ],
                                 "incrementWithEventRepetitions": false,
                                 "neededProgression": 1,
+                                "objectiveId": "LivingAtEndTrialWithLegionPerksInTrial",
                                 "questEvent": [
                                     {
                                         "operation": "<=",
@@ -4680,6 +4770,7 @@
                                 ],
                                 "incrementWithEventRepetitions": false,
                                 "neededProgression": 1,
+                                "objectiveId": "LivingAtEndTrialWithHuntressPerksInTrial",
                                 "questEvent": [
                                     {
                                         "operation": "<=",
@@ -4728,6 +4819,7 @@
                                 ],
                                 "incrementWithEventRepetitions": false,
                                 "neededProgression": 1,
+                                "objectiveId": "LivingAtEndTrial",
                                 "questEvent": [
                                     {
                                         "operation": "<=",
@@ -4781,6 +4873,7 @@
                                 ],
                                 "incrementWithEventRepetitions": false,
                                 "neededProgression": 1,
+                                "objectiveId": "HuntressHatchetHitInTrial",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -4835,6 +4928,7 @@
                                 ],
                                 "incrementWithEventRepetitions": false,
                                 "neededProgression": 1,
+                                "objectiveId": "LegionHitMultipleInFrenzyInTrial",
                                 "questEvent": [
                                     {
                                         "operation": ">=",

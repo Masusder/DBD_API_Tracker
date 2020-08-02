@@ -6,5 +6,33 @@
         "maxFriendSuggestionsFacebook": 4,
         "maxFriendSuggestionsGoogle": 4,
         "maxFriendSuggestionsRecentlyPlayed": 4
+    },
+    "hitValidation": {
+        "enable": true,
+        "recorder": {
+            "cacheTimespan": 0.35
+        },
+        "validators": [
+            {
+                "capsuleInflation": 50.0,
+                "maximumDistance": 700.0,
+                "name": "default"
+            },
+            {
+                "capsuleInflation": 50.0,
+                "maximumDistance": 700.0,
+                "name": "hatchet"
+            },
+            {
+                "capsuleInflation": 50.0,
+                "maximumDistance": 700.0,
+                "name": "bomb"
+            },
+            {
+                "capsuleInflation": 50.0,
+                "maximumDistance": 700.0,
+                "name": "harpoon"
+            }
+        ]
     }
 }

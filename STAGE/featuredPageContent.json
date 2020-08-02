@@ -1,4 +1,445 @@
 {
+    "banners": {
+        "left": [
+            {
+                "endDate": "2018-09-11T14:59:59",
+                "ids": [
+                    "Banner_DLC_CHAPTER_8"
+                ],
+                "startDate": "2018-07-24T15:00:00"
+            }
+        ],
+        "primary": [
+            {
+                "endDate": "2019-11-06T15:59:59",
+                "ids": [
+                    "Banner_RDoD",
+                    "Banner_QH",
+                    "Banner_QFD",
+                    "Banner_RH"
+                ],
+                "startDate": "2019-11-02T15:00:00"
+            },
+            {
+                "endDate": "2019-11-13T15:59:59",
+                "ids": [
+                    "Banner_RST",
+                    "Banner_RDoD",
+                    "Banner_QH",
+                    "Banner_QFD",
+                    "Banner_RH"
+                ],
+                "startDate": "2019-11-06T16:00:00"
+            },
+            {
+                "endDate": "2019-11-20T15:59:59",
+                "ids": [
+                    "Banner_RGF",
+                    "Banner_RST",
+                    "Banner_RDoD",
+                    "Banner_QH"
+                ],
+                "startDate": "2019-11-13T16:00:00"
+            },
+            {
+                "endDate": "2019-11-28T15:59:59",
+                "ids": [
+                    "Banner_RTP",
+                    "Banner_RGF",
+                    "Banner_RST",
+                    "Banner_RDoD",
+                    "Banner_QH"
+                ],
+                "startDate": "2019-11-20T16:00:00"
+            },
+            {
+                "endDate": "2019-12-03T15:59:59",
+                "ids": [
+                    "Banner_RH2",
+                    "Banner_RTP",
+                    "Banner_RGF",
+                    "Banner_RST",
+                    "Banner_RDoD"
+                ],
+                "startDate": "2019-11-28T16:00:00"
+            },
+            {
+                "endDate": "2019-12-11T15:59:59",
+                "ids": [
+                    "Banner_DLC_Chapter_14_big",
+                    "Banner_SOY"
+                ],
+                "startDate": "2019-12-03T16:00:00"
+            },
+            {
+                "endDate": "2019-12-18T15:59:59",
+                "ids": [
+                    "Banner_SUS"
+                ],
+                "startDate": "2019-12-11T16:00:00"
+            },
+            {
+                "endDate": "2019-12-25T15:59:59",
+                "ids": [
+                    "Banner_SW1",
+                    "Banner_SW1_01"
+                ],
+                "startDate": "2019-12-18T16:00:00"
+            },
+            {
+                "endDate": "2019-12-29T15:59:59",
+                "ids": [
+                    "Banner_SW2"
+                ],
+                "startDate": "2019-12-25T16:00:00"
+            },
+            {
+                "endDate": "2020-01-08T15:59:59",
+                "ids": [
+                    "Banner_SNY",
+                    "Banner_SNY_01"
+                ],
+                "startDate": "2019-12-29T16:00:00"
+            },
+            {
+                "endDate": "2020-01-15T15:59:59",
+                "ids": [
+                    "Banner_SNYS"
+                ],
+                "startDate": "2020-01-08T16:00:00"
+            },
+            {
+                "endDate": "2020-01-21T15:59:59",
+                "ids": [
+                    "Banner_SNT"
+                ],
+                "startDate": "2020-01-15T16:00:00"
+            },
+            {
+                "endDate": "2020-01-29T15:59:59",
+                "ids": [
+                    "Banner_TLN",
+                    "Banner_SNT",
+                    "Banner_SW2",
+                    "Banner_SW1_01",
+                    "Banner_SW1",
+                    "Banner_SNY",
+                    "Banner_SNY_01"
+                ],
+                "startDate": "2020-01-21T16:00:00"
+            },
+            {
+                "endDate": "2020-02-05T15:59:59",
+                "ids": [
+                    "Banner_TGM2",
+                    "Banner_TGM",
+                    "Banner_TLN",
+                    "Banner_SW2",
+                    "Banner_SW1_01",
+                    "Banner_SNT"
+                ],
+                "startDate": "2020-01-29T16:00:00"
+            },
+            {
+                "endDate": "2020-02-12T15:59:59",
+                "ids": [
+                    "Banner_TD",
+                    "Banner_TGM2",
+                    "Banner_TGM",
+                    "Banner_TLN",
+                    "Banner_SW2",
+                    "Banner_SW1_01"
+                ],
+                "startDate": "2020-02-05T16:00:00"
+            },
+            {
+                "endDate": "2020-02-26T15:59:59",
+                "ids": [
+                    "Banner_TSN",
+                    "Banner_TD",
+                    "Banner_TGM2",
+                    "Banner_TGM",
+                    "Banner_TLN",
+                    "Banner_SW2"
+                ],
+                "startDate": "2020-02-12T16:00:00"
+            },
+            {
+                "endDate": "2020-03-10T14:59:59",
+                "ids": [
+                    "Banner_TP",
+                    "Banner_TD",
+                    "Banner_TSN",
+                    "Banner_TGM2",
+                    "Banner_TGM",
+                    "Banner_TLN"
+                ],
+                "startDate": "2020-02-26T16:00:00"
+            },
+            {
+                "endDate": "2020-03-18T14:59:59",
+                "ids": [
+                    "Banner_DLC_Chapter_15_big",
+                    "Banner_UGS",
+                    "Banner_UZA",
+                    "Banner_TGM2",
+                    "Banner_TSN",
+                    "Banner_TLN",
+                    "Banner_TP"
+                ],
+                "startDate": "2020-03-10T15:00:00"
+            },
+            {
+                "endDate": "2020-03-25T14:59:59",
+                "ids": [
+                    "Banner_UAA",
+                    "Banner_UGS",
+                    "Banner_UZA",
+                    "Banner_TGM2",
+                    "Banner_TSN",
+                    "Banner_TLN"
+                ],
+                "startDate": "2020-03-18T15:00:00"
+            },
+            {
+                "endDate": "2020-04-01T14:59:59",
+                "ids": [
+                    "Banner_UGF",
+                    "Banner_UAA",
+                    "Banner_UGS",
+                    "Banner_UZA",
+                    "Banner_TGM2",
+                    "Banner_TSN"
+                ],
+                "startDate": "2020-03-25T15:00:00"
+            },
+            {
+                "endDate": "2020-04-08T14:59:59",
+                "ids": [
+                    "Banner_UCBV",
+                    "Banner_UZAV",
+                    "Banner_UGF",
+                    "Banner_UAA",
+                    "Banner_UZA",
+                    "Banner_UGS",
+                    "Banner_TGM2"
+                ],
+                "startDate": "2020-04-01T15:00:00"
+            },
+            {
+                "endDate": "2020-04-15T14:59:59",
+                "ids": [
+                    "Banner_UBF",
+                    "Banner_UCBV",
+                    "Banner_UZAV",
+                    "Banner_UGF",
+                    "Banner_UAA",
+                    "Banner_UZA",
+                    "Banner_UGS"
+                ],
+                "startDate": "2020-04-08T15:00:00"
+            },
+            {
+                "endDate": "2020-04-29T14:59:59",
+                "ids": [
+                    "Banner_UWJ",
+                    "Banner_UBF",
+                    "Banner_UCBV",
+                    "Banner_UZAV",
+                    "Banner_UGF"
+                ],
+                "startDate": "2020-04-15T15:00:00"
+            },
+            {
+                "endDate": "2020-05-01T14:59:59",
+                "ids": [
+                    "Banner_UBF",
+                    "Banner_UWJ",
+                    "Banner_UGF",
+                    "Banner_UZA",
+                    "Banner_UGF"
+                ],
+                "startDate": "2020-04-29T15:00:00"
+            },
+            {
+                "endDate": "2020-05-08T14:59:59",
+                "ids": [
+                    "Banner_VGW",
+                    "Banner_UBF",
+                    "Banner_UWJ",
+                    "Banner_UGF"
+                ],
+                "startDate": "2020-05-01T15:00:00"
+            },
+            {
+                "endDate": "2020-05-15T14:59:59",
+                "ids": [
+                    "Banner_VMS2",
+                    "Banner_VMS",
+                    "Banner_UBF",
+                    "Banner_UGF",
+                    "Banner_UWJ"
+                ],
+                "startDate": "2020-05-08T15:00:00"
+            },
+            {
+                "endDate": "2020-05-22T14:59:59",
+                "ids": [
+                    "Banner_VFC",
+                    "Banner_VMS2",
+                    "Banner_VMS",
+                    "Banner_UBF",
+                    "Banner_UGF",
+                    "Banner_UWJ"
+                ],
+                "startDate": "2020-05-15T15:00:00"
+            },
+            {
+                "endDate": "2020-06-05T14:59:59",
+                "ids": [
+                    "Banner_VJC",
+                    "Banner_VFC",
+                    "Banner_VMS2",
+                    "Banner_VMS",
+                    "Banner_UBF"
+                ],
+                "startDate": "2020-05-22T15:00:00"
+            },
+            {
+                "endDate": "2020-06-16T14:59:59",
+                "ids": [
+                    "Banner_VD",
+                    "Banner_VJC",
+                    "Banner_VFC",
+                    "Banner_VMS2",
+                    "Banner_VMS",
+                    "Banner_UBF"
+                ],
+                "startDate": "2020-06-05T15:00:00"
+            },
+            {
+                "endDate": "2020-06-19T14:59:59",
+                "ids": [
+                    "Banner_DLC_Chapter_16_Big"
+                ],
+                "startDate": "2020-06-16T15:00:00"
+            },
+            {
+                "endDate": "2020-06-23T14:59:59",
+                "ids": [
+                    "Banner_WS22",
+                    "Banner_WS22_01"
+                ],
+                "startDate": "2020-06-19T15:00:00"
+            },
+            {
+                "endDate": "2020-06-26T14:59:59",
+                "ids": [
+                    "Banner_WK20",
+                    "Banner_WS22",
+                    "Banner_WS22_01"
+                ],
+                "startDate": "2020-06-23T15:00:00"
+            },
+            {
+                "endDate": "2020-07-03T14:59:59",
+                "ids": [
+                    "Banner_WKK",
+                    "Banner_WK20",
+                    "Banner_WS22",
+                    "Banner_WS22_01"
+                ],
+                "startDate": "2020-06-26T15:00:00"
+            },
+            {
+                "endDate": "2020-07-08T14:59:59",
+                "ids": [
+                    "Banner_WNK",
+                    "Banner_WKK",
+                    "Banner_WK20",
+                    "Banner_WS22",
+                    "Banner_WS22_01"
+                ],
+                "startDate": "2020-07-03T15:00:00"
+            },
+            {
+                "endDate": "2020-07-17T14:59:59",
+                "ids": [
+                    "Banner_WSS",
+                    "Banner_WNK",
+                    "Banner_WKK",
+                    "Banner_WK20",
+                    "Banner_WS22",
+                    "Banner_WS22_01"
+                ],
+                "startDate": "2020-07-08T15:00:00"
+            },
+            {
+                "endDate": "2020-07-22T14:59:59",
+                "ids": [
+                    "Banner_WKS",
+                    "Banner_WSS",
+                    "Banner_WNK",
+                    "Banner_WKK",
+                    "Banner_WK20",
+                    "Banner_WS22",
+                    "Banner_WS22_01"
+                ],
+                "startDate": "2020-07-17T15:00:00"
+            },
+            {
+                "endDate": "2020-07-28T14:59:59",
+                "ids": [
+                    "Banner_WKS",
+                    "Banner_WNK",
+                    "Banner_WKK",
+                    "Banner_WK20",
+                    "Banner_WS22",
+                    "Banner_WS22_01"
+                ],
+                "startDate": "2020-07-22T15:00:00"
+            }
+        ],
+        "right": [
+            {
+                "endDate": "2018-09-11T14:59:59",
+                "ids": [
+                    "Banner_DLC_CHAPTER_8"
+                ],
+                "startDate": "2018-07-24T15:00:00"
+            }
+        ],
+        "secondary": [
+            {
+                "endDate": "2019-12-11T14:59:59",
+                "ids": [
+                    "Banner_DLC_Chapter_13_small"
+                ],
+                "startDate": "2019-09-25T15:00:00"
+            },
+            {
+                "endDate": "2020-03-18T15:00:00",
+                "ids": [
+                    "Banner_DLC_Chapter_14_small"
+                ],
+                "startDate": "2019-12-11T16:00:00"
+            },
+            {
+                "endDate": "2020-06-19T14:59:59",
+                "ids": [
+                    "Banner_DLC_Chapter_15_Small"
+                ],
+                "startDate": "2020-03-18T15:00:00"
+            },
+            {
+                "endDate": "2020-07-28T14:59:59",
+                "ids": [
+                    "Banner_DLC_Chapter_16_Small"
+                ],
+                "startDate": "2020-06-19T15:00:00"
+            }
+        ]
+    },
     "recommendationBoxPriorities": [
         {
             "boxId": 1,
@@ -39,362 +480,6 @@
     ],
     "recommendations": [
         {
-            "startDate": "2019-11-28T16:00:00",
-            "endDate": "2019-12-03T15:59:59",
-            "data": [
-                {
-                    "category": "outfit",
-                    "ids": [
-                        "GS_outfit_010",
-                        "Nea_Outfit_008_01",
-                        "OK_outfit_02",
-                        "FM_outfit_008",
-                        "ML_outfit_006",
-                        "Meg_outfit_003",
-                        "Nea_outfit_010",
-                        "Legion_outfit_009",
-                        "Kate_outfit_010",
-                        "FS_outfit_008",
-                        "FK_outfit_008",
-                        "OK_outfit_007",
-                        "QM_outfit_006",
-                        "QF_outfit_006",
-                        "KK_outfit_010",
-                        "DK_outfit_009",
-                        "KK_outfit_011",
-                        "MS_outfit_009",
-                        "MM_outfit_02",
-                        "LS_outfit_006"
-                    ]
-                }
-            ]
-        },
-        {
-            "startDate": "2019-12-03T16:00:00",
-            "endDate": "2019-12-05T15:59:59",
-            "data": [
-                {
-                    "category": "outfit",
-                    "ids": [
-                        "SwedenSurvivor_outfit_006",
-                        "SwedenKiller_outfit_006",
-                        "SwedenKiller_outfit_02",
-                        "SwedenSurvivor_outfit_02",
-                        "FS_outfit_008",
-                        "FK_outfit_008",
-                        "OK_outfit_007",
-                        "QM_outfit_02",
-                        "GS_outfit_010",
-                        "Nea_Outfit_008_01",
-                        "OK_outfit_02",
-                        "QF_outfit_006",
-                        "MS_outfit_009"
-                    ]
-                }
-            ]
-        },
-        {
-            "startDate": "2019-12-05T16:00:00",
-            "endDate": "2019-12-11T15:59:59",
-            "data": [
-                {
-                    "category": "outfit",
-                    "ids": [
-                        "SwedenKiller_outfit_006",
-                        "SwedenSurvivor_outfit_006",
-                        "SwedenKiller_outfit_02_01",
-                        "SwedenSurvivor_outfit_02_01",
-                        "FK_outfit_008",
-                        "FS_outfit_008",
-                        "OK_outfit_007",
-                        "QM_outfit_02",
-                        "GS_outfit_010",
-                        "Nea_Outfit_008_01",
-                        "OK_outfit_02",
-                        "QF_outfit_006",
-                        "MS_outfit_009"
-                    ]
-                }
-            ]
-        },
-        {
-            "startDate": "2019-12-11T16:00:00",
-            "endDate": "2019-12-18T15:59:59",
-            "data": [
-                {
-                    "category": "item",
-                    "ids": [
-                        "MS_Torso010",
-                        "ML_Torso009",
-                        "QM_Torso007",
-                        "KK_Torso013",
-                        "FS_Torso009",
-                        "QF_Torso007",
-                        "SwedenSurvivor_Torso008",
-                        "KK_Torso012"
-                    ]
-                },
-                {
-                    "category": "outfit",
-                    "ids": [
-                        "SwedenSurvivor_outfit_006",
-                        "SwedenKiller_outfit_006",
-                        "FK_outfit_008",
-                        "FS_outfit_008",
-                        "OK_outfit_007",
-                        "QM_outfit_02",
-                        "GS_outfit_010",
-                        "Nea_Outfit_008_01",
-                        "OK_outfit_02",
-                        "QF_outfit_006",
-                        "MS_outfit_009"
-                    ]
-                }
-            ]
-        },
-        {
-            "startDate": "2019-12-18T16:00:00",
-            "endDate": "2019-12-23T15:59:59",
-            "data": [
-                {
-                    "category": "outfit",
-                    "ids": [
-                        "MT_outfit_011",
-                        "DF_outfit_011",
-                        "BE_outfit_010",
-                        "SwedenSurvivor_outfit_006",
-                        "SwedenKiller_outfit_006",
-                        "FK_outfit_008",
-                        "FS_outfit_008",
-                        "OK_outfit_007",
-                        "QM_outfit_02",
-                        "GS_outfit_010",
-                        "Nea_Outfit_008_01",
-                        "OK_outfit_02",
-                        "QF_outfit_006",
-                        "MS_outfit_009"
-                    ]
-                }
-            ]
-        },
-        {
-            "startDate": "2019-12-23T16:00:00",
-            "endDate": "2019-12-29T15:59:59",
-            "data": [
-                {
-                    "category": "outfit",
-                    "ids": [
-                        "NK_outfit_011",
-                        "SwedenSurvivor_outfit_007",
-                        "SwedenKiller_outfit_007",
-                        "MT_outfit_011",
-                        "DF_outfit_011",
-                        "BE_outfit_010",
-                        "SwedenSurvivor_outfit_006",
-                        "SwedenKiller_outfit_006",
-                        "FK_outfit_008",
-                        "FS_outfit_008",
-                        "OK_outfit_007",
-                        "QM_outfit_02",
-                        "GS_outfit_010",
-                        "Nea_Outfit_008_01",
-                        "OK_outfit_02",
-                        "QF_outfit_006",
-                        "MS_outfit_009"
-                    ]
-                }
-            ]
-        },
-        {
-            "startDate": "2019-12-29T16:00:00",
-            "endDate": "2020-01-08T15:59:59",
-            "data": [
-                {
-                    "category": "outfit",
-                    "ids": [
-                        "CM_outfit_013",
-                        "TC_outfit_010",
-                        "NK_outfit_011",
-                        "SwedenSurvivor_outfit_007",
-                        "SwedenKiller_outfit_007",
-                        "MT_outfit_011",
-                        "DF_outfit_011",
-                        "BE_outfit_010",
-                        "SwedenSurvivor_outfit_006",
-                        "SwedenKiller_outfit_006",
-                        "FK_outfit_008",
-                        "FS_outfit_008",
-                        "OK_outfit_007",
-                        "QM_outfit_02",
-                        "GS_outfit_010",
-                        "Nea_Outfit_008_01",
-                        "OK_outfit_02",
-                        "QF_outfit_006",
-                        "MS_outfit_009"
-                    ]
-                }
-            ]
-        },
-        {
-            "startDate": "2020-01-08T16:00:00",
-            "endDate": "2020-01-15T15:59:59",
-            "data": [
-                {
-                    "category": "outfit",
-                    "ids": [
-                        "CM_outfit_013",
-                        "TC_outfit_010",
-                        "NK_outfit_011",
-                        "SwedenSurvivor_outfit_007",
-                        "SwedenKiller_outfit_007",
-                        "Nea_outfit_010",
-                        "QM_outfit_02",
-                        "FK_outfit_007",
-                        "Meg_outfit_013",
-                        "FM_outfit_008",
-                        "QF_outfit_02",
-                        "Kate_outfit_011",
-                        "Meg_outfit_009_01",
-                        "Legion_outfit_009",
-                        "Spirit_outfit_007_01",
-                        "Claudette_outfit_010_01",
-                        "Smoke_outfit_008_01",
-                        "Clown_outfit_007",
-                        "KS_outfit_009",
-                        "Nea_outfit_008",
-                        "Smoke_outfit_007_01",
-                        "Plague_outfit_006",
-                        "Ace_outfit_003",
-                        "Jake_outfit_007",
-                        "Clown_outfit_008",
-                        "Nurse_outfit_004",
-                        "Hillbilly_Outfit_007_01"
-                    ]
-                }
-            ]
-        },
-        {
-            "startDate": "2020-01-15T16:00:00",
-            "endDate": "2020-01-21T15:59:59",
-            "data": [
-                {
-                    "category": "outfit",
-                    "ids": [
-                        "TR_outfit_011",
-                        "NK_outfit_011",
-                        "SwedenSurvivor_outfit_007",
-                        "SwedenKiller_outfit_007",
-                        "CM_outfit_013",
-                        "TC_outfit_010",
-                        "MT_outfit_011",
-                        "DF_outfit_011",
-                        "BE_outfit_010",
-                        "SwedenSurvivor_outfit_006",
-                        "SwedenKiller_outfit_006",
-                        "FK_outfit_008",
-                        "FS_outfit_008",
-                        "OK_outfit_007",
-                        "QM_outfit_02",
-                        "GS_outfit_010",
-                        "Nea_Outfit_008_01",
-                        "OK_outfit_02",
-                        "QF_outfit_006",
-                        "MS_outfit_009"
-                    ]
-                }
-            ]
-        },
-        {
-            "startDate": "2020-01-21T16:00:00",
-            "endDate": "2020-01-29T15:59:59",
-            "data": [
-                {
-                    "category": "outfit",
-                    "ids": [
-                        "KS_outfit_010",
-                        "KK_outfit_014",
-                        "TR_outfit_011_01",
-                        "NK_outfit_011",
-                        "SwedenSurvivor_outfit_007",
-                        "SwedenKiller_outfit_007",
-                        "MT_outfit_011",
-                        "DF_outfit_011",
-                        "BE_outfit_010",
-                        "CM_outfit_013",
-                        "TC_outfit_010"
-                    ]
-                }
-            ]
-        },
-        {
-            "startDate": "2020-01-29T16:00:00",
-            "endDate": "2020-02-05T15:59:59",
-            "data": [
-                {
-                    "category": "outfit",
-                    "ids": [
-                        "GS_outfit_011",
-                        "SwedenSurvivor_outfit_009",
-                        "TN_outfit_010",
-                        "KK_outfit_014",
-                        "KS_outfit_010",
-                        "NK_outfit_011",
-                        "SwedenSurvivor_outfit_007",
-                        "SwedenKiller_outfit_007",
-                        "MT_outfit_011",
-                        "DF_outfit_011",
-                        "TR_outfit_011_01"
-                    ]
-                }
-            ]
-        },
-        {
-            "startDate": "2020-02-05T16:00:00",
-            "endDate": "2020-02-12T15:59:59",
-            "data": [
-                {
-                    "category": "outfit",
-                    "ids": [
-                        "QK_outfit_006",
-                        "GS_outfit_011",
-                        "SwedenSurvivor_outfit_009",
-                        "TN_outfit_010",
-                        "KK_outfit_014",
-                        "KS_outfit_010",
-                        "NK_outfit_011",
-                        "SwedenSurvivor_outfit_007",
-                        "SwedenKiller_outfit_007",
-                        "MT_outfit_011",
-                        "DF_outfit_011"
-                    ]
-                }
-            ]
-        },
-        {
-            "startDate": "2020-02-12T16:00:00",
-            "endDate": "2020-02-26T15:59:59",
-            "data": [
-                {
-                    "category": "outfit",
-                    "ids": [
-                        "QM_outfit_008",
-                        "QF_outfit_008",
-                        "QK_outfit_006",
-                        "GS_outfit_011",
-                        "SwedenSurvivor_outfit_009",
-                        "TN_outfit_010",
-                        "KK_outfit_014",
-                        "KS_outfit_010",
-                        "NK_outfit_011",
-                        "SwedenSurvivor_outfit_007",
-                        "SwedenKiller_outfit_007"
-                    ]
-                }
-            ]
-        },
-        {
-            "startDate": "2020-02-26T16:00:00",
-            "endDate": "2020-03-10T14:59:59",
             "data": [
                 {
                     "category": "outfit",
@@ -410,111 +495,247 @@
                         "KS_outfit_010"
                     ]
                 }
-            ]
+            ],
+            "endDate": "2020-03-10T14:59:59",
+            "startDate": "2020-02-26T16:00:00"
+        },
+        {
+            "data": [
+                {
+                    "category": "outfit",
+                    "ids": [
+                        "UK_outfit_006",
+                        "US_outfit_006",
+                        "GS_outfit_011",
+                        "SwedenSurvivor_outfit_009",
+                        "QM_outfit_008",
+                        "QF_outfit_008",
+                        "KS_outfit_010",
+                        "KK_outfit_014",
+                        "MK_outfit_009"
+                    ]
+                }
+            ],
+            "endDate": "2020-03-18T14:59:59",
+            "startDate": "2020-03-10T15:00:00"
+        },
+        {
+            "data": [
+                {
+                    "category": "outfit",
+                    "ids": [
+                        "HS_outfit_009",
+                        "AV_outfit_010",
+                        "US_outfit_006",
+                        "UK_outfit_006",
+                        "GS_outfit_011",
+                        "SwedenSurvivor_outfit_009",
+                        "QM_outfit_008",
+                        "QF_outfit_008",
+                        "KS_outfit_010",
+                        "KK_outfit_014"
+                    ]
+                }
+            ],
+            "endDate": "2020-03-25T14:59:59",
+            "startDate": "2020-03-18T15:00:00"
+        },
+        {
+            "data": [
+                {
+                    "category": "outfit",
+                    "ids": [
+                        "OK_outfit_008",
+                        "HS_outfit_009",
+                        "AV_outfit_010",
+                        "UK_outfit_006",
+                        "US_outfit_006",
+                        "GS_outfit_011",
+                        "SwedenSurvivor_outfit_009",
+                        "QM_outfit_008",
+                        "QF_outfit_008"
+                    ]
+                }
+            ],
+            "endDate": "2020-04-01T14:59:59",
+            "startDate": "2020-03-25T15:00:00"
+        },
+        {
+            "data": [
+                {
+                    "category": "outfit",
+                    "ids": [
+                        "UK_outfit_007",
+                        "US_outfit_007",
+                        "OK_outfit_008",
+                        "HS_outfit_009",
+                        "AV_outfit_010",
+                        "US_outfit_006",
+                        "UK_outfit_006",
+                        "GS_outfit_011",
+                        "SwedenSurvivor_outfit_009"
+                    ]
+                }
+            ],
+            "endDate": "2020-04-08T14:59:59",
+            "startDate": "2020-04-01T15:00:00"
+        },
+        {
+            "data": [
+                {
+                    "category": "outfit",
+                    "ids": [
+                        "FM_outfit_011",
+                        "FM_outfit_011_01",
+                        "US_outfit_007",
+                        "UK_outfit_007",
+                        "OK_outfit_008",
+                        "HS_outfit_009",
+                        "AV_outfit_010",
+                        "US_outfit_006",
+                        "UK_outfit_006"
+                    ]
+                }
+            ],
+            "endDate": "2020-04-15T14:59:59",
+            "startDate": "2020-04-08T15:00:00"
+        },
+        {
+            "data": [
+                {
+                    "category": "outfit",
+                    "ids": [
+                        "TW_outfit_011",
+                        "MS_outfit_012",
+                        "FM_outfit_011",
+                        "FM_outfit_011_01",
+                        "US_outfit_007",
+                        "UK_outfit_007",
+                        "OK_outfit_008"
+                    ]
+                }
+            ],
+            "endDate": "2020-04-29T14:59:59",
+            "startDate": "2020-04-15T15:00:00"
+        },
+        {
+            "data": [
+                {
+                    "category": "outfit",
+                    "ids": [
+                        "FM_outfit_011",
+                        "FM_outfit_011_01",
+                        "TW_outfit_011",
+                        "MS_outfit_012",
+                        "OK_outfit_008",
+                        "US_outfit_007",
+                        "UK_outfit_007"
+                    ]
+                }
+            ],
+            "endDate": "2020-05-01T14:59:59",
+            "startDate": "2020-04-29T15:00:00"
+        },
+        {
+            "data": [
+                {
+                    "category": "outfit",
+                    "ids": [
+                        "MS_outfit_012",
+                        "FM_outfit_011",
+                        "OK_outfit_008",
+                        "ML_outfit_02",
+                        "Nea_outfit_010",
+                        "GS_outfit_010",
+                        "Feng_outfit_002",
+                        "Smoke_outfit_008_01",
+                        "SwedenSurvivor_outfit_009"
+                    ]
+                }
+            ],
+            "endDate": "2020-05-08T14:59:59",
+            "startDate": "2020-05-01T15:00:00"
+        },
+        {
+            "data": [
+                {
+                    "category": "outfit",
+                    "ids": [
+                        "US_outfit_008",
+                        "MT_outfit_012",
+                        "DK_outfit_011",
+                        "FM_outfit_011",
+                        "FM_outfit_011_01",
+                        "OK_outfit_008",
+                        "TW_outfit_011",
+                        "MS_outfit_012"
+                    ]
+                }
+            ],
+            "endDate": "2020-05-15T14:59:59",
+            "startDate": "2020-05-08T15:00:00"
+        },
+        {
+            "data": [
+                {
+                    "category": "outfit",
+                    "ids": [
+                        "HK_outfit_010",
+                        "SwedenKiller_outfit_008",
+                        "US_outfit_008",
+                        "MT_outfit_012",
+                        "DK_outfit_011",
+                        "FM_outfit_011",
+                        "FM_outfit_011_01",
+                        "OK_outfit_008",
+                        "TW_outfit_011",
+                        "MS_outfit_012"
+                    ]
+                }
+            ],
+            "endDate": "2020-05-22T14:59:59",
+            "startDate": "2020-05-15T15:00:00"
+        },
+        {
+            "data": [
+                {
+                    "category": "outfit",
+                    "ids": [
+                        "JP_outfit_013",
+                        "CM_outfit_014",
+                        "HK_outfit_010",
+                        "SwedenKiller_outfit_008",
+                        "US_outfit_008",
+                        "MT_outfit_012",
+                        "DK_outfit_011",
+                        "FM_outfit_011",
+                        "FM_outfit_011_01"
+                    ]
+                }
+            ],
+            "endDate": "2020-06-05T14:59:59",
+            "startDate": "2020-05-22T15:00:00"
+        },
+        {
+            "data": [
+                {
+                    "category": "outfit",
+                    "ids": [
+                        "DO_outfit_011",
+                        "JP_outfit_013",
+                        "CM_outfit_014",
+                        "HK_outfit_010",
+                        "SwedenKiller_outfit_008",
+                        "US_outfit_008",
+                        "MT_outfit_012",
+                        "DK_outfit_011",
+                        "FM_outfit_011",
+                        "FM_outfit_011_01"
+                    ]
+                }
+            ],
+            "endDate": "2020-06-16T14:59:59",
+            "startDate": "2020-06-05T15:00:00"
         }
-    ],
-    "banners": {
-        "left": [
-            {
-                "startDate": "2018-07-24T15:00:00",
-                "endDate": "2018-09-11T14:59:59",
-                "ids": [
-                    "Banner_DLC_CHAPTER_8"
-                ]
-            }
-        ],
-        "right": [
-            {
-                "startDate": "2018-07-24T15:00:00",
-                "endDate": "2018-09-11T14:59:59",
-                "ids": [
-                    "Banner_DLC_CHAPTER_8"
-                ]
-            }
-        ],
-        "primary": [
-            {
-                "startDate": "2020-01-15T16:00:00",
-                "endDate": "2020-01-21T15:59:59",
-                "ids": [
-                    "Banner_SNT",
-                    "Banner_SW2",
-                    "Banner_SNY",
-                    "Banner_SNY_01",
-                    "Banner_SW1_01",
-                    "Banner_SW1"
-                ]
-            },
-            {
-                "startDate": "2020-01-21T16:00:00",
-                "endDate": "2020-01-29T15:59:59",
-                "ids": [
-                    "Banner_TLN",
-                    "Banner_SNT",
-                    "Banner_SW2",
-                    "Banner_SW1_01",
-                    "Banner_SW1",
-                    "Banner_SNY",
-                    "Banner_SNY_01"
-                ]
-            },
-            {
-                "startDate": "2020-01-29T16:00:00",
-                "endDate": "2020-02-05T15:59:59",
-                "ids": [
-                    "Banner_TGM2",
-                    "Banner_TGM",
-                    "Banner_TLN",
-                    "Banner_SW2",
-                    "Banner_SW1_01",
-                    "Banner_SNT"
-                ]
-            },
-            {
-                "startDate": "2020-02-05T16:00:00",
-                "endDate": "2020-02-12T15:59:59",
-                "ids": [
-                    "Banner_TD",
-                    "Banner_TGM2",
-                    "Banner_TGM",
-                    "Banner_TLN",
-                    "Banner_SW2",
-                    "Banner_SW1_01"
-                ]
-            },
-            {
-                "startDate": "2020-02-12T16:00:00",
-                "endDate": "2020-02-26T15:59:59",
-                "ids": [
-                    "Banner_TSN",
-                    "Banner_TD",
-                    "Banner_TGM2",
-                    "Banner_TGM",
-                    "Banner_TLN",
-                    "Banner_SW2"
-                ]
-            },
-            {
-                "startDate": "2020-02-26T16:00:00",
-                "endDate": "2020-03-10T14:59:59",
-                "ids": [
-                    "Banner_TP",
-                    "Banner_TD",
-                    "Banner_TSN",
-                    "Banner_TGM2",
-                    "Banner_TGM",
-                    "Banner_TLN"
-                ]
-            }
-        ],
-        "secondary": [
-            {
-                "startDate": "2019-12-11T16:00:00",
-                "endDate": "2020-03-10T14:59:59",
-                "ids": [
-                    "Banner_DLC_Chapter_14_small"
-                ]
-            }
-        ]
-    }
+    ]
 }

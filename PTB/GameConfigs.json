@@ -6,5 +6,11 @@
         "maxFriendSuggestionsFacebook": 4,
         "maxFriendSuggestionsGoogle": 4,
         "maxFriendSuggestionsRecentlyPlayed": 4
+    },
+    "hitValidation": {
+        "enable": false,
+        "recorder": {
+            "cacheTimespan": 0.35
+        }
     }
 }

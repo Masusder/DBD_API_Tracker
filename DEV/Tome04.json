@@ -1180,7 +1180,8 @@
                                 "questEvent": [
                                     {
                                         "operation": ">=",
-                                        "questEventId": "QuestEvent.RepairFinish",
+                                        "parameters": "instigator:any",
+                                        "questEventId": "QuestEvent.GeneratorRepairedByTeam",
                                         "repetition": 1
                                     }
                                 ]
@@ -2017,7 +2018,7 @@
                         ]
                     },
                     "node_T4L2_19": {
-                        "clientInfoId": "WraithBellNearSurvivorDifferent",
+                        "clientInfoId": "WraithBellNearSurvivorDifferentinTrial",
                         "coordinates": {
                             "x": 815,
                             "y": 605
@@ -2031,7 +2032,7 @@
                         ],
                         "nodeType": "quest:challenge",
                         "objectives": {
-                            "WraithBellNearSurvivorDifferent": {
+                            "WraithBellNearSurvivorDifferentInTrial": {
                                 "conditions": [
                                     {
                                         "key": "role",
@@ -2048,7 +2049,7 @@
                                 ],
                                 "incrementWithEventRepetitions": false,
                                 "neededProgression": 1,
-                                "objectiveId": "WraithBellNearSurvivorDifferent",
+                                "objectiveId": "WraithBellNearSurvivorDifferentInTrial",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -2358,7 +2359,7 @@
                                     {
                                         "operation": ">=",
                                         "parameters": "instigator:me",
-                                        "questEventId": "QuestEvent.Escape",
+                                        "questEventId": "QuestEvent.BlindBurn",
                                         "repetition": 1
                                     }
                                 ]
@@ -2499,7 +2500,7 @@
                                 "questEvent": [
                                     {
                                         "operation": ">=",
-                                        "parameters": "instigator:me",
+                                        "parameters": "instigator:me;Distance:250",
                                         "questEventId": "QuestEvent.FallInChase",
                                         "repetition": 1
                                     }
@@ -2757,7 +2758,7 @@
                         ]
                     },
                     "node_T4L3_13": {
-                        "clientInfoId": "EarnEmblemsIridescentIntrial",
+                        "clientInfoId": "EarnEmblemsIridescentInTrial",
                         "coordinates": {
                             "x": 815,
                             "y": 305
@@ -3361,7 +3362,7 @@
                                     {
                                         "operation": ">=",
                                         "parameters": "instigator:me",
-                                        "questEventId": "QuestEvent.UnhookWhoUnhooked",
+                                        "questEventId": "QuestEvent.UnhookSafeWhoUnhooked",
                                         "repetition": 1
                                     }
                                 ]
@@ -3502,7 +3503,7 @@
                                 "questEvent": [
                                     {
                                         "operation": ">=",
-                                        "parameters": "EmblemType:Benevolent;EmblemQuality:Iridescent",
+                                        "parameters": "EmblemName:Emblem_Survivor_Benevolent;EmblemQuality:Iridescent",
                                         "questEventId": "QuestEvent.EarnEmblemsQuality",
                                         "repetition": 1
                                     }
@@ -3552,7 +3553,7 @@
                                 "questEvent": [
                                     {
                                         "operation": ">=",
-                                        "parameters": "instigator:me",
+                                        "parameters": "instigator:any;TimeLimit:20;NearDistance:500",
                                         "questEventId": "QuestEvent.MissInRange",
                                         "repetition": 1
                                     }
@@ -3645,7 +3646,7 @@
                                 "questEvent": [
                                     {
                                         "operation": ">=",
-                                        "parameters": "EmblemType:Devout;EmblemQuality:Iridescent",
+                                        "parameters": "EmblemName:Emblem_Killer_Devout;EmblemQuality:Iridescent",
                                         "questEventId": "QuestEvent.EarnEmblemsQuality",
                                         "repetition": 1
                                     }
@@ -3878,18 +3879,8 @@
                                     {
                                         "key": "perk",
                                         "value": [
-                                            "Open_Handed"
-                                        ]
-                                    },
-                                    {
-                                        "key": "perk",
-                                        "value": [
-                                            "Up_The_Ante"
-                                        ]
-                                    },
-                                    {
-                                        "key": "perk",
-                                        "value": [
+                                            "Open_Handed",
+                                            "Up_The_Ante",
                                             "Ace_In_The_Hole"
                                         ]
                                     }
@@ -4144,18 +4135,8 @@
                                     {
                                         "key": "perk",
                                         "value": [
-                                            "Predator"
-                                        ]
-                                    },
-                                    {
-                                        "key": "perk",
-                                        "value": [
-                                            "Bloodhound"
-                                        ]
-                                    },
-                                    {
-                                        "key": "perk",
-                                        "value": [
+                                            "Predator",
+                                            "Bloodhound",
                                             "Shadowborn"
                                         ]
                                     }
@@ -4167,7 +4148,7 @@
                                     {
                                         "operation": "<=",
                                         "questEventId": "QuestEvent.LivingAtEndTrial",
-                                        "repetition": 0
+                                        "repetition": 1
                                     }
                                 ]
                             }
@@ -4186,7 +4167,7 @@
                         ]
                     },
                     "node_T4L4_19": {
-                        "clientInfoId": "WraithStalkWraithHitAfterUncloakInTrial",
+                        "clientInfoId": "WraithHitAfterUncloakInTrial",
                         "coordinates": {
                             "x": 815,
                             "y": 5
@@ -4200,7 +4181,7 @@
                         ],
                         "nodeType": "quest:challenge",
                         "objectives": {
-                            "WraithStalkWraithHitAfterUncloakInTrial": {
+                            "WraithHitAfterUncloakInTrial": {
                                 "conditions": [
                                     {
                                         "key": "role",
@@ -4217,19 +4198,13 @@
                                 ],
                                 "incrementWithEventRepetitions": false,
                                 "neededProgression": 1,
-                                "objectiveId": "WraithStalkWraithHitAfterUncloakInTrial",
+                                "objectiveId": "WraithHitAfterUncloakInTrial",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
                                         "parameters": "instigator:me",
-                                        "questEventId": "QuestEvent.WraithStalk",
-                                        "repetition": 60
-                                    },
-                                    {
-                                        "operation": ">=",
-                                        "parameters": "instigator:me",
                                         "questEventId": "QuestEvent.WraithHitAfterUncloak",
-                                        "repetition": 4
+                                        "repetition": 8
                                     }
                                 ]
                             }
@@ -4349,678 +4324,9 @@
                         "type": "progressionDbD"
                     }
                 ]
-            },
-            {
-                "challengeRewards": [
-                    {
-                        "amount": 0,
-                        "id": "star",
-                        "type": "progressionDbD"
-                    }
-                ],
-                "end": [
-                    "node_T4L5_End01"
-                ],
-                "endNodeRewards": [
-                    {
-                        "amount": 10,
-                        "id": "star",
-                        "type": "progressionDbD"
-                    },
-                    {
-                        "amount": 1,
-                        "id": "XI_001",
-                        "type": "inventory"
-                    }
-                ],
-                "nodes": {
-                    "node_T4L5_01": {
-                        "clientInfoId": "HagTrapTriggeredInTrial",
-                        "coordinates": {
-                            "x": 275,
-                            "y": 155
-                        },
-                        "neighbors": [
-                            "node_T4L5_End01",
-                            "node_T4L5_Start01"
-                        ],
-                        "nodeType": "quest:task",
-                        "objectives": {
-                            "HagTrapTriggeredInTrial": {
-                                "conditions": [
-                                    {
-                                        "key": "character",
-                                        "value": [
-                                            "Witch"
-                                        ]
-                                    }
-                                ],
-                                "incrementWithEventRepetitions": true,
-                                "neededProgression": 1,
-                                "objectiveId": "HagTrapTriggeredInTrial",
-                                "questEvent": [
-                                    {
-                                        "operation": ">=",
-                                        "questEventId": "QuestEvent.HagTrapTriggered",
-                                        "repetition": 1
-                                    }
-                                ]
-                            }
-                        },
-                        "reward": [
-                            {
-                                "amount": 1,
-                                "id": "star",
-                                "type": "progressionDbD"
-                            },
-                            {
-                                "amount": 1,
-                                "id": "Bloodpoints",
-                                "type": "currency"
-                            }
-                        ]
-                    },
-                    "node_T4L5_02": {
-                        "clientInfoId": "HagHitAfterTrapTriggeredInTrial",
-                        "coordinates": {
-                            "x": 455,
-                            "y": 155
-                        },
-                        "neighbors": [
-                            "node_T4L5_End01",
-                            "node_T4L5_Start01"
-                        ],
-                        "nodeType": "quest:task",
-                        "objectives": {
-                            "HagHitAfterTrapTriggeredInTrial": {
-                                "conditions": [
-                                    {
-                                        "key": "character",
-                                        "value": [
-                                            "Witch"
-                                        ]
-                                    }
-                                ],
-                                "incrementWithEventRepetitions": true,
-                                "neededProgression": 1,
-                                "objectiveId": "HagHitAfterTrapTriggeredInTrial",
-                                "questEvent": [
-                                    {
-                                        "operation": ">=",
-                                        "questEventId": "QuestEvent.HagHitAfterTrapTriggered",
-                                        "repetition": 1
-                                    }
-                                ]
-                            }
-                        },
-                        "reward": [
-                            {
-                                "amount": 1,
-                                "id": "star",
-                                "type": "progressionDbD"
-                            },
-                            {
-                                "amount": 1,
-                                "id": "Bloodpoints",
-                                "type": "currency"
-                            }
-                        ]
-                    },
-                    "node_T4L5_03": {
-                        "clientInfoId": "HagTeleportShortDistanceInTrial",
-                        "coordinates": {
-                            "x": 635,
-                            "y": 155
-                        },
-                        "neighbors": [
-                            "node_T4L5_End01",
-                            "node_T4L5_Start01"
-                        ],
-                        "nodeType": "quest:task",
-                        "objectives": {
-                            "HagTeleportShortDistanceInTrial": {
-                                "conditions": [
-                                    {
-                                        "key": "character",
-                                        "value": [
-                                            "Witch"
-                                        ]
-                                    }
-                                ],
-                                "incrementWithEventRepetitions": true,
-                                "neededProgression": 1,
-                                "objectiveId": "HagTeleportShortDistanceInTrial",
-                                "questEvent": [
-                                    {
-                                        "operation": ">=",
-                                        "parameters": "Distance:500",
-                                        "questEventId": "QuestEvent.HagTeleportShortDistance",
-                                        "repetition": 1
-                                    }
-                                ]
-                            }
-                        },
-                        "reward": [
-                            {
-                                "amount": 1,
-                                "id": "star",
-                                "type": "progressionDbD"
-                            },
-                            {
-                                "amount": 1,
-                                "id": "Bloodpoints",
-                                "type": "currency"
-                            }
-                        ]
-                    },
-                    "node_T4L5_04": {
-                        "clientInfoId": "HagTeleportLongDistanceInTrial",
-                        "coordinates": {
-                            "x": 815,
-                            "y": 155
-                        },
-                        "neighbors": [
-                            "node_T4L5_End01",
-                            "node_T4L5_Start01"
-                        ],
-                        "nodeType": "quest:task",
-                        "objectives": {
-                            "HagTeleportLongDistanceInTrial": {
-                                "conditions": [
-                                    {
-                                        "key": "character",
-                                        "value": [
-                                            "Witch"
-                                        ]
-                                    }
-                                ],
-                                "incrementWithEventRepetitions": true,
-                                "neededProgression": 1,
-                                "objectiveId": "HagTeleportLongDistanceInTrial",
-                                "questEvent": [
-                                    {
-                                        "operation": ">=",
-                                        "parameters": "Distance:500",
-                                        "questEventId": "QuestEvent.HagTeleportLongDistance",
-                                        "repetition": 1
-                                    }
-                                ]
-                            }
-                        },
-                        "reward": [
-                            {
-                                "amount": 1,
-                                "id": "star",
-                                "type": "progressionDbD"
-                            },
-                            {
-                                "amount": 1,
-                                "id": "Bloodpoints",
-                                "type": "currency"
-                            }
-                        ]
-                    },
-                    "node_T4L5_05": {
-                        "clientInfoId": "HagTrapMultipleInTrial",
-                        "coordinates": {
-                            "x": 275,
-                            "y": 5
-                        },
-                        "neighbors": [
-                            "node_T4L5_End01",
-                            "node_T4L5_Start01"
-                        ],
-                        "nodeType": "quest:task",
-                        "objectives": {
-                            "HagTrapMultipleInTrial": {
-                                "conditions": [
-                                    {
-                                        "key": "character",
-                                        "value": [
-                                            "Witch"
-                                        ]
-                                    }
-                                ],
-                                "incrementWithEventRepetitions": true,
-                                "neededProgression": 1,
-                                "objectiveId": "HagTrapMultipleInTrial",
-                                "questEvent": [
-                                    {
-                                        "operation": ">=",
-                                        "questEventId": "QuestEvent.HagTrapMultiple",
-                                        "repetition": 1
-                                    }
-                                ]
-                            }
-                        },
-                        "reward": [
-                            {
-                                "amount": 1,
-                                "id": "star",
-                                "type": "progressionDbD"
-                            },
-                            {
-                                "amount": 1,
-                                "id": "Bloodpoints",
-                                "type": "currency"
-                            }
-                        ]
-                    },
-                    "node_T4L5_06": {
-                        "clientInfoId": "WraithStalkInTrial",
-                        "coordinates": {
-                            "x": 455,
-                            "y": 5
-                        },
-                        "neighbors": [
-                            "node_T4L5_End01",
-                            "node_T4L5_Start01"
-                        ],
-                        "nodeType": "quest:task",
-                        "objectives": {
-                            "WraithStalkInTrial": {
-                                "conditions": [
-                                    {
-                                        "key": "character",
-                                        "value": [
-                                            "Bob"
-                                        ]
-                                    }
-                                ],
-                                "incrementWithEventRepetitions": true,
-                                "neededProgression": 1,
-                                "objectiveId": "WraithStalkInTrial",
-                                "questEvent": [
-                                    {
-                                        "operation": ">=",
-                                        "questEventId": "QuestEvent.WraithStalk",
-                                        "repetition": 1
-                                    }
-                                ]
-                            }
-                        },
-                        "reward": [
-                            {
-                                "amount": 1,
-                                "id": "star",
-                                "type": "progressionDbD"
-                            },
-                            {
-                                "amount": 1,
-                                "id": "Bloodpoints",
-                                "type": "currency"
-                            }
-                        ]
-                    },
-                    "node_T4L5_07": {
-                        "clientInfoId": "BlindBurnInTrial",
-                        "coordinates": {
-                            "x": 635,
-                            "y": 5
-                        },
-                        "neighbors": [
-                            "node_T4L5_End01",
-                            "node_T4L5_Start01"
-                        ],
-                        "nodeType": "quest:task",
-                        "objectives": {
-                            "BlindBurnInTrial": {
-                                "conditions": [],
-                                "incrementWithEventRepetitions": true,
-                                "neededProgression": 1,
-                                "objectiveId": "BlindBurnInTrial",
-                                "questEvent": [
-                                    {
-                                        "operation": ">=",
-                                        "questEventId": "QuestEvent.BlindBurn",
-                                        "repetition": 1
-                                    }
-                                ]
-                            }
-                        },
-                        "reward": [
-                            {
-                                "amount": 1,
-                                "id": "star",
-                                "type": "progressionDbD"
-                            },
-                            {
-                                "amount": 1,
-                                "id": "Bloodpoints",
-                                "type": "currency"
-                            }
-                        ]
-                    },
-                    "node_T4L5_08": {
-                        "clientInfoId": "WraithHitAfterUncloakInTrial",
-                        "coordinates": {
-                            "x": 815,
-                            "y": 5
-                        },
-                        "neighbors": [
-                            "node_T4L5_End01",
-                            "node_T4L5_Start01"
-                        ],
-                        "nodeType": "quest:task",
-                        "objectives": {
-                            "WraithHitAfterUncloakInTrial": {
-                                "conditions": [
-                                    {
-                                        "key": "character",
-                                        "value": [
-                                            "Bob"
-                                        ]
-                                    }
-                                ],
-                                "incrementWithEventRepetitions": true,
-                                "neededProgression": 1,
-                                "objectiveId": "WraithHitAfterUncloakInTrial",
-                                "questEvent": [
-                                    {
-                                        "operation": ">=",
-                                        "questEventId": "QuestEvent.WraithHitAfterUncloak",
-                                        "repetition": 1
-                                    }
-                                ]
-                            }
-                        },
-                        "reward": [
-                            {
-                                "amount": 1,
-                                "id": "star",
-                                "type": "progressionDbD"
-                            },
-                            {
-                                "amount": 1,
-                                "id": "Bloodpoints",
-                                "type": "currency"
-                            }
-                        ]
-                    },
-                    "node_T4L5_09": {
-                        "clientInfoId": "WraithBellInTrial",
-                        "coordinates": {
-                            "x": 995,
-                            "y": 5
-                        },
-                        "neighbors": [
-                            "node_T4L5_End01",
-                            "node_T4L5_Start01"
-                        ],
-                        "nodeType": "quest:task",
-                        "objectives": {
-                            "WraithBellInTrial": {
-                                "conditions": [
-                                    {
-                                        "key": "character",
-                                        "value": [
-                                            "Bob"
-                                        ]
-                                    }
-                                ],
-                                "incrementWithEventRepetitions": true,
-                                "neededProgression": 1,
-                                "objectiveId": "WraithBellInTrial",
-                                "questEvent": [
-                                    {
-                                        "operation": ">=",
-                                        "questEventId": "QuestEvent.WraithBell",
-                                        "repetition": 3
-                                    }
-                                ]
-                            }
-                        },
-                        "reward": [
-                            {
-                                "amount": 1,
-                                "id": "star",
-                                "type": "progressionDbD"
-                            },
-                            {
-                                "amount": 1,
-                                "id": "Bloodpoints",
-                                "type": "currency"
-                            }
-                        ]
-                    },
-                    "node_T4L5_10": {
-                        "clientInfoId": "WraithBellNearSurvivorInTrial",
-                        "coordinates": {
-                            "x": 995,
-                            "y": 155
-                        },
-                        "neighbors": [
-                            "node_T4L5_End01",
-                            "node_T4L5_Start01"
-                        ],
-                        "nodeType": "quest:task",
-                        "objectives": {
-                            "WraithBellNearSurvivorInTrial": {
-                                "conditions": [
-                                    {
-                                        "key": "character",
-                                        "value": [
-                                            "Bob"
-                                        ]
-                                    }
-                                ],
-                                "incrementWithEventRepetitions": true,
-                                "neededProgression": 1,
-                                "objectiveId": "WraithBellNearSurvivorInTrial",
-                                "questEvent": [
-                                    {
-                                        "operation": ">=",
-                                        "parameters": "Distance:500",
-                                        "questEventId": "QuestEvent.WraithBellNearSurvivor",
-                                        "repetition": 3
-                                    }
-                                ]
-                            }
-                        },
-                        "reward": [
-                            {
-                                "amount": 1,
-                                "id": "star",
-                                "type": "progressionDbD"
-                            },
-                            {
-                                "amount": 1,
-                                "id": "Bloodpoints",
-                                "type": "currency"
-                            }
-                        ]
-                    },
-                    "node_T4L5_11": {
-                        "clientInfoId": "WraithBellNearSurvivorDifferentInTrial",
-                        "coordinates": {
-                            "x": 455,
-                            "y": 305
-                        },
-                        "neighbors": [
-                            "node_T4L5_End01",
-                            "node_T4L5_Start01"
-                        ],
-                        "nodeType": "quest:task",
-                        "objectives": {
-                            "WraithBellNearSurvivorDifferentInTrial": {
-                                "conditions": [
-                                    {
-                                        "key": "character",
-                                        "value": [
-                                            "Bob"
-                                        ]
-                                    }
-                                ],
-                                "incrementWithEventRepetitions": true,
-                                "neededProgression": 1,
-                                "objectiveId": "WraithBellNearSurvivorDifferentInTrial",
-                                "questEvent": [
-                                    {
-                                        "operation": ">=",
-                                        "parameters": "Distance:500",
-                                        "questEventId": "QuestEvent.WraithBellNearSurvivorDifferent",
-                                        "repetition": 3
-                                    }
-                                ]
-                            }
-                        },
-                        "reward": [
-                            {
-                                "amount": 1,
-                                "id": "star",
-                                "type": "progressionDbD"
-                            },
-                            {
-                                "amount": 1,
-                                "id": "Bloodpoints",
-                                "type": "currency"
-                            }
-                        ]
-                    },
-                    "node_T4L5_12": {
-                        "clientInfoId": "HideInLockerInOrAfterChaseInTrial",
-                        "coordinates": {
-                            "x": 275,
-                            "y": 305
-                        },
-                        "neighbors": [
-                            "node_T4L5_End01",
-                            "node_T4L5_Start01"
-                        ],
-                        "nodeType": "quest:task",
-                        "objectives": {
-                            "HideInLockerInOrAfterChaseInTrial": {
-                                "conditions": [],
-                                "incrementWithEventRepetitions": true,
-                                "neededProgression": 1,
-                                "objectiveId": "HideInLockerInOrAfterChaseInTrial",
-                                "questEvent": [
-                                    {
-                                        "operation": ">=",
-                                        "questEventId": "QuestEvent.HideInLockerInOrAfterChase",
-                                        "repetition": 1
-                                    }
-                                ]
-                            }
-                        },
-                        "reward": [
-                            {
-                                "amount": 1,
-                                "id": "star",
-                                "type": "progressionDbD"
-                            },
-                            {
-                                "amount": 1,
-                                "id": "Bloodpoints",
-                                "type": "currency"
-                            }
-                        ]
-                    },
-                    "node_T4L5_13": {
-                        "clientInfoId": "DebugContextualQuest",
-                        "coordinates": {
-                            "x": 275,
-                            "y": 455
-                        },
-                        "neighbors": [
-                            "node_T4L5_End01",
-                            "node_T4L5_Start01"
-                        ],
-                        "nodeType": "quest:contextual",
-                        "objectives": {
-                            "DebugContextualQuest": {
-                                "conditions": [],
-                                "incrementWithEventRepetitions": true,
-                                "neededProgression": 1,
-                                "objectiveId": "DebugContextualQuest",
-                                "questEvent": [
-                                    {
-                                        "operation": ">=",
-                                        "questEventId": "QuestEvent.RedGlyph",
-                                        "repetition": 3
-                                    }
-                                ],
-                                "specialBehaviours": [
-                                    {
-                                        "id": "RedGlyph"
-                                    }
-                                ]
-                            }
-                        },
-                        "reward": [
-                            {
-                                "amount": 1,
-                                "id": "star",
-                                "type": "progressionDbD"
-                            },
-                            {
-                                "amount": 1,
-                                "id": "Bloodpoints",
-                                "type": "currency"
-                            }
-                        ]
-                    },
-                    "node_T4L5_End01": {
-                        "clientInfoId": "End",
-                        "coordinates": {
-                            "x": 1265,
-                            "y": 305
-                        },
-                        "neighbors": [
-                            "node_T4L5_01",
-                            "node_T4L5_02",
-                            "node_T4L5_03",
-                            "node_T4L5_04",
-                            "node_T4L5_05",
-                            "node_T4L5_06",
-                            "node_T4L5_07",
-                            "node_T4L5_08",
-                            "node_T4L5_09",
-                            "node_T4L5_10",
-                            "node_T4L5_11",
-                            "node_T4L5_12",
-                            "node_T4L5_13"
-                        ],
-                        "nodeType": "narrative"
-                    },
-                    "node_T4L5_Start01": {
-                        "clientInfoId": "Start",
-                        "coordinates": {
-                            "x": 5,
-                            "y": 305
-                        },
-                        "neighbors": [
-                            "node_T4L5_04",
-                            "node_T4L5_05",
-                            "node_T4L5_06",
-                            "node_T4L5_07",
-                            "node_T4L5_11",
-                            "node_T4L5_10",
-                            "node_T4L5_02",
-                            "node_T4L5_12",
-                            "node_T4L5_01",
-                            "node_T4L5_13",
-                            "node_T4L5_03",
-                            "node_T4L5_08",
-                            "node_T4L5_09"
-                        ],
-                        "nodeType": "narrative"
-                    }
-                },
-                "start": [
-                    "node_T4L5_Start01"
-                ],
-                "startDate": "2020-05-05T00:00:00",
-                "taskRewards": [
-                    {
-                        "amount": 0,
-                        "id": "star",
-                        "type": "progressionDbD"
-                    }
-                ]
             }
         ],
         "rewardData": "Tome04",
-        "version": 35
+        "version": 38
     }
 }
