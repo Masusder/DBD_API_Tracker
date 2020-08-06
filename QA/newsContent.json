@@ -138,6 +138,24 @@
                 "steam",
                 "xbox",
                 "ps4",
+                "grdk"
+            ],
+            "description": "The game client has been updated to the 4.1.1 hotfix.<br/><br/><span class=\"Heading2\">KEY CHANGES</span><br/><li>Tweaks for add&#45;ons for The Hillbilly &#38; The Cannibal</li><li>Updated the Aura system</li><li>Fixed an issue causing some items to be depleted just before they ran out of charges</li><br/><br/>Please see <a href=\"event:https://forum.deadbydaylight.com/en/kb/patchnotes\"><font color=\"#ff0000\"><u>forum.deadbydaylight.com</u></font></a> for detailed patch notes.",
+            "dwnImagePath": "",
+            "imageHeight": "",
+            "imagePath": "",
+            "isHidden": false,
+            "startDate": "2020-08-05T15:00:00",
+            "title": "4.1.1 HOTFIX",
+            "type": 4,
+            "version": "4.1.1",
+            "weight": 761.0
+        },
+        {
+            "contentTags": [
+                "steam",
+                "xbox",
+                "ps4",
                 "switch",
                 "grdk"
             ],
@@ -151,6 +169,25 @@
             "type": 2,
             "version": "4.1.0",
             "weight": 760.0
+        },
+        {
+            "contentTags": [
+                "steam",
+                "xbox",
+                "ps4",
+                "switch",
+                "grdk"
+            ],
+            "description": "The new matchmaking system is now activated on PC and Consoles.<br/><br/><a href=\"event:https://forum.deadbydaylight.com/en/discussion/173606/\"><font color=\"#ff0000\"><u>Click here</u></font></a> for more information.",
+            "dwnImagePath": "",
+            "imageHeight": "",
+            "imagePath": "",
+            "isHidden": false,
+            "startDate": "2020-08-03T15:00:00",
+            "title": "MATCHMAKING UPDATE",
+            "type": 4,
+            "version": "4.1.0",
+            "weight": 758.0
         },
         {
             "contentTags": [

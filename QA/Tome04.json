@@ -1764,7 +1764,7 @@
                                         "operation": ">=",
                                         "parameters": "instigator:me",
                                         "questEventId": "QuestEvent.SearchFinish",
-                                        "repetition": 1
+                                        "repetition": 2
                                     }
                                 ]
                             }

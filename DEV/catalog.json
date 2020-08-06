@@ -979,6 +979,36 @@
     },
     {
         "categories": [
+            "entitlement"
+        ],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 1000
+            }
+        ],
+        "id": "ARCHIVE_REWARD_PASS_Tome05",
+        "nonSecure": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "entitlement"
+        ],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 100
+            }
+        ],
+        "id": "ARCHIVE_REWARD_TIER_Tome05",
+        "nonSecure": false,
+        "purchasable": true,
+        "unique": false
+    },
+    {
+        "categories": [
             "item"
         ],
         "consumable": false,
