@@ -100,6 +100,43 @@
                 "steam",
                 "xbox",
                 "ps4",
+                "grdk"
+            ],
+            "description": "Join us today live on Twitch for our first Into The Fog Event featuring three teams of five Fog Whisperers&#44; competing against each other and taking turns as Killers and Survivors.<br/><br/>Watch it live <a href=\"event:https://www.twitch.tv/deadbydaylight\"><font color=\"#ff0000\"><u>HERE</u></font></a> starting 12PM ET&#47;9AM PT&#33;",
+            "dwnImagePath": "",
+            "imageHeight": "",
+            "imagePath": "UI/Icons/NewContentSplash/splashbanner_ITF.png",
+            "isHidden": false,
+            "startDate": "2020-08-20T04:00:00",
+            "title": "INTO THE FOG",
+            "type": 5,
+            "version": "4.1.2",
+            "weight": 774.0
+        },
+        {
+            "contentTags": [
+                "steam",
+                "xbox",
+                "ps4",
+                "switch",
+                "grdk"
+            ],
+            "description": "<b>Cross&#45;Play and Cross&#45;Friends</b> have now arrived in Dead by Daylight&#33;<br/><br/>With both of these active&#44; you can now add friends from across Steam&#44; Windows Store&#44; Xbox One&#44; PS4&#44; and Switch platforms. Players from all these platforms can now appear in your Trials...you never know who will show up when you&#39;re surviving together &#40;or killing&#41; online in the Fog!<br/><br/>Players who wish to keep matchmaking locked to their own platform will be able to opt&#45;out of Cross&#45;Play.",
+            "dwnImagePath": "",
+            "imageHeight": "",
+            "imagePath": "UI/Icons/NewContentSplash/splashBanner_updates_news.png",
+            "isHidden": false,
+            "startDate": "2020-08-13T15:00:00",
+            "title": "CROSS-PLAY & CROSS-FRIENDS",
+            "type": 2,
+            "version": "4.1.2",
+            "weight": 771.0
+        },
+        {
+            "contentTags": [
+                "steam",
+                "xbox",
+                "ps4",
                 "switch",
                 "grdk"
             ],
@@ -113,6 +150,39 @@
             "type": 2,
             "version": "4.1.0",
             "weight": 770.0
+        },
+        {
+            "contentTags": [
+                "switch"
+            ],
+            "description": "The game client has been updated to the 4.1.2 hotfix.<br/><br/><span class=\"Heading2\">KEY CHANGES:</span><li>Further tweaks to The Hillbilly&#39;s Chainsaw heat meter.</li><li>Fixed a save game issue which caused the message &#34;Save Game Error 111&#34; to appear.</li><li>Tweaks for add&#45;ons for The Hillbilly &#38; The Cannibal</li><li>Updated the Aura system</li><li>Fixed an issue causing some items to be depleted just before they ran out of charges</li><br/><br/>Please see <a href=\"event:https://forum.deadbydaylight.com/en/kb/patchnotes\"><font color=\"#ff0000\"><u>HERE</u></font></a> for detailed patch notes.",
+            "dwnImagePath": "",
+            "imageHeight": "",
+            "imagePath": "",
+            "isHidden": false,
+            "startDate": "2020-08-12T15:00:00",
+            "title": "4.1.2 HOTFIX",
+            "type": 4,
+            "version": "4.1.2",
+            "weight": 767.0
+        },
+        {
+            "contentTags": [
+                "steam",
+                "xbox",
+                "ps4",
+                "grdk"
+            ],
+            "description": "The game client has been updated to the 4.1.2 hotfix.<br/><br/><span class=\"Heading2\">KEY CHANGES:</span><li>Further tweaks to The Hillbilly&#39;s Chainsaw heat meter.</li><li>Fixed a save game issue which caused the message &#34;Save Game Error 111&#34; to appear.</li><br/><br/>Please see <a href=\"event:https://forum.deadbydaylight.com/en/kb/patchnotes\"><font color=\"#ff0000\"><u>HERE</u></font></a> for detailed patch notes.",
+            "dwnImagePath": "",
+            "imageHeight": "",
+            "imagePath": "",
+            "isHidden": false,
+            "startDate": "2020-08-11T15:00:00",
+            "title": "4.1.2 HOTFIX",
+            "type": 4,
+            "version": "4.1.2",
+            "weight": 766.0
         },
         {
             "contentTags": [

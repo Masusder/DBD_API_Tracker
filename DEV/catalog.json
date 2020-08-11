@@ -83584,6 +83584,14 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [
+                {
+                    "currencyId": "Cells",
+                    "discountPercentage": 0.5,
+                    "endDate": "2020-08-01T00:00:00",
+                    "startDate": "2020-07-28T00:00:00"
+                }
+            ],
             "unbreakable": true
         },
         "nonSecure": false,
@@ -83606,6 +83614,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": true
         },
         "nonSecure": false,
@@ -83628,6 +83637,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -83650,6 +83660,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -83672,6 +83683,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -83694,6 +83706,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -83716,6 +83729,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -83738,6 +83752,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -83760,6 +83775,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -83782,6 +83798,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -83804,6 +83821,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -83826,6 +83844,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -83848,6 +83867,7 @@
             ],
             "newEndDate": "2018-08-13T23:59:59",
             "newStartDate": "2018-07-31T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -83870,6 +83890,7 @@
             ],
             "newEndDate": "2018-08-13T23:59:59",
             "newStartDate": "2018-07-31T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -83892,6 +83913,7 @@
             ],
             "newEndDate": "2018-08-13T23:59:59",
             "newStartDate": "2018-07-31T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -83914,6 +83936,7 @@
             ],
             "newEndDate": "2018-10-06T23:59:59",
             "newStartDate": "2018-09-23T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -83936,6 +83959,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -83958,6 +83982,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -83980,6 +84005,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -84002,6 +84028,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -84024,6 +84051,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -84046,6 +84074,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -84068,6 +84097,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -84090,6 +84120,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -84112,6 +84143,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -84134,6 +84166,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -84156,6 +84189,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -84178,6 +84212,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -84200,6 +84235,7 @@
             ],
             "newEndDate": "2018-07-09T23:59:59",
             "newStartDate": "2018-06-26T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -84222,6 +84258,7 @@
             ],
             "newEndDate": "2018-07-09T23:59:59",
             "newStartDate": "2018-06-26T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -84244,6 +84281,7 @@
             ],
             "newEndDate": "2018-07-09T23:59:59",
             "newStartDate": "2018-06-26T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -84266,6 +84304,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -84288,6 +84327,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -84310,6 +84350,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -84332,6 +84373,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -84354,6 +84396,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -84376,6 +84419,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -84398,6 +84442,7 @@
             ],
             "newEndDate": "2018-08-13T23:59:59",
             "newStartDate": "2018-07-31T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -84420,6 +84465,7 @@
             ],
             "newEndDate": "2018-08-13T23:59:59",
             "newStartDate": "2018-07-31T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -84442,6 +84488,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -84464,6 +84511,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -84486,6 +84534,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -84508,6 +84557,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -84530,6 +84580,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -84552,6 +84603,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -84574,6 +84626,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -84596,6 +84649,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -84618,6 +84672,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -84640,6 +84695,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -84662,6 +84718,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -84684,6 +84741,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -84706,6 +84764,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -84728,6 +84787,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -84750,6 +84810,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -84772,6 +84833,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -84794,6 +84856,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -84816,6 +84879,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -84838,6 +84902,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -84860,6 +84925,7 @@
             ],
             "newEndDate": "2018-08-27T23:59:59",
             "newStartDate": "2018-08-14T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -84882,6 +84948,7 @@
             ],
             "newEndDate": "2018-08-27T23:59:59",
             "newStartDate": "2018-08-14T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -84904,6 +84971,7 @@
             ],
             "newEndDate": "2018-08-27T23:59:59",
             "newStartDate": "2018-08-14T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -84926,6 +84994,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -84948,6 +85017,7 @@
             ],
             "newEndDate": "2018-10-06T23:59:59",
             "newStartDate": "2018-09-23T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -84970,6 +85040,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -84992,6 +85063,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -85014,6 +85086,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -85036,6 +85109,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -85058,6 +85132,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -85080,6 +85155,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -85102,6 +85178,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -85124,6 +85201,7 @@
             ],
             "newEndDate": "2019-12-15T15:59:59",
             "newStartDate": "2019-12-01T16:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -85146,6 +85224,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -85168,6 +85247,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -85190,6 +85270,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -85212,6 +85293,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -85234,6 +85316,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -85256,6 +85339,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -85278,6 +85362,7 @@
             ],
             "newEndDate": "2018-07-23T23:59:59",
             "newStartDate": "2018-07-10T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -85300,6 +85385,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -85322,6 +85408,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -85344,6 +85431,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -85366,6 +85454,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -85388,6 +85477,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -85410,6 +85500,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -85432,6 +85523,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -85454,6 +85546,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -85476,6 +85569,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -85498,6 +85592,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -85520,6 +85615,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -85542,6 +85638,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -85564,6 +85661,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -85586,6 +85684,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -85608,6 +85707,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -85630,6 +85730,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -85652,6 +85753,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -85674,6 +85776,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -85696,6 +85799,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -85718,6 +85822,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -85740,6 +85845,7 @@
             ],
             "newEndDate": "2018-08-27T23:59:59",
             "newStartDate": "2018-08-14T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -85762,6 +85868,7 @@
             ],
             "newEndDate": "2018-08-27T23:59:59",
             "newStartDate": "2018-08-14T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -85784,6 +85891,7 @@
             ],
             "newEndDate": "2018-08-27T23:59:59",
             "newStartDate": "2018-08-14T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -85806,6 +85914,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -85827,6 +85936,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -85848,6 +85958,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -85869,6 +85980,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -85890,6 +86002,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -85911,6 +86024,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -85933,6 +86047,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -85955,6 +86070,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -85977,6 +86093,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -85999,6 +86116,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -86021,6 +86139,7 @@
             ],
             "newEndDate": "2019-12-15T15:59:59",
             "newStartDate": "2019-12-01T16:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": true
         },
         "nonSecure": false,
@@ -86043,6 +86162,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -86065,6 +86185,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -86087,6 +86208,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -86109,6 +86231,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -86131,6 +86254,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -86153,6 +86277,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -86175,6 +86300,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -86197,6 +86323,7 @@
             ],
             "newEndDate": "2018-09-03T23:59:59",
             "newStartDate": "2018-08-21T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -86219,6 +86346,7 @@
             ],
             "newEndDate": "2018-09-03T23:59:59",
             "newStartDate": "2018-08-21T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -86241,6 +86369,7 @@
             ],
             "newEndDate": "2018-09-03T23:59:59",
             "newStartDate": "2018-08-21T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -86262,6 +86391,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -86283,6 +86413,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -86304,6 +86435,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -86325,6 +86457,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -86346,6 +86479,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -86368,6 +86502,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -86390,6 +86525,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -86412,6 +86548,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -86434,6 +86571,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -86456,6 +86594,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -86478,6 +86617,7 @@
             ],
             "newEndDate": "2020-05-22T14:59:59",
             "newStartDate": "2020-05-08T15:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -86500,6 +86640,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -86522,6 +86663,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -86544,6 +86686,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -86566,6 +86709,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -86588,6 +86732,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -86610,6 +86755,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -86632,6 +86778,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -86654,6 +86801,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -86676,6 +86824,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -86698,6 +86847,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -86720,6 +86870,7 @@
             ],
             "newEndDate": "2018-08-27T23:59:59",
             "newStartDate": "2018-08-14T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -86742,6 +86893,7 @@
             ],
             "newEndDate": "2018-08-27T23:59:59",
             "newStartDate": "2018-08-14T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -86764,6 +86916,7 @@
             ],
             "newEndDate": "2018-08-27T23:59:59",
             "newStartDate": "2018-08-14T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -86785,6 +86938,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -86806,6 +86960,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -86827,6 +86982,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -86848,6 +87004,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -86869,6 +87026,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -86891,6 +87049,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -86913,6 +87072,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -86935,6 +87095,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -86957,6 +87118,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -86979,6 +87141,7 @@
             ],
             "newEndDate": "2019-12-15T15:59:59",
             "newStartDate": "2019-12-01T16:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -87001,6 +87164,7 @@
             ],
             "newEndDate": "2019-12-15T15:59:59",
             "newStartDate": "2019-12-01T16:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -87023,6 +87187,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -87045,6 +87210,7 @@
             ],
             "newEndDate": "2020-06-05T14:59:59",
             "newStartDate": "2020-05-22T15:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -87067,6 +87233,7 @@
             ],
             "newEndDate": "2018-07-30T23:59:59",
             "newStartDate": "2018-07-17T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -87089,6 +87256,7 @@
             ],
             "newEndDate": "2018-07-30T23:59:59",
             "newStartDate": "2018-07-17T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -87111,6 +87279,7 @@
             ],
             "newEndDate": "2018-07-30T23:59:59",
             "newStartDate": "2018-07-17T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -87133,6 +87302,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -87155,6 +87325,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -87177,6 +87348,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -87199,6 +87371,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -87221,6 +87394,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -87243,6 +87417,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -87265,6 +87440,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -87287,6 +87463,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -87309,6 +87486,7 @@
             ],
             "newEndDate": "2018-08-13T23:59:59",
             "newStartDate": "2018-07-31T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -87331,6 +87509,7 @@
             ],
             "newEndDate": "2018-08-13T23:59:59",
             "newStartDate": "2018-07-31T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -87353,6 +87532,7 @@
             ],
             "newEndDate": "2018-08-13T23:59:59",
             "newStartDate": "2018-07-31T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -87375,6 +87555,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -87397,6 +87578,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -87419,6 +87601,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -87441,6 +87624,7 @@
             ],
             "newEndDate": "2019-12-15T15:59:59",
             "newStartDate": "2019-12-01T16:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -87463,6 +87647,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -87485,6 +87670,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -87507,6 +87693,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -87529,6 +87716,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -87551,6 +87739,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -87572,6 +87761,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -87593,6 +87783,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -87614,6 +87805,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -87635,6 +87827,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -87656,6 +87849,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -87678,6 +87872,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -87700,6 +87895,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -87722,6 +87918,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -87744,6 +87941,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -87766,6 +87964,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -87788,6 +87987,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -87810,6 +88010,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -87832,6 +88033,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -87853,6 +88055,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -87874,6 +88077,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -87895,6 +88099,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -87916,6 +88121,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -87937,6 +88143,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -87958,6 +88165,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -87979,6 +88187,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -88000,6 +88209,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -88022,6 +88232,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -88044,6 +88255,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -88066,6 +88278,7 @@
             ],
             "newEndDate": "2019-12-15T15:59:59",
             "newStartDate": "2019-12-01T16:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -88088,6 +88301,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -88110,6 +88324,7 @@
             ],
             "newEndDate": "2020-05-22T14:59:59",
             "newStartDate": "2020-05-08T15:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -88131,6 +88346,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -88152,6 +88368,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -88173,6 +88390,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -88194,6 +88412,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -88215,6 +88434,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -88236,6 +88456,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -88257,6 +88478,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -88279,6 +88501,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -88301,6 +88524,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -88323,6 +88547,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -88345,6 +88570,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -88367,6 +88593,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -88389,6 +88616,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -88411,6 +88639,7 @@
             ],
             "newEndDate": "2019-12-15T15:59:59",
             "newStartDate": "2019-12-01T16:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -88432,6 +88661,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -88453,6 +88683,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -88474,6 +88705,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -88495,6 +88727,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -88517,6 +88750,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -88539,6 +88773,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -88561,6 +88796,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -88583,6 +88819,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -88605,6 +88842,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -88627,6 +88865,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -88649,6 +88888,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -88671,6 +88911,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -88693,6 +88934,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -88715,6 +88957,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -88737,6 +88980,7 @@
             ],
             "newEndDate": "2019-12-15T15:59:59",
             "newStartDate": "2019-12-01T16:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -88759,6 +89003,7 @@
             ],
             "newEndDate": "2020-06-05T14:59:59",
             "newStartDate": "2020-05-22T15:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": true
         },
         "nonSecure": false,
@@ -88781,6 +89026,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -88803,6 +89049,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -88825,6 +89072,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -88847,6 +89095,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -88869,6 +89118,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -88891,6 +89141,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -88913,6 +89164,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -88935,6 +89187,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -88957,6 +89210,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -88979,6 +89233,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -89001,6 +89256,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -89023,6 +89279,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -89045,6 +89302,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -89067,6 +89325,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -89089,6 +89348,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -89111,6 +89371,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -89133,6 +89394,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -89155,6 +89417,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -89177,6 +89440,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -89199,6 +89463,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -89221,6 +89486,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -89243,6 +89509,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -89265,6 +89532,7 @@
             ],
             "newEndDate": "2020-05-22T14:59:59",
             "newStartDate": "2020-05-08T15:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -89286,6 +89554,7 @@
             ],
             "newEndDate": "2019-12-15T15:59:59",
             "newStartDate": "2019-12-01T16:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -89307,6 +89576,7 @@
             ],
             "newEndDate": "2019-12-15T15:59:59",
             "newStartDate": "2019-12-01T16:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -89328,6 +89598,7 @@
             ],
             "newEndDate": "2019-12-15T15:59:59",
             "newStartDate": "2019-12-01T16:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -89349,6 +89620,7 @@
             ],
             "newEndDate": "2019-12-15T15:59:59",
             "newStartDate": "2019-12-01T16:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -89371,6 +89643,7 @@
             ],
             "newEndDate": "2019-12-15T15:59:59",
             "newStartDate": "2019-12-01T16:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -89393,6 +89666,7 @@
             ],
             "newEndDate": "2019-12-15T15:59:59",
             "newStartDate": "2019-12-01T16:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -89415,6 +89689,7 @@
             ],
             "newEndDate": "2019-12-15T15:59:59",
             "newStartDate": "2019-12-01T16:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -89437,6 +89712,7 @@
             ],
             "newEndDate": "2019-12-15T15:59:59",
             "newStartDate": "2019-12-01T16:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -89459,6 +89735,7 @@
             ],
             "newEndDate": "2019-12-15T15:59:59",
             "newStartDate": "2019-12-01T16:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -89481,6 +89758,7 @@
             ],
             "newEndDate": "2019-12-15T15:59:59",
             "newStartDate": "2019-12-01T16:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -89503,6 +89781,7 @@
             ],
             "newEndDate": "2019-12-15T15:59:59",
             "newStartDate": "2019-12-01T16:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -89525,6 +89804,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -89547,6 +89827,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -89569,6 +89850,7 @@
             ],
             "newEndDate": "2019-12-15T15:59:59",
             "newStartDate": "2019-12-01T16:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": true
         },
         "nonSecure": false,
@@ -89591,6 +89873,7 @@
             ],
             "newEndDate": "2019-12-15T15:59:59",
             "newStartDate": "2019-12-01T16:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": true
         },
         "nonSecure": false,
@@ -89613,6 +89896,7 @@
             ],
             "newEndDate": "2019-12-15T15:59:59",
             "newStartDate": "2019-12-01T16:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": true
         },
         "nonSecure": false,
@@ -89635,6 +89919,7 @@
             ],
             "newEndDate": "2019-12-15T15:59:59",
             "newStartDate": "2019-12-01T16:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": true
         },
         "nonSecure": false,
@@ -89657,6 +89942,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -89679,6 +89965,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -89701,6 +89988,7 @@
             ],
             "newEndDate": "2018-08-14T23:59:59",
             "newStartDate": "2018-08-01T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -89723,6 +90011,7 @@
             ],
             "newEndDate": "2018-08-14T23:59:59",
             "newStartDate": "2018-08-01T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -89744,6 +90033,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -89765,6 +90055,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -89787,6 +90078,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -89809,6 +90101,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -89831,6 +90124,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -89853,6 +90147,7 @@
             ],
             "newEndDate": "2018-10-06T23:59:59",
             "newStartDate": "2018-09-23T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -89875,6 +90170,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -89897,6 +90193,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -89919,6 +90216,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -89941,6 +90239,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -89963,6 +90262,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -89985,6 +90285,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -90007,6 +90308,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -90028,6 +90330,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -90049,6 +90352,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -90070,6 +90374,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -90091,6 +90396,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -90112,6 +90418,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -90133,6 +90440,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -90154,6 +90462,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -90176,6 +90485,7 @@
             ],
             "newEndDate": "2018-10-06T23:59:59",
             "newStartDate": "2018-09-23T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -90198,6 +90508,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -90220,6 +90531,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -90242,6 +90554,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -90264,6 +90577,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -90286,6 +90600,7 @@
             ],
             "newEndDate": "2019-12-15T15:59:59",
             "newStartDate": "2019-12-01T16:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -90308,6 +90623,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -90330,6 +90646,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -90352,6 +90669,7 @@
             ],
             "newEndDate": "2018-08-06T23:59:59",
             "newStartDate": "2018-07-24T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -90373,6 +90691,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -90394,6 +90713,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -90415,6 +90735,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -90436,6 +90757,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -90457,6 +90779,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -90478,6 +90801,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -90499,6 +90823,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -90521,6 +90846,7 @@
             ],
             "newEndDate": "2018-10-06T23:59:59",
             "newStartDate": "2018-09-23T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -90543,6 +90869,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -90565,6 +90892,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -90587,6 +90915,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -90609,6 +90938,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -90631,6 +90961,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -90653,6 +90984,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -90675,6 +91007,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -90697,6 +91030,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -90719,6 +91053,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -90741,6 +91076,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -90762,6 +91098,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -90783,6 +91120,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -90804,6 +91142,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -90825,6 +91164,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -90846,6 +91186,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -90867,6 +91208,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -90888,6 +91230,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -90910,6 +91253,7 @@
             ],
             "newEndDate": "2018-10-06T23:59:59",
             "newStartDate": "2018-09-23T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -90932,6 +91276,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -90954,6 +91299,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -90976,6 +91322,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -90998,6 +91345,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -91019,6 +91367,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -91041,6 +91390,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -91063,6 +91413,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -91085,6 +91436,7 @@
             ],
             "newEndDate": "2018-08-14T23:59:59",
             "newStartDate": "2018-08-01T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -91107,6 +91459,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -91129,6 +91482,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -91151,6 +91505,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -91173,6 +91528,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -91195,6 +91551,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -91217,6 +91574,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -91238,6 +91596,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -91259,6 +91618,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -91281,6 +91641,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -91303,6 +91664,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -91324,6 +91686,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -91346,6 +91709,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -91368,6 +91732,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -91390,6 +91755,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -91412,6 +91778,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -91434,6 +91801,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -91456,6 +91824,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -91478,6 +91847,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -91499,6 +91869,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -91520,6 +91891,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -91541,6 +91913,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -91562,6 +91935,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -91583,6 +91957,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -91604,6 +91979,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -91625,6 +92001,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -91646,6 +92023,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -91668,6 +92046,7 @@
             ],
             "newEndDate": "2018-10-06T23:59:59",
             "newStartDate": "2018-09-23T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -91690,6 +92069,7 @@
             ],
             "newEndDate": "2018-10-06T23:59:59",
             "newStartDate": "2018-09-23T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -91712,6 +92092,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -91734,6 +92115,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -91756,6 +92138,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -91778,6 +92161,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -91800,6 +92184,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -91822,6 +92207,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -91844,6 +92230,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -91866,6 +92253,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -91887,6 +92275,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -91908,6 +92297,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -91930,6 +92320,7 @@
             ],
             "newEndDate": "2018-10-06T23:59:59",
             "newStartDate": "2018-09-23T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -91952,6 +92343,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -91974,6 +92366,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -91996,6 +92389,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -92018,6 +92412,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -92040,6 +92435,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -92062,6 +92458,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -92084,6 +92481,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -92106,6 +92504,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -92128,6 +92527,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -92150,6 +92550,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -92172,6 +92573,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -92194,6 +92596,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -92216,6 +92619,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -92238,6 +92642,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -92260,6 +92665,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -92282,6 +92688,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -92304,6 +92711,7 @@
             ],
             "newEndDate": "2020-05-29T14:59:59",
             "newStartDate": "2020-05-15T15:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": true
         },
         "nonSecure": false,
@@ -92326,6 +92734,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -92348,6 +92757,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -92370,6 +92780,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -92392,6 +92803,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -92414,6 +92826,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -92436,6 +92849,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -92458,6 +92872,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -92480,6 +92895,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -92502,6 +92918,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -92524,6 +92941,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -92546,6 +92964,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -92568,6 +92987,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -92590,6 +93010,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -92612,6 +93033,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -92634,6 +93056,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -92656,6 +93079,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -92678,6 +93102,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -92700,6 +93125,7 @@
             ],
             "newEndDate": "2020-05-29T14:59:59",
             "newStartDate": "2020-05-15T15:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -92722,6 +93148,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -92744,6 +93171,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -92766,6 +93194,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -92788,6 +93217,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -92810,6 +93240,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -92832,6 +93263,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -92854,6 +93286,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -92876,6 +93309,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -92898,6 +93332,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -92920,6 +93355,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -92942,6 +93378,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -92964,6 +93401,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -92986,6 +93424,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -93008,6 +93447,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -93030,6 +93470,7 @@
             ],
             "newEndDate": "2019-12-15T15:59:59",
             "newStartDate": "2019-12-01T16:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": true
         },
         "nonSecure": false,
@@ -93052,6 +93493,7 @@
             ],
             "newEndDate": "2019-12-15T15:59:59",
             "newStartDate": "2019-12-01T16:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": true
         },
         "nonSecure": false,
@@ -93074,6 +93516,7 @@
             ],
             "newEndDate": "2019-12-15T15:59:59",
             "newStartDate": "2019-12-01T16:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": true
         },
         "nonSecure": false,
@@ -93096,6 +93539,7 @@
             ],
             "newEndDate": "2019-12-15T15:59:59",
             "newStartDate": "2019-12-01T16:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": true
         },
         "nonSecure": false,
@@ -93118,6 +93562,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -93140,6 +93585,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -93162,6 +93608,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -93184,6 +93631,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -93206,6 +93654,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -93228,6 +93677,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -93250,6 +93700,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -93272,6 +93723,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -93294,6 +93746,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -93316,6 +93769,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -93338,6 +93792,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -93360,6 +93815,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -93382,6 +93838,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -93404,6 +93861,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -93426,6 +93884,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -93447,6 +93906,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -93468,6 +93928,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -93490,6 +93951,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -93512,6 +93974,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -93534,6 +93997,7 @@
             ],
             "newEndDate": "2019-12-15T15:59:59",
             "newStartDate": "2019-12-01T16:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -93556,6 +94020,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -93578,6 +94043,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -93600,6 +94066,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -93622,6 +94089,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -93644,6 +94112,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -93666,6 +94135,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -93688,6 +94158,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -93710,6 +94181,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -93732,6 +94204,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -93754,6 +94227,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -93776,6 +94250,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -93798,6 +94273,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -93820,6 +94296,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -93842,6 +94319,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -93864,6 +94342,7 @@
             ],
             "newEndDate": "2020-05-29T14:59:59",
             "newStartDate": "2020-05-15T15:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": true
         },
         "nonSecure": false,
@@ -93886,6 +94365,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -93907,6 +94387,7 @@
             ],
             "newEndDate": "2019-12-15T15:59:59",
             "newStartDate": "2019-12-01T16:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -93928,6 +94409,7 @@
             ],
             "newEndDate": "2019-12-15T15:59:59",
             "newStartDate": "2019-12-01T16:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -93949,6 +94431,7 @@
             ],
             "newEndDate": "2019-12-15T15:59:59",
             "newStartDate": "2019-12-01T16:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -93970,6 +94453,7 @@
             ],
             "newEndDate": "2019-12-15T15:59:59",
             "newStartDate": "2019-12-01T16:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -93992,6 +94476,7 @@
             ],
             "newEndDate": "2019-12-15T15:59:59",
             "newStartDate": "2019-12-01T16:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -94014,6 +94499,7 @@
             ],
             "newEndDate": "2019-12-15T15:59:59",
             "newStartDate": "2019-12-01T16:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -94036,6 +94522,7 @@
             ],
             "newEndDate": "2019-12-15T15:59:59",
             "newStartDate": "2019-12-01T16:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -94058,6 +94545,7 @@
             ],
             "newEndDate": "2019-12-15T15:59:59",
             "newStartDate": "2019-12-01T16:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -94080,6 +94568,7 @@
             ],
             "newEndDate": "2019-12-15T15:59:59",
             "newStartDate": "2019-12-01T16:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -94102,6 +94591,7 @@
             ],
             "newEndDate": "2019-12-15T15:59:59",
             "newStartDate": "2019-12-01T16:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -94124,6 +94614,7 @@
             ],
             "newEndDate": "2019-12-15T15:59:59",
             "newStartDate": "2019-12-01T16:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -94146,6 +94637,7 @@
             ],
             "newEndDate": "2019-12-15T15:59:59",
             "newStartDate": "2019-12-01T16:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -94168,6 +94660,7 @@
             ],
             "newEndDate": "2019-12-15T15:59:59",
             "newStartDate": "2019-12-01T16:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": true
         },
         "nonSecure": false,
@@ -94190,6 +94683,7 @@
             ],
             "newEndDate": "2020-06-19T14:59:59",
             "newStartDate": "2020-06-05T15:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": true
         },
         "nonSecure": false,
@@ -94212,6 +94706,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -94234,6 +94729,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -94256,6 +94752,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -94278,6 +94775,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -94300,6 +94798,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -94322,6 +94821,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -94343,6 +94843,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -94364,6 +94865,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -94385,6 +94887,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -94407,6 +94910,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -94429,6 +94933,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -94451,6 +94956,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -94472,6 +94978,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -94493,6 +95000,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -94514,6 +95022,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -94535,6 +95044,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -94557,6 +95067,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -94579,6 +95090,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -94601,6 +95113,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -94623,6 +95136,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -94645,6 +95159,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -94667,6 +95182,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -94689,6 +95205,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": true
         },
         "nonSecure": false,
@@ -94711,6 +95228,7 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [],
             "unbreakable": true
         },
         "nonSecure": false,
