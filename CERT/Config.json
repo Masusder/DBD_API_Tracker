@@ -19,7 +19,7 @@
         "keyName": "MATCHMAKING_ALLOW_CROSSPLAY"
     },
     {
-        "value": "10",
+        "value": "14400",
         "keyName": "SOCIAL_PLATFORM_FRIENDLIST_QUERY_RATE"
     },
     {
@@ -477,7 +477,8 @@
             "4.0.0_317650cert": "4.0.0_317650cert-1593811840",
             "4.1.0_321297cert": "4.1.0_321297cert-1594844895",
             "4.1.0_322267cert": "4.1.0_322267cert-1595002814",
-            "4.1.0_322515cert": "4.1.0_322515cert-1595033901"
+            "4.1.0_322515cert": "4.1.0_322515cert-1595033901",
+            "4.1.0_329783cert": "4.1.0_329783cert-1596812615"
         },
         "keyName": "VER_CLIENT_DATA"
     },
@@ -536,38 +537,5 @@
     {
         "value": "{\"0\":\"Harassment\",\"1\":\"Griefing\",\"2\":\"Exploits\",\"3\":\"Unsportsmanlike\"}",
         "keyName": "BAN_REASON_ENUM"
-    },
-    {
-        "value": {
-            "delayBetweenPenalties": "60",
-            "decayRate": 2880,
-            "banActive": false,
-            "decayMatch": 2,
-            "penalty": {
-                "1": 5,
-                "2": 5,
-                "3": 15,
-                "4": 15,
-                "5": 30,
-                "6": 30,
-                "7": 60,
-                "8": 360,
-                "9": 1440,
-                "10": 2880,
-                "11": 4320
-            },
-            "allowedProviders": [
-                "dmm",
-                "grdk",
-                "live",
-                "nintendo",
-                "ps4",
-                "psn",
-                "steam",
-                "switch",
-                "xbox"
-            ]
-        },
-        "keyName": "DBD_DISCONNECTION_PENALTY_POINTS"
     }
 ]

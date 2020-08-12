@@ -1,10 +1,31 @@
 {
     "openStories": [
+        "Tome04",
         "Tome03",
         "Tome02",
         "Tome01"
     ],
     "storiesStatus": [
+        {
+            "id": "Tome04",
+            "levelStatus": [
+                {
+                    "status": "open",
+                    "hasUnseenContent": true
+                },
+                {
+                    "status": "locked"
+                },
+                {
+                    "status": "timeGated",
+                    "startDate": "2020-08-26T15:00:00"
+                },
+                {
+                    "status": "timeGated",
+                    "startDate": "2020-09-16T15:00:00"
+                }
+            ]
+        },
         {
             "id": "Tome03",
             "levelStatus": [

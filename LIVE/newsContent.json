@@ -105,7 +105,7 @@
             "description": "Join us today live on Twitch for our first Into The Fog Event featuring three teams of five Fog Whisperers&#44; competing against each other and taking turns as Killers and Survivors.<br/><br/>Watch it live <a href=\"event:https://www.twitch.tv/deadbydaylight\"><font color=\"#ff0000\"><u>HERE</u></font></a> starting 12PM ET&#47;9AM PT&#33;",
             "dwnImagePath": "",
             "imageHeight": "",
-            "imagePath": "UI/Icons/NewContentSplash/splashbanner_ITF.png",
+            "imagePath": "UI/Icons/NewContentSplash/splashBanner_Anniversary.png",
             "isHidden": false,
             "startDate": "2020-08-20T04:00:00",
             "title": "INTO THE FOG",
@@ -129,6 +129,25 @@
             "startDate": "2020-08-13T15:00:00",
             "title": "CROSS-PLAY & CROSS-FRIENDS",
             "type": 2,
+            "version": "4.1.2",
+            "weight": 773.0
+        },
+        {
+            "contentTags": [
+                "steam",
+                "xbox",
+                "ps4",
+                "switch",
+                "grdk"
+            ],
+            "description": "With regards to Error 111&#47;112&#44; we apologize that this error is still affecting our players and can assure you it is receiving our attention.<br/><br/>The team is working on finding a solution as a matter of urgency. We have tried to implement a quick fix with our most recent patch&#44; but this didn&#39;t pan out as we had hoped.<br/><br/>Unfortunately&#44; this does mean we won&#39;t be able to fix this for you today. We do not yet have an ETA to share as to when this issue will be resolved.<br/><br/>We know these errors are incredibly frustrating&#44; but rest assured the team are putting all their effort into finding a solution.<br/><br/>Apologies for the situation&#44; and thank you for your patience.",
+            "dwnImagePath": "",
+            "imageHeight": "",
+            "imagePath": "",
+            "isHidden": false,
+            "startDate": "2020-08-12T15:00:00",
+            "title": "ERROR 111&#47;112 INFORMATION",
+            "type": 4,
             "version": "4.1.2",
             "weight": 771.0
         },
@@ -162,6 +181,25 @@
             "isHidden": false,
             "startDate": "2020-08-12T15:00:00",
             "title": "4.1.2 HOTFIX",
+            "type": 4,
+            "version": "4.1.2",
+            "weight": 768.0
+        },
+        {
+            "contentTags": [
+                "steam",
+                "xbox",
+                "ps4",
+                "switch",
+                "grdk"
+            ],
+            "description": "Based on reports&#44; data gathered and player feedback&#44; the matchmaking rating system will be disabled at 10AM ET today.<br/><br/>Please stay tuned for further updates.",
+            "dwnImagePath": "",
+            "imageHeight": "",
+            "imagePath": "",
+            "isHidden": false,
+            "startDate": "2020-08-12T14:00:00",
+            "title": "MATCHMAKING UPDATE",
             "type": 4,
             "version": "4.1.2",
             "weight": 767.0
