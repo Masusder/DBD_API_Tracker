@@ -24,13 +24,13 @@
     },
     {
         "value": {
-            "ps4": false,
+            "ps4": true,
             "grdk": true,
             "android": false,
             "steam": true,
-            "xbox": false,
+            "xbox": true,
             "ios": false,
-            "switch": false
+            "switch": true
         },
         "keyName": "MATCHMAKING_CROSSPLAY_PLATFORMS"
     },
@@ -529,6 +529,7 @@
             "4.1.0_327748live": "4.1.0_327748live-1596471419",
             "4.1.0_328692live": "4.1.0_328692live-1596639640",
             "4.1.0_329485live": "4.1.0_329485live-1596745655",
+            "4.1.0_331910live": "4.1.0_331910live-1597331213",
             "m_3.0.2_219921live": "m_3.0.2_219921live-1566230507",
             "m_3.0.3_241022live": "m_3.0.3_241022live-1572449159",
             "m_3.3.3_220000live": "m_3.3.3_220000live-1574880017",
@@ -607,13 +608,13 @@
     },
     {
         "value": {
-            "ps4": false,
+            "ps4": true,
             "grdk": true,
             "android": false,
             "steam": true,
-            "xbox": false,
+            "xbox": true,
             "ios": false,
-            "switch": false
+            "switch": true
         },
         "keyName": "SOCIAL_CROSSFRIENDS_PLATFORMS"
     },
