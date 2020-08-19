@@ -296,13 +296,14 @@
     {
         "value": {
             "gameContentId": "m_3.7.3_330695live",
-            "catalogId": "m_3.7.3_328114live"
+            "catalogId": "4.1.0_334532live"
         },
         "keyName": "clientData"
     },
     {
         "value": {
             "DD": [
+                "AtlantaDeepLinkAnalytics",
                 "AtlantaGraphicsSettingsAnalytics",
                 "AtlantaKillerTutorialAnalytics",
                 "AtlantaPartyGameAnalytics",
@@ -530,6 +531,7 @@
             "4.1.0_328692live": "4.1.0_328692live-1596639640",
             "4.1.0_329485live": "4.1.0_329485live-1596745655",
             "4.1.0_331910live": "4.1.0_331910live-1597331213",
+            "4.1.0_334532live": "4.1.0_334532live-1597860694",
             "m_3.0.2_219921live": "m_3.0.2_219921live-1566230507",
             "m_3.0.3_241022live": "m_3.0.3_241022live-1572449159",
             "m_3.3.3_220000live": "m_3.3.3_220000live-1574880017",

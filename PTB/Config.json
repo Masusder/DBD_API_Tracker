@@ -19,12 +19,25 @@
         "keyName": "MATCHMAKING_ALLOW_CROSSPLAY"
     },
     {
-        "value": "10",
+        "value": "14400",
         "keyName": "SOCIAL_PLATFORM_FRIENDLIST_QUERY_RATE"
     },
     {
         "value": {
-            "WalesCypher": false
+            "ps4": true,
+            "stadia": false,
+            "grdk": true,
+            "android": false,
+            "steam": true,
+            "xbox": true,
+            "ios": false,
+            "switch": true
+        },
+        "keyName": "MATCHMAKING_CROSSPLAY_PLATFORMS"
+    },
+    {
+        "value": {
+            "WalesCypher": true
         },
         "keyName": "BUTTON_SEQUENCE_ENABLE"
     },
@@ -53,6 +66,10 @@
     {
         "value": "https://xbox1-live2-dbd.bhvronline.com/restservice.svc",
         "keyName": "MS_ENDPOINT"
+    },
+    {
+        "value": "false",
+        "keyName": "SEGMENTATION_V2_ENABLED"
     },
     {
         "value": [
@@ -472,6 +489,8 @@
             "4.1.0_330776ptb": "4.1.0_330776ptb-1597158527",
             "4.1.0_330832ptb": "4.1.0_330832ptb-1597162521",
             "4.1.0_331394ptb": "4.1.0_331394ptb-1597246163",
+            "4.2.0_332485ptb": "4.2.0_332485ptb-1597419805",
+            "4.2.0_333833ptb": "4.2.0_333833ptb-1597761677",
             "m_3.3.5_260791ptb": "m_3.3.5_260791ptb-1578947417",
             "m_3.3.5_281807ptb": "m_3.3.5_281807ptb-1584119023",
             "m_3.6.0_282086ptb": "m_3.6.0_282086ptb-1585750969"
@@ -480,15 +499,14 @@
     },
     {
         "value": {
-            "PS4": false,
-            "GRDK": false,
-            "Switch": false,
-            "DMM": false,
-            "Steam": false,
-            "Xbox": false,
-            "IOS": false,
-            "Mobile": false,
-            "Android": false
+            "ps4": true,
+            "stadia": false,
+            "grdk": true,
+            "android": false,
+            "steam": true,
+            "xbox": true,
+            "ios": false,
+            "switch": true
         },
         "keyName": "SOCIAL_CROSSFRIENDS_PLATFORMS"
     },

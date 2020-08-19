@@ -24,13 +24,14 @@
     },
     {
         "value": {
-            "ps4": false,
+            "ps4": true,
+            "stadia": true,
             "grdk": true,
             "android": false,
             "steam": true,
-            "xbox": false,
+            "xbox": true,
             "ios": false,
-            "switch": false
+            "switch": true
         },
         "keyName": "MATCHMAKING_CROSSPLAY_PLATFORMS"
     },
@@ -289,6 +290,7 @@
     {
         "value": {
             "DD": [
+                "AtlantaDeepLinkAnalytics",
                 "AtlantaKillerTutorialAnalytics",
                 "AtlantaPartyGameAnalytics",
                 "AtlantaPerkSelectionAnalytics",
@@ -362,8 +364,11 @@
             "KAL": [
                 "CannibalAnalytics",
                 "ChatAnalytics",
-                "CrowdChoiceAnalytics",
-                "CrowdPlayAnalytics",
+                "CrowdChoiceOnGameRoundStartedAnalytics",
+                "CrowdChoiceSummaryResultAnalytics",
+                "CrowdChoiceVoteResultAnalytics",
+                "CrowdPlayLobbyEventsAnalytics",
+                "CrowdPlayLobbyResultsAnalytics",
                 "CurrencyBalanceAnalytics",
                 "CustomizationAnalytics",
                 "CustomizationLobbyAnalytics",
@@ -478,19 +483,22 @@
             "4.1.0_321297cert": "4.1.0_321297cert-1594844895",
             "4.1.0_322267cert": "4.1.0_322267cert-1595002814",
             "4.1.0_322515cert": "4.1.0_322515cert-1595033901",
-            "4.1.0_329783cert": "4.1.0_329783cert-1596812615"
+            "4.1.0_329783cert": "4.1.0_329783cert-1596812615",
+            "4.2.0_332485cert": "4.2.0_332485cert-1597419917",
+            "4.2.0_334183cert": "4.2.0_334183cert-1597792782"
         },
         "keyName": "VER_CLIENT_DATA"
     },
     {
         "value": {
-            "ps4": false,
+            "ps4": true,
+            "stadia": false,
             "grdk": true,
             "android": false,
             "steam": true,
-            "xbox": false,
+            "xbox": true,
             "ios": false,
-            "switch": false
+            "switch": true
         },
         "keyName": "SOCIAL_CROSSFRIENDS_PLATFORMS"
     },

@@ -23,18 +23,19 @@
         "keyName": "MATCHMAKING_ALLOW_CROSSPLAY"
     },
     {
-        "value": "10",
+        "value": "14400",
         "keyName": "SOCIAL_PLATFORM_FRIENDLIST_QUERY_RATE"
     },
     {
         "value": {
-            "ps4": false,
+            "ps4": true,
+            "stadia": true,
             "grdk": true,
             "android": false,
             "steam": true,
-            "xbox": false,
+            "xbox": true,
             "ios": false,
-            "switch": false
+            "switch": true
         },
         "keyName": "MATCHMAKING_CROSSPLAY_PLATFORMS"
     },
@@ -485,19 +486,21 @@
             "4.1.0_322267stage": "4.1.0_322267stage-1595002907",
             "4.1.0_322515stage": "4.1.0_322515stage-1595033788",
             "4.1.0_323857stage": "4.1.0_323857stage-1595446931",
-            "4.1.0_323892stage": "4.1.0_323892stage-1595448479"
+            "4.1.0_323892stage": "4.1.0_323892stage-1595448479",
+            "4.2.0_332485stage": "4.2.0_332485stage-1597420042"
         },
         "keyName": "VER_CLIENT_DATA"
     },
     {
         "value": {
-            "ps4": false,
+            "ps4": true,
+            "stadia": true,
             "grdk": true,
             "android": false,
             "steam": true,
-            "xbox": false,
+            "xbox": true,
             "ios": false,
-            "switch": false
+            "switch": true
         },
         "keyName": "SOCIAL_CROSSFRIENDS_PLATFORMS"
     },
