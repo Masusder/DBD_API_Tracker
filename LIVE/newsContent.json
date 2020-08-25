@@ -84,7 +84,26 @@
                 "switch",
                 "grdk"
             ],
-            "description": "The Executioner knows your mind well. He does not hide in the shadows. He hides closer than you know. <br/><br/>Available now:<li><b>The Executioner</b> &#45; Forge Born Set</li>",
+            "description": "We have activated the Hit Validation Beta on the live version of the game. This feature aims to greatly reduce abnormal hits during gameplay. For more details on how this system works&#44; <a href=\"event:https://forum.deadbydaylight.com/en/discussion/185864\"><font color=\"#ff0000\"><u>click here.</u></font></a>",
+            "dwnImagePath": "",
+            "imageHeight": "",
+            "imagePath": "",
+            "isHidden": false,
+            "startDate": "2020-08-25T15:00:00",
+            "title": "Hit Validation Beta",
+            "type": 4,
+            "version": "4.1.2",
+            "weight": 777.0
+        },
+        {
+            "contentTags": [
+                "steam",
+                "xbox",
+                "ps4",
+                "switch",
+                "grdk"
+            ],
+            "description": "The Executioner knows your mind well. He does not hide in the shadows. He&#39;s closer than you think. <br/><br/>Available now:<li><b>The Executioner</b> &#45; Forge Born Set</li><br/><a href=\"event:https://www.youtube.com/watch?v=gVf1xTfWSnY\"><font color=\"#ff0000\"><u>Watch the trailer here!</u></font></a>",
             "dwnImagePath": "",
             "imageHeight": "",
             "imagePath": "UI/Icons/NewContentSplash/splashBanner_ XE.png",
@@ -93,25 +112,22 @@
             "title": "IMMOLATION COLLECTION",
             "type": 2,
             "version": "4.1.0",
-            "weight": 775.0
+            "weight": 776.0
         },
         {
             "contentTags": [
-                "steam",
-                "xbox",
-                "ps4",
-                "grdk"
+                "steam"
             ],
-            "description": "Join us today live on Twitch for our first Into The Fog Event featuring three teams of five Fog Whisperers&#44; competing against each other and taking turns as Killers and Survivors.<br/><br/>Watch it live <a href=\"event:https://www.twitch.tv/deadbydaylight\"><font color=\"#ff0000\"><u>HERE</u></font></a> starting 12PM ET&#47;9AM PT&#33;",
+            "description": "The 4.1.3 Bugfix Patch is now live on Steam. This patch includes fixes for sync errors &#40;Error Codes 111 &#38; 112&#41;.<br/>While running version 4.1.3&#44; you will still be able to cross&#45;play with people running version 4.1.2 of the game on other platforms.<br/><br/>This hotfix has implemented a method to greatly reduce the occurrence of Sync Error 112. However&#44; if this problem is still occurring for you&#44; please reach out to Customer Support to help us continue investigating the issue.",
             "dwnImagePath": "",
             "imageHeight": "",
-            "imagePath": "UI/Icons/NewContentSplash/splashBanner_Anniversary.png",
+            "imagePath": "",
             "isHidden": false,
-            "startDate": "2020-08-20T04:00:00",
-            "title": "INTO THE FOG",
-            "type": 5,
+            "startDate": "2020-08-21T15:00:00",
+            "title": "STEAM 4.1.3 HOTFIX",
+            "type": 4,
             "version": "4.1.2",
-            "weight": 774.0
+            "weight": 775.0
         },
         {
             "contentTags": [

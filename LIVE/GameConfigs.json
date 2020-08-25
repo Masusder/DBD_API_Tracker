@@ -8,9 +8,31 @@
         "maxFriendSuggestionsRecentlyPlayed": 4
     },
     "hitValidation": {
-        "enable": false,
+        "enable": true,
         "recorder": {
             "cacheTimespan": 0.35
-        }
+        },
+        "validators": [
+            {
+                "capsuleInflation": 1200.0,
+                "maximumDistance": 700.0,
+                "name": "default"
+            },
+            {
+                "capsuleInflation": 1200.0,
+                "maximumDistance": 700.0,
+                "name": "hatchet"
+            },
+            {
+                "capsuleInflation": 1200.0,
+                "maximumDistance": 700.0,
+                "name": "bomb"
+            },
+            {
+                "capsuleInflation": 1200.0,
+                "maximumDistance": 700.0,
+                "name": "harpoon"
+            }
+        ]
     }
 }
