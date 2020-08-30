@@ -1,22 +1,29 @@
 {
-    "Tome05": {
+    "Tome01": {
         "requirement": 10,
         "tierInfo": [
             {
+                "free": [
+                    {
+                        "amount": 2,
+                        "id": "HalloweenEventCurrency",
+                        "type": "currency"
+                    }
+                ],
                 "premium": [
                     {
                         "amount": 1,
-                        "id": "NK_Torso013",
+                        "id": "RW_009",
                         "type": "inventory"
                     },
                     {
                         "amount": 1,
-                        "id": "TC_Torso011",
+                        "id": "RW_012",
                         "type": "inventory"
                     },
                     {
                         "amount": 1,
-                        "id": "ZA_016",
+                        "id": "RW_023",
                         "type": "inventory"
                     }
                 ],
@@ -26,7 +33,7 @@
                 "free": [
                     {
                         "amount": 1,
-                        "id": "ZA_023",
+                        "id": "RW_030",
                         "type": "inventory"
                     }
                 ],
@@ -40,10 +47,17 @@
                 "tierId": 2
             },
             {
+                "free": [
+                    {
+                        "amount": 3,
+                        "id": "HalloweenEventCurrency",
+                        "type": "currency"
+                    }
+                ],
                 "premium": [
                     {
                         "amount": 1,
-                        "id": "ZA_015",
+                        "id": "RW_015",
                         "type": "inventory"
                     }
                 ],
@@ -53,7 +67,7 @@
                 "free": [
                     {
                         "amount": 1,
-                        "id": "ZA_028",
+                        "id": "RW_025",
                         "type": "inventory"
                     }
                 ],
@@ -67,16 +81,30 @@
                 "tierId": 4
             },
             {
+                "free": [
+                    {
+                        "amount": 2,
+                        "id": "HalloweenEventCurrency",
+                        "type": "currency"
+                    }
+                ],
                 "premium": [
                     {
                         "amount": 1,
-                        "id": "ZA_018",
+                        "id": "JP_Torso010",
                         "type": "inventory"
                     }
                 ],
                 "tierId": 5
             },
             {
+                "free": [
+                    {
+                        "amount": 3,
+                        "id": "HalloweenEventCurrency",
+                        "type": "currency"
+                    }
+                ],
                 "premium": [
                     {
                         "amount": 1,
@@ -90,14 +118,14 @@
                 "free": [
                     {
                         "amount": 1,
-                        "id": "TW_Body01_03",
+                        "id": "RW_014",
                         "type": "inventory"
                     }
                 ],
                 "premium": [
                     {
                         "amount": 1,
-                        "id": "DK_Head013",
+                        "id": "TN_Head009",
                         "type": "inventory"
                     }
                 ],
@@ -116,31 +144,45 @@
             {
                 "free": [
                     {
-                        "amount": 1,
-                        "id": "ZA_006",
-                        "type": "inventory"
+                        "amount": 2,
+                        "id": "HalloweenEventCurrency",
+                        "type": "currency"
                     }
                 ],
                 "premium": [
                     {
                         "amount": 1,
-                        "id": "MK_Mask01_04",
+                        "id": "TW_Body009",
                         "type": "inventory"
                     }
                 ],
                 "tierId": 9
             },
             {
+                "free": [
+                    {
+                        "amount": 1,
+                        "id": "RW_005",
+                        "type": "inventory"
+                    }
+                ],
                 "premium": [
                     {
                         "amount": 1,
-                        "id": "ZA_005",
+                        "id": "RW_031",
                         "type": "inventory"
                     }
                 ],
                 "tierId": 10
             },
             {
+                "free": [
+                    {
+                        "amount": 3,
+                        "id": "HalloweenEventCurrency",
+                        "type": "currency"
+                    }
+                ],
                 "premium": [
                     {
                         "amount": 1,
@@ -154,7 +196,7 @@
                 "premium": [
                     {
                         "amount": 1,
-                        "id": "ZA_024",
+                        "id": "RW_026",
                         "type": "inventory"
                     }
                 ],
@@ -163,21 +205,28 @@
             {
                 "free": [
                     {
-                        "amount": 1,
-                        "id": "TW_W01_03",
-                        "type": "inventory"
+                        "amount": 2,
+                        "id": "HalloweenEventCurrency",
+                        "type": "currency"
                     }
                 ],
                 "premium": [
                     {
                         "amount": 1,
-                        "id": "ZA_022",
+                        "id": "JP_Legs010",
                         "type": "inventory"
                     }
                 ],
                 "tierId": 13
             },
             {
+                "free": [
+                    {
+                        "amount": 1,
+                        "id": "NK_Torso002_03",
+                        "type": "inventory"
+                    }
+                ],
                 "premium": [
                     {
                         "amount": 1,
@@ -190,15 +239,15 @@
             {
                 "free": [
                     {
-                        "amount": 1,
-                        "id": "MT_Head01_02",
-                        "type": "inventory"
+                        "amount": 3,
+                        "id": "HalloweenEventCurrency",
+                        "type": "currency"
                     }
                 ],
                 "premium": [
                     {
                         "amount": 1,
-                        "id": "ZA_020",
+                        "id": "TN_Body009",
                         "type": "inventory"
                     }
                 ],
@@ -208,17 +257,24 @@
                 "premium": [
                     {
                         "amount": 1,
-                        "id": "ZA_019",
+                        "id": "cellsPack_25",
                         "type": "inventory"
                     }
                 ],
                 "tierId": 16
             },
             {
+                "free": [
+                    {
+                        "amount": 2,
+                        "id": "HalloweenEventCurrency",
+                        "type": "currency"
+                    }
+                ],
                 "premium": [
                     {
                         "amount": 1,
-                        "id": "ZA_029",
+                        "id": "TW_W009",
                         "type": "inventory"
                     }
                 ],
@@ -228,7 +284,7 @@
                 "free": [
                     {
                         "amount": 1,
-                        "id": "ZA_014",
+                        "id": "RW_021",
                         "type": "inventory"
                     }
                 ],
@@ -242,47 +298,61 @@
                 "tierId": 18
             },
             {
+                "free": [
+                    {
+                        "amount": 3,
+                        "id": "HalloweenEventCurrency",
+                        "type": "currency"
+                    }
+                ],
                 "premium": [
                     {
                         "amount": 1,
-                        "id": "MK_W01_04",
+                        "id": "MT_Head004_03",
                         "type": "inventory"
                     }
                 ],
                 "tierId": 19
             },
             {
-                "free": [
-                    {
-                        "amount": 1,
-                        "id": "ZA_007",
-                        "type": "inventory"
-                    }
-                ],
                 "premium": [
                     {
                         "amount": 1,
-                        "id": "cellsPack_25",
+                        "id": "RW_032",
                         "type": "inventory"
                     }
                 ],
                 "tierId": 20
             },
             {
+                "free": [
+                    {
+                        "amount": 2,
+                        "id": "HalloweenEventCurrency",
+                        "type": "currency"
+                    }
+                ],
                 "premium": [
                     {
                         "amount": 1,
-                        "id": "GS_Torso01_06",
+                        "id": "cellsPack_25",
                         "type": "inventory"
                     }
                 ],
                 "tierId": 21
             },
             {
+                "free": [
+                    {
+                        "amount": 3,
+                        "id": "HalloweenEventCurrency",
+                        "type": "currency"
+                    }
+                ],
                 "premium": [
                     {
                         "amount": 1,
-                        "id": "cellsPack_25",
+                        "id": "JP_Head010",
                         "type": "inventory"
                     }
                 ],
@@ -292,14 +362,14 @@
                 "free": [
                     {
                         "amount": 1,
-                        "id": "KK_Body018",
+                        "id": "BE_Mask03_01",
                         "type": "inventory"
                     }
                 ],
                 "premium": [
                     {
                         "amount": 1,
-                        "id": "DK_Legs013",
+                        "id": "TN_W009",
                         "type": "inventory"
                     }
                 ],
@@ -309,64 +379,85 @@
                 "premium": [
                     {
                         "amount": 1,
-                        "id": "cellsPack_25",
+                        "id": "MT_Torso004_03",
                         "type": "inventory"
                     }
                 ],
                 "tierId": 24
             },
             {
+                "free": [
+                    {
+                        "amount": 2,
+                        "id": "HalloweenEventCurrency",
+                        "type": "currency"
+                    }
+                ],
                 "premium": [
                     {
                         "amount": 1,
-                        "id": "ZA_025",
+                        "id": "cellsPack_25",
                         "type": "inventory"
                     }
                 ],
                 "tierId": 25
             },
             {
-                "free": [
-                    {
-                        "amount": 1,
-                        "id": "MT_Torso01_02",
-                        "type": "inventory"
-                    }
-                ],
                 "premium": [
                     {
                         "amount": 1,
-                        "id": "cellsPack_25",
+                        "id": "RW_027",
                         "type": "inventory"
                     }
                 ],
                 "tierId": 26
             },
             {
+                "free": [
+                    {
+                        "amount": 3,
+                        "id": "HalloweenEventCurrency",
+                        "type": "currency"
+                    }
+                ],
                 "premium": [
                     {
                         "amount": 1,
-                        "id": "MK_Body01_04",
+                        "id": "TR_Mask009",
                         "type": "inventory"
                     }
                 ],
                 "tierId": 27
             },
             {
+                "free": [
+                    {
+                        "amount": 1,
+                        "id": "DK_Legs002_03",
+                        "type": "inventory"
+                    }
+                ],
                 "premium": [
                     {
                         "amount": 1,
-                        "id": "HS_Torso011",
+                        "id": "cellsPack_25",
                         "type": "inventory"
                     }
                 ],
                 "tierId": 28
             },
             {
+                "free": [
+                    {
+                        "amount": 2,
+                        "id": "HalloweenEventCurrency",
+                        "type": "currency"
+                    }
+                ],
                 "premium": [
                     {
                         "amount": 1,
-                        "id": "cellsPack_25",
+                        "id": "RW_033",
                         "type": "inventory"
                     }
                 ],
@@ -376,7 +467,7 @@
                 "premium": [
                     {
                         "amount": 1,
-                        "id": "GS_Head01_06",
+                        "id": "cellsPack_25",
                         "type": "inventory"
                     }
                 ],
@@ -385,15 +476,15 @@
             {
                 "free": [
                     {
-                        "amount": 1,
-                        "id": "CM_Legs015",
-                        "type": "inventory"
+                        "amount": 3,
+                        "id": "HalloweenEventCurrency",
+                        "type": "currency"
                     }
                 ],
                 "premium": [
                     {
                         "amount": 1,
-                        "id": "TC_Legs011",
+                        "id": "TW_Head009",
                         "type": "inventory"
                     }
                 ],
@@ -403,17 +494,24 @@
                 "premium": [
                     {
                         "amount": 1,
-                        "id": "ZA_030",
+                        "id": "cellsPack_25",
                         "type": "inventory"
                     }
                 ],
                 "tierId": 32
             },
             {
+                "free": [
+                    {
+                        "amount": 1,
+                        "id": "WI_W03_01",
+                        "type": "inventory"
+                    }
+                ],
                 "premium": [
                     {
                         "amount": 1,
-                        "id": "cellsPack_25",
+                        "id": "CM_Torso011",
                         "type": "inventory"
                     }
                 ],
@@ -422,36 +520,9 @@
             {
                 "free": [
                     {
-                        "amount": 1,
-                        "id": "TW_Head01_03",
-                        "type": "inventory"
-                    }
-                ],
-                "premium": [
-                    {
-                        "amount": 1,
-                        "id": "GS_Legs01_06",
-                        "type": "inventory"
-                    }
-                ],
-                "tierId": 34
-            },
-            {
-                "premium": [
-                    {
-                        "amount": 1,
-                        "id": "GK_W012",
-                        "type": "inventory"
-                    }
-                ],
-                "tierId": 35
-            },
-            {
-                "free": [
-                    {
-                        "amount": 1,
-                        "id": "ZA_017",
-                        "type": "inventory"
+                        "amount": 2,
+                        "id": "HalloweenEventCurrency",
+                        "type": "currency"
                     }
                 ],
                 "premium": [
@@ -461,19 +532,60 @@
                         "type": "inventory"
                     }
                 ],
-                "tierId": 36
+                "tierId": 34
+            },
+            {
+                "free": [
+                    {
+                        "amount": 3,
+                        "id": "HalloweenEventCurrency",
+                        "type": "currency"
+                    }
+                ],
+                "premium": [
+                    {
+                        "amount": 1,
+                        "id": "MT_Legs004_03",
+                        "type": "inventory"
+                    }
+                ],
+                "tierId": 35
             },
             {
                 "premium": [
                     {
                         "amount": 1,
-                        "id": "NK_Head013",
+                        "id": "cellsPack_50",
+                        "type": "inventory"
+                    }
+                ],
+                "tierId": 36
+            },
+            {
+                "free": [
+                    {
+                        "amount": 2,
+                        "id": "HalloweenEventCurrency",
+                        "type": "currency"
+                    }
+                ],
+                "premium": [
+                    {
+                        "amount": 1,
+                        "id": "RW_028",
                         "type": "inventory"
                     }
                 ],
                 "tierId": 37
             },
             {
+                "free": [
+                    {
+                        "amount": 1,
+                        "id": "RW_016",
+                        "type": "inventory"
+                    }
+                ],
                 "premium": [
                     {
                         "amount": 1,
@@ -486,15 +598,15 @@
             {
                 "free": [
                     {
-                        "amount": 1,
-                        "id": "KK_Mask018",
-                        "type": "inventory"
+                        "amount": 3,
+                        "id": "HalloweenEventCurrency",
+                        "type": "currency"
                     }
                 ],
                 "premium": [
                     {
                         "amount": 1,
-                        "id": "DK_Torso013",
+                        "id": "TR_Body009",
                         "type": "inventory"
                     }
                 ],
@@ -504,17 +616,24 @@
                 "premium": [
                     {
                         "amount": 1,
-                        "id": "cellsPack_50",
+                        "id": "RW_019",
                         "type": "inventory"
                     }
                 ],
                 "tierId": 40
             },
             {
+                "free": [
+                    {
+                        "amount": 2,
+                        "id": "HalloweenEventCurrency",
+                        "type": "currency"
+                    }
+                ],
                 "premium": [
                     {
                         "amount": 1,
-                        "id": "ZA_010",
+                        "id": "cellsPack_50",
                         "type": "inventory"
                     }
                 ],
@@ -524,13 +643,20 @@
                 "premium": [
                     {
                         "amount": 1,
-                        "id": "JP_Legs01_02",
+                        "id": "RW_006",
                         "type": "inventory"
                     }
                 ],
                 "tierId": 42
             },
             {
+                "free": [
+                    {
+                        "amount": 1,
+                        "id": "RW_010",
+                        "type": "inventory"
+                    }
+                ],
                 "premium": [
                     {
                         "amount": 1,
@@ -543,15 +669,15 @@
             {
                 "free": [
                     {
-                        "amount": 1,
-                        "id": "MT_Legs01_02",
-                        "type": "inventory"
+                        "amount": 3,
+                        "id": "HalloweenEventCurrency",
+                        "type": "currency"
                     }
                 ],
                 "premium": [
                     {
                         "amount": 1,
-                        "id": "ZA_026",
+                        "id": "DF_Head001_03",
                         "type": "inventory"
                     }
                 ],
@@ -561,17 +687,24 @@
                 "premium": [
                     {
                         "amount": 1,
-                        "id": "HS_Head011",
+                        "id": "cellsPack_50",
                         "type": "inventory"
                     }
                 ],
                 "tierId": 45
             },
             {
+                "free": [
+                    {
+                        "amount": 2,
+                        "id": "HalloweenEventCurrency",
+                        "type": "currency"
+                    }
+                ],
                 "premium": [
                     {
                         "amount": 1,
-                        "id": "cellsPack_50",
+                        "id": "TC_Torso05_03",
                         "type": "inventory"
                     }
                 ],
@@ -580,15 +713,15 @@
             {
                 "free": [
                     {
-                        "amount": 1,
-                        "id": "CM_Torso015",
-                        "type": "inventory"
+                        "amount": 3,
+                        "id": "HalloweenEventCurrency",
+                        "type": "currency"
                     }
                 ],
                 "premium": [
                     {
                         "amount": 1,
-                        "id": "GK_Head012",
+                        "id": "CM_Legs011",
                         "type": "inventory"
                     }
                 ],
@@ -605,10 +738,17 @@
                 "tierId": 48
             },
             {
+                "free": [
+                    {
+                        "amount": 1,
+                        "id": "RW_007",
+                        "type": "inventory"
+                    }
+                ],
                 "premium": [
                     {
                         "amount": 1,
-                        "id": "WI_Hair01_03",
+                        "id": "BE_W006_01",
                         "type": "inventory"
                     }
                 ],
@@ -618,7 +758,7 @@
                 "premium": [
                     {
                         "amount": 1,
-                        "id": "ZA_031",
+                        "id": "cellsPack_50",
                         "type": "inventory"
                     }
                 ],
@@ -628,24 +768,17 @@
                 "premium": [
                     {
                         "amount": 1,
-                        "id": "cellsPack_50",
+                        "id": "RW_020",
                         "type": "inventory"
                     }
                 ],
                 "tierId": 51
             },
             {
-                "free": [
-                    {
-                        "amount": 1,
-                        "id": "ZA_013",
-                        "type": "inventory"
-                    }
-                ],
                 "premium": [
                     {
                         "amount": 1,
-                        "id": "GK_Body012",
+                        "id": "WI_Body03_01",
                         "type": "inventory"
                     }
                 ],
@@ -655,7 +788,7 @@
                 "premium": [
                     {
                         "amount": 1,
-                        "id": "HS_Legs011",
+                        "id": "cellsPack_50",
                         "type": "inventory"
                     }
                 ],
@@ -665,7 +798,7 @@
                 "premium": [
                     {
                         "amount": 1,
-                        "id": "cellsPack_50",
+                        "id": "DF_Legs001_03",
                         "type": "inventory"
                     }
                 ],
@@ -675,14 +808,14 @@
                 "free": [
                     {
                         "amount": 1,
-                        "id": "KK_W018",
+                        "id": "TR_W009",
                         "type": "inventory"
                     }
                 ],
                 "premium": [
                     {
                         "amount": 1,
-                        "id": "ZA_008",
+                        "id": "RW_034",
                         "type": "inventory"
                     }
                 ],
@@ -692,7 +825,7 @@
                 "premium": [
                     {
                         "amount": 1,
-                        "id": "JP_Head01_02",
+                        "id": "RW_022",
                         "type": "inventory"
                     }
                 ],
@@ -702,7 +835,7 @@
                 "premium": [
                     {
                         "amount": 1,
-                        "id": "ZA_027",
+                        "id": "cellsPack_50",
                         "type": "inventory"
                     }
                 ],
@@ -712,24 +845,17 @@
                 "premium": [
                     {
                         "amount": 1,
-                        "id": "cellsPack_50",
+                        "id": "NK_Head003_03",
                         "type": "inventory"
                     }
                 ],
                 "tierId": 58
             },
             {
-                "free": [
-                    {
-                        "amount": 1,
-                        "id": "ZA_009",
-                        "type": "inventory"
-                    }
-                ],
                 "premium": [
                     {
                         "amount": 1,
-                        "id": "WI_W01_03",
+                        "id": "cellsPack_50",
                         "type": "inventory"
                     }
                 ],
@@ -739,7 +865,7 @@
                 "premium": [
                     {
                         "amount": 1,
-                        "id": "cellsPack_50",
+                        "id": "TC_W05_03",
                         "type": "inventory"
                     }
                 ],
@@ -749,7 +875,7 @@
                 "premium": [
                     {
                         "amount": 1,
-                        "id": "ZA_012",
+                        "id": "cellsPack_50",
                         "type": "inventory"
                     }
                 ],
@@ -759,7 +885,7 @@
                 "premium": [
                     {
                         "amount": 1,
-                        "id": "cellsPack_50",
+                        "id": "DF_Torso001_03",
                         "type": "inventory"
                     }
                 ],
@@ -769,14 +895,14 @@
                 "free": [
                     {
                         "amount": 1,
-                        "id": "CM_Head015",
+                        "id": "CM_Head011",
                         "type": "inventory"
                     }
                 ],
                 "premium": [
                     {
                         "amount": 1,
-                        "id": "ZA_011",
+                        "id": "RW_029",
                         "type": "inventory"
                     }
                 ],
@@ -786,7 +912,7 @@
                 "premium": [
                     {
                         "amount": 1,
-                        "id": "cellsPack_50",
+                        "id": "DK_Torso001_03",
                         "type": "inventory"
                     }
                 ],
@@ -796,7 +922,7 @@
                 "premium": [
                     {
                         "amount": 1,
-                        "id": "ZA_032",
+                        "id": "RW_011",
                         "type": "inventory"
                     }
                 ],
@@ -816,28 +942,11 @@
                 "premium": [
                     {
                         "amount": 1,
-                        "id": "WI_Body01_03",
+                        "id": "RW_008",
                         "type": "inventory"
                     }
                 ],
                 "tierId": 67
-            },
-            {
-                "free": [
-                    {
-                        "amount": 1,
-                        "id": "TC_W011",
-                        "type": "inventory"
-                    }
-                ],
-                "premium": [
-                    {
-                        "amount": 1,
-                        "id": "JP_Torso01_02",
-                        "type": "inventory"
-                    }
-                ],
-                "tierId": 68
             },
             {
                 "premium": [
@@ -847,20 +956,30 @@
                         "type": "inventory"
                     }
                 ],
+                "tierId": 68
+            },
+            {
+                "premium": [
+                    {
+                        "amount": 1,
+                        "id": "TC_Legs05_03",
+                        "type": "inventory"
+                    }
+                ],
                 "tierId": 69
             },
             {
                 "free": [
                     {
                         "amount": 1,
-                        "id": "NK_Legs013",
+                        "id": "RW_017",
                         "type": "inventory"
                     }
                 ],
                 "premium": [
                     {
                         "amount": 1,
-                        "id": "ZA_021",
+                        "id": "RW_024",
                         "type": "inventory"
                     }
                 ],

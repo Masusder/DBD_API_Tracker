@@ -1,22 +1,22 @@
 {
-    "Tome05": {
+    "Tome04": {
         "requirement": 10,
         "tierInfo": [
             {
                 "premium": [
                     {
                         "amount": 1,
-                        "id": "NK_Torso013",
+                        "id": "MT_Torso013",
                         "type": "inventory"
                     },
                     {
                         "amount": 1,
-                        "id": "TC_Torso011",
+                        "id": "TW_Body012",
                         "type": "inventory"
                     },
                     {
                         "amount": 1,
-                        "id": "ZA_016",
+                        "id": "XI_016",
                         "type": "inventory"
                     }
                 ],
@@ -26,7 +26,7 @@
                 "free": [
                     {
                         "amount": 1,
-                        "id": "ZA_023",
+                        "id": "XI_023",
                         "type": "inventory"
                     }
                 ],
@@ -43,7 +43,7 @@
                 "premium": [
                     {
                         "amount": 1,
-                        "id": "ZA_015",
+                        "id": "TR_Mask09_02",
                         "type": "inventory"
                     }
                 ],
@@ -53,7 +53,7 @@
                 "free": [
                     {
                         "amount": 1,
-                        "id": "ZA_028",
+                        "id": "XI_028",
                         "type": "inventory"
                     }
                 ],
@@ -70,7 +70,7 @@
                 "premium": [
                     {
                         "amount": 1,
-                        "id": "ZA_018",
+                        "id": "XI_014",
                         "type": "inventory"
                     }
                 ],
@@ -90,14 +90,14 @@
                 "free": [
                     {
                         "amount": 1,
-                        "id": "TW_Body01_03",
+                        "id": "DO_Body01_04",
                         "type": "inventory"
                     }
                 ],
                 "premium": [
                     {
                         "amount": 1,
-                        "id": "DK_Head013",
+                        "id": "AV_Head011",
                         "type": "inventory"
                     }
                 ],
@@ -117,14 +117,14 @@
                 "free": [
                     {
                         "amount": 1,
-                        "id": "ZA_006",
+                        "id": "SwedenSurvivor_Torso02_02",
                         "type": "inventory"
                     }
                 ],
                 "premium": [
                     {
                         "amount": 1,
-                        "id": "MK_Mask01_04",
+                        "id": "HK_Body006_04",
                         "type": "inventory"
                     }
                 ],
@@ -134,7 +134,7 @@
                 "premium": [
                     {
                         "amount": 1,
-                        "id": "ZA_005",
+                        "id": "XI_017",
                         "type": "inventory"
                     }
                 ],
@@ -151,27 +151,27 @@
                 "tierId": 11
             },
             {
+                "free": [
+                    {
+                        "amount": 1,
+                        "id": "KK_W02_02",
+                        "type": "inventory"
+                    }
+                ],
                 "premium": [
                     {
                         "amount": 1,
-                        "id": "ZA_024",
+                        "id": "MS_Head008_01",
                         "type": "inventory"
                     }
                 ],
                 "tierId": 12
             },
             {
-                "free": [
-                    {
-                        "amount": 1,
-                        "id": "TW_W01_03",
-                        "type": "inventory"
-                    }
-                ],
                 "premium": [
                     {
                         "amount": 1,
-                        "id": "ZA_022",
+                        "id": "XI_024",
                         "type": "inventory"
                     }
                 ],
@@ -191,14 +191,14 @@
                 "free": [
                     {
                         "amount": 1,
-                        "id": "MT_Head01_02",
+                        "id": "DK_Legs02_01",
                         "type": "inventory"
                     }
                 ],
                 "premium": [
                     {
                         "amount": 1,
-                        "id": "ZA_020",
+                        "id": "XI_011",
                         "type": "inventory"
                     }
                 ],
@@ -208,7 +208,7 @@
                 "premium": [
                     {
                         "amount": 1,
-                        "id": "ZA_019",
+                        "id": "XI_029",
                         "type": "inventory"
                     }
                 ],
@@ -218,20 +218,13 @@
                 "premium": [
                     {
                         "amount": 1,
-                        "id": "ZA_029",
+                        "id": "WI_W009",
                         "type": "inventory"
                     }
                 ],
                 "tierId": 17
             },
             {
-                "free": [
-                    {
-                        "amount": 1,
-                        "id": "ZA_014",
-                        "type": "inventory"
-                    }
-                ],
                 "premium": [
                     {
                         "amount": 1,
@@ -242,23 +235,23 @@
                 "tierId": 18
             },
             {
+                "free": [
+                    {
+                        "amount": 1,
+                        "id": "DO_Head01_04",
+                        "type": "inventory"
+                    }
+                ],
                 "premium": [
                     {
                         "amount": 1,
-                        "id": "MK_W01_04",
+                        "id": "AV_Torso011",
                         "type": "inventory"
                     }
                 ],
                 "tierId": 19
             },
             {
-                "free": [
-                    {
-                        "amount": 1,
-                        "id": "ZA_007",
-                        "type": "inventory"
-                    }
-                ],
                 "premium": [
                     {
                         "amount": 1,
@@ -272,7 +265,7 @@
                 "premium": [
                     {
                         "amount": 1,
-                        "id": "GS_Torso01_06",
+                        "id": "TR_Body09_02",
                         "type": "inventory"
                     }
                 ],
@@ -292,14 +285,14 @@
                 "free": [
                     {
                         "amount": 1,
-                        "id": "KK_Body018",
+                        "id": "XI_010",
                         "type": "inventory"
                     }
                 ],
                 "premium": [
                     {
                         "amount": 1,
-                        "id": "DK_Legs013",
+                        "id": "XI_008",
                         "type": "inventory"
                     }
                 ],
@@ -319,7 +312,7 @@
                 "premium": [
                     {
                         "amount": 1,
-                        "id": "ZA_025",
+                        "id": "XI_025",
                         "type": "inventory"
                     }
                 ],
@@ -329,7 +322,7 @@
                 "free": [
                     {
                         "amount": 1,
-                        "id": "MT_Torso01_02",
+                        "id": "XI_005",
                         "type": "inventory"
                     }
                 ],
@@ -346,7 +339,7 @@
                 "premium": [
                     {
                         "amount": 1,
-                        "id": "MK_Body01_04",
+                        "id": "TN_Head02_02",
                         "type": "inventory"
                     }
                 ],
@@ -356,7 +349,7 @@
                 "premium": [
                     {
                         "amount": 1,
-                        "id": "HS_Torso011",
+                        "id": "AV_Legs011",
                         "type": "inventory"
                     }
                 ],
@@ -376,7 +369,7 @@
                 "premium": [
                     {
                         "amount": 1,
-                        "id": "GS_Head01_06",
+                        "id": "TR_W09_02",
                         "type": "inventory"
                     }
                 ],
@@ -386,14 +379,14 @@
                 "free": [
                     {
                         "amount": 1,
-                        "id": "CM_Legs015",
+                        "id": "JP_Torso001_01",
                         "type": "inventory"
                     }
                 ],
                 "premium": [
                     {
                         "amount": 1,
-                        "id": "TC_Legs011",
+                        "id": "WI_Body009",
                         "type": "inventory"
                     }
                 ],
@@ -403,13 +396,20 @@
                 "premium": [
                     {
                         "amount": 1,
-                        "id": "ZA_030",
+                        "id": "XI_030",
                         "type": "inventory"
                     }
                 ],
                 "tierId": 32
             },
             {
+                "free": [
+                    {
+                        "amount": 1,
+                        "id": "XI_019",
+                        "type": "inventory"
+                    }
+                ],
                 "premium": [
                     {
                         "amount": 1,
@@ -420,17 +420,10 @@
                 "tierId": 33
             },
             {
-                "free": [
-                    {
-                        "amount": 1,
-                        "id": "TW_Head01_03",
-                        "type": "inventory"
-                    }
-                ],
                 "premium": [
                     {
                         "amount": 1,
-                        "id": "GS_Legs01_06",
+                        "id": "XI_007",
                         "type": "inventory"
                     }
                 ],
@@ -440,7 +433,7 @@
                 "premium": [
                     {
                         "amount": 1,
-                        "id": "GK_W012",
+                        "id": "TW_Head012",
                         "type": "inventory"
                     }
                 ],
@@ -450,7 +443,7 @@
                 "free": [
                     {
                         "amount": 1,
-                        "id": "ZA_017",
+                        "id": "DK_Head02_01",
                         "type": "inventory"
                     }
                 ],
@@ -467,7 +460,7 @@
                 "premium": [
                     {
                         "amount": 1,
-                        "id": "NK_Head013",
+                        "id": "SwedenKiller_W02_02",
                         "type": "inventory"
                     }
                 ],
@@ -487,14 +480,14 @@
                 "free": [
                     {
                         "amount": 1,
-                        "id": "KK_Mask018",
+                        "id": "DO_W01_04",
                         "type": "inventory"
                     }
                 ],
                 "premium": [
                     {
                         "amount": 1,
-                        "id": "DK_Torso013",
+                        "id": "US_Legs009",
                         "type": "inventory"
                     }
                 ],
@@ -514,7 +507,7 @@
                 "premium": [
                     {
                         "amount": 1,
-                        "id": "ZA_010",
+                        "id": "JP_Legs001_01",
                         "type": "inventory"
                     }
                 ],
@@ -524,13 +517,20 @@
                 "premium": [
                     {
                         "amount": 1,
-                        "id": "JP_Legs01_02",
+                        "id": "WI_Hair009",
                         "type": "inventory"
                     }
                 ],
                 "tierId": 42
             },
             {
+                "free": [
+                    {
+                        "amount": 1,
+                        "id": "XI_015",
+                        "type": "inventory"
+                    }
+                ],
                 "premium": [
                     {
                         "amount": 1,
@@ -541,17 +541,10 @@
                 "tierId": 43
             },
             {
-                "free": [
-                    {
-                        "amount": 1,
-                        "id": "MT_Legs01_02",
-                        "type": "inventory"
-                    }
-                ],
                 "premium": [
                     {
                         "amount": 1,
-                        "id": "ZA_026",
+                        "id": "XI_031",
                         "type": "inventory"
                     }
                 ],
@@ -561,7 +554,7 @@
                 "premium": [
                     {
                         "amount": 1,
-                        "id": "HS_Head011",
+                        "id": "XI_012",
                         "type": "inventory"
                     }
                 ],
@@ -581,14 +574,14 @@
                 "free": [
                     {
                         "amount": 1,
-                        "id": "CM_Torso015",
+                        "id": "DO_Head03_03",
                         "type": "inventory"
                     }
                 ],
                 "premium": [
                     {
                         "amount": 1,
-                        "id": "GK_Head012",
+                        "id": "US_Torso009",
                         "type": "inventory"
                     }
                 ],
@@ -608,17 +601,24 @@
                 "premium": [
                     {
                         "amount": 1,
-                        "id": "WI_Hair01_03",
+                        "id": "XI_006",
                         "type": "inventory"
                     }
                 ],
                 "tierId": 49
             },
             {
+                "free": [
+                    {
+                        "amount": 1,
+                        "id": "DK_Torso02_01",
+                        "type": "inventory"
+                    }
+                ],
                 "premium": [
                     {
                         "amount": 1,
-                        "id": "ZA_031",
+                        "id": "XI_026",
                         "type": "inventory"
                     }
                 ],
@@ -635,17 +635,10 @@
                 "tierId": 51
             },
             {
-                "free": [
-                    {
-                        "amount": 1,
-                        "id": "ZA_013",
-                        "type": "inventory"
-                    }
-                ],
                 "premium": [
                     {
                         "amount": 1,
-                        "id": "GK_Body012",
+                        "id": "XI_032",
                         "type": "inventory"
                     }
                 ],
@@ -655,7 +648,7 @@
                 "premium": [
                     {
                         "amount": 1,
-                        "id": "HS_Legs011",
+                        "id": "SwedenKiller_Mask02_02",
                         "type": "inventory"
                     }
                 ],
@@ -675,14 +668,14 @@
                 "free": [
                     {
                         "amount": 1,
-                        "id": "KK_W018",
+                        "id": "XI_020",
                         "type": "inventory"
                     }
                 ],
                 "premium": [
                     {
                         "amount": 1,
-                        "id": "ZA_008",
+                        "id": "US_Head009",
                         "type": "inventory"
                     }
                 ],
@@ -692,7 +685,7 @@
                 "premium": [
                     {
                         "amount": 1,
-                        "id": "JP_Head01_02",
+                        "id": "XI_018",
                         "type": "inventory"
                     }
                 ],
@@ -702,13 +695,20 @@
                 "premium": [
                     {
                         "amount": 1,
-                        "id": "ZA_027",
+                        "id": "MT_Legs013",
                         "type": "inventory"
                     }
                 ],
                 "tierId": 57
             },
             {
+                "free": [
+                    {
+                        "amount": 1,
+                        "id": "XI_013",
+                        "type": "inventory"
+                    }
+                ],
                 "premium": [
                     {
                         "amount": 1,
@@ -719,17 +719,10 @@
                 "tierId": 58
             },
             {
-                "free": [
-                    {
-                        "amount": 1,
-                        "id": "ZA_009",
-                        "type": "inventory"
-                    }
-                ],
                 "premium": [
                     {
                         "amount": 1,
-                        "id": "WI_W01_03",
+                        "id": "XI_027",
                         "type": "inventory"
                     }
                 ],
@@ -749,7 +742,7 @@
                 "premium": [
                     {
                         "amount": 1,
-                        "id": "ZA_012",
+                        "id": "JP_Head001_01",
                         "type": "inventory"
                     }
                 ],
@@ -769,14 +762,14 @@
                 "free": [
                     {
                         "amount": 1,
-                        "id": "CM_Head015",
+                        "id": "DF_Torso002_03",
                         "type": "inventory"
                     }
                 ],
                 "premium": [
                     {
                         "amount": 1,
-                        "id": "ZA_011",
+                        "id": "SwedenKiller_Body02_02",
                         "type": "inventory"
                     }
                 ],
@@ -796,7 +789,7 @@
                 "premium": [
                     {
                         "amount": 1,
-                        "id": "ZA_032",
+                        "id": "CM_Legs001_03",
                         "type": "inventory"
                     }
                 ],
@@ -816,7 +809,7 @@
                 "premium": [
                     {
                         "amount": 1,
-                        "id": "WI_Body01_03",
+                        "id": "XI_022",
                         "type": "inventory"
                     }
                 ],
@@ -826,14 +819,14 @@
                 "free": [
                     {
                         "amount": 1,
-                        "id": "TC_W011",
+                        "id": "TW_W012",
                         "type": "inventory"
                     }
                 ],
                 "premium": [
                     {
                         "amount": 1,
-                        "id": "JP_Torso01_02",
+                        "id": "XI_009",
                         "type": "inventory"
                     }
                 ],
@@ -853,14 +846,14 @@
                 "free": [
                     {
                         "amount": 1,
-                        "id": "NK_Legs013",
+                        "id": "MT_Head013",
                         "type": "inventory"
                     }
                 ],
                 "premium": [
                     {
                         "amount": 1,
-                        "id": "ZA_021",
+                        "id": "XI_021",
                         "type": "inventory"
                     }
                 ],

@@ -68,6 +68,14 @@
         "keyName": "MS_ENDPOINT"
     },
     {
+        "value": {
+            "uncategorized": {
+                "enabled": false
+            }
+        },
+        "keyName": "offenceCategories"
+    },
+    {
         "value": "false",
         "keyName": "SEGMENTATION_V2_ENABLED"
     },
