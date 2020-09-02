@@ -1,7 +1,7 @@
 {
     "items": [
         {
-            "id": "Adrenaline",
+            "id": "CruelConfinement",
             "bloodpointValue": 150000,
             "experienceValue": 150000,
             "unique": false,
@@ -15,7 +15,7 @@
             ]
         },
         {
-            "id": "BBQAndChilli",
+            "id": "Self_Care",
             "bloodpointValue": 150000,
             "experienceValue": 150000,
             "unique": false,
@@ -29,7 +29,7 @@
             ]
         },
         {
-            "id": "Bloodhound",
+            "id": "WindowsOfOpportunity",
             "bloodpointValue": 150000,
             "experienceValue": 150000,
             "unique": false,
@@ -43,7 +43,7 @@
             ]
         },
         {
-            "id": "Breakdown",
+            "id": "ZanshinTactics",
             "bloodpointValue": 150000,
             "experienceValue": 150000,
             "unique": false,
@@ -57,7 +57,7 @@
             ]
         }
     ],
-    "startDate": "2020-08-26T00:00:00",
-    "endDate": "2020-09-01T23:59:59",
-    "week": 202
+    "startDate": "2020-09-02T00:00:00",
+    "endDate": "2020-09-08T23:59:59",
+    "week": 203
 }

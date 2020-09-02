@@ -10262,6 +10262,52 @@
             ],
             "newStartDate": "2018-06-12T00:00:00",
             "newEndDate": "2018-06-25T23:59:59"
+        },
+        {
+            "id": "DK_outfit_02_01",
+            "defaultCost": [
+                {
+                    "currencyId": "Cells",
+                    "price": 675,
+                    "discountPercentage": 0.1
+                },
+                {
+                    "currencyId": "Shards",
+                    "price": 13500,
+                    "discountPercentage": 0
+                }
+            ],
+            "character": "Smoke",
+            "storeItems": [
+                "DK_Head02_01",
+                "DK_Torso02_01",
+                "DK_Legs02_01"
+            ],
+            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2018-06-25T23:59:59"
+        },
+        {
+            "id": "DO_outfit_01_04",
+            "defaultCost": [
+                {
+                    "currencyId": "Cells",
+                    "price": 270,
+                    "discountPercentage": 0.1
+                },
+                {
+                    "currencyId": "Shards",
+                    "price": 5400,
+                    "discountPercentage": 0
+                }
+            ],
+            "character": "Killer07",
+            "storeItems": [
+                "DO_Head01_04",
+                "DO_Body01_04",
+                "DO_W01_04"
+            ],
+            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2018-06-25T23:59:59"
         }
     ]
 }

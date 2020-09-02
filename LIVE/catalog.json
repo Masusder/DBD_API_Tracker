@@ -70657,10 +70657,12 @@
             "kind": "Customization",
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "outfitId": "DK_outfit_02_01",
             "quality": "V0",
             "qualityName": "quality1",
             "rarity": "Rare",
             "type": "Head",
+            "unbreakable": false,
             "version": {
                 "grdk": true,
                 "nintendo": true,
@@ -70703,10 +70705,12 @@
             "kind": "Customization",
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "outfitId": "DK_outfit_02_01",
             "quality": "V0",
             "qualityName": "quality1",
             "rarity": "Rare",
             "type": "Torso",
+            "unbreakable": false,
             "version": {
                 "grdk": true,
                 "nintendo": true,
@@ -70749,10 +70753,12 @@
             "kind": "Customization",
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "outfitId": "DK_outfit_02_01",
             "quality": "V0",
             "qualityName": "quality1",
             "rarity": "Rare",
             "type": "Legs",
+            "unbreakable": false,
             "version": {
                 "grdk": true,
                 "nintendo": true,
@@ -70795,10 +70801,12 @@
             "kind": "Customization",
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "outfitId": "DO_outfit_01_04",
             "quality": "V0",
             "qualityName": "quality1",
             "rarity": "Uncommon",
             "type": "Head",
+            "unbreakable": false,
             "version": {
                 "grdk": true,
                 "nintendo": true,
@@ -70841,10 +70849,12 @@
             "kind": "Customization",
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "outfitId": "DO_outfit_01_04",
             "quality": "V0",
             "qualityName": "quality1",
             "rarity": "Uncommon",
             "type": "Torso",
+            "unbreakable": false,
             "version": {
                 "grdk": true,
                 "nintendo": true,
@@ -70887,10 +70897,12 @@
             "kind": "Customization",
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "outfitId": "DO_outfit_01_04",
             "quality": "V0",
             "qualityName": "quality1",
             "rarity": "Uncommon",
             "type": "Weapon",
+            "unbreakable": false,
             "version": {
                 "grdk": true,
                 "nintendo": true,
@@ -87150,6 +87162,50 @@
                 "US_Head009",
                 "US_Torso009",
                 "US_Legs009"
+            ],
+            "newEndDate": "2018-06-25T23:59:59",
+            "newStartDate": "2018-06-12T00:00:00",
+            "unbreakable": false
+        },
+        "nonSecure": false,
+        "purchasable": false,
+        "unique": true
+    },
+    {
+        "categories": [
+            "outfit"
+        ],
+        "consumable": false,
+        "id": "DK_outfit_02_01",
+        "metaData": {
+            "character": "Smoke",
+            "discountPercentage": 0.1,
+            "items": [
+                "DK_Head02_01",
+                "DK_Torso02_01",
+                "DK_Legs02_01"
+            ],
+            "newEndDate": "2018-06-25T23:59:59",
+            "newStartDate": "2018-06-12T00:00:00",
+            "unbreakable": false
+        },
+        "nonSecure": false,
+        "purchasable": false,
+        "unique": true
+    },
+    {
+        "categories": [
+            "outfit"
+        ],
+        "consumable": false,
+        "id": "DO_outfit_01_04",
+        "metaData": {
+            "character": "Killer07",
+            "discountPercentage": 0.1,
+            "items": [
+                "DO_Head01_04",
+                "DO_Body01_04",
+                "DO_W01_04"
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
