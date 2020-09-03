@@ -669,10 +669,30 @@
                 "price": 500
             }
         ],
+        "eventCostList": [
+            {
+                "cost": [
+                    {
+                        "currencyId": "Cells",
+                        "price": 400
+                    }
+                ],
+                "endDate": "2020-10-03T00:00:00",
+                "startDate": "2020-09-28T00:00:00"
+            }
+        ],
         "id": "Oni",
         "metaData": {
             "grantedIfFree": false,
-            "role": "Slasher"
+            "role": "Slasher",
+            "temporaryDiscounts": [
+                {
+                    "currencyId": "Cells",
+                    "discountPercentage": 0.2,
+                    "endDate": "2020-10-03T00:00:00",
+                    "startDate": "2020-09-28T00:00:00"
+                }
+            ]
         },
         "nonSecure": false,
         "purchasable": true,
@@ -686,35 +706,32 @@
             {
                 "currencyId": "Cells",
                 "price": 500
+            }
+        ],
+        "eventCostList": [
+            {
+                "cost": [
+                    {
+                        "currencyId": "Cells",
+                        "price": 400
+                    }
+                ],
+                "endDate": "2020-10-03T00:00:00",
+                "startDate": "2020-09-28T00:00:00"
             }
         ],
         "id": "Yui",
         "metaData": {
             "grantedIfFree": false,
-            "role": "Camper"
-        },
-        "nonSecure": false,
-        "purchasable": true,
-        "unique": true
-    },
-    {
-        "categories": [
-            "character"
-        ],
-        "defaultCost": [
-            {
-                "currencyId": "Shards",
-                "price": 9000
-            },
-            {
-                "currencyId": "Cells",
-                "price": 500
-            }
-        ],
-        "id": "Gunslinger",
-        "metaData": {
-            "grantedIfFree": false,
-            "role": "Slasher"
+            "role": "Camper",
+            "temporaryDiscounts": [
+                {
+                    "currencyId": "Cells",
+                    "discountPercentage": 0.2,
+                    "endDate": "2020-10-03T00:00:00",
+                    "startDate": "2020-09-28T00:00:00"
+                }
+            ]
         },
         "nonSecure": false,
         "purchasable": true,
@@ -742,8 +759,51 @@
                         "price": 400
                     }
                 ],
-                "endDate": "2020-08-29T00:00:00",
-                "startDate": "2020-07-28T00:00:00"
+                "endDate": "2020-10-03T00:00:00",
+                "startDate": "2020-09-28T00:00:00"
+            }
+        ],
+        "id": "Gunslinger",
+        "metaData": {
+            "grantedIfFree": false,
+            "role": "Slasher",
+            "temporaryDiscounts": [
+                {
+                    "currencyId": "Cells",
+                    "discountPercentage": 0.2,
+                    "endDate": "2020-10-03T00:00:00",
+                    "startDate": "2020-09-28T00:00:00"
+                }
+            ]
+        },
+        "nonSecure": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "character"
+        ],
+        "defaultCost": [
+            {
+                "currencyId": "Shards",
+                "price": 9000
+            },
+            {
+                "currencyId": "Cells",
+                "price": 500
+            }
+        ],
+        "eventCostList": [
+            {
+                "cost": [
+                    {
+                        "currencyId": "Cells",
+                        "price": 400
+                    }
+                ],
+                "endDate": "2020-10-03T00:00:00",
+                "startDate": "2020-09-28T00:00:00"
             }
         ],
         "id": "Zarina",
@@ -754,8 +814,8 @@
                 {
                     "currencyId": "Cells",
                     "discountPercentage": 0.2,
-                    "endDate": "2020-08-29T00:00:00",
-                    "startDate": "2020-07-28T00:00:00"
+                    "endDate": "2020-10-03T00:00:00",
+                    "startDate": "2020-09-28T00:00:00"
                 }
             ]
         },
@@ -781,8 +841,8 @@
                         "price": 350
                     }
                 ],
-                "endDate": "2020-08-29T00:00:00",
-                "startDate": "2020-07-28T00:00:00"
+                "endDate": "2020-10-03T00:00:00",
+                "startDate": "2020-09-28T00:00:00"
             }
         ],
         "id": "K20",
@@ -793,8 +853,8 @@
                 {
                     "currencyId": "Cells",
                     "discountPercentage": 0.3,
-                    "endDate": "2020-08-29T00:00:00",
-                    "startDate": "2020-07-28T00:00:00"
+                    "endDate": "2020-10-03T00:00:00",
+                    "startDate": "2020-09-28T00:00:00"
                 }
             ]
         },
@@ -820,8 +880,8 @@
                         "price": 350
                     }
                 ],
-                "endDate": "2020-08-29T00:00:00",
-                "startDate": "2020-07-28T00:00:00"
+                "endDate": "2020-10-03T00:00:00",
+                "startDate": "2020-09-28T00:00:00"
             }
         ],
         "id": "S22",
@@ -832,8 +892,8 @@
                 {
                     "currencyId": "Cells",
                     "discountPercentage": 0.3,
-                    "endDate": "2020-08-29T00:00:00",
-                    "startDate": "2020-07-28T00:00:00"
+                    "endDate": "2020-10-03T00:00:00",
+                    "startDate": "2020-09-28T00:00:00"
                 }
             ]
         },
@@ -1080,18 +1140,7 @@
                 "price": 300
             }
         ],
-        "eventCostList": [
-            {
-                "cost": [
-                    {
-                        "currencyId": "Cells",
-                        "price": 210
-                    }
-                ],
-                "endDate": "2020-08-28T00:00:00",
-                "startDate": "2020-07-28T00:00:00"
-            }
-        ],
+        "eventCostList": [],
         "id": "DF_Head001",
         "initialQuantity": 0,
         "metaData": {
@@ -1104,14 +1153,6 @@
             "quality": "V0",
             "qualityName": "quality1",
             "rarity": "Rare",
-            "temporaryDiscounts": [
-                {
-                    "currencyId": "Cells",
-                    "discountPercentage": 0.3,
-                    "endDate": "2020-08-28T00:00:00",
-                    "startDate": "2020-07-28T00:00:00"
-                }
-            ],
             "type": "Head",
             "unbreakable": true,
             "version": {
@@ -6134,28 +6175,7 @@
                 "price": 400
             }
         ],
-        "eventCostList": [
-            {
-                "cost": [
-                    {
-                        "currencyId": "Cells",
-                        "price": 240
-                    }
-                ],
-                "endDate": "2020-08-28T00:00:00",
-                "startDate": "2020-07-28T00:00:00"
-            },
-            {
-                "cost": [
-                    {
-                        "currencyId": "Cells",
-                        "price": 200
-                    }
-                ],
-                "endDate": "2020-10-28T00:00:00",
-                "startDate": "2020-09-28T00:00:00"
-            }
-        ],
+        "eventCostList": [],
         "id": "MT_Head005",
         "initialQuantity": 0,
         "metaData": {
@@ -6168,20 +6188,6 @@
             "quality": "V0",
             "qualityName": "quality1",
             "rarity": "VeryRare",
-            "temporaryDiscounts": [
-                {
-                    "currencyId": "Cells",
-                    "discountPercentage": 0.4,
-                    "endDate": "2020-08-28T00:00:00",
-                    "startDate": "2020-07-28T00:00:00"
-                },
-                {
-                    "currencyId": "Cells",
-                    "discountPercentage": 0.5,
-                    "endDate": "2020-10-28T00:00:00",
-                    "startDate": "2020-09-28T00:00:00"
-                }
-            ],
             "type": "Head",
             "unbreakable": false,
             "version": {
@@ -9345,18 +9351,7 @@
                 "price": 1800
             }
         ],
-        "eventCostList": [
-            {
-                "cost": [
-                    {
-                        "currencyId": "Cells",
-                        "price": 40
-                    }
-                ],
-                "endDate": "2020-08-28T00:00:00",
-                "startDate": "2020-07-28T00:00:00"
-            }
-        ],
+        "eventCostList": [],
         "id": "CM_Torso002",
         "initialQuantity": 0,
         "metaData": {
@@ -9369,14 +9364,6 @@
             "quality": "V0",
             "qualityName": "quality1",
             "rarity": "Uncommon",
-            "temporaryDiscounts": [
-                {
-                    "currencyId": "Cells",
-                    "discountPercentage": 0.6,
-                    "endDate": "2020-08-28T00:00:00",
-                    "startDate": "2020-07-28T00:00:00"
-                }
-            ],
             "type": "Torso",
             "unbreakable": false,
             "version": {
@@ -11966,22 +11953,7 @@
                 "price": 7200
             }
         ],
-        "eventCostList": [
-            {
-                "cost": [
-                    {
-                        "currencyId": "Shards",
-                        "price": 2160
-                    },
-                    {
-                        "currencyId": "Cells",
-                        "price": 320
-                    }
-                ],
-                "endDate": "2020-08-28T00:00:00",
-                "startDate": "2020-07-28T00:00:00"
-            }
-        ],
+        "eventCostList": [],
         "id": "CM_Torso013",
         "initialQuantity": 0,
         "metaData": {
@@ -11994,20 +11966,6 @@
             "quality": "V0",
             "qualityName": "quality1",
             "rarity": "VeryRare",
-            "temporaryDiscounts": [
-                {
-                    "currencyId": "Shards",
-                    "discountPercentage": 0.7,
-                    "endDate": "2020-08-28T00:00:00",
-                    "startDate": "2020-07-28T00:00:00"
-                },
-                {
-                    "currencyId": "Cells",
-                    "discountPercentage": 0.2,
-                    "endDate": "2020-08-28T00:00:00",
-                    "startDate": "2020-07-28T00:00:00"
-                }
-            ],
             "type": "Torso",
             "unbreakable": false,
             "version": {
@@ -29130,7 +29088,18 @@
                 "price": 4500
             }
         ],
-        "eventCostList": [],
+        "eventCostList": [
+            {
+                "cost": [
+                    {
+                        "currencyId": "Cells",
+                        "price": 175
+                    }
+                ],
+                "endDate": "2020-10-03T00:00:00",
+                "startDate": "2020-09-28T00:00:00"
+            }
+        ],
         "id": "AV_Legs011",
         "initialQuantity": 0,
         "metaData": {
@@ -29143,6 +29112,14 @@
             "quality": "V0",
             "qualityName": "quality1",
             "rarity": "Rare",
+            "temporaryDiscounts": [
+                {
+                    "currencyId": "Cells",
+                    "discountPercentage": 0.3,
+                    "endDate": "2020-10-03T00:00:00",
+                    "startDate": "2020-09-28T00:00:00"
+                }
+            ],
             "type": "Legs",
             "unbreakable": false,
             "version": {
@@ -31505,7 +31482,18 @@
                 "price": 7200
             }
         ],
-        "eventCostList": [],
+        "eventCostList": [
+            {
+                "cost": [
+                    {
+                        "currencyId": "Cells",
+                        "price": 240
+                    }
+                ],
+                "endDate": "2020-10-03T00:00:00",
+                "startDate": "2020-09-28T00:00:00"
+            }
+        ],
         "id": "GS_Head01_4A",
         "initialQuantity": 0,
         "metaData": {
@@ -31517,6 +31505,14 @@
             "quality": "V0",
             "qualityName": "quality1",
             "rarity": "SpecialEvent",
+            "temporaryDiscounts": [
+                {
+                    "currencyId": "Cells",
+                    "discountPercentage": 0.4,
+                    "endDate": "2020-10-03T00:00:00",
+                    "startDate": "2020-09-28T00:00:00"
+                }
+            ],
             "type": "Head",
             "version": {
                 "dmm": true,
@@ -33311,7 +33307,18 @@
                 "price": 7200
             }
         ],
-        "eventCostList": [],
+        "eventCostList": [
+            {
+                "cost": [
+                    {
+                        "currencyId": "Cells",
+                        "price": 200
+                    }
+                ],
+                "endDate": "2020-10-03T00:00:00",
+                "startDate": "2020-09-28T00:00:00"
+            }
+        ],
         "id": "HS_Legs010",
         "initialQuantity": 0,
         "metaData": {
@@ -33324,6 +33331,14 @@
             "quality": "V0",
             "qualityName": "quality1",
             "rarity": "VeryRare",
+            "temporaryDiscounts": [
+                {
+                    "currencyId": "Cells",
+                    "discountPercentage": 0.5,
+                    "endDate": "2020-10-03T00:00:00",
+                    "startDate": "2020-09-28T00:00:00"
+                }
+            ],
             "type": "Legs",
             "unbreakable": false,
             "version": {
@@ -35243,7 +35258,18 @@
                 "price": 7200
             }
         ],
-        "eventCostList": [],
+        "eventCostList": [
+            {
+                "cost": [
+                    {
+                        "currencyId": "Cells",
+                        "price": 160
+                    }
+                ],
+                "endDate": "2020-10-03T00:00:00",
+                "startDate": "2020-09-28T00:00:00"
+            }
+        ],
         "id": "KS_Legs011",
         "initialQuantity": 0,
         "metaData": {
@@ -35256,6 +35282,14 @@
             "quality": "V0",
             "qualityName": "quality1",
             "rarity": "VeryRare",
+            "temporaryDiscounts": [
+                {
+                    "currencyId": "Cells",
+                    "discountPercentage": 0.6,
+                    "endDate": "2020-10-03T00:00:00",
+                    "startDate": "2020-09-28T00:00:00"
+                }
+            ],
             "type": "Legs",
             "unbreakable": false,
             "version": {
@@ -37636,7 +37670,22 @@
                 "price": 7200
             }
         ],
-        "eventCostList": [],
+        "eventCostList": [
+            {
+                "cost": [
+                    {
+                        "currencyId": "Shards",
+                        "price": 2160
+                    },
+                    {
+                        "currencyId": "Cells",
+                        "price": 320
+                    }
+                ],
+                "endDate": "2020-10-03T00:00:00",
+                "startDate": "2020-09-28T00:00:00"
+            }
+        ],
         "id": "MS_Head008_01",
         "initialQuantity": 0,
         "metaData": {
@@ -37648,6 +37697,20 @@
             "quality": "V0",
             "qualityName": "quality1",
             "rarity": "VeryRare",
+            "temporaryDiscounts": [
+                {
+                    "currencyId": "Shards",
+                    "discountPercentage": 0.7,
+                    "endDate": "2020-10-03T00:00:00",
+                    "startDate": "2020-09-28T00:00:00"
+                },
+                {
+                    "currencyId": "Cells",
+                    "discountPercentage": 0.2,
+                    "endDate": "2020-10-03T00:00:00",
+                    "startDate": "2020-09-28T00:00:00"
+                }
+            ],
             "type": "Head",
             "version": {
                 "dmm": true,
@@ -77781,8 +77844,8 @@
             "base_itemId": "S23_Head006",
             "character": "S23",
             "kind": "Customization",
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2020-09-21T23:59:59",
+            "newStartDate": "2020-09-08T00:00:00",
             "outfitId": "S23_outfit_006",
             "quality": "V0",
             "qualityName": "quality1",
@@ -77832,8 +77895,8 @@
             "base_itemId": "S23_Torso006",
             "character": "S23",
             "kind": "Customization",
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2020-09-21T23:59:59",
+            "newStartDate": "2020-09-08T00:00:00",
             "outfitId": "S23_outfit_006",
             "quality": "V0",
             "qualityName": "quality1",
@@ -77883,8 +77946,8 @@
             "base_itemId": "S23_Legs006",
             "character": "S23",
             "kind": "Customization",
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2020-09-21T23:59:59",
+            "newStartDate": "2020-09-08T00:00:00",
             "outfitId": "S23_outfit_006",
             "quality": "V0",
             "qualityName": "quality1",
@@ -77934,8 +77997,8 @@
             "base_itemId": "K21_Head006",
             "character": "K21",
             "kind": "Customization",
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2020-09-21T23:59:59",
+            "newStartDate": "2020-09-08T00:00:00",
             "outfitId": "K21_outfit_006",
             "quality": "V0",
             "qualityName": "quality1",
@@ -77985,8 +78048,8 @@
             "base_itemId": "K21_Body006",
             "character": "K21",
             "kind": "Customization",
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2020-09-21T23:59:59",
+            "newStartDate": "2020-09-08T00:00:00",
             "outfitId": "K21_outfit_006",
             "quality": "V0",
             "qualityName": "quality1",
@@ -78036,8 +78099,8 @@
             "base_itemId": "K21_W006",
             "character": "K21",
             "kind": "Customization",
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2020-09-21T23:59:59",
+            "newStartDate": "2020-09-08T00:00:00",
             "outfitId": "K21_outfit_006",
             "quality": "V0",
             "qualityName": "quality1",
@@ -78087,8 +78150,8 @@
             "base_itemId": "S23_Head02",
             "character": "S23",
             "kind": "Customization",
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2020-09-21T23:59:59",
+            "newStartDate": "2020-09-08T00:00:00",
             "outfitId": "S23_outfit_02",
             "quality": "V0",
             "qualityName": "quality1",
@@ -78138,8 +78201,8 @@
             "base_itemId": "S23_Torso02",
             "character": "S23",
             "kind": "Customization",
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2020-09-21T23:59:59",
+            "newStartDate": "2020-09-08T00:00:00",
             "outfitId": "S23_outfit_02",
             "quality": "V0",
             "qualityName": "quality1",
@@ -78189,8 +78252,8 @@
             "base_itemId": "S23_Legs02",
             "character": "S23",
             "kind": "Customization",
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2020-09-21T23:59:59",
+            "newStartDate": "2020-09-08T00:00:00",
             "outfitId": "S23_outfit_02",
             "quality": "V0",
             "qualityName": "quality1",
@@ -78240,8 +78303,8 @@
             "base_itemId": "S23_Head02_01",
             "character": "S23",
             "kind": "Customization",
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2020-09-21T23:59:59",
+            "newStartDate": "2020-09-08T00:00:00",
             "outfitId": "S23_outfit_02_01",
             "quality": "V0",
             "qualityName": "quality1",
@@ -78291,8 +78354,8 @@
             "base_itemId": "S23_Torso02_01",
             "character": "S23",
             "kind": "Customization",
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2020-09-21T23:59:59",
+            "newStartDate": "2020-09-08T00:00:00",
             "outfitId": "S23_outfit_02_01",
             "quality": "V0",
             "qualityName": "quality1",
@@ -78342,8 +78405,8 @@
             "base_itemId": "S23_Legs02_01",
             "character": "S23",
             "kind": "Customization",
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2020-09-21T23:59:59",
+            "newStartDate": "2020-09-08T00:00:00",
             "outfitId": "S23_outfit_02_01",
             "quality": "V0",
             "qualityName": "quality1",
@@ -78393,8 +78456,8 @@
             "base_itemId": "K21_Head02",
             "character": "K21",
             "kind": "Customization",
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2020-09-21T23:59:59",
+            "newStartDate": "2020-09-08T00:00:00",
             "outfitId": "K21_outfit_02",
             "quality": "V0",
             "qualityName": "quality1",
@@ -78444,8 +78507,8 @@
             "base_itemId": "K21_Body02",
             "character": "K21",
             "kind": "Customization",
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2020-09-21T23:59:59",
+            "newStartDate": "2020-09-08T00:00:00",
             "outfitId": "K21_outfit_02",
             "quality": "V0",
             "qualityName": "quality1",
@@ -78495,8 +78558,8 @@
             "base_itemId": "K21_W02",
             "character": "K21",
             "kind": "Customization",
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2020-09-21T23:59:59",
+            "newStartDate": "2020-09-08T00:00:00",
             "outfitId": "K21_outfit_02",
             "quality": "V0",
             "qualityName": "quality1",
@@ -78546,8 +78609,8 @@
             "base_itemId": "K21_Head02_01",
             "character": "K21",
             "kind": "Customization",
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2020-09-21T23:59:59",
+            "newStartDate": "2020-09-08T00:00:00",
             "outfitId": "K21_outfit_02_01",
             "quality": "V0",
             "qualityName": "quality1",
@@ -78597,8 +78660,8 @@
             "base_itemId": "K21_Body02_01",
             "character": "K21",
             "kind": "Customization",
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2020-09-21T23:59:59",
+            "newStartDate": "2020-09-08T00:00:00",
             "outfitId": "K21_outfit_02_01",
             "quality": "V0",
             "qualityName": "quality1",
@@ -78648,8 +78711,8 @@
             "base_itemId": "K21_W02_01",
             "character": "K21",
             "kind": "Customization",
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2020-09-21T23:59:59",
+            "newStartDate": "2020-09-08T00:00:00",
             "outfitId": "K21_outfit_02_01",
             "quality": "V0",
             "qualityName": "quality1",
@@ -78699,8 +78762,8 @@
             "base_itemId": "S23_Torso01_02",
             "character": "S23",
             "kind": "Customization",
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2020-09-21T23:59:59",
+            "newStartDate": "2020-09-08T00:00:00",
             "outfitId": "S23_outfit_01_02",
             "quality": "V0",
             "qualityName": "quality1",
@@ -78750,8 +78813,8 @@
             "base_itemId": "S23_Legs01_02",
             "character": "S23",
             "kind": "Customization",
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2020-09-21T23:59:59",
+            "newStartDate": "2020-09-08T00:00:00",
             "outfitId": "S23_outfit_01_02",
             "quality": "V0",
             "qualityName": "quality1",
@@ -78801,8 +78864,8 @@
             "base_itemId": "S23_Torso01_03",
             "character": "S23",
             "kind": "Customization",
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2020-09-21T23:59:59",
+            "newStartDate": "2020-09-08T00:00:00",
             "outfitId": "S23_outfit_01_03",
             "quality": "V0",
             "qualityName": "quality1",
@@ -78852,8 +78915,8 @@
             "base_itemId": "S23_Legs01_03",
             "character": "S23",
             "kind": "Customization",
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2020-09-21T23:59:59",
+            "newStartDate": "2020-09-08T00:00:00",
             "outfitId": "S23_outfit_01_03",
             "quality": "V0",
             "qualityName": "quality1",
@@ -78903,8 +78966,8 @@
             "base_itemId": "S23_Torso01_04",
             "character": "S23",
             "kind": "Customization",
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2020-09-21T23:59:59",
+            "newStartDate": "2020-09-08T00:00:00",
             "outfitId": "S23_outfit_01_04",
             "quality": "V0",
             "qualityName": "quality1",
@@ -78954,8 +79017,8 @@
             "base_itemId": "S23_Legs01_04",
             "character": "S23",
             "kind": "Customization",
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2020-09-21T23:59:59",
+            "newStartDate": "2020-09-08T00:00:00",
             "outfitId": "S23_outfit_01_04",
             "quality": "V0",
             "qualityName": "quality1",
@@ -79005,8 +79068,8 @@
             "base_itemId": "K21_Head01_01",
             "character": "K21",
             "kind": "Customization",
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2020-09-21T23:59:59",
+            "newStartDate": "2020-09-08T00:00:00",
             "outfitId": "K21_outfit_01_01",
             "quality": "V0",
             "qualityName": "quality1",
@@ -79056,8 +79119,8 @@
             "base_itemId": "K21_Body01_01",
             "character": "K21",
             "kind": "Customization",
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2020-09-21T23:59:59",
+            "newStartDate": "2020-09-08T00:00:00",
             "outfitId": "K21_outfit_01_01",
             "quality": "V0",
             "qualityName": "quality1",
@@ -79107,8 +79170,8 @@
             "base_itemId": "K21_W01_01",
             "character": "K21",
             "kind": "Customization",
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2020-09-21T23:59:59",
+            "newStartDate": "2020-09-08T00:00:00",
             "outfitId": "K21_outfit_01_01",
             "quality": "V0",
             "qualityName": "quality1",
@@ -79158,8 +79221,8 @@
             "base_itemId": "K21_Head01_02",
             "character": "K21",
             "kind": "Customization",
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2020-09-21T23:59:59",
+            "newStartDate": "2020-09-08T00:00:00",
             "outfitId": "K21_outfit_01_02",
             "quality": "V0",
             "qualityName": "quality1",
@@ -79209,8 +79272,8 @@
             "base_itemId": "K21_Body01_02",
             "character": "K21",
             "kind": "Customization",
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2020-09-21T23:59:59",
+            "newStartDate": "2020-09-08T00:00:00",
             "outfitId": "K21_outfit_01_02",
             "quality": "V0",
             "qualityName": "quality1",
@@ -79260,8 +79323,8 @@
             "base_itemId": "K21_W01_02",
             "character": "K21",
             "kind": "Customization",
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2020-09-21T23:59:59",
+            "newStartDate": "2020-09-08T00:00:00",
             "outfitId": "K21_outfit_01_02",
             "quality": "V0",
             "qualityName": "quality1",
@@ -79311,8 +79374,8 @@
             "base_itemId": "K21_Head01_03",
             "character": "K21",
             "kind": "Customization",
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2020-09-21T23:59:59",
+            "newStartDate": "2020-09-08T00:00:00",
             "outfitId": "K21_outfit_01_03",
             "quality": "V0",
             "qualityName": "quality1",
@@ -79362,8 +79425,8 @@
             "base_itemId": "K21_Body01_03",
             "character": "K21",
             "kind": "Customization",
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2020-09-21T23:59:59",
+            "newStartDate": "2020-09-08T00:00:00",
             "outfitId": "K21_outfit_01_03",
             "quality": "V0",
             "qualityName": "quality1",
@@ -79413,8 +79476,8 @@
             "base_itemId": "K21_W01_03",
             "character": "K21",
             "kind": "Customization",
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2020-09-21T23:59:59",
+            "newStartDate": "2020-09-08T00:00:00",
             "outfitId": "K21_outfit_01_03",
             "quality": "V0",
             "qualityName": "quality1",
@@ -79464,8 +79527,8 @@
             "base_itemId": "S23_Torso01_CV01",
             "character": "S23",
             "kind": "Customization",
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2020-09-21T23:59:59",
+            "newStartDate": "2020-09-08T00:00:00",
             "outfitId": "S23_outfit_01_CV01",
             "quality": "V0",
             "qualityName": "quality1",
@@ -79515,8 +79578,8 @@
             "base_itemId": "S23_Legs01_CV01",
             "character": "S23",
             "kind": "Customization",
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2020-09-21T23:59:59",
+            "newStartDate": "2020-09-08T00:00:00",
             "outfitId": "S23_outfit_01_CV01",
             "quality": "V0",
             "qualityName": "quality1",
@@ -79566,8 +79629,8 @@
             "base_itemId": "S23_Torso01_CV02",
             "character": "S23",
             "kind": "Customization",
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2020-09-21T23:59:59",
+            "newStartDate": "2020-09-08T00:00:00",
             "outfitId": "S23_outfit_01_CV02",
             "quality": "V0",
             "qualityName": "quality1",
@@ -79617,8 +79680,8 @@
             "base_itemId": "S23_Legs01_CV02",
             "character": "S23",
             "kind": "Customization",
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2020-09-21T23:59:59",
+            "newStartDate": "2020-09-08T00:00:00",
             "outfitId": "S23_outfit_01_CV02",
             "quality": "V0",
             "qualityName": "quality1",
@@ -79668,8 +79731,8 @@
             "base_itemId": "S23_Torso01_CV03",
             "character": "S23",
             "kind": "Customization",
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2020-09-21T23:59:59",
+            "newStartDate": "2020-09-08T00:00:00",
             "outfitId": "S23_outfit_01_CV03",
             "quality": "V0",
             "qualityName": "quality1",
@@ -79719,8 +79782,8 @@
             "base_itemId": "S23_Legs01_CV03",
             "character": "S23",
             "kind": "Customization",
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2020-09-21T23:59:59",
+            "newStartDate": "2020-09-08T00:00:00",
             "outfitId": "S23_outfit_01_CV03",
             "quality": "V0",
             "qualityName": "quality1",
@@ -79770,8 +79833,8 @@
             "base_itemId": "S23_Torso01_CV04",
             "character": "S23",
             "kind": "Customization",
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2020-09-21T23:59:59",
+            "newStartDate": "2020-09-08T00:00:00",
             "outfitId": "S23_outfit_01_CV04",
             "quality": "V0",
             "qualityName": "quality1",
@@ -79821,8 +79884,8 @@
             "base_itemId": "S23_Legs01_CV04",
             "character": "S23",
             "kind": "Customization",
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2020-09-21T23:59:59",
+            "newStartDate": "2020-09-08T00:00:00",
             "outfitId": "S23_outfit_01_CV04",
             "quality": "V0",
             "qualityName": "quality1",
@@ -79872,8 +79935,8 @@
             "base_itemId": "K21_Head01_CV01",
             "character": "K21",
             "kind": "Customization",
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2020-09-21T23:59:59",
+            "newStartDate": "2020-09-08T00:00:00",
             "outfitId": "K21_outfit_01_CV01",
             "quality": "V0",
             "qualityName": "quality1",
@@ -79923,8 +79986,8 @@
             "base_itemId": "K21_Body01_CV01",
             "character": "K21",
             "kind": "Customization",
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2020-09-21T23:59:59",
+            "newStartDate": "2020-09-08T00:00:00",
             "outfitId": "K21_outfit_01_CV01",
             "quality": "V0",
             "qualityName": "quality1",
@@ -79974,8 +80037,8 @@
             "base_itemId": "K21_W01_CV01",
             "character": "K21",
             "kind": "Customization",
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2020-09-21T23:59:59",
+            "newStartDate": "2020-09-08T00:00:00",
             "outfitId": "K21_outfit_01_CV01",
             "quality": "V0",
             "qualityName": "quality1",
@@ -80025,8 +80088,8 @@
             "base_itemId": "K21_Head01_CV02",
             "character": "K21",
             "kind": "Customization",
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2020-09-21T23:59:59",
+            "newStartDate": "2020-09-08T00:00:00",
             "outfitId": "K21_outfit_01_CV02",
             "quality": "V0",
             "qualityName": "quality1",
@@ -80076,8 +80139,8 @@
             "base_itemId": "K21_Body01_CV02",
             "character": "K21",
             "kind": "Customization",
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2020-09-21T23:59:59",
+            "newStartDate": "2020-09-08T00:00:00",
             "outfitId": "K21_outfit_01_CV02",
             "quality": "V0",
             "qualityName": "quality1",
@@ -80127,8 +80190,8 @@
             "base_itemId": "K21_W01_CV02",
             "character": "K21",
             "kind": "Customization",
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2020-09-21T23:59:59",
+            "newStartDate": "2020-09-08T00:00:00",
             "outfitId": "K21_outfit_01_CV02",
             "quality": "V0",
             "qualityName": "quality1",
@@ -80178,8 +80241,8 @@
             "base_itemId": "K21_Head01_CV03",
             "character": "K21",
             "kind": "Customization",
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2020-09-21T23:59:59",
+            "newStartDate": "2020-09-08T00:00:00",
             "outfitId": "K21_outfit_01_CV03",
             "quality": "V0",
             "qualityName": "quality1",
@@ -80229,8 +80292,8 @@
             "base_itemId": "K21_Body01_CV03",
             "character": "K21",
             "kind": "Customization",
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2020-09-21T23:59:59",
+            "newStartDate": "2020-09-08T00:00:00",
             "outfitId": "K21_outfit_01_CV03",
             "quality": "V0",
             "qualityName": "quality1",
@@ -80280,8 +80343,8 @@
             "base_itemId": "K21_W01_CV03",
             "character": "K21",
             "kind": "Customization",
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2020-09-21T23:59:59",
+            "newStartDate": "2020-09-08T00:00:00",
             "outfitId": "K21_outfit_01_CV03",
             "quality": "V0",
             "qualityName": "quality1",
@@ -80331,8 +80394,8 @@
             "base_itemId": "K21_Head01_CV04",
             "character": "K21",
             "kind": "Customization",
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2020-09-21T23:59:59",
+            "newStartDate": "2020-09-08T00:00:00",
             "outfitId": "K21_outfit_01_CV04",
             "quality": "V0",
             "qualityName": "quality1",
@@ -80382,8 +80445,8 @@
             "base_itemId": "K21_Body01_CV04",
             "character": "K21",
             "kind": "Customization",
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2020-09-21T23:59:59",
+            "newStartDate": "2020-09-08T00:00:00",
             "outfitId": "K21_outfit_01_CV04",
             "quality": "V0",
             "qualityName": "quality1",
@@ -80433,8 +80496,8 @@
             "base_itemId": "K21_W01_CV04",
             "character": "K21",
             "kind": "Customization",
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2020-09-21T23:59:59",
+            "newStartDate": "2020-09-08T00:00:00",
             "outfitId": "K21_outfit_01_CV04",
             "quality": "V0",
             "qualityName": "quality1",
@@ -80484,8 +80547,8 @@
             "base_itemId": "S23_Head007",
             "character": "S23",
             "kind": "Customization",
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2020-09-24T23:59:59",
+            "newStartDate": "2020-09-11T00:00:00",
             "outfitId": "S23_outfit_007",
             "quality": "V0",
             "qualityName": "quality1",
@@ -80535,8 +80598,8 @@
             "base_itemId": "S23_Torso007",
             "character": "S23",
             "kind": "Customization",
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2020-09-24T23:59:59",
+            "newStartDate": "2020-09-11T00:00:00",
             "outfitId": "S23_outfit_007",
             "quality": "V0",
             "qualityName": "quality1",
@@ -80586,8 +80649,8 @@
             "base_itemId": "S23_Legs007",
             "character": "S23",
             "kind": "Customization",
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2020-09-24T23:59:59",
+            "newStartDate": "2020-09-11T00:00:00",
             "outfitId": "S23_outfit_007",
             "quality": "V0",
             "qualityName": "quality1",
@@ -80637,8 +80700,8 @@
             "base_itemId": "MT_Head014",
             "character": "Meg",
             "kind": "Customization",
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2020-09-24T23:59:59",
+            "newStartDate": "2020-09-11T00:00:00",
             "outfitId": "MT_outfit_014",
             "quality": "V0",
             "qualityName": "quality1",
@@ -80688,8 +80751,8 @@
             "base_itemId": "MT_Torso014",
             "character": "Meg",
             "kind": "Customization",
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2020-09-24T23:59:59",
+            "newStartDate": "2020-09-11T00:00:00",
             "outfitId": "MT_outfit_014",
             "quality": "V0",
             "qualityName": "quality1",
@@ -80739,8 +80802,8 @@
             "base_itemId": "MT_Legs014",
             "character": "Meg",
             "kind": "Customization",
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2020-09-24T23:59:59",
+            "newStartDate": "2020-09-11T00:00:00",
             "outfitId": "MT_outfit_014",
             "quality": "V0",
             "qualityName": "quality1",
@@ -80790,8 +80853,8 @@
             "base_itemId": "GS_Head013",
             "character": "Kate",
             "kind": "Customization",
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2020-09-24T23:59:59",
+            "newStartDate": "2020-09-11T00:00:00",
             "outfitId": "GS_outfit_013",
             "quality": "V0",
             "qualityName": "quality1",
@@ -80841,8 +80904,8 @@
             "base_itemId": "GS_Torso013",
             "character": "Kate",
             "kind": "Customization",
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2020-09-24T23:59:59",
+            "newStartDate": "2020-09-11T00:00:00",
             "outfitId": "GS_outfit_013",
             "quality": "V0",
             "qualityName": "quality1",
@@ -80892,8 +80955,8 @@
             "base_itemId": "GS_Legs013",
             "character": "Kate",
             "kind": "Customization",
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2020-09-24T23:59:59",
+            "newStartDate": "2020-09-11T00:00:00",
             "outfitId": "GS_outfit_013",
             "quality": "V0",
             "qualityName": "quality1",
@@ -80943,8 +81006,8 @@
             "base_itemId": "S22_Head008",
             "character": "S22",
             "kind": "Customization",
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2020-10-08T23:59:59",
+            "newStartDate": "2020-09-25T00:00:00",
             "outfitId": "S22_outfit_008",
             "quality": "V0",
             "qualityName": "quality1",
@@ -80994,8 +81057,8 @@
             "base_itemId": "S22_Torso008",
             "character": "S22",
             "kind": "Customization",
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2020-10-08T23:59:59",
+            "newStartDate": "2020-09-25T00:00:00",
             "outfitId": "S22_outfit_008",
             "quality": "V0",
             "qualityName": "quality1",
@@ -81045,8 +81108,8 @@
             "base_itemId": "S22_Legs008",
             "character": "S22",
             "kind": "Customization",
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2020-10-08T23:59:59",
+            "newStartDate": "2020-09-25T00:00:00",
             "outfitId": "S22_outfit_008",
             "quality": "V0",
             "qualityName": "quality1",
@@ -91568,14 +91631,6 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
-            "temporaryDiscounts": [
-                {
-                    "currencyId": "Cells",
-                    "discountPercentage": 0.6,
-                    "endDate": "2020-08-28T00:00:00",
-                    "startDate": "2020-07-28T00:00:00"
-                }
-            ],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -91598,14 +91653,6 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
-            "temporaryDiscounts": [
-                {
-                    "currencyId": "Cells",
-                    "discountPercentage": 0.7,
-                    "endDate": "2020-08-28T00:00:00",
-                    "startDate": "2020-07-28T00:00:00"
-                }
-            ],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -91628,14 +91675,6 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
-            "temporaryDiscounts": [
-                {
-                    "currencyId": "Cells",
-                    "discountPercentage": 0.9,
-                    "endDate": "2020-08-28T00:00:00",
-                    "startDate": "2020-07-28T00:00:00"
-                }
-            ],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -91658,14 +91697,6 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
-            "temporaryDiscounts": [
-                {
-                    "currencyId": "Cells",
-                    "discountPercentage": 0.65,
-                    "endDate": "2020-08-28T00:00:00",
-                    "startDate": "2020-07-28T00:00:00"
-                }
-            ],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -91776,14 +91807,6 @@
             ],
             "newEndDate": "2018-08-13T23:59:59",
             "newStartDate": "2018-07-31T00:00:00",
-            "temporaryDiscounts": [
-                {
-                    "currencyId": "Cells",
-                    "discountPercentage": 0.9,
-                    "endDate": "2020-08-28T00:00:00",
-                    "startDate": "2020-07-28T00:00:00"
-                }
-            ],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -91806,14 +91829,6 @@
             ],
             "newEndDate": "2018-08-13T23:59:59",
             "newStartDate": "2018-07-31T00:00:00",
-            "temporaryDiscounts": [
-                {
-                    "currencyId": "Cells",
-                    "discountPercentage": 0.6,
-                    "endDate": "2020-08-28T00:00:00",
-                    "startDate": "2020-07-28T00:00:00"
-                }
-            ],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -91836,14 +91851,6 @@
             ],
             "newEndDate": "2018-08-13T23:59:59",
             "newStartDate": "2018-07-31T00:00:00",
-            "temporaryDiscounts": [
-                {
-                    "currencyId": "Cells",
-                    "discountPercentage": 0.7,
-                    "endDate": "2020-08-28T00:00:00",
-                    "startDate": "2020-07-28T00:00:00"
-                }
-            ],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -91976,6 +91983,14 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [
+                {
+                    "currencyId": "Cells",
+                    "discountPercentage": 0.7,
+                    "endDate": "2020-10-03T00:00:00",
+                    "startDate": "2020-09-28T00:00:00"
+                }
+            ],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -92526,6 +92541,14 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [
+                {
+                    "currencyId": "Cells",
+                    "discountPercentage": 0.65,
+                    "endDate": "2020-10-03T00:00:00",
+                    "startDate": "2020-09-28T00:00:00"
+                }
+            ],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -93032,6 +93055,14 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [
+                {
+                    "currencyId": "Cells",
+                    "discountPercentage": 0.9,
+                    "endDate": "2020-10-03T00:00:00",
+                    "startDate": "2020-09-28T00:00:00"
+                }
+            ],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -93516,6 +93547,14 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [
+                {
+                    "currencyId": "Cells",
+                    "discountPercentage": 0.7,
+                    "endDate": "2020-10-03T00:00:00",
+                    "startDate": "2020-09-28T00:00:00"
+                }
+            ],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -93758,14 +93797,6 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
-            "temporaryDiscounts": [
-                {
-                    "currencyId": "Cells",
-                    "discountPercentage": 0.7,
-                    "endDate": "2020-08-28T00:00:00",
-                    "startDate": "2020-07-28T00:00:00"
-                }
-            ],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -93959,6 +93990,14 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [
+                {
+                    "currencyId": "Cells",
+                    "discountPercentage": 0.6,
+                    "endDate": "2020-10-03T00:00:00",
+                    "startDate": "2020-09-28T00:00:00"
+                }
+            ],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -94003,6 +94042,14 @@
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [
+                {
+                    "currencyId": "Cells",
+                    "discountPercentage": 0.9,
+                    "endDate": "2020-10-03T00:00:00",
+                    "startDate": "2020-09-28T00:00:00"
+                }
+            ],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -94438,6 +94485,14 @@
             ],
             "newEndDate": "2020-05-22T14:59:59",
             "newStartDate": "2020-05-08T15:00:00",
+            "temporaryDiscounts": [
+                {
+                    "currencyId": "Cells",
+                    "discountPercentage": 0.7,
+                    "endDate": "2020-10-03T00:00:00",
+                    "startDate": "2020-09-28T00:00:00"
+                }
+            ],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -95005,6 +95060,14 @@
             ],
             "newEndDate": "2020-06-05T14:59:59",
             "newStartDate": "2020-05-22T15:00:00",
+            "temporaryDiscounts": [
+                {
+                    "currencyId": "Cells",
+                    "discountPercentage": 0.6,
+                    "endDate": "2020-10-03T00:00:00",
+                    "startDate": "2020-09-28T00:00:00"
+                }
+            ],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -102148,8 +102211,8 @@
                 "S23_Torso006",
                 "S23_Legs006"
             ],
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2020-09-21T23:59:59",
+            "newStartDate": "2020-09-08T00:00:00",
             "unbreakable": false
         },
         "nonSecure": false,
@@ -102170,8 +102233,8 @@
                 "K21_Body006",
                 "K21_W006"
             ],
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2020-09-21T23:59:59",
+            "newStartDate": "2020-09-08T00:00:00",
             "unbreakable": false
         },
         "nonSecure": false,
@@ -102192,8 +102255,8 @@
                 "S23_Torso02",
                 "S23_Legs02"
             ],
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2020-09-21T23:59:59",
+            "newStartDate": "2020-09-08T00:00:00",
             "unbreakable": false
         },
         "nonSecure": false,
@@ -102214,8 +102277,8 @@
                 "S23_Torso02_01",
                 "S23_Legs02_01"
             ],
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2020-09-21T23:59:59",
+            "newStartDate": "2020-09-08T00:00:00",
             "unbreakable": false
         },
         "nonSecure": false,
@@ -102236,8 +102299,8 @@
                 "K21_Body02",
                 "K21_W02"
             ],
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2020-09-21T23:59:59",
+            "newStartDate": "2020-09-08T00:00:00",
             "unbreakable": false
         },
         "nonSecure": false,
@@ -102258,8 +102321,8 @@
                 "K21_Body02_01",
                 "K21_W02_01"
             ],
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2020-09-21T23:59:59",
+            "newStartDate": "2020-09-08T00:00:00",
             "unbreakable": false
         },
         "nonSecure": false,
@@ -102279,8 +102342,8 @@
                 "S23_Torso01_02",
                 "S23_Legs01_02"
             ],
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2020-09-21T23:59:59",
+            "newStartDate": "2020-09-08T00:00:00",
             "unbreakable": false
         },
         "nonSecure": false,
@@ -102300,8 +102363,8 @@
                 "S23_Torso01_03",
                 "S23_Legs01_03"
             ],
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2020-09-21T23:59:59",
+            "newStartDate": "2020-09-08T00:00:00",
             "unbreakable": false
         },
         "nonSecure": false,
@@ -102321,8 +102384,8 @@
                 "S23_Torso01_04",
                 "S23_Legs01_04"
             ],
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2020-09-21T23:59:59",
+            "newStartDate": "2020-09-08T00:00:00",
             "unbreakable": false
         },
         "nonSecure": false,
@@ -102343,8 +102406,8 @@
                 "K21_Body01_01",
                 "K21_W01_01"
             ],
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2020-09-21T23:59:59",
+            "newStartDate": "2020-09-08T00:00:00",
             "unbreakable": false
         },
         "nonSecure": false,
@@ -102365,8 +102428,8 @@
                 "K21_Body01_02",
                 "K21_W01_02"
             ],
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2020-09-21T23:59:59",
+            "newStartDate": "2020-09-08T00:00:00",
             "unbreakable": false
         },
         "nonSecure": false,
@@ -102387,8 +102450,8 @@
                 "K21_Body01_03",
                 "K21_W01_03"
             ],
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2020-09-21T23:59:59",
+            "newStartDate": "2020-09-08T00:00:00",
             "unbreakable": false
         },
         "nonSecure": false,
@@ -102408,8 +102471,8 @@
                 "S23_Torso01_CV01",
                 "S23_Legs01_CV01"
             ],
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2020-09-21T23:59:59",
+            "newStartDate": "2020-09-08T00:00:00",
             "unbreakable": false
         },
         "nonSecure": false,
@@ -102429,8 +102492,8 @@
                 "S23_Torso01_CV02",
                 "S23_Legs01_CV02"
             ],
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2020-09-21T23:59:59",
+            "newStartDate": "2020-09-08T00:00:00",
             "unbreakable": false
         },
         "nonSecure": false,
@@ -102450,8 +102513,8 @@
                 "S23_Torso01_CV03",
                 "S23_Legs01_CV03"
             ],
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2020-09-21T23:59:59",
+            "newStartDate": "2020-09-08T00:00:00",
             "unbreakable": false
         },
         "nonSecure": false,
@@ -102471,8 +102534,8 @@
                 "S23_Torso01_CV04",
                 "S23_Legs01_CV04"
             ],
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2020-09-21T23:59:59",
+            "newStartDate": "2020-09-08T00:00:00",
             "unbreakable": false
         },
         "nonSecure": false,
@@ -102493,8 +102556,8 @@
                 "K21_Body01_CV01",
                 "K21_W01_CV01"
             ],
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2020-09-21T23:59:59",
+            "newStartDate": "2020-09-08T00:00:00",
             "unbreakable": false
         },
         "nonSecure": false,
@@ -102515,8 +102578,8 @@
                 "K21_Body01_CV02",
                 "K21_W01_CV02"
             ],
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2020-09-21T23:59:59",
+            "newStartDate": "2020-09-08T00:00:00",
             "unbreakable": false
         },
         "nonSecure": false,
@@ -102537,8 +102600,8 @@
                 "K21_Body01_CV03",
                 "K21_W01_CV03"
             ],
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2020-09-21T23:59:59",
+            "newStartDate": "2020-09-08T00:00:00",
             "unbreakable": false
         },
         "nonSecure": false,
@@ -102559,8 +102622,8 @@
                 "K21_Body01_CV04",
                 "K21_W01_CV04"
             ],
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2020-09-21T23:59:59",
+            "newStartDate": "2020-09-08T00:00:00",
             "unbreakable": false
         },
         "nonSecure": false,
@@ -102581,8 +102644,8 @@
                 "S23_Torso007",
                 "S23_Legs007"
             ],
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2020-09-24T23:59:59",
+            "newStartDate": "2020-09-11T00:00:00",
             "unbreakable": false
         },
         "nonSecure": false,
@@ -102603,8 +102666,8 @@
                 "MT_Torso014",
                 "MT_Legs014"
             ],
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2020-09-24T23:59:59",
+            "newStartDate": "2020-09-11T00:00:00",
             "unbreakable": false
         },
         "nonSecure": false,
@@ -102625,8 +102688,8 @@
                 "GS_Torso013",
                 "GS_Legs013"
             ],
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2020-09-24T23:59:59",
+            "newStartDate": "2020-09-11T00:00:00",
             "unbreakable": true
         },
         "nonSecure": false,
@@ -102647,8 +102710,8 @@
                 "S22_Torso008",
                 "S22_Legs008"
             ],
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2020-10-06T23:59:59",
+            "newStartDate": "2020-09-23T00:00:00",
             "unbreakable": true
         },
         "nonSecure": false,

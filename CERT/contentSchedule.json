@@ -1,0 +1,114 @@
+{
+    "schedule": [
+        {
+            "description": "Default Schedule",
+            "maps_theme_weight": {
+                "Asylum": "1",
+                "Boreal": "1",
+                "England": "1",
+                "Farm": "1",
+                "Finland": "1",
+                "GYM": "0",
+                "Haiti": "1",
+                "Hospital": "1",
+                "Industrial": "1",
+                "Junkyard": "1",
+                "Suburbs": "1",
+                "Swamp": "1"
+            },
+            "maps_weight": {
+                "Asy_Asylum": "1",
+                "Asy_Chapel": "1",
+                "Brl_MaHouse": "1",
+                "Brl_Temple": "1",
+                "Eng_Street": "1",
+                "Fin_Hideout": "1",
+                "Frm_Barn": "1",
+                "Frm_Cornfield": "1",
+                "Frm_Farmhouse": "1",
+                "Frm_Silo": "1",
+                "Frm_Slaughterhouse": "1",
+                "Hos_Treatment": "1",
+                "Hti_Manor": "1",
+                "Ind_CoalTower": "1",
+                "Ind_Forest": "1",
+                "Ind_Foundry": "1",
+                "Ind_Mine": "1",
+                "Ind_Storehouse": "1",
+                "Jnk_Garage": "1",
+                "Jnk_GasStation": "1",
+                "Jnk_Lodge": "1",
+                "Jnk_Office": "1",
+                "Jnk_Scrapyard": "1",
+                "Kny_Cottage": "1",
+                "Sub_Street": "1",
+                "Swp_GrimPantry": "1",
+                "Swp_PaleRose": "1"
+            },
+            "priority": "0"
+        },
+        {
+            "description": "Chapter X release",
+            "end_date": "2018-12-12T15:59:59",
+            "maps_weight": {
+                "Kny_Cottage": "10.71"
+            },
+            "priority": "11",
+            "start_date": "2018-12-11T16:00:00"
+        },
+        {
+            "description": "Chapter X release",
+            "end_date": "2018-12-13T15:59:59",
+            "maps_weight": {
+                "Kny_Cottage": "9.33"
+            },
+            "priority": "12",
+            "start_date": "2018-12-12T16:00:00"
+        },
+        {
+            "description": "Chapter X release",
+            "end_date": "2018-12-14T15:59:59",
+            "maps_weight": {
+                "Kny_Cottage": "7.94"
+            },
+            "priority": "13",
+            "start_date": "2018-12-13T16:00:00"
+        },
+        {
+            "description": "Chapter X release",
+            "end_date": "2018-12-15T15:59:59",
+            "maps_weight": {
+                "Kny_Cottage": "6.55"
+            },
+            "priority": "14",
+            "start_date": "2018-12-14T16:00:00"
+        },
+        {
+            "description": "Chapter X release",
+            "end_date": "2018-12-16T15:59:59",
+            "maps_weight": {
+                "Kny_Cottage": "5.16"
+            },
+            "priority": "15",
+            "start_date": "2018-12-15T16:00:00"
+        },
+        {
+            "description": "Chapter X release",
+            "end_date": "2018-12-17T15:59:59",
+            "maps_weight": {
+                "Kny_Cottage": "3.78"
+            },
+            "priority": "16",
+            "start_date": "2018-12-16T16:00:00"
+        },
+        {
+            "description": "Chapter X release",
+            "end_date": "2018-12-18T15:59:59",
+            "maps_weight": {
+                "Kny_Cottage": "2.39"
+            },
+            "priority": "17",
+            "start_date": "2018-12-17T16:00:00"
+        }
+    ]
+}
