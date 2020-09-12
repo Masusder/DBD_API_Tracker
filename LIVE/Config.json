@@ -19,12 +19,13 @@
         "keyName": "MATCHMAKING_ALLOW_CROSSPLAY"
     },
     {
-        "value": "14400",
+        "value": "10",
         "keyName": "SOCIAL_PLATFORM_FRIENDLIST_QUERY_RATE"
     },
     {
         "value": {
             "ps4": true,
+            "stadia": true,
             "grdk": true,
             "android": false,
             "steam": true,
@@ -162,6 +163,7 @@
                 "GameEventLogAnalytics",
                 "GameInitAnalytics",
                 "InvalidLoadoutAnalytics",
+                "KrakenRequestAnalytics",
                 "LogMirrorsAnalytics",
                 "S3CommandAnalytics",
                 "S3CommandErrorAnalytics",
@@ -295,22 +297,39 @@
     },
     {
         "value": {
-            "retentionRewardId": "4.1.0_340276live",
-            "referralId": "4.1.0_340276live",
-            "achievementId": "4.1.0_340276live",
-            "leaderboardId": "4.1.0_340276live",
-            "gameContentId": "4.1.0_340276live",
-            "statesPermissionsId": "4.1.0_340276live",
-            "lootTableId": "4.1.0_340276live",
-            "consentId": "4.1.0_340276live",
-            "catalogId": "4.1.0_340276live",
-            "actionId": "4.1.0_340276live",
-            "subscriptionId": "4.1.0_340276live",
-            "currencyId": "4.1.0_340276live",
-            "actionQueueId": "4.1.0_340276live",
-            "scenarioId": "4.1.0_340276live"
+            "retentionRewardId": "4.2.0_342377live",
+            "referralId": "4.2.0_342377live",
+            "achievementId": "4.2.0_342377live",
+            "leaderboardId": "4.2.0_342377live",
+            "gameContentId": "4.2.0_342377live",
+            "statesPermissionsId": "4.2.0_342377live",
+            "lootTableId": "4.2.0_342377live",
+            "consentId": "4.2.0_342377live",
+            "catalogId": "4.2.0_342377live",
+            "actionId": "4.2.0_342377live",
+            "subscriptionId": "4.2.0_342377live",
+            "currencyId": "4.2.0_342377live",
+            "actionQueueId": "4.2.0_342377live",
+            "scenarioId": "4.2.0_342377live"
         },
         "keyName": "clientData"
+    },
+    {
+        "value": "NetworkError",
+        "keyName": "KRAKEN_REQUEST_ANALYTICS_LEVEL"
+    },
+    {
+        "value": {
+            "ps4": false,
+            "stadia": false,
+            "grdk": false,
+            "android": false,
+            "steam": false,
+            "xbox": false,
+            "ios": false,
+            "switch": false
+        },
+        "keyName": "SOCIAL_CROSSPROGRESSION_PLATFORMS"
     },
     {
         "value": {
@@ -389,12 +408,18 @@
             ],
             "KA": [
                 "CannibalAnalytics",
+                "CrowdChoiceOnGameRoundStartedAnalytics",
+                "CrowdChoiceSummaryResultAnalytics",
+                "CrowdChoiceVoteResultAnalytics",
+                "CrowdPlayLobbyEventsAnalytics",
+                "CrowdPlayLobbyResultsAnalytics",
                 "CustomizationLobbyAnalytics",
                 "DailyRitualAnalytics",
                 "DetailedHitAnalytics",
                 "DetailedScoreAnalytics",
                 "EmblemProgressionAnalytics",
                 "EndpointLatencyAnalytics",
+                "FrameTravelTimeAnalytics",
                 "FranklinsDemiseConsumedItemAnalytics",
                 "FranklinsHitNearDroppedItemAnalytics",
                 "FreeTrialLoginAnalytics",
@@ -428,6 +453,8 @@
                 "ProceduralGenerationAnalytics",
                 "QueueAnalytics",
                 "ScoreAnalytics",
+                "StadiaLivestreamAnalytics",
+                "StadiaStreamAnalytics",
                 "StoreMenuFlowAnalytics",
                 "SurvivorTutorialAnalytics",
                 "TinkererUndetectableHitNearGeneratorAnalytics",
@@ -551,6 +578,13 @@
             "4.1.0_338893live": "4.1.0_338893live-1598881514",
             "4.1.0_340276live": "4.1.0_340276live-1599068542",
             "4.1.0_341162live": "4.1.0_341162live-1599170464",
+            "4.2.0_342018live": "4.2.0_342018live-1599574624",
+            "4.2.0_342040live": "4.2.0_342040live-1599576408",
+            "4.2.0_342314live": "4.2.0_342314live-1599595912",
+            "4.2.0_342377live": "4.2.0_342377live-1599600689",
+            "4.2.0_342498live": "4.2.0_342498live-1599659148",
+            "4.2.0_342707live": "4.2.0_342707live-1599672265",
+            "4.2.0_343640live": "4.2.0_343640live-1599834188",
             "m_3.0.2_219921live": "m_3.0.2_219921live-1566230507",
             "m_3.0.3_241022live": "m_3.0.3_241022live-1572449159",
             "m_3.3.3_220000live": "m_3.3.3_220000live-1574880017",
@@ -642,6 +676,7 @@
     {
         "value": {
             "ps4": true,
+            "stadia": true,
             "grdk": true,
             "android": false,
             "steam": true,

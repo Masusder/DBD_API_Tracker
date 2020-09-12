@@ -289,6 +289,25 @@
     },
     {
         "value": {
+            "retentionRewardId": "4.2.0_334183cert",
+            "referralId": "4.2.0_334183cert",
+            "achievementId": "4.2.0_334183cert",
+            "leaderboardId": "4.2.0_334183cert",
+            "gameContentId": "4.2.0_334183cert",
+            "statesPermissionsId": "4.2.0_334183cert",
+            "lootTableId": "4.2.0_334183cert",
+            "consentId": "4.2.0_334183cert",
+            "catalogId": "4.2.0_334183cert",
+            "actionId": "4.2.0_334183cert",
+            "subscriptionId": "4.2.0_334183cert",
+            "currencyId": "4.2.0_334183cert",
+            "actionQueueId": "4.2.0_334183cert",
+            "scenarioId": "4.2.0_334183cert"
+        },
+        "keyName": "clientData"
+    },
+    {
+        "value": {
             "DD": [
                 "AtlantaDeepLinkAnalytics",
                 "AtlantaKillerTutorialAnalytics",

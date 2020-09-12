@@ -19,7 +19,7 @@
         "keyName": "MATCHMAKING_ALLOW_CROSSPLAY"
     },
     {
-        "value": "14400",
+        "value": "10",
         "keyName": "SOCIAL_PLATFORM_FRIENDLIST_QUERY_RATE"
     },
     {
@@ -158,6 +158,7 @@
                 "GameEventLogAnalytics",
                 "GameInitAnalytics",
                 "InvalidLoadoutAnalytics",
+                "KrakenRequestAnalytics",
                 "LogMirrorsAnalytics",
                 "S3CommandAnalytics",
                 "S3CommandErrorAnalytics",
@@ -299,6 +300,23 @@
             "scenarioId": "3.5.0_259488qa"
         },
         "keyName": "clientData"
+    },
+    {
+        "value": "NetworkError",
+        "keyName": "KRAKEN_REQUEST_ANALYTICS_LEVEL"
+    },
+    {
+        "value": {
+            "ps4": false,
+            "stadia": false,
+            "grdk": false,
+            "android": false,
+            "steam": false,
+            "xbox": false,
+            "ios": false,
+            "switch": false
+        },
+        "keyName": "SOCIAL_CROSSPROGRESSION_PLATFORMS"
     },
     {
         "value": {
@@ -576,6 +594,11 @@
             "4.2.0_340738qa": "4.2.0_340738qa-1599146392",
             "4.2.0_340867qa": "4.2.0_340867qa-1599153015",
             "4.2.0_341312qa": "4.2.0_341312qa-1599221991",
+            "4.2.0_341999qa": "4.2.0_341999qa-1599573416",
+            "4.2.0_342022qa": "4.2.0_342022qa-1599575106",
+            "4.2.0_342496qa": "4.2.0_342496qa-1599649495",
+            "4.2.0_342707qa": "4.2.0_342707qa-1599672415",
+            "4.2.0_342929qa": "4.2.0_342929qa-1599685490",
             "edule_3.4.0_0qa": "edule_3.4.0_0qa-1576698389",
             "m_3.0.2_220683qa": "m_3.0.2_220683qa-1566333505",
             "m_3.0.3_240244qa": "m_3.0.3_240244qa-1572275329",
@@ -679,7 +702,11 @@
             "m_3.7.3_340112qa": "m_3.7.3_340112qa-1599053476",
             "m_3.7.3_340738qa": "m_3.7.3_340738qa-1599147064",
             "m_3.7.3_340867qa": "m_3.7.3_340867qa-1599154262",
-            "m_3.7.3_341316qa": "m_3.7.3_341316qa-1599222661"
+            "m_3.7.3_341316qa": "m_3.7.3_341316qa-1599222661",
+            "m_3.7.3_342022qa": "m_3.7.3_342022qa-1599575490",
+            "m_3.7.3_342498qa": "m_3.7.3_342498qa-1599651053",
+            "m_3.7.3_342707qa": "m_3.7.3_342707qa-1599672655",
+            "m_3.7.3_342929qa": "m_3.7.3_342929qa-1599687060"
         },
         "keyName": "VER_CLIENT_DATA"
     },
