@@ -281,9 +281,29 @@
                 "price": 500
             }
         ],
+        "eventCostList": [
+            {
+                "cost": [
+                    {
+                        "currencyId": "Cells",
+                        "price": 400
+                    }
+                ],
+                "endDate": "2020-09-14T20:00:00",
+                "startDate": "2020-09-14T18:45:00"
+            }
+        ],
         "id": "Kate",
         "metaData": {
-            "role": "Camper"
+            "role": "Camper",
+            "temporaryDiscounts": [
+                {
+                    "currencyId": "Cells",
+                    "discountPercentage": 0.2,
+                    "endDate": "2020-09-14T20:00:00",
+                    "startDate": "2020-09-14T18:45:00"
+                }
+            ]
         },
         "nonSecure": false,
         "purchasable": true,
@@ -393,9 +413,29 @@
                 "price": 500
             }
         ],
+        "eventCostList": [
+            {
+                "cost": [
+                    {
+                        "currencyId": "Cells",
+                        "price": 400
+                    }
+                ],
+                "endDate": "2020-09-14T20:00:00",
+                "startDate": "2020-09-14T18:45:00"
+            }
+        ],
         "id": "Clown",
         "metaData": {
-            "role": "Slasher"
+            "role": "Slasher",
+            "temporaryDiscounts": [
+                {
+                    "currencyId": "Cells",
+                    "discountPercentage": 0.2,
+                    "endDate": "2020-09-14T20:00:00",
+                    "startDate": "2020-09-14T18:45:00"
+                }
+            ]
         },
         "nonSecure": false,
         "purchasable": true,
@@ -681,9 +721,29 @@
                 "price": 500
             }
         ],
+        "eventCostList": [
+            {
+                "cost": [
+                    {
+                        "currencyId": "Cells",
+                        "price": 400
+                    }
+                ],
+                "endDate": "2020-09-14T20:00:00",
+                "startDate": "2020-09-14T18:45:00"
+            }
+        ],
         "id": "Gunslinger",
         "metaData": {
-            "role": "Slasher"
+            "role": "Slasher",
+            "temporaryDiscounts": [
+                {
+                    "currencyId": "Cells",
+                    "discountPercentage": 0.2,
+                    "endDate": "2020-09-14T20:00:00",
+                    "startDate": "2020-09-14T18:45:00"
+                }
+            ]
         },
         "nonSecure": false,
         "purchasable": true,
@@ -703,9 +763,29 @@
                 "price": 500
             }
         ],
+        "eventCostList": [
+            {
+                "cost": [
+                    {
+                        "currencyId": "Cells",
+                        "price": 400
+                    }
+                ],
+                "endDate": "2020-09-14T20:00:00",
+                "startDate": "2020-09-14T18:45:00"
+            }
+        ],
         "id": "Zarina",
         "metaData": {
-            "role": "Camper"
+            "role": "Camper",
+            "temporaryDiscounts": [
+                {
+                    "currencyId": "Cells",
+                    "discountPercentage": 0.2,
+                    "endDate": "2020-09-14T20:00:00",
+                    "startDate": "2020-09-14T18:45:00"
+                }
+            ]
         },
         "nonSecure": false,
         "purchasable": true,
@@ -719,11 +799,31 @@
             {
                 "currencyId": "Cells",
                 "price": 500
+            }
+        ],
+        "eventCostList": [
+            {
+                "cost": [
+                    {
+                        "currencyId": "Cells",
+                        "price": 350
+                    }
+                ],
+                "endDate": "2020-09-14T20:00:00",
+                "startDate": "2020-09-14T18:45:00"
             }
         ],
         "id": "K20",
         "metaData": {
-            "role": "Slasher"
+            "role": "Slasher",
+            "temporaryDiscounts": [
+                {
+                    "currencyId": "Cells",
+                    "discountPercentage": 0.3,
+                    "endDate": "2020-09-14T20:00:00",
+                    "startDate": "2020-09-14T18:45:00"
+                }
+            ]
         },
         "nonSecure": false,
         "purchasable": true,
@@ -739,9 +839,29 @@
                 "price": 500
             }
         ],
+        "eventCostList": [
+            {
+                "cost": [
+                    {
+                        "currencyId": "Cells",
+                        "price": 350
+                    }
+                ],
+                "endDate": "2020-09-14T20:00:00",
+                "startDate": "2020-09-14T18:45:00"
+            }
+        ],
         "id": "S22",
         "metaData": {
-            "role": "Camper"
+            "role": "Camper",
+            "temporaryDiscounts": [
+                {
+                    "currencyId": "Cells",
+                    "discountPercentage": 0.3,
+                    "endDate": "2020-09-14T20:00:00",
+                    "startDate": "2020-09-14T18:45:00"
+                }
+            ]
         },
         "nonSecure": false,
         "purchasable": true,
@@ -25794,7 +25914,18 @@
                 "price": 1
             }
         ],
-        "eventCostList": [],
+        "eventCostList": [
+            {
+                "cost": [
+                    {
+                        "currencyId": "Cells",
+                        "price": 280
+                    }
+                ],
+                "endDate": "2020-09-14T20:00:00",
+                "startDate": "2020-09-14T18:45:00"
+            }
+        ],
         "id": "AV_Legs007",
         "initialQuantity": 0,
         "metaData": {
@@ -25807,6 +25938,14 @@
             "quality": "V0",
             "qualityName": "quality1",
             "rarity": "SpecialEvent",
+            "temporaryDiscounts": [
+                {
+                    "currencyId": "Cells",
+                    "discountPercentage": 0.3,
+                    "endDate": "2020-09-14T20:00:00",
+                    "startDate": "2020-09-14T18:45:00"
+                }
+            ],
             "type": "Legs",
             "unbreakable": false,
             "version": {
@@ -28304,7 +28443,18 @@
                 "price": 400
             }
         ],
-        "eventCostList": [],
+        "eventCostList": [
+            {
+                "cost": [
+                    {
+                        "currencyId": "Cells",
+                        "price": 240
+                    }
+                ],
+                "endDate": "2020-09-14T20:00:00",
+                "startDate": "2020-09-14T18:45:00"
+            }
+        ],
         "id": "GS_Head009",
         "initialQuantity": 0,
         "metaData": {
@@ -28317,6 +28467,14 @@
             "quality": "V0",
             "qualityName": "quality1",
             "rarity": "VeryRare",
+            "temporaryDiscounts": [
+                {
+                    "currencyId": "Cells",
+                    "discountPercentage": 0.4,
+                    "endDate": "2020-09-14T20:00:00",
+                    "startDate": "2020-09-14T18:45:00"
+                }
+            ],
             "type": "Head",
             "unbreakable": false,
             "version": {
@@ -30164,7 +30322,18 @@
                 "price": 400
             }
         ],
-        "eventCostList": [],
+        "eventCostList": [
+            {
+                "cost": [
+                    {
+                        "currencyId": "Cells",
+                        "price": 200
+                    }
+                ],
+                "endDate": "2020-09-14T20:00:00",
+                "startDate": "2020-09-14T18:45:00"
+            }
+        ],
         "id": "HS_Legs006",
         "initialQuantity": 0,
         "metaData": {
@@ -30177,6 +30346,14 @@
             "quality": "V0",
             "qualityName": "quality1",
             "rarity": "VeryRare",
+            "temporaryDiscounts": [
+                {
+                    "currencyId": "Cells",
+                    "discountPercentage": 0.5,
+                    "endDate": "2020-09-14T20:00:00",
+                    "startDate": "2020-09-14T18:45:00"
+                }
+            ],
             "type": "Legs",
             "unbreakable": false,
             "version": {
@@ -32560,7 +32737,18 @@
                 "price": 7200
             }
         ],
-        "eventCostList": [],
+        "eventCostList": [
+            {
+                "cost": [
+                    {
+                        "currencyId": "Cells",
+                        "price": 160
+                    }
+                ],
+                "endDate": "2020-09-14T20:00:00",
+                "startDate": "2020-09-14T18:45:00"
+            }
+        ],
         "id": "KS_Legs011",
         "initialQuantity": 0,
         "metaData": {
@@ -32573,6 +32761,14 @@
             "quality": "V0",
             "qualityName": "quality1",
             "rarity": "VeryRare",
+            "temporaryDiscounts": [
+                {
+                    "currencyId": "Cells",
+                    "discountPercentage": 0.6,
+                    "endDate": "2020-09-14T20:00:00",
+                    "startDate": "2020-09-14T18:45:00"
+                }
+            ],
             "type": "Legs",
             "unbreakable": false,
             "version": {
@@ -34174,7 +34370,22 @@
                 "price": 7200
             }
         ],
-        "eventCostList": [],
+        "eventCostList": [
+            {
+                "cost": [
+                    {
+                        "currencyId": "Shards",
+                        "price": 2160
+                    },
+                    {
+                        "currencyId": "Cells",
+                        "price": 320
+                    }
+                ],
+                "endDate": "2020-09-14T20:00:00",
+                "startDate": "2020-09-14T18:45:00"
+            }
+        ],
         "id": "MS_Head009",
         "initialQuantity": 0,
         "metaData": {
@@ -34187,6 +34398,20 @@
             "quality": "V0",
             "qualityName": "quality1",
             "rarity": "VeryRare",
+            "temporaryDiscounts": [
+                {
+                    "currencyId": "Shards",
+                    "discountPercentage": 0.7,
+                    "endDate": "2020-09-14T20:00:00",
+                    "startDate": "2020-09-14T18:45:00"
+                },
+                {
+                    "currencyId": "Cells",
+                    "discountPercentage": 0.2,
+                    "endDate": "2020-09-14T20:00:00",
+                    "startDate": "2020-09-14T18:45:00"
+                }
+            ],
             "type": "Head",
             "unbreakable": false,
             "version": {
@@ -83591,6 +83816,14 @@
             ],
             "newEndDate": "2020-01-01T15:59:59",
             "newStartDate": "2019-12-18T16:00:00",
+            "temporaryDiscounts": [
+                {
+                    "currencyId": "Cells",
+                    "discountPercentage": 0.7,
+                    "endDate": "2020-09-14T20:00:00",
+                    "startDate": "2020-09-14T18:45:00"
+                }
+            ],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -84625,6 +84858,14 @@
             ],
             "newEndDate": "2020-06-05T14:59:59",
             "newStartDate": "2020-05-22T15:00:00",
+            "temporaryDiscounts": [
+                {
+                    "currencyId": "Cells",
+                    "discountPercentage": 0.9,
+                    "endDate": "2020-09-14T20:00:00",
+                    "startDate": "2020-09-14T18:45:00"
+                }
+            ],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -85021,6 +85262,14 @@
             ],
             "newEndDate": "2019-10-23T14:59:59",
             "newStartDate": "2019-10-09T15:00:00",
+            "temporaryDiscounts": [
+                {
+                    "currencyId": "Cells",
+                    "discountPercentage": 0.7,
+                    "endDate": "2020-09-14T20:00:00",
+                    "startDate": "2020-09-14T18:45:00"
+                }
+            ],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -85522,6 +85771,14 @@
             ],
             "newEndDate": "2020-07-17T14:59:59",
             "newStartDate": "2020-07-03T15:00:00",
+            "temporaryDiscounts": [
+                {
+                    "currencyId": "Cells",
+                    "discountPercentage": 0.6,
+                    "endDate": "2020-09-14T20:00:00",
+                    "startDate": "2020-09-14T18:45:00"
+                }
+            ],
             "unbreakable": true
         },
         "nonSecure": false,
@@ -85544,6 +85801,14 @@
             ],
             "newEndDate": "2019-11-13T14:59:59",
             "newStartDate": "2019-10-30T15:00:00",
+            "temporaryDiscounts": [
+                {
+                    "currencyId": "Cells",
+                    "discountPercentage": 0.9,
+                    "endDate": "2020-09-14T20:00:00",
+                    "startDate": "2020-09-14T18:45:00"
+                }
+            ],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -93361,6 +93626,14 @@
             ],
             "newEndDate": "2020-08-14T14:59:59",
             "newStartDate": "2020-07-31T15:00:00",
+            "temporaryDiscounts": [
+                {
+                    "currencyId": "Cells",
+                    "discountPercentage": 0.7,
+                    "endDate": "2020-09-14T20:00:00",
+                    "startDate": "2020-09-14T18:45:00"
+                }
+            ],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -94190,6 +94463,14 @@
             ],
             "newEndDate": "2020-09-24T23:59:59",
             "newStartDate": "2020-09-11T00:00:00",
+            "temporaryDiscounts": [
+                {
+                    "currencyId": "Cells",
+                    "discountPercentage": 0.65,
+                    "endDate": "2020-09-14T20:00:00",
+                    "startDate": "2020-09-14T18:45:00"
+                }
+            ],
             "unbreakable": false
         },
         "nonSecure": false,

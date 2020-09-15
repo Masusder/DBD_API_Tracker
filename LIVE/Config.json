@@ -93,6 +93,10 @@
                         "label": "Steam"
                     },
                     {
+                        "data": "stadia",
+                        "label": "Stadia"
+                    },
+                    {
                         "data": "grdk",
                         "label": "Windows Store"
                     },
@@ -127,14 +131,6 @@
                     {
                         "data": "ios",
                         "label": "iOS"
-                    },
-                    {
-                        "data": "google",
-                        "label": "Google"
-                    },
-                    {
-                        "data": "facebook",
-                        "label": "Facebook"
                     }
                 ],
                 "label": "Mobile"
@@ -585,6 +581,7 @@
             "4.2.0_342498live": "4.2.0_342498live-1599659148",
             "4.2.0_342707live": "4.2.0_342707live-1599672265",
             "4.2.0_343640live": "4.2.0_343640live-1599834188",
+            "4.2.0_344229live": "4.2.0_344229live-1600106594",
             "m_3.0.2_219921live": "m_3.0.2_219921live-1566230507",
             "m_3.0.3_241022live": "m_3.0.3_241022live-1572449159",
             "m_3.3.3_220000live": "m_3.3.3_220000live-1574880017",

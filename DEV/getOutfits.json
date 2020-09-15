@@ -11239,8 +11239,8 @@
                 "S22_Torso008",
                 "S22_Legs008"
             ],
-            "newStartDate": "2020-09-23T00:00:00",
-            "newEndDate": "2020-10-06T23:59:59"
+            "newStartDate": "2020-09-25T15:00:00",
+            "newEndDate": "2020-10-09T14:59:59"
         },
         {
             "id": "OK_outfit_009",
@@ -11261,7 +11261,7 @@
             "newEndDate": "2018-06-25T23:59:59"
         },
         {
-            "id": "KK_outfit_017",
+            "id": "KK_outfit_018",
             "defaultCost": [
                 {
                     "currencyId": "Cells",
@@ -11271,9 +11271,9 @@
             ],
             "character": "Legion",
             "storeItems": [
-                "KK_Mask017",
-                "KK_Body017",
-                "KK_W017"
+                "KK_Mask018",
+                "KK_Body018",
+                "KK_W018"
             ],
             "newStartDate": "2018-06-12T00:00:00",
             "newEndDate": "2018-06-25T23:59:59"
@@ -11590,7 +11590,7 @@
             "newEndDate": "2018-06-25T23:59:59"
         },
         {
-            "id": "KK_outfit_018",
+            "id": "KK_outfit_017",
             "defaultCost": [
                 {
                     "currencyId": "Cells",
@@ -11600,9 +11600,9 @@
             ],
             "character": "Legion",
             "storeItems": [
-                "KK_Mask018",
-                "KK_Body018",
-                "KK_W018"
+                "KK_Mask017",
+                "KK_Body017",
+                "KK_W017"
             ],
             "newStartDate": "2018-06-12T00:00:00",
             "newEndDate": "2018-06-25T23:59:59"

@@ -3338,7 +3338,7 @@
                         ]
                     },
                     "node_T4L4_03": {
-                        "clientInfoId": "UnhookWhoUnhooked",
+                        "clientInfoId": "EarnEmblemsBenevolent",
                         "coordinates": {
                             "x": 95,
                             "y": 455
@@ -3350,7 +3350,7 @@
                         ],
                         "nodeType": "quest:task",
                         "objectives": {
-                            "UnhookWhoUnhooked": {
+                            "EarnEmblemsBenevolentIridescent": {
                                 "conditions": [
                                     {
                                         "key": "role",
@@ -3360,13 +3360,13 @@
                                     }
                                 ],
                                 "incrementWithEventRepetitions": true,
-                                "neededProgression": 5,
-                                "objectiveId": "UnhookWhoUnhooked",
+                                "neededProgression": 3,
+                                "objectiveId": "EarnEmblemsBenevolentIridescent",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
-                                        "parameters": "instigator:me",
-                                        "questEventId": "QuestEvent.UnhookSafeWhoUnhooked",
+                                        "parameters": "EmblemName:Emblem_Survivor_Benevolent;EmblemQuality:Iridescent",
+                                        "questEventId": "QuestEvent.EarnEmblemsQuality",
                                         "repetition": 1
                                     }
                                 ]
@@ -3481,7 +3481,7 @@
                         ]
                     },
                     "node_T4L4_06": {
-                        "clientInfoId": "EarnEmblemsBenevolent",
+                        "clientInfoId": "UnhookWhoUnhooked",
                         "coordinates": {
                             "x": 545,
                             "y": 605
@@ -3492,7 +3492,7 @@
                         ],
                         "nodeType": "quest:task",
                         "objectives": {
-                            "EarnEmblemsBenevolentIridescent": {
+                            "UnhookWhoUnhooked": {
                                 "conditions": [
                                     {
                                         "key": "role",
@@ -3502,13 +3502,13 @@
                                     }
                                 ],
                                 "incrementWithEventRepetitions": true,
-                                "neededProgression": 3,
-                                "objectiveId": "EarnEmblemsBenevolentIridescent",
+                                "neededProgression": 4,
+                                "objectiveId": "UnhookWhoUnhooked",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
-                                        "parameters": "EmblemName:Emblem_Survivor_Benevolent;EmblemQuality:Iridescent",
-                                        "questEventId": "QuestEvent.EarnEmblemsQuality",
+                                        "parameters": "instigator:me",
+                                        "questEventId": "QuestEvent.UnhookSafeWhoUnhooked",
                                         "repetition": 1
                                     }
                                 ]
@@ -3624,7 +3624,7 @@
                         ]
                     },
                     "node_T4L4_09": {
-                        "clientInfoId": "EarnEmblemsDevout",
+                        "clientInfoId": "KillObsession",
                         "coordinates": {
                             "x": 365,
                             "y": 155
@@ -3632,6 +3632,53 @@
                         "neighbors": [
                             "node_T4L4_01",
                             "node_T4L4_10"
+                        ],
+                        "nodeType": "quest:task",
+                        "objectives": {
+                            "KillObsession": {
+                                "conditions": [
+                                    {
+                                        "key": "role",
+                                        "value": [
+                                            "killer"
+                                        ]
+                                    }
+                                ],
+                                "incrementWithEventRepetitions": true,
+                                "neededProgression": 10,
+                                "objectiveId": "KillObsession",
+                                "questEvent": [
+                                    {
+                                        "operation": ">=",
+                                        "questEventId": "QuestEvent.KillObsession",
+                                        "repetition": 1
+                                    }
+                                ]
+                            }
+                        },
+                        "reward": [
+                            {
+                                "amount": 3,
+                                "id": "star",
+                                "type": "progressionDbD"
+                            },
+                            {
+                                "amount": 45000,
+                                "id": "Bloodpoints",
+                                "type": "currency"
+                            }
+                        ]
+                    },
+                    "node_T4L4_10": {
+                        "clientInfoId": "EarnEmblemsDevout",
+                        "coordinates": {
+                            "x": 95,
+                            "y": 155
+                        },
+                        "neighbors": [
+                            "node_T4L4_20",
+                            "node_T4L4_09",
+                            "node_T4L4_Start01"
                         ],
                         "nodeType": "quest:task",
                         "objectives": {
@@ -3652,53 +3699,6 @@
                                         "operation": ">=",
                                         "parameters": "EmblemName:Emblem_Killer_Devout;EmblemQuality:Iridescent",
                                         "questEventId": "QuestEvent.EarnEmblemsQuality",
-                                        "repetition": 1
-                                    }
-                                ]
-                            }
-                        },
-                        "reward": [
-                            {
-                                "amount": 3,
-                                "id": "star",
-                                "type": "progressionDbD"
-                            },
-                            {
-                                "amount": 45000,
-                                "id": "Bloodpoints",
-                                "type": "currency"
-                            }
-                        ]
-                    },
-                    "node_T4L4_10": {
-                        "clientInfoId": "KillObsession",
-                        "coordinates": {
-                            "x": 95,
-                            "y": 155
-                        },
-                        "neighbors": [
-                            "node_T4L4_20",
-                            "node_T4L4_09",
-                            "node_T4L4_Start01"
-                        ],
-                        "nodeType": "quest:task",
-                        "objectives": {
-                            "KillObsession": {
-                                "conditions": [
-                                    {
-                                        "key": "role",
-                                        "value": [
-                                            "killer"
-                                        ]
-                                    }
-                                ],
-                                "incrementWithEventRepetitions": true,
-                                "neededProgression": 10,
-                                "objectiveId": "KillObsession",
-                                "questEvent": [
-                                    {
-                                        "operation": ">=",
-                                        "questEventId": "QuestEvent.KillObsession",
                                         "repetition": 1
                                     }
                                 ]
@@ -3953,19 +3953,19 @@
                                         "operation": ">=",
                                         "parameters": "instigator:me",
                                         "questEventId": "QuestEvent.RepairFinish",
-                                        "repetition": 1
+                                        "repetition": 2
                                     },
                                     {
                                         "operation": ">=",
                                         "parameters": "instigator:me",
                                         "questEventId": "QuestEvent.Unhook",
-                                        "repetition": 1
+                                        "repetition": 2
                                     },
                                     {
                                         "operation": ">=",
                                         "parameters": "instigator:me",
                                         "questEventId": "QuestEvent.CleanseFinish",
-                                        "repetition": 1
+                                        "repetition": 2
                                     }
                                 ]
                             }
@@ -4331,6 +4331,6 @@
             }
         ],
         "rewardData": "Tome04",
-        "version": 4
+        "version": 5
     }
 }
