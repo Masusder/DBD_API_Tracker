@@ -33,6 +33,11 @@
                 "capsuleInflation": 50.0,
                 "maximumDistance": 100.0,
                 "name": "harpoon"
+            },
+            {
+                "capsuleInflation": 50.0,
+                "maximumDistance": 250.0,
+                "name": "oni"
             }
         ]
     }
