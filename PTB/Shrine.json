@@ -1,7 +1,21 @@
 {
     "items": [
         {
-            "id": "Bamboozle",
+            "id": "Gearhead",
+            "bloodpointValue": 250000,
+            "experienceValue": 250000,
+            "unique": false,
+            "purchased": false,
+            "version": "steam",
+            "cost": [
+                {
+                    "currencyId": "Shards",
+                    "price": 2700
+                }
+            ]
+        },
+        {
+            "id": "Hex_Devour_Hope",
             "bloodpointValue": 150000,
             "experienceValue": 150000,
             "unique": false,
@@ -15,35 +29,21 @@
             ]
         },
         {
-            "id": "FlipFlop",
-            "bloodpointValue": 150000,
-            "experienceValue": 150000,
+            "id": "RedHerring",
+            "bloodpointValue": 250000,
+            "experienceValue": 250000,
             "unique": false,
             "purchased": false,
             "version": "steam",
             "cost": [
                 {
                     "currencyId": "Shards",
-                    "price": 2000
+                    "price": 2700
                 }
             ]
         },
         {
-            "id": "Madgrit",
-            "bloodpointValue": 150000,
-            "experienceValue": 150000,
-            "unique": false,
-            "purchased": false,
-            "version": "steam",
-            "cost": [
-                {
-                    "currencyId": "Shards",
-                    "price": 2000
-                }
-            ]
-        },
-        {
-            "id": "Technician",
+            "id": "Up_The_Ante",
             "bloodpointValue": 150000,
             "experienceValue": 150000,
             "unique": false,
@@ -57,7 +57,7 @@
             ]
         }
     ],
-    "startDate": "2020-09-09T00:00:00",
-    "endDate": "2020-09-15T23:59:59",
-    "week": 204
+    "startDate": "2020-09-16T00:00:00",
+    "endDate": "2020-09-22T23:59:59",
+    "week": 205
 }

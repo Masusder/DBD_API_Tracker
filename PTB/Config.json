@@ -89,6 +89,10 @@
                         "label": "Steam"
                     },
                     {
+                        "data": "stadia",
+                        "label": "Stadia"
+                    },
+                    {
                         "data": "grdk",
                         "label": "Windows Store"
                     },
@@ -123,14 +127,6 @@
                     {
                         "data": "ios",
                         "label": "iOS"
-                    },
-                    {
-                        "data": "google",
-                        "label": "Google"
-                    },
-                    {
-                        "data": "facebook",
-                        "label": "Facebook"
                     }
                 ],
                 "label": "Mobile"
@@ -159,6 +155,7 @@
                 "GameEventLogAnalytics",
                 "GameInitAnalytics",
                 "InvalidLoadoutAnalytics",
+                "KrakenRequestAnalytics",
                 "LogMirrorsAnalytics",
                 "S3CommandAnalytics",
                 "S3CommandErrorAnalytics",
@@ -302,6 +299,19 @@
             "scenarioId": "m_3.6.0_282086ptb"
         },
         "keyName": "clientData"
+    },
+    {
+        "value": {
+            "ps4": false,
+            "stadia": false,
+            "grdk": false,
+            "android": false,
+            "steam": false,
+            "xbox": false,
+            "ios": false,
+            "switch": false
+        },
+        "keyName": "SOCIAL_CROSSPROGRESSION_PLATFORMS"
     },
     {
         "value": {
@@ -499,6 +509,7 @@
             "4.1.0_331394ptb": "4.1.0_331394ptb-1597246163",
             "4.2.0_332485ptb": "4.2.0_332485ptb-1597419805",
             "4.2.0_333833ptb": "4.2.0_333833ptb-1597761677",
+            "4.2.0_346626ptb": "4.2.0_346626ptb-1600464391",
             "m_3.3.5_260791ptb": "m_3.3.5_260791ptb-1578947417",
             "m_3.3.5_281807ptb": "m_3.3.5_281807ptb-1584119023",
             "m_3.6.0_282086ptb": "m_3.6.0_282086ptb-1585750969"
