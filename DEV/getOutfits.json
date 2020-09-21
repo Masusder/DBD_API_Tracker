@@ -11624,6 +11624,24 @@
             ],
             "newStartDate": "2018-06-12T00:00:00",
             "newEndDate": "2018-06-25T23:59:59"
+        },
+        {
+            "id": "AV_outfit02_03",
+            "defaultCost": [
+                {
+                    "currencyId": "Cells",
+                    "price": 270,
+                    "discountPercentage": 0.1
+                }
+            ],
+            "character": "Ace",
+            "storeItems": [
+                "AV_Head02_03",
+                "AV_Torso02_03",
+                "AV_Legs02_03"
+            ],
+            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2018-06-25T23:59:59"
         }
     ]
 }

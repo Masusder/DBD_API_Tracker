@@ -1,14 +1,6 @@
 {
-    "unseenContent": true,
+    "unseenContent": false,
     "vignettes": [
-        {
-            "vignetteId": "Tome05_Halloween2018",
-            "vignette": {
-                "unlockedPages": 14,
-                "lastShownUnlockPages": 0,
-                "readPages": []
-            }
-        },
         {
             "vignetteId": "Tome04_Observer",
             "vignette": {
@@ -27,6 +19,14 @@
         },
         {
             "vignetteId": "Tome05_Blight",
+            "vignette": {
+                "unlockedPages": 0,
+                "lastShownUnlockPages": 0,
+                "readPages": []
+            }
+        },
+        {
+            "vignetteId": "Tome05_Halloween2018",
             "vignette": {
                 "unlockedPages": 0,
                 "lastShownUnlockPages": 0,

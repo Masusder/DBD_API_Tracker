@@ -28,10 +28,14 @@
                     "node_T5L1_01": {
                         "clientInfoId": "EarnBloodpointsObjectives",
                         "coordinates": {
-                            "x": 1085,
-                            "y": 155
+                            "x": 455,
+                            "y": 455
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T5L1_07",
+                            "node_T5L1_06",
+                            "node_T5L1_12"
+                        ],
                         "nodeType": "quest:task",
                         "objectives": {
                             "EarnBloodpointsObjectives": {
@@ -69,57 +73,16 @@
                             }
                         ]
                     },
-                    "node_T5L1_02": {
-                        "clientInfoId": "EarnBloodpointsSurvival",
-                        "coordinates": {
-                            "x": 365,
-                            "y": 605
-                        },
-                        "neighbors": [],
-                        "nodeType": "quest:task",
-                        "objectives": {
-                            "EarnBloodpointsSurvival": {
-                                "conditions": [
-                                    {
-                                        "key": "role",
-                                        "value": [
-                                            "survivor"
-                                        ]
-                                    }
-                                ],
-                                "incrementWithEventRepetitions": true,
-                                "neededProgression": 20000,
-                                "objectiveId": "EarnBloodpointsSurvival",
-                                "questEvent": [
-                                    {
-                                        "operation": ">=",
-                                        "parameters": "BloodpointsCategory:Survival",
-                                        "questEventId": "QuestEvent.GeneratorRepairedByTeam",
-                                        "repetition": 1
-                                    }
-                                ]
-                            }
-                        },
-                        "reward": [
-                            {
-                                "amount": 3,
-                                "id": "star",
-                                "type": "progressionDbD"
-                            },
-                            {
-                                "amount": 25000,
-                                "id": "Bloodpoints",
-                                "type": "currency"
-                            }
-                        ]
-                    },
                     "node_T5L1_03": {
                         "clientInfoId": "Repair",
                         "coordinates": {
-                            "x": 5,
-                            "y": 455
+                            "x": 185,
+                            "y": 305
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T5L1_06",
+                            "node_T5L1_Start02"
+                        ],
                         "nodeType": "quest:task",
                         "objectives": {
                             "RepairPerc": {
@@ -162,7 +125,12 @@
                             "x": 905,
                             "y": 305
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T5L1_06",
+                            "node_T5L1_10",
+                            "node_T5L1_05",
+                            "node_T5L1_15"
+                        ],
                         "nodeType": "quest:task",
                         "objectives": {
                             "Unhook": {
@@ -202,10 +170,15 @@
                     "node_T5L1_05": {
                         "clientInfoId": "Stun",
                         "coordinates": {
-                            "x": 365,
+                            "x": 1175,
                             "y": 305
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T5L1_End01",
+                            "node_T5L1_13",
+                            "node_T5L1_14",
+                            "node_T5L1_04"
+                        ],
                         "nodeType": "quest:task",
                         "objectives": {
                             "Stun": {
@@ -246,10 +219,14 @@
                     "node_T5L1_06": {
                         "clientInfoId": "CleanseFinish",
                         "coordinates": {
-                            "x": 365,
-                            "y": 455
+                            "x": 545,
+                            "y": 305
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T5L1_01",
+                            "node_T5L1_03",
+                            "node_T5L1_04"
+                        ],
                         "nodeType": "quest:task",
                         "objectives": {
                             "CleanseFinish": {
@@ -288,15 +265,19 @@
                         ]
                     },
                     "node_T5L1_07": {
-                        "clientInfoId": "EarnBloodpointsBrutality",
+                        "clientInfoId": "Chase",
                         "coordinates": {
-                            "x": 545,
+                            "x": 725,
                             "y": 455
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T5L1_01",
+                            "node_T5L1_08",
+                            "node_T5L1_10"
+                        ],
                         "nodeType": "quest:task",
                         "objectives": {
-                            "EarnBloodpointsBrutality": {
+                            "Chase": {
                                 "conditions": [
                                     {
                                         "key": "role",
@@ -306,13 +287,13 @@
                                     }
                                 ],
                                 "incrementWithEventRepetitions": true,
-                                "neededProgression": 20000,
-                                "objectiveId": "EarnBloodpointsBrutality",
+                                "neededProgression": 180,
+                                "objectiveId": "Chase",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
-                                        "parameters": "BloodpointsCategory:Brutality",
-                                        "questEventId": "QuestEvent.EscapeChase",
+                                        "parameters": "instigator:me",
+                                        "questEventId": "QuestEvent.Chase",
                                         "repetition": 1
                                     }
                                 ]
@@ -334,10 +315,14 @@
                     "node_T5L1_08": {
                         "clientInfoId": "EarnBloodpointsDeviousness",
                         "coordinates": {
-                            "x": 815,
-                            "y": 455
+                            "x": 635,
+                            "y": 605
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T5L1_07",
+                            "node_T5L1_09",
+                            "node_T5L1_11"
+                        ],
                         "nodeType": "quest:task",
                         "objectives": {
                             "EarnBloodpointsDeviousness": {
@@ -378,10 +363,13 @@
                     "node_T5L1_09": {
                         "clientInfoId": "Hook",
                         "coordinates": {
-                            "x": 95,
-                            "y": 155
+                            "x": 185,
+                            "y": 605
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T5L1_08",
+                            "node_T5L1_Start02"
+                        ],
                         "nodeType": "quest:task",
                         "objectives": {
                             "Hook": {
@@ -421,10 +409,15 @@
                     "node_T5L1_10": {
                         "clientInfoId": "BreakGens",
                         "coordinates": {
-                            "x": 455,
-                            "y": 155
+                            "x": 995,
+                            "y": 455
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T5L1_07",
+                            "node_T5L1_End01",
+                            "node_T5L1_11",
+                            "node_T5L1_04"
+                        ],
                         "nodeType": "quest:task",
                         "objectives": {
                             "BreakGens": {
@@ -464,13 +457,16 @@
                     "node_T5L1_11": {
                         "clientInfoId": "HillbillyChainsawInTrial",
                         "coordinates": {
-                            "x": 1175,
-                            "y": 455
+                            "x": 995,
+                            "y": 605
                         },
                         "journal": [
                             "Tome05_Hillbilly"
                         ],
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T5L1_10",
+                            "node_T5L1_08"
+                        ],
                         "nodeType": "quest:challenge",
                         "objectives": {
                             "HillbillyChainsawInTrial": {
@@ -517,13 +513,16 @@
                     "node_T5L1_12": {
                         "clientInfoId": "RepairFinishInTerrorRadiusInTrial",
                         "coordinates": {
-                            "x": 725,
-                            "y": 305
+                            "x": 275,
+                            "y": 455
                         },
                         "journal": [
                             "Tome05_Nea"
                         ],
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T5L1_01",
+                            "node_T5L1_Start02"
+                        ],
                         "nodeType": "quest:challenge",
                         "objectives": {
                             "RepairFinishInTerrorRadiusInTrial": {
@@ -543,7 +542,7 @@
                                         "operation": ">=",
                                         "parameters": "instigator:me",
                                         "questEventId": "QuestEvent.RepairFinishInTerrorRadius",
-                                        "repetition": 1
+                                        "repetition": 2
                                     }
                                 ]
                             }
@@ -564,16 +563,19 @@
                     "node_T5L1_13": {
                         "clientInfoId": "EscapeChaseAsNeaInTrial",
                         "coordinates": {
-                            "x": 905,
-                            "y": 5
+                            "x": 1085,
+                            "y": 155
                         },
                         "journal": [
                             "Tome05_Nea"
                         ],
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T5L1_14",
+                            "node_T5L1_05"
+                        ],
                         "nodeType": "quest:challenge",
                         "objectives": {
-                            "EscapeChaseInTrial": {
+                            "EscapeChaseAsCharacterInTrial": {
                                 "conditions": [
                                     {
                                         "key": "role",
@@ -590,7 +592,7 @@
                                 ],
                                 "incrementWithEventRepetitions": false,
                                 "neededProgression": 1,
-                                "objectiveId": "EscapeChaseInTrial",
+                                "objectiveId": "EscapeChaseAsCharacterInTrial",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -617,16 +619,19 @@
                     "node_T5L1_14": {
                         "clientInfoId": "ConsumeItemWithStreetwiseInTrial",
                         "coordinates": {
-                            "x": 635,
-                            "y": 5
+                            "x": 1265,
+                            "y": 155
                         },
                         "journal": [
                             "Tome05_Nea"
                         ],
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T5L1_13",
+                            "node_T5L1_05"
+                        ],
                         "nodeType": "quest:challenge",
                         "objectives": {
-                            "ConsumeItemWithStreetwiseInTrial": {
+                            "ConsumeItemWithPerkInTrial": {
                                 "conditions": [
                                     {
                                         "key": "role",
@@ -643,7 +648,7 @@
                                 ],
                                 "incrementWithEventRepetitions": false,
                                 "neededProgression": 1,
-                                "objectiveId": "ConsumeItemWithStreetwiseInTrial",
+                                "objectiveId": "ConsumeItemWithPerkInTrial",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -670,13 +675,15 @@
                     "node_T5L1_15": {
                         "clientInfoId": "UnhookEndgameInTrial",
                         "coordinates": {
-                            "x": 1085,
-                            "y": 305
+                            "x": 905,
+                            "y": 155
                         },
                         "journal": [
                             "Tome05_Nea"
                         ],
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T5L1_04"
+                        ],
                         "nodeType": "quest:challenge",
                         "objectives": {
                             "UnhookEndgameInTrial": {
@@ -717,13 +724,16 @@
                     "node_T5L1_16": {
                         "clientInfoId": "HarvestHalloweenPlant",
                         "coordinates": {
-                            "x": 635,
-                            "y": 605
+                            "x": 725,
+                            "y": 155
                         },
                         "journal": [
                             "Tome05_Blight"
                         ],
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T5L1_17",
+                            "node_T5L1_19"
+                        ],
                         "nodeType": "quest:challenge",
                         "objectives": {
                             "HarvestHalloweenPlant": {
@@ -769,13 +779,16 @@
                     "node_T5L1_17": {
                         "clientInfoId": "HarvestHalloweenPlant",
                         "coordinates": {
-                            "x": 545,
-                            "y": 305
+                            "x": 455,
+                            "y": 155
                         },
                         "journal": [
                             "Tome05_Blight"
                         ],
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T5L1_16",
+                            "node_T5L1_18"
+                        ],
                         "nodeType": "quest:challenge",
                         "objectives": {
                             "HarvestHalloweenPlant": {
@@ -821,13 +834,16 @@
                     "node_T5L1_18": {
                         "clientInfoId": "HarvestHalloweenPlant",
                         "coordinates": {
-                            "x": 95,
-                            "y": 5
+                            "x": 185,
+                            "y": 155
                         },
                         "journal": [
                             "Tome05_Blight"
                         ],
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T5L1_17",
+                            "node_T5L1_Start01"
+                        ],
                         "nodeType": "quest:challenge",
                         "objectives": {
                             "HarvestHalloweenPlant": {
@@ -873,13 +889,16 @@
                     "node_T5L1_19": {
                         "clientInfoId": "BlightChainMultipleHitLethalRushInTrial",
                         "coordinates": {
-                            "x": 815,
-                            "y": 605
+                            "x": 635,
+                            "y": 5
                         },
                         "journal": [
                             "Tome05_Blight"
                         ],
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T5L1_16",
+                            "node_T5L1_20"
+                        ],
                         "nodeType": "quest:challenge",
                         "objectives": {
                             "BlightChainMultipleHitLethalRushInTrial": {
@@ -893,7 +912,7 @@
                                     {
                                         "key": "character",
                                         "value": [
-                                            "Blight"
+                                            "K21"
                                         ]
                                     }
                                 ],
@@ -926,13 +945,16 @@
                     "node_T5L1_20": {
                         "clientInfoId": "BlightHitLethalRushInTrial",
                         "coordinates": {
-                            "x": 635,
-                            "y": 155
+                            "x": 275,
+                            "y": 5
                         },
                         "journal": [
                             "Tome05_Blight"
                         ],
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T5L1_Start01",
+                            "node_T5L1_19"
+                        ],
                         "nodeType": "quest:challenge",
                         "objectives": {
                             "BlightHitLethalRushInTrial": {
@@ -946,7 +968,7 @@
                                     {
                                         "key": "character",
                                         "value": [
-                                            "Blight"
+                                            "K21"
                                         ]
                                     }
                                 ],
@@ -979,19 +1001,25 @@
                     "node_T5L1_End01": {
                         "clientInfoId": "End",
                         "coordinates": {
-                            "x": 1355,
+                            "x": 1265,
                             "y": 455
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T5L1_10",
+                            "node_T5L1_05"
+                        ],
                         "nodeType": "narrative"
                     },
                     "node_T5L1_Start01": {
                         "clientInfoId": "Start",
                         "coordinates": {
                             "x": 5,
-                            "y": 305
+                            "y": 5
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T5L1_18",
+                            "node_T5L1_20"
+                        ],
                         "nodeType": "narrative"
                     },
                     "node_T5L1_Start02": {
@@ -1000,7 +1028,11 @@
                             "x": 5,
                             "y": 455
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T5L1_09",
+                            "node_T5L1_12",
+                            "node_T5L1_03"
+                        ],
                         "nodeType": "narrative"
                     }
                 },
@@ -1044,10 +1076,14 @@
                     "node_T5L2_01": {
                         "clientInfoId": "EarnBloodpointsAltruism",
                         "coordinates": {
-                            "x": 1085,
-                            "y": 155
+                            "x": 905,
+                            "y": 305
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T5L2_15",
+                            "node_T5L2_12",
+                            "node_T5L2_11"
+                        ],
                         "nodeType": "quest:task",
                         "objectives": {
                             "EarnBloodpointsAltruism": {
@@ -1086,15 +1122,18 @@
                         ]
                     },
                     "node_T5L2_02": {
-                        "clientInfoId": "EarnBloodpointsBoldness",
+                        "clientInfoId": "ConsumeMedkit",
                         "coordinates": {
                             "x": 365,
                             "y": 605
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T5L2_04",
+                            "node_T5L2_16"
+                        ],
                         "nodeType": "quest:task",
                         "objectives": {
-                            "EarnBloodpointsBoldness": {
+                            "ConsumeMedkit": {
                                 "conditions": [
                                     {
                                         "key": "role",
@@ -1104,13 +1143,13 @@
                                     }
                                 ],
                                 "incrementWithEventRepetitions": true,
-                                "neededProgression": 24000,
-                                "objectiveId": "EarnBloodpointsBoldness",
+                                "neededProgression": 5,
+                                "objectiveId": "ConsumeMedkit",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
-                                        "parameters": "BloodpointsCategory:Boldness",
-                                        "questEventId": "QuestEvent.EarnBloodpointsCategory",
+                                        "parameters": "instigator:me;ItemName:Medkit",
+                                        "questEventId": "QuestEvent.ConsumeItem",
                                         "repetition": 1
                                     }
                                 ]
@@ -1132,10 +1171,16 @@
                     "node_T5L2_03": {
                         "clientInfoId": "EarnEmblemsSilver",
                         "coordinates": {
-                            "x": 5,
-                            "y": 455
+                            "x": 545,
+                            "y": 155
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T5L2_20",
+                            "node_T5L2_12",
+                            "node_T5L2_09",
+                            "node_T5L2_17",
+                            "node_T5L2_07"
+                        ],
                         "nodeType": "quest:task",
                         "objectives": {
                             "EarnEmblemsSilver": {
@@ -1169,10 +1214,15 @@
                     "node_T5L2_04": {
                         "clientInfoId": "PalletDropInChase",
                         "coordinates": {
-                            "x": 905,
-                            "y": 305
+                            "x": 185,
+                            "y": 455
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T5L2_02",
+                            "node_T5L2_Start01",
+                            "node_T5L2_17",
+                            "node_T5L2_07"
+                        ],
                         "nodeType": "quest:task",
                         "objectives": {
                             "PalletDropInChase": {
@@ -1213,10 +1263,14 @@
                     "node_T5L2_05": {
                         "clientInfoId": "Escape",
                         "coordinates": {
-                            "x": 365,
-                            "y": 305
+                            "x": 1085,
+                            "y": 155
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T5L2_14",
+                            "node_T5L2_11",
+                            "node_T5L2_End01"
+                        ],
                         "nodeType": "quest:task",
                         "objectives": {
                             "Escape": {
@@ -1229,7 +1283,7 @@
                                     }
                                 ],
                                 "incrementWithEventRepetitions": true,
-                                "neededProgression": 15,
+                                "neededProgression": 5,
                                 "objectiveId": "Escape",
                                 "questEvent": [
                                     {
@@ -1257,10 +1311,15 @@
                     "node_T5L2_06": {
                         "clientInfoId": "HookObsession",
                         "coordinates": {
-                            "x": 365,
+                            "x": 905,
                             "y": 455
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T5L2_12",
+                            "node_T5L2_19",
+                            "node_T5L2_08",
+                            "node_T5L2_07"
+                        ],
                         "nodeType": "quest:task",
                         "objectives": {
                             "HookObsession": {
@@ -1304,7 +1363,12 @@
                             "x": 545,
                             "y": 455
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T5L2_04",
+                            "node_T5L2_03",
+                            "node_T5L2_06",
+                            "node_T5L2_16"
+                        ],
                         "nodeType": "quest:task",
                         "objectives": {
                             "ConsumeToolbox": {
@@ -1343,15 +1407,18 @@
                         ]
                     },
                     "node_T5L2_08": {
-                        "clientInfoId": "EarnBloodpointsHunter",
+                        "clientInfoId": "Kill",
                         "coordinates": {
-                            "x": 815,
+                            "x": 1175,
                             "y": 455
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T5L2_End01",
+                            "node_T5L2_06"
+                        ],
                         "nodeType": "quest:task",
                         "objectives": {
-                            "EarnBloodpointsHunter": {
+                            "Kill": {
                                 "conditions": [
                                     {
                                         "key": "role",
@@ -1361,13 +1428,13 @@
                                     }
                                 ],
                                 "incrementWithEventRepetitions": true,
-                                "neededProgression": 24000,
-                                "objectiveId": "EarnBloodpointsHunter",
+                                "neededProgression": 12,
+                                "objectiveId": "Kill",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
                                         "parameters": "BloodpointsCategory:Hunter",
-                                        "questEventId": "QuestEvent.EarnBloodpointsCategory",
+                                        "questEventId": "QuestEvent.Kill",
                                         "repetition": 1
                                     }
                                 ]
@@ -1389,10 +1456,14 @@
                     "node_T5L2_09": {
                         "clientInfoId": "EarnBloodpointsSacrifice",
                         "coordinates": {
-                            "x": 95,
+                            "x": 185,
                             "y": 155
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T5L2_03",
+                            "node_T5L2_10",
+                            "node_T5L2_18"
+                        ],
                         "nodeType": "quest:task",
                         "objectives": {
                             "EarnBloodpointsSacrifice": {
@@ -1433,10 +1504,13 @@
                     "node_T5L2_10": {
                         "clientInfoId": "Chase",
                         "coordinates": {
-                            "x": 455,
-                            "y": 155
+                            "x": 185,
+                            "y": 305
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T5L2_09",
+                            "node_T5L2_Start01"
+                        ],
                         "nodeType": "quest:task",
                         "objectives": {
                             "Chase": {
@@ -1477,13 +1551,17 @@
                     "node_T5L2_11": {
                         "clientInfoId": "UnhookInTrial",
                         "coordinates": {
-                            "x": 1175,
-                            "y": 455
+                            "x": 905,
+                            "y": 155
                         },
                         "journal": [
                             "Tome05_Nea"
                         ],
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T5L2_05",
+                            "node_T5L2_13",
+                            "node_T5L2_01"
+                        ],
                         "nodeType": "quest:challenge",
                         "objectives": {
                             "UnhookInTrial": {
@@ -1530,7 +1608,11 @@
                         "journal": [
                             "Tome05_Nea"
                         ],
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T5L2_03",
+                            "node_T5L2_01",
+                            "node_T5L2_06"
+                        ],
                         "nodeType": "quest:challenge",
                         "objectives": {
                             "EarnEmblemsSilverInTrial": {
@@ -1564,13 +1646,18 @@
                     "node_T5L2_13": {
                         "clientInfoId": "FallInChaseWithBalancedLandingInTrial",
                         "coordinates": {
-                            "x": 905,
+                            "x": 725,
                             "y": 5
                         },
                         "journal": [
                             "Tome05_Nea"
                         ],
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T5L2_14",
+                            "node_T5L2_20",
+                            "node_T5L2_11",
+                            "node_T5L2_18"
+                        ],
                         "nodeType": "quest:challenge",
                         "objectives": {
                             "FallInChaseWithPerkInTrial": {
@@ -1617,13 +1704,16 @@
                     "node_T5L2_14": {
                         "clientInfoId": "EscapeChaseWithUrbanEvasionInTrial",
                         "coordinates": {
-                            "x": 635,
+                            "x": 1085,
                             "y": 5
                         },
                         "journal": [
                             "Tome05_Nea"
                         ],
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T5L2_05",
+                            "node_T5L2_13"
+                        ],
                         "nodeType": "quest:challenge",
                         "objectives": {
                             "EscapeChaseWithPerkInTrial": {
@@ -1676,7 +1766,10 @@
                         "journal": [
                             "Tome05_Nea"
                         ],
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T5L2_01",
+                            "node_T5L2_End01"
+                        ],
                         "nodeType": "quest:challenge",
                         "objectives": {
                             "EscapeAsCharacterInTrial": {
@@ -1723,13 +1816,17 @@
                     "node_T5L2_16": {
                         "clientInfoId": "PalletStunInTrial",
                         "coordinates": {
-                            "x": 635,
+                            "x": 545,
                             "y": 605
                         },
                         "journal": [
                             "Tome05_Nea"
                         ],
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T5L2_02",
+                            "node_T5L2_19",
+                            "node_T5L2_07"
+                        ],
                         "nodeType": "quest:challenge",
                         "objectives": {
                             "PalletStunInTrial": {
@@ -1770,13 +1867,16 @@
                     "node_T5L2_17": {
                         "clientInfoId": "EscapeObsessionInTrial",
                         "coordinates": {
-                            "x": 545,
+                            "x": 365,
                             "y": 305
                         },
                         "journal": [
                             "Tome05_Nea"
                         ],
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T5L2_04",
+                            "node_T5L2_03"
+                        ],
                         "nodeType": "quest:challenge",
                         "objectives": {
                             "EscapeObsessionInTrial": {
@@ -1817,13 +1917,16 @@
                     "node_T5L2_18": {
                         "clientInfoId": "DownWithEnduringInTrial",
                         "coordinates": {
-                            "x": 95,
+                            "x": 275,
                             "y": 5
                         },
                         "journal": [
                             "Tome05_Hillbilly"
                         ],
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T5L2_13",
+                            "node_T5L2_09"
+                        ],
                         "nodeType": "quest:challenge",
                         "objectives": {
                             "DownWithPerkInTrial": {
@@ -1870,13 +1973,16 @@
                     "node_T5L2_19": {
                         "clientInfoId": "HitWithLightbornInTrial",
                         "coordinates": {
-                            "x": 815,
+                            "x": 905,
                             "y": 605
                         },
                         "journal": [
                             "Tome05_Hillbilly"
                         ],
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T5L2_06",
+                            "node_T5L2_16"
+                        ],
                         "nodeType": "quest:challenge",
                         "objectives": {
                             "HitWithPerkInTrial": {
@@ -1923,13 +2029,16 @@
                     "node_T5L2_20": {
                         "clientInfoId": "HillbillyChainsawConsecutiveInTrial",
                         "coordinates": {
-                            "x": 635,
-                            "y": 155
+                            "x": 545,
+                            "y": 5
                         },
                         "journal": [
                             "Tome05_Hillbilly"
                         ],
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T5L2_13",
+                            "node_T5L2_03"
+                        ],
                         "nodeType": "quest:challenge",
                         "objectives": {
                             "HillbillyChainsawConsecutiveInTrial": {
@@ -1954,7 +2063,7 @@
                                     {
                                         "operation": ">=",
                                         "parameters": "instigator:meTime:30",
-                                        "questEventId": "QuestEvent.HillbillyChainsawConsecutiveInTrial",
+                                        "questEventId": "QuestEvent.HillbillyChainsawConsecutive",
                                         "repetition": 4
                                     }
                                 ]
@@ -1977,9 +2086,13 @@
                         "clientInfoId": "End",
                         "coordinates": {
                             "x": 1355,
-                            "y": 455
+                            "y": 305
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T5L2_15",
+                            "node_T5L2_05",
+                            "node_T5L2_08"
+                        ],
                         "nodeType": "narrative"
                     },
                     "node_T5L2_Start01": {
@@ -1988,7 +2101,10 @@
                             "x": 5,
                             "y": 305
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T5L2_04",
+                            "node_T5L2_10"
+                        ],
                         "nodeType": "narrative"
                     }
                 },
@@ -2034,7 +2150,13 @@
                             "x": 455,
                             "y": 455
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T5L3_14",
+                            "node_T5L3_12",
+                            "node_T5L3_09",
+                            "node_T5L3_19",
+                            "node_T5L3_10"
+                        ],
                         "nodeType": "quest:task",
                         "objectives": {
                             "EarnEmblemsGold": {
@@ -2068,10 +2190,14 @@
                     "node_T5L3_02": {
                         "clientInfoId": "CleanseFinish",
                         "coordinates": {
-                            "x": 1265,
+                            "x": 995,
                             "y": 155
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T5L3_15",
+                            "node_T5L3_04",
+                            "node_T5L3_07"
+                        ],
                         "nodeType": "quest:task",
                         "objectives": {
                             "CleanseFinish": {
@@ -2110,15 +2236,19 @@
                         ]
                     },
                     "node_T5L3_03": {
-                        "clientInfoId": "SkillCheckSuccess",
+                        "clientInfoId": "EarnBloodpointsSurvival",
                         "coordinates": {
-                            "x": 545,
-                            "y": 5
+                            "x": 455,
+                            "y": 155
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T5L3_05",
+                            "node_T5L3_08",
+                            "node_T5L3_06"
+                        ],
                         "nodeType": "quest:task",
                         "objectives": {
-                            "SkillCheckSuccess": {
+                            "EarnBloodpointsSurvival": {
                                 "conditions": [
                                     {
                                         "key": "role",
@@ -2129,12 +2259,12 @@
                                 ],
                                 "incrementWithEventRepetitions": true,
                                 "neededProgression": 30,
-                                "objectiveId": "SkillCheckSuccess",
+                                "objectiveId": "EarnBloodpointsSurvival",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
-                                        "parameters": "instigator:me",
-                                        "questEventId": "QuestEvent.SkillCheckSuccess",
+                                        "parameters": "BloodpointsCategory:Survival",
+                                        "questEventId": "QuestEvent.EarnBloodpointsCategory",
                                         "repetition": 1
                                     }
                                 ]
@@ -2156,10 +2286,14 @@
                     "node_T5L3_04": {
                         "clientInfoId": "UnhookDifferent",
                         "coordinates": {
-                            "x": 905,
+                            "x": 1265,
                             "y": 155
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T5L3_02",
+                            "node_T5L3_16",
+                            "node_T5L3_End01"
+                        ],
                         "nodeType": "quest:task",
                         "objectives": {
                             "UnhookDifferent": {
@@ -2200,10 +2334,13 @@
                     "node_T5L3_05": {
                         "clientInfoId": "SabotageFinish",
                         "coordinates": {
-                            "x": 545,
+                            "x": 635,
                             "y": 155
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T5L3_12",
+                            "node_T5L3_03"
+                        ],
                         "nodeType": "quest:task",
                         "objectives": {
                             "SabotageFinish": {
@@ -2244,10 +2381,14 @@
                     "node_T5L3_06": {
                         "clientInfoId": "HealOther",
                         "coordinates": {
-                            "x": 815,
-                            "y": 5
+                            "x": 185,
+                            "y": 155
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T5L3_03",
+                            "node_T5L3_13",
+                            "node_T5L3_Start01"
+                        ],
                         "nodeType": "quest:task",
                         "objectives": {
                             "HealOtherPerc": {
@@ -2288,10 +2429,14 @@
                     "node_T5L3_07": {
                         "clientInfoId": "ConsumeToolbox",
                         "coordinates": {
-                            "x": 275,
-                            "y": 305
+                            "x": 815,
+                            "y": 5
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T5L3_02",
+                            "node_T5L3_08",
+                            "node_T5L3_16"
+                        ],
                         "nodeType": "quest:task",
                         "objectives": {
                             "ConsumeToolbox": {
@@ -2332,10 +2477,13 @@
                     "node_T5L3_08": {
                         "clientInfoId": "ChasedByKiller",
                         "coordinates": {
-                            "x": 185,
-                            "y": 155
+                            "x": 455,
+                            "y": 5
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T5L3_03",
+                            "node_T5L3_07"
+                        ],
                         "nodeType": "quest:task",
                         "objectives": {
                             "ChasedByKiller": {
@@ -2376,10 +2524,13 @@
                     "node_T5L3_09": {
                         "clientInfoId": "Kill",
                         "coordinates": {
-                            "x": 185,
+                            "x": 725,
                             "y": 455
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T5L3_20",
+                            "node_T5L3_01"
+                        ],
                         "nodeType": "quest:task",
                         "objectives": {
                             "Kill": {
@@ -2419,10 +2570,13 @@
                     "node_T5L3_10": {
                         "clientInfoId": "HookDifferent",
                         "coordinates": {
-                            "x": 995,
-                            "y": 305
+                            "x": 185,
+                            "y": 455
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T5L3_Start02",
+                            "node_T5L3_01"
+                        ],
                         "nodeType": "quest:task",
                         "objectives": {
                             "HookDifferent": {
@@ -2463,10 +2617,14 @@
                     "node_T5L3_11": {
                         "clientInfoId": "HookMultiple",
                         "coordinates": {
-                            "x": 725,
+                            "x": 1265,
                             "y": 455
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T5L3_20",
+                            "node_T5L3_18",
+                            "node_T5L3_End01"
+                        ],
                         "nodeType": "quest:task",
                         "objectives": {
                             "HookMultiple": {
@@ -2507,13 +2665,17 @@
                     "node_T5L3_12": {
                         "clientInfoId": "EarnEmblemsIridescentInTrial",
                         "coordinates": {
-                            "x": 905,
-                            "y": 455
+                            "x": 635,
+                            "y": 305
                         },
                         "journal": [
                             "Tome05_Hillbilly"
                         ],
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T5L3_05",
+                            "node_T5L3_15",
+                            "node_T5L3_01"
+                        ],
                         "nodeType": "quest:challenge",
                         "objectives": {
                             "EarnEmblemsIridescentInTrial": {
@@ -2547,13 +2709,17 @@
                     "node_T5L3_13": {
                         "clientInfoId": "DiversionUseWithPerkInTrial",
                         "coordinates": {
-                            "x": 815,
+                            "x": 185,
                             "y": 305
                         },
                         "journal": [
                             "Tome05_Observer"
                         ],
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T5L3_14",
+                            "node_T5L3_Start01",
+                            "node_T5L3_06"
+                        ],
                         "nodeType": "quest:challenge",
                         "objectives": {
                             "DiversionUseWithPerkInTrial": {
@@ -2600,13 +2766,16 @@
                     "node_T5L3_14": {
                         "clientInfoId": "EscapeAsAdamInTrial",
                         "coordinates": {
-                            "x": 455,
+                            "x": 365,
                             "y": 305
                         },
                         "journal": [
                             "Tome05_Observer"
                         ],
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T5L3_13",
+                            "node_T5L3_01"
+                        ],
                         "nodeType": "quest:challenge",
                         "objectives": {
                             "EscapeAsCharacterInTrial": {
@@ -2653,13 +2822,17 @@
                     "node_T5L3_15": {
                         "clientInfoId": "EscapeHatchInTrial",
                         "coordinates": {
-                            "x": 635,
+                            "x": 905,
                             "y": 305
                         },
                         "journal": [
                             "Tome05_Observer"
                         ],
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T5L3_12",
+                            "node_T5L3_20",
+                            "node_T5L3_02"
+                        ],
                         "nodeType": "quest:challenge",
                         "objectives": {
                             "EscapeHatchInTrial": {
@@ -2706,7 +2879,10 @@
                         "journal": [
                             "Tome05_Observer"
                         ],
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T5L3_04",
+                            "node_T5L3_07"
+                        ],
                         "nodeType": "quest:challenge",
                         "objectives": {
                             "RepairFinishInTrial": {
@@ -2725,7 +2901,7 @@
                                     {
                                         "operation": ">=",
                                         "parameters": "instigator:me",
-                                        "questEventId": "QuestEvent.RepairFinishInTrial",
+                                        "questEventId": "QuestEvent.RepairFinish",
                                         "repetition": 3
                                     }
                                 ]
@@ -2747,13 +2923,16 @@
                     "node_T5L3_17": {
                         "clientInfoId": "HitWithTinkererInTrial",
                         "coordinates": {
-                            "x": 365,
-                            "y": 5
+                            "x": 815,
+                            "y": 605
                         },
                         "journal": [
                             "Tome05_Hillbilly"
                         ],
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T5L3_18",
+                            "node_T5L3_19"
+                        ],
                         "nodeType": "quest:challenge",
                         "objectives": {
                             "HitWithPerkInTrial": {
@@ -2800,13 +2979,16 @@
                     "node_T5L3_18": {
                         "clientInfoId": "VaultKillerWithBamboozleInTrial",
                         "coordinates": {
-                            "x": 905,
+                            "x": 1085,
                             "y": 605
                         },
                         "journal": [
                             "Tome05_Hillbilly"
                         ],
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T5L3_11",
+                            "node_T5L3_17"
+                        ],
                         "nodeType": "quest:challenge",
                         "objectives": {
                             "VaultKillerWithPerkInTrial": {
@@ -2859,7 +3041,10 @@
                         "journal": [
                             "Tome05_Hillbilly"
                         ],
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T5L3_01",
+                            "node_T5L3_17"
+                        ],
                         "nodeType": "quest:challenge",
                         "objectives": {
                             "HillbillyChainsawInTrial": {
@@ -2906,13 +3091,17 @@
                     "node_T5L3_20": {
                         "clientInfoId": "BreakPalletsGensInTrial",
                         "coordinates": {
-                            "x": 1175,
-                            "y": 305
+                            "x": 905,
+                            "y": 455
                         },
                         "journal": [
                             "Tome05_Hillbilly"
                         ],
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T5L3_15",
+                            "node_T5L3_09",
+                            "node_T5L3_11"
+                        ],
                         "nodeType": "quest:challenge",
                         "objectives": {
                             "BreakPalletsGensInTrial": {
@@ -2956,7 +3145,10 @@
                             "x": 1355,
                             "y": 305
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T5L3_04",
+                            "node_T5L3_11"
+                        ],
                         "nodeType": "narrative"
                     },
                     "node_T5L3_Start01": {
@@ -2965,7 +3157,10 @@
                             "x": 5,
                             "y": 155
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T5L3_13",
+                            "node_T5L3_06"
+                        ],
                         "nodeType": "narrative"
                     },
                     "node_T5L3_Start02": {
@@ -2974,7 +3169,9 @@
                             "x": 5,
                             "y": 455
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T5L3_10"
+                        ],
                         "nodeType": "narrative"
                     }
                 },
@@ -4021,6 +4218,6 @@
             }
         ],
         "rewardData": "Tome05",
-        "version": 9
+        "version": 15
     }
 }

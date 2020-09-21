@@ -84022,6 +84022,147 @@
         "defaultCost": [
             {
                 "currencyId": "Cells",
+                "price": 100
+            }
+        ],
+        "eventCostList": [],
+        "id": "AV_Head02_03",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "AV_Head02_03",
+            "character": "Ace",
+            "kind": "Customization",
+            "newEndDate": "2018-06-25T23:59:59",
+            "newStartDate": "2018-06-12T00:00:00",
+            "outfitId": "AV_outfit02_03",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "Uncommon",
+            "type": "Head",
+            "unbreakable": false,
+            "version": {
+                "dmm": true,
+                "grdk": true,
+                "nintendo": true,
+                "ps4": true,
+                "ps5": true,
+                "psn": true,
+                "stadia": true,
+                "steam": true,
+                "switch": true,
+                "xbox": true,
+                "xsx": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": false,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 100
+            }
+        ],
+        "eventCostList": [],
+        "id": "AV_Torso02_03",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "AV_Torso02_03",
+            "character": "Ace",
+            "kind": "Customization",
+            "newEndDate": "2018-06-25T23:59:59",
+            "newStartDate": "2018-06-12T00:00:00",
+            "outfitId": "AV_outfit02_03",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "Uncommon",
+            "type": "Torso",
+            "unbreakable": false,
+            "version": {
+                "dmm": true,
+                "grdk": true,
+                "nintendo": true,
+                "ps4": true,
+                "ps5": true,
+                "psn": true,
+                "stadia": true,
+                "steam": true,
+                "switch": true,
+                "xbox": true,
+                "xsx": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": false,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 100
+            }
+        ],
+        "eventCostList": [],
+        "id": "AV_Legs02_03",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "AV_Legs02_03",
+            "character": "Ace",
+            "kind": "Customization",
+            "newEndDate": "2018-06-25T23:59:59",
+            "newStartDate": "2018-06-12T00:00:00",
+            "outfitId": "AV_outfit02_03",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "Uncommon",
+            "type": "Legs",
+            "unbreakable": false,
+            "version": {
+                "dmm": true,
+                "grdk": true,
+                "nintendo": true,
+                "ps4": true,
+                "ps5": true,
+                "psn": true,
+                "stadia": true,
+                "steam": true,
+                "switch": true,
+                "xbox": true,
+                "xsx": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": false,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
                 "price": 0
             }
         ],
@@ -103207,6 +103348,28 @@
         },
         "nonSecure": false,
         "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "outfit"
+        ],
+        "consumable": false,
+        "id": "AV_outfit02_03",
+        "metaData": {
+            "character": "Ace",
+            "discountPercentage": 0.1,
+            "items": [
+                "AV_Head02_03",
+                "AV_Torso02_03",
+                "AV_Legs02_03"
+            ],
+            "newEndDate": "2018-06-25T23:59:59",
+            "newStartDate": "2018-06-12T00:00:00",
+            "unbreakable": false
+        },
+        "nonSecure": false,
+        "purchasable": false,
         "unique": true
     }
 ]
