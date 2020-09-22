@@ -6,7 +6,8 @@
                 "xbox",
                 "ps4",
                 "switch",
-                "grdk"
+                "grdk",
+                "stadia"
             ],
             "description": "The Rift closes in less than 24h! Today is your last chance to get Tome IV rewards.",
             "dwnImagePath": "",
@@ -17,7 +18,7 @@
             "title": "Archives &#124; 24h left to Tome IV",
             "type": 4,
             "version": "4.1.0",
-            "weight": 800.0
+            "weight": 805.0
         },
         {
             "contentTags": [
@@ -25,7 +26,8 @@
                 "xbox",
                 "ps4",
                 "switch",
-                "grdk"
+                "grdk",
+                "stadia"
             ],
             "description": "<u><b>The Rift for Tome IV will close on October 7th!</b></u><br/><br/>For those without a Rift Pass&#44; this will be the last chance to unlock it and claim any rewards you&#39;ve earned on the Premium track.<br/><br/>Once the Rift closes the below will come into effect:<br/><li>Challenges&#44; Entries&#44; and Bloodpoints from Tome IV will remain available permanently after this date but no longer award Rift Fragments. Once the next Tome begins&#44; Tome IV will be available in the Compendium section.</li><li>Player Level XP will stop awarding Rift Fragments.</li><li>Unclaimed rewards from the Rift will be automatically claimed on your next launch of the game or tally screen&#44; whichever comes first.</li><br/><br/>Stay tuned for Tome V to arrive with Mid-Chapter 17.5!",
             "dwnImagePath": "",
@@ -36,7 +38,7 @@
             "title": "<b><u>RIFT CLOSES IN 1 WEEK</b></u>",
             "type": 4,
             "version": "4.1.0",
-            "weight": 795.0
+            "weight": 800.0
         },
         {
             "contentTags": [
@@ -44,7 +46,8 @@
                 "xbox",
                 "ps4",
                 "switch",
-                "grdk"
+                "grdk",
+                "stadia"
             ],
             "description": "Level IV of Tome IV is now available! With it comes the below&#58;<br/><li>20 Challenges (incl. 8 Master Challenges)</li><li>8 Memory and Log Entries (including the <b>final entry for The Wraith&#39;s &#34;The Algebra of Infinite Night&#34;</b>)</li><li>More Bloodpoints</li><br/><br/>To access Level IV&#44; you must have reached the Epilogue node of Level III with either role.",
             "dwnImagePath": "",
@@ -63,7 +66,28 @@
                 "xbox",
                 "ps4",
                 "switch",
-                "grdk"
+                "grdk",
+                "stadia"
+            ],
+            "description": "The game client has been updated to the 4.2.1 bugfix.<br/><br/><span class=\"Heading2\">KEY CHANGES:</span><li>Fixed an issue that caused the &#34;heartbeat&#34; sound played for Survivors in the Terror Radius to be much quieter than intended.</li><li>Fixed a number of issues that caused the Huntress&#39; hatchets to have incorrect behavior when server&#45;side hit validation is enabled.</li><li>Fixed an issue that caused Survivors hooked in the basement to appear floating in the air in the floor above the basement.</li><br/><br/>Please see <a href=\"event:https://forum.deadbydaylight.com/en/kb/patchnotes\"><font color=\"#ff0000\"><u>HERE</u></font></a> for detailed patch notes.",
+            "dwnImagePath": "",
+            "imageHeight": "",
+            "imagePath": "",
+            "isHidden": false,
+            "startDate": "2020-09-15T15:00:00",
+            "title": "4.2.1 BUGFIX",
+            "type": 4,
+            "version": "4.2.1",
+            "weight": 786.0
+        },
+        {
+            "contentTags": [
+                "steam",
+                "xbox",
+                "ps4",
+                "switch",
+                "grdk",
+                "stadia"
             ],
             "description": "Oktoberfest is a time of celebration and friendship. Enjoy the good times while they last&#44; the Entity is never far behind.<br/><br/>Now available in the store&#58;<li><b>Felix Richter</b> &#45; Ancestral Roots</li><li><b>Meg Thomas</b> &#45; Oktober Enchantment</li><li><b>Kate Denson</b> &#45; Lady Volksfest</li><br/>Check out the <a href=\"event:https://youtu.be/OjUrmu74Ff0\"><font color=\"#ff0000\"><u>Collection Trailer here.</u></font></a>",
             "dwnImagePath": "",
@@ -82,7 +106,8 @@
                 "xbox",
                 "ps4",
                 "switch",
-                "grdk"
+                "grdk",
+                "stadia"
             ],
             "description": "Let ambition drive you... but tread carefully&#58; the line between ambition and hubris is razor thin. Talbot Grimes &#45; The Blight &#45; was once a bright and ambitious chemist who sought to enhance humanity through the use of his compounds&#44; only to become a victim of his own ambitions. After his research was stolen&#44; The Blight was lured into the Realm of the Entity by the promise of new&#44; forbidden knowledge.<br/><br/>The new Survivor is Felix Richter&#44; an eccentric architect with a unique vision. Returning to the mysterious island where his father had disappeared&#44; Felix descended into the darkness beyond and was never seen again.<br/><br/>The Descend Beyond Chapter includes&#58;<li>A new Killer&#58; The Blight</li><li>A new Survivor&#58; Felix Richter</li><li>An exclusive item for Felix</li><br/><br/>Experience the corruption of The Blight&#44; and the ambitious spirit of Felix Richter with the Descend Beyond Chapter. <br/><br/><i>Please note that there will be a delay between the Descend Beyond characters being available via our in&#45;game store and the full DLC package. Should you purchase a single character via our store; you will not receive the DLC exclusive item. We also remind you that in&#45;game store purchases are non&#45;refundable.</i>",
             "dwnImagePath": "",
@@ -101,7 +126,8 @@
                 "xbox",
                 "ps4",
                 "switch",
-                "grdk"
+                "grdk",
+                "stadia"
             ],
             "description": "Just behind the veil of the thick fog&#44; the Blight is waiting for his victim&#44; dressed to kill.<br/><br/>Now available in the store&#58;<li><b>Felix Richter</b> &#45; Larger Than Life</li><li><b>The Blight</b> &#45; Sophisticated Slaughter</li><br/>Check out the <a href=\"event:https://youtu.be/kATzinm2I70\"><font color=\"#ff0000\"><u>Collection Trailer here.</u></font></a>",
             "dwnImagePath": "",
@@ -120,7 +146,8 @@
                 "xbox",
                 "ps4",
                 "switch",
-                "grdk"
+                "grdk",
+                "stadia"
             ],
             "description": "Welcome to Chapter 17&#33; Please read the below for a quick summary of the new content you&#39;ll find during this update<br/><br/>For a full list of patch notes&#44; <a href=\"event:https://forum.deadbydaylight.com/en/kb/patchnotes\"><font color=\"#ff0000\"><u>click HERE</u></font></a>.<br/><br/><span class=\"Heading2\">NEW CHAPTER</span><li><b>Added new characters&#58;</b> The Blight &#40;Killer&#41; and Felix Richter &#40;Survivor&#41;</li><br/><br/><span class=\"Heading2\">FEATURES &#38; CONTENT</span><li>Visual updates of common in&#45;game objects&#58; Generators&#44; Pallets&#44; Lockers&#44; and Chests</li><li>Visual updates &#38; breakable walls added to some realms&#58; Springwood &#38; Yamaoka Estate</li><li>Appearance rate of these realms is increased for the first week of release</li><li>Added new Offerings affecting Realm&#44; Basement&#44; and Hatch spawns</li>",
             "dwnImagePath": "",
@@ -139,7 +166,8 @@
                 "xbox",
                 "ps4",
                 "switch",
-                "grdk"
+                "grdk",
+                "stadia"
             ],
             "description": "We&#39;ve now increased the Tick Rate of the game from 30 to 60 per second. <li>Players positions in&#45;game will be communicated with the server twice as often&#44; providing more accurate hits for a fairer gameplay experience.</li>",
             "dwnImagePath": "",
@@ -158,7 +186,8 @@
                 "xbox",
                 "ps4",
                 "switch",
-                "grdk"
+                "grdk",
+                "stadia"
             ],
             "description": "Level III of Tome IV is now available! With it comes the below&#58;<br/><li>20 Challenges (incl. 8 Master Challenges)</li><li>8 Memory and Log Entries (including the <b>final entry for Meg Thomas&#39; &#34;Eat Dust&#34;</b>)</li><li>More Bloodpoints</li><br/><br/>To access Level III&#44; you must have reached the Epilogue node of Level II with either role.",
             "dwnImagePath": "",
@@ -177,7 +206,8 @@
                 "xbox",
                 "ps4",
                 "switch",
-                "grdk"
+                "grdk",
+                "stadia"
             ],
             "description": "As a thank you for your continued support and patience while we troubleshoot error codes 111 &#38; 112&#44; log in now for 250k Bloodpoints&#33; These Bloodpoints will have been automatically added after you logged in.",
             "dwnImagePath": "",
@@ -196,7 +226,8 @@
                 "xbox",
                 "ps4",
                 "switch",
-                "grdk"
+                "grdk",
+                "stadia"
             ],
             "description": "We have activated the Hit Validation Beta on the live version of the game. This feature aims to greatly reduce abnormal hits during gameplay. For more details on how this system works&#44; <a href=\"event:https://forum.deadbydaylight.com/en/discussion/185864\"><font color=\"#ff0000\"><u>click here.</u></font></a>",
             "dwnImagePath": "",
@@ -215,7 +246,8 @@
                 "xbox",
                 "ps4",
                 "switch",
-                "grdk"
+                "grdk",
+                "stadia"
             ],
             "description": "The Executioner knows your mind well. He does not hide in the shadows. He&#39;s closer than you think. <br/><br/>Available now:<li><b>The Executioner</b> &#45; Forge Born Set</li><br/><a href=\"event:https://www.youtube.com/watch?v=gVf1xTfWSnY\"><font color=\"#ff0000\"><u>Watch the trailer here!</u></font></a>",
             "dwnImagePath": "",
@@ -249,7 +281,8 @@
                 "xbox",
                 "ps4",
                 "switch",
-                "grdk"
+                "grdk",
+                "stadia"
             ],
             "description": "<b>Cross&#45;Play and Cross&#45;Friends</b> have now arrived in Dead by Daylight&#33;<br/><br/>With both of these active&#44; you can now add friends from across Steam&#44; Windows Store&#44; Xbox One&#44; PS4&#44; and Switch platforms. Players from all these platforms can now appear in your Trials...you never know who will show up when you&#39;re surviving together &#40;or killing&#41; online in the Fog!<br/><br/>Players who wish to keep matchmaking locked to their own platform will be able to opt&#45;out of Cross&#45;Play.",
             "dwnImagePath": "",
@@ -268,7 +301,8 @@
                 "xbox",
                 "ps4",
                 "switch",
-                "grdk"
+                "grdk",
+                "stadia"
             ],
             "description": "With regards to Error 111&#47;112&#44; we apologize that this error is still affecting our players and can assure you it is receiving our attention.<br/><br/>The team is working on finding a solution as a matter of urgency. We have tried to implement a quick fix with our most recent patch&#44; but this didn&#39;t pan out as we had hoped.<br/><br/>Unfortunately&#44; this does mean we won&#39;t be able to fix this for you today. We do not yet have an ETA to share as to when this issue will be resolved.<br/><br/>We know these errors are incredibly frustrating&#44; but rest assured the team are putting all their effort into finding a solution.<br/><br/>Apologies for the situation&#44; and thank you for your patience.",
             "dwnImagePath": "",
@@ -287,7 +321,8 @@
                 "xbox",
                 "ps4",
                 "switch",
-                "grdk"
+                "grdk",
+                "stadia"
             ],
             "description": "Level II of Tome IV is now available! With it comes the below&#58;<br/><li>20 Challenges (incl. 9 Master Challenges)</li><li>9 Memory and Log Entries (including the <b>final entry for Ace Visconti&#39;s &#34;Go For Broke&#34;</b>)</li><li>More Bloodpoints</li><br/><br/>To access Level II&#44; you must have reached the Epilogue node of Level I with either role.",
             "dwnImagePath": "",
@@ -321,7 +356,8 @@
                 "xbox",
                 "ps4",
                 "switch",
-                "grdk"
+                "grdk",
+                "stadia"
             ],
             "description": "Based on reports&#44; data gathered and player feedback&#44; the matchmaking rating system will be disabled at 10AM ET today.<br/><br/>Please stay tuned for further updates.",
             "dwnImagePath": "",
@@ -358,7 +394,8 @@
                 "xbox",
                 "ps4",
                 "switch",
-                "grdk"
+                "grdk",
+                "stadia"
             ],
             "description": "Touched by the powerful influence of the Gods, Feng Min and Jane Romero begin their transformations.<br/><br/>Now available:<li><b>Feng Min</b> &#45; Goddess of Warfare Outfit</li><li><b>Jane Romero</b> &#45; The Goddess Muse Set</li>",
             "dwnImagePath": "",
@@ -395,7 +432,8 @@
                 "xbox",
                 "ps4",
                 "switch",
-                "grdk"
+                "grdk",
+                "stadia"
             ],
             "description": "For The Spirit and Adam Francis, ancient nightmares manifest in the flesh, both eternal and torturous. <br/><br/>Now available:<li><b>The Spirit</b> &#45; Furious Nyx Outfit</li><li><b>Adam Francis</b> &#45; Herald of the Gods Outfit</li><br/>Watch the <a href=\"event:https://youtu.be/gg5Ubv1roQc\"><font color=\"#ff0000\"><u>Collection Trailer</u></font></a> to discover the upcoming store releases.",
             "dwnImagePath": "",
@@ -414,7 +452,8 @@
                 "xbox",
                 "ps4",
                 "switch",
-                "grdk"
+                "grdk",
+                "stadia"
             ],
             "description": "The new matchmaking system is now activated on PC and Consoles.<br/><br/><a href=\"event:https://forum.deadbydaylight.com/en/discussion/173606/\"><font color=\"#ff0000\"><u>Click here</u></font></a> for more information.",
             "dwnImagePath": "",
@@ -433,7 +472,8 @@
                 "xbox",
                 "ps4",
                 "switch",
-                "grdk"
+                "grdk",
+                "stadia"
             ],
             "description": "The new forms given to The Oni and David King emerged from the labyrinthian Fog, forged in the most primordial of the elements: pain.<br/><br/>Now available:<li><b>The Oni</b> &#45; The Minotaur Set</li><li><b>David King</b> &#45; Champion of Olympus Outfit</li><br/>Watch the <a href=\"event:https://youtu.be/gg5Ubv1roQc\"><font color=\"#ff0000\"><u>Collection Trailer</u></font></a> to discover the upcoming store releases.",
             "dwnImagePath": "",
@@ -467,7 +507,8 @@
                 "xbox",
                 "ps4",
                 "switch",
-                "grdk"
+                "grdk",
+                "stadia"
             ],
             "description": "The Archives returns with a new Tome&#44; CONVICTION&#44; containing new Challenges&#44; new stories&#44; and new rewards. Explore the memories of The Wraith&#44; Meg Thomas&#44; The Hag&#44; and Ace Visconti while earning memorable outfits and cosmetics.<br/><br/>Dive deeper into Tome IV&#39;s characters with the <a href=\"event:https://www.youtube.com/watch?v=x64KNX-_Hwg\"><font color=\"#ff0000\"><u><b>Tome Trailer</b></u></font></a> & <a href=\"event:https://www.youtube.com/watch?v=oLlMpXv5i4o\"><font color=\"#ff0000\"><b><u>Rift Trailer</u></b></font></a>.<br/><br/><span class=\"Heading2\">Level Release Schedule</span><br/><li>Level I&#58; July 29th 2020</li><li>Level II&#58; August 12th 2020</li><li>Level III&#58; August 26th 2020</li><li>Level IV&#58; September 16th 2020</li><br/><br/><i>Please note these release dates are subject to change. All Previously unlocked levels will remain available once released but will stop providing Rift Fragments once the relevant Rift has expired.</i><br/><br/><span class=\"Heading2\"><font color=\"#FFD700\">LIMITED TIME SALE</font></span><br/>30% off the below featured characters for Tome IV<br/><li>Ace Visconti &#45; <font color=\"#FFD700\">350 AC</font> (was 500)</li><li>The Hag &#45; <font color=\"#FFD700\">350 AC</font> (was 500)</li><br/><br/>Discount ends August 5th",
             "dwnImagePath": "",
@@ -486,7 +527,8 @@
                 "xbox",
                 "ps4",
                 "switch",
-                "grdk"
+                "grdk",
+                "stadia"
             ],
             "description": "The Disconnection Penalties have now been re-activated on all platforms.",
             "dwnImagePath": "",
@@ -505,7 +547,8 @@
                 "xbox",
                 "ps4",
                 "switch",
-                "grdk"
+                "grdk",
+                "stadia"
             ],
             "description": "As if summoned from the worlds of old, The Clown and Yui Kimura find themselves remade in the image of the Gods.<br/><br/>Watch the <a href=\"event:https://youtu.be/gg5Ubv1roQc\"><font color=\"#ff0000\"><u>Collection Trailer</u></font></a> and discover the power of the Gods.<br/><br/>Now available:<li><b>The Clown</b> &#45; Lord of the Underworld Set</li><li><b>Yui Kimura</b> &#45; Goddess of Victory Outfit</li>",
             "dwnImagePath": "",
@@ -524,7 +567,8 @@
                 "xbox",
                 "ps4",
                 "switch",
-                "grdk"
+                "grdk",
+                "stadia"
             ],
             "description": "For complete list of changes and bug fixes please visit <a href=\"event:https://forum.deadbydaylight.com/en/kb/patchnotes\"><font color=\"#ff0000\"><u>forum.deadbydaylight.com/en/kb/patchnotes</u></font></a><br/><br/><span class=\"Heading2\">FEATURES</span><li>Added a Promo Code System to the Store</li><br/><span class=\"Heading2\">BALANCE</span><br/><b>The Cannibal:</b><br/><b>Power Changes</b><br/>Added Chainsaw Sweep charges. Using the Chainsaw will consume a charge and trigger a Chainsaw Sweep. During this time&#44; The Cannibal can extend the Chainsaw Sweep by pressing the power button before the power bar fully depletes. The more charges are used&#44; the longer the miss cooldown / tantrum (if colliding with obstacles). <br/><br/>Furthermore&#44; if The Cannibal revs the chainsaw for too long&#44; a tantrum is automatically triggered for the base duration of 5 seconds.<br/><br/>When a tantrum is triggered&#44; all remaining charges are consumed. The tantrum meter will pause as soon as the power button is released and will start going down when the chainsaw is put away.<br/><br/><b>Add&#45;ons:</b> Updated most of his add&#45;ons.<br/><br/><b>The Hillbilly:</b><br/><b>Power Changes</b><br/>Added the overheat mechanic. Using the chainsaw will now build up heat. When reaching the maximum amount of heat&#44; the chainsaw overheats and cannot be used until it has cooled off. If the heat meter fills up&#44; the chainsaw overheats.  If the chainsaw overheats during a chainsaw sprint: <li>The sprint is not interrupted</li><li>The chainsaw goes through the cooldown phase after the sprint has ended</li><br/><br/>The heat meter will pause as soon as the power button is released and will start going down when the chainsaw is put away. Furthermore&#44; the heat meter does not progress during The Hillbilly&#39;s various cooldown phases. This includes a chainsaw miss&#44; a chainsaw hit and colliding with an obstacle. <br/><b>Add&#45;ons:</b> Updated most of his add&#45;ons.<br/><br/><b>Perk Updates</b><li>Franklin&#39;s Demise: Instead of the item losing charges when dropped&#44; the Entity will consume the item after <b>150/120/90</b> seconds if it is not picked up. Additionally&#44; Franklin&#39;s Demise will reveal the aura of items on the ground within <b>32/32/32</b> meters</li><li>Knock Out: Now triggers on basic attacks only. Additionally&#44; Survivors put in the dying state by your basic attacks will crawl <b>50/50/50&#37;</b> slower for <b>15/15/15</b> seconds. During this time&#44; they are affected by the Blindness status effect.</li><li>Lightborn: Grants immunity to blindness caused by flashlights and firecrackers. Survivors that attempt blinding you have their aura revealed for <b>6/8/10</b> seconds.</li><li>Tinkerer: Now triggers at <b>70/70/70&#37;</b> (down from 85&#37;) and grants the Undetectable status effect for <b>12/14/16</b> seconds (up from 8/10/12) </li><br/><span class=\"Heading2\">BUG FIXES</span><br/>Various bug fixes. For complete list please visit <a href=\"event:https://forum.deadbydaylight.com/en/kb/patchnotes\"><font color=\"#ff0000\"><u>forum.deadbydaylight.com/en/kb/patchnotes</u></font></a>",
             "dwnImagePath": "",
@@ -543,7 +587,8 @@
                 "xbox",
                 "ps4",
                 "switch",
-                "grdk"
+                "grdk",
+                "stadia"
             ],
             "description": "There are two kinds of art therapy: one is expensive and the other is free.<br/><br/>Now available in the store:<li><b>Nea Karlsson:</b> Graff-Crafter</li>",
             "dwnImagePath": "",
@@ -562,7 +607,8 @@
                 "xbox",
                 "ps4",
                 "switch",
-                "grdk"
+                "grdk",
+                "stadia"
             ],
             "description": "The Dead by Daylight team would like your feedback in a Gaming Habits survey.<br/><br/>We encourage you to be as honest as possible. The information and answers provided are anonymous, not shared with any third-party, and will not be used for purposes other than survey analysis.<br/><br/><a href=\"event:https://www.surveymonkey.com/r/VZX58N8\"><font color=\"#ff0000\"><u>Access the survey HERE!</u></font></a>",
             "dwnImagePath": "",
@@ -581,7 +627,8 @@
                 "xbox",
                 "ps4",
                 "switch",
-                "grdk"
+                "grdk",
+                "stadia"
             ],
             "description": "With nothing holding him back, the open road became more of a home than the West Coast ever had.<br/><br/>Now available in the store:<li><b>Jeff Johansen:</b> Unhinged Rider</li>",
             "dwnImagePath": "",
