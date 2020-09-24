@@ -1,21 +1,7 @@
 {
     "items": [
         {
-            "id": "Gearhead",
-            "bloodpointValue": 250000,
-            "experienceValue": 250000,
-            "unique": false,
-            "purchased": false,
-            "version": "steam",
-            "cost": [
-                {
-                    "currencyId": "Shards",
-                    "price": 2700
-                }
-            ]
-        },
-        {
-            "id": "Hex_Devour_Hope",
+            "id": "Hex_HauntedGround",
             "bloodpointValue": 150000,
             "experienceValue": 150000,
             "unique": false,
@@ -29,21 +15,35 @@
             ]
         },
         {
-            "id": "RedHerring",
-            "bloodpointValue": 250000,
-            "experienceValue": 250000,
+            "id": "Leader",
+            "bloodpointValue": 150000,
+            "experienceValue": 150000,
             "unique": false,
             "purchased": false,
             "version": "steam",
             "cost": [
                 {
                     "currencyId": "Shards",
-                    "price": 2700
+                    "price": 2000
                 }
             ]
         },
         {
-            "id": "Up_The_Ante",
+            "id": "Shadowborn",
+            "bloodpointValue": 150000,
+            "experienceValue": 150000,
+            "unique": false,
+            "purchased": false,
+            "version": "steam",
+            "cost": [
+                {
+                    "currencyId": "Shards",
+                    "price": 2000
+                }
+            ]
+        },
+        {
+            "id": "Urban_Evasion",
             "bloodpointValue": 150000,
             "experienceValue": 150000,
             "unique": false,
@@ -57,7 +57,7 @@
             ]
         }
     ],
-    "startDate": "2020-09-16T00:00:00",
-    "endDate": "2020-09-22T23:59:59",
-    "week": 205
+    "startDate": "2020-09-23T00:00:00",
+    "endDate": "2020-09-29T23:59:59",
+    "week": 206
 }

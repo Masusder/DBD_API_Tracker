@@ -15,17 +15,21 @@
         "keyName": "MATCHMAKING_INCENTIVE_CONFIG"
     },
     {
-        "value": "false",
+        "value": "true",
         "keyName": "MATCHMAKING_ALLOW_CROSSPLAY"
     },
     {
-        "value": "14400",
+        "value": "true",
+        "keyName": "NETCONNECTION_CLAMP_TO_AVERAGE_FRAMERATE"
+    },
+    {
+        "value": "10",
         "keyName": "SOCIAL_PLATFORM_FRIENDLIST_QUERY_RATE"
     },
     {
         "value": {
             "ps4": true,
-            "stadia": false,
+            "stadia": true,
             "grdk": true,
             "android": false,
             "steam": true,
@@ -76,7 +80,7 @@
         "keyName": "offenceCategories"
     },
     {
-        "value": "false",
+        "value": "true",
         "keyName": "SEGMENTATION_V2_ENABLED"
     },
     {
@@ -220,7 +224,7 @@
         "keyName": "CLIENT_VERSION"
     },
     {
-        "value": "300",
+        "value": "600",
         "keyName": "RICH_PRESENCE_SERVER_TIMER_RATE"
     },
     {
@@ -299,6 +303,10 @@
             "scenarioId": "m_3.6.0_282086ptb"
         },
         "keyName": "clientData"
+    },
+    {
+        "value": "NetworkError",
+        "keyName": "KRAKEN_REQUEST_ANALYTICS_LEVEL"
     },
     {
         "value": {
@@ -511,6 +519,7 @@
             "4.2.0_333833ptb": "4.2.0_333833ptb-1597761677",
             "4.2.0_346626ptb": "4.2.0_346626ptb-1600464391",
             "4.2.0_347092ptb": "4.2.0_347092ptb-1600723778",
+            "4.2.0_348145ptb": "4.2.0_348145ptb-1600900431",
             "m_3.3.5_260791ptb": "m_3.3.5_260791ptb-1578947417",
             "m_3.3.5_281807ptb": "m_3.3.5_281807ptb-1584119023",
             "m_3.6.0_282086ptb": "m_3.6.0_282086ptb-1585750969"
@@ -520,7 +529,7 @@
     {
         "value": {
             "ps4": true,
-            "stadia": false,
+            "stadia": true,
             "grdk": true,
             "android": false,
             "steam": true,
@@ -531,11 +540,11 @@
         "keyName": "SOCIAL_CROSSFRIENDS_PLATFORMS"
     },
     {
-        "value": "5",
+        "value": "10",
         "keyName": "FRAME_HIKE_THRESHOLD"
     },
     {
-        "value": "300",
+        "value": "600",
         "keyName": "RICH_PRESENCE_PLAYER_TIMER_RATE"
     },
     {
