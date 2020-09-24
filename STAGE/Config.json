@@ -23,7 +23,11 @@
         "keyName": "MATCHMAKING_ALLOW_CROSSPLAY"
     },
     {
-        "value": "14400",
+        "value": "true",
+        "keyName": "NETCONNECTION_CLAMP_TO_AVERAGE_FRAMERATE"
+    },
+    {
+        "value": "10",
         "keyName": "SOCIAL_PLATFORM_FRIENDLIST_QUERY_RATE"
     },
     {
@@ -93,6 +97,10 @@
                         "label": "Steam"
                     },
                     {
+                        "data": "stadia",
+                        "label": "Stadia"
+                    },
+                    {
                         "data": "grdk",
                         "label": "Windows Store"
                     },
@@ -127,14 +135,6 @@
                     {
                         "data": "ios",
                         "label": "iOS"
-                    },
-                    {
-                        "data": "google",
-                        "label": "Google"
-                    },
-                    {
-                        "data": "facebook",
-                        "label": "Facebook"
                     }
                 ],
                 "label": "Mobile"
@@ -143,7 +143,7 @@
         "keyName": "AVAILABLE_PLATFORMS"
     },
     {
-        "value": "false",
+        "value": "true",
         "keyName": "GAME_CLIENT_VERSION_CHECK_ENABLED"
     },
     {
@@ -164,6 +164,7 @@
                 "GameEventLogAnalytics",
                 "GameInitAnalytics",
                 "InvalidLoadoutAnalytics",
+                "KrakenRequestAnalytics",
                 "LogMirrorsAnalytics",
                 "RTMAnalytics",
                 "S3CommandAnalytics",
@@ -291,21 +292,26 @@
     },
     {
         "value": {
-            "retentionRewardId": "3.6.2_287302stage",
-            "achievementId": "3.6.2_287302stage",
-            "leaderboardId": "3.6.2_287302stage",
-            "gameContentId": "3.6.2_287302stage",
-            "statesPermissionsId": "3.6.2_287302stage",
-            "lootTableId": "3.6.2_287302stage",
-            "consentId": "3.6.2_287302stage",
-            "catalogId": "3.6.2_287302stage",
-            "actionId": "3.6.2_287302stage",
-            "subscriptionId": "3.6.2_287302stage",
-            "currencyId": "3.6.2_287302stage",
-            "actionQueueId": "3.6.2_287302stage",
-            "scenarioId": "3.6.2_287302stage"
+            "retentionRewardId": "4.2.0_347709stage",
+            "referralId": "4.2.0_347709stage",
+            "achievementId": "4.2.0_347709stage",
+            "leaderboardId": "4.2.0_347709stage",
+            "gameContentId": "4.2.0_347709stage",
+            "statesPermissionsId": "4.2.0_347709stage",
+            "lootTableId": "4.2.0_347709stage",
+            "consentId": "4.2.0_347709stage",
+            "catalogId": "4.2.0_347709stage",
+            "actionId": "4.2.0_347709stage",
+            "subscriptionId": "4.2.0_347709stage",
+            "currencyId": "4.2.0_347709stage",
+            "actionQueueId": "4.2.0_347709stage",
+            "scenarioId": "4.2.0_347709stage"
         },
         "keyName": "clientData"
+    },
+    {
+        "value": "NetworkError",
+        "keyName": "KRAKEN_REQUEST_ANALYTICS_LEVEL"
     },
     {
         "value": {
@@ -488,7 +494,12 @@
             "4.1.0_323857stage": "4.1.0_323857stage-1595446931",
             "4.1.0_323892stage": "4.1.0_323892stage-1595448479",
             "4.2.0_332485stage": "4.2.0_332485stage-1597420042",
-            "4.2.0_338608stage": "4.2.0_338608stage-1598635210"
+            "4.2.0_338608stage": "4.2.0_338608stage-1598635210",
+            "4.2.0_346594stage": "4.2.0_346594stage-1600460600",
+            "4.2.0_347709stage": "4.2.0_347709stage-1600835255",
+            "4.2.0_347875stage": "4.2.0_347875stage-1600879302",
+            "4.2.0_348009stage": "4.2.0_348009stage-1600888339",
+            "4.2.0_348145stage": "4.2.0_348145stage-1600900533"
         },
         "keyName": "VER_CLIENT_DATA"
     },

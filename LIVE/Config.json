@@ -19,6 +19,10 @@
         "keyName": "MATCHMAKING_ALLOW_CROSSPLAY"
     },
     {
+        "value": "true",
+        "keyName": "NETCONNECTION_CLAMP_TO_AVERAGE_FRAMERATE"
+    },
+    {
         "value": "10",
         "keyName": "SOCIAL_PLATFORM_FRIENDLIST_QUERY_RATE"
     },
@@ -292,22 +296,7 @@
         "keyName": "CDN_ROOT_FOLDER_PATH"
     },
     {
-        "value": {
-            "retentionRewardId": "4.2.0_342377live",
-            "referralId": "4.2.0_342377live",
-            "achievementId": "4.2.0_342377live",
-            "leaderboardId": "4.2.0_342377live",
-            "gameContentId": "4.2.0_342377live",
-            "statesPermissionsId": "4.2.0_342377live",
-            "lootTableId": "4.2.0_342377live",
-            "consentId": "4.2.0_342377live",
-            "catalogId": "4.2.0_342377live",
-            "actionId": "4.2.0_342377live",
-            "subscriptionId": "4.2.0_342377live",
-            "currencyId": "4.2.0_342377live",
-            "actionQueueId": "4.2.0_342377live",
-            "scenarioId": "4.2.0_342377live"
-        },
+        "value": {},
         "keyName": "clientData"
     },
     {
@@ -583,6 +572,7 @@
             "4.2.0_343640live": "4.2.0_343640live-1599834188",
             "4.2.0_344229live": "4.2.0_344229live-1600106594",
             "4.2.0_347029live": "4.2.0_347029live-1600718590",
+            "4.2.0_347967live": "4.2.0_347967live-1600887268",
             "m_3.0.2_219921live": "m_3.0.2_219921live-1566230507",
             "m_3.0.3_241022live": "m_3.0.3_241022live-1572449159",
             "m_3.3.3_220000live": "m_3.3.3_220000live-1574880017",
@@ -665,7 +655,8 @@
             "m_3.7.4_339025live": "m_3.7.4_339025live-1598889703",
             "m_3.7.4_341483live": "m_3.7.4_341483live-1599234997",
             "m_3.7.4_344650live": "m_3.7.4_344650live-1600183603",
-            "m_3.7.4_346923live": "m_3.7.4_346923live-1600711448"
+            "m_3.7.4_346923live": "m_3.7.4_346923live-1600711448",
+            "m_3.7.4_347791live": "m_3.7.4_347791live-1600873971"
         },
         "keyName": "VER_CLIENT_DATA"
     },

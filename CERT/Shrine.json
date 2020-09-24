@@ -1,7 +1,7 @@
 {
     "items": [
         {
-            "id": "Bamboozle",
+            "id": "Hex_HauntedGround",
             "bloodpointValue": 150000,
             "experienceValue": 150000,
             "unique": false,
@@ -15,7 +15,7 @@
             ]
         },
         {
-            "id": "FlipFlop",
+            "id": "Leader",
             "bloodpointValue": 150000,
             "experienceValue": 150000,
             "unique": false,
@@ -29,7 +29,7 @@
             ]
         },
         {
-            "id": "Madgrit",
+            "id": "Shadowborn",
             "bloodpointValue": 150000,
             "experienceValue": 150000,
             "unique": false,
@@ -43,7 +43,7 @@
             ]
         },
         {
-            "id": "Technician",
+            "id": "Urban_Evasion",
             "bloodpointValue": 150000,
             "experienceValue": 150000,
             "unique": false,
@@ -57,7 +57,7 @@
             ]
         }
     ],
-    "startDate": "2020-09-09T00:00:00",
-    "endDate": "2020-09-15T23:59:59",
-    "week": 204
+    "startDate": "2020-09-23T00:00:00",
+    "endDate": "2020-09-29T23:59:59",
+    "week": 206
 }

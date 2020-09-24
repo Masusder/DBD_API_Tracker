@@ -15,11 +15,15 @@
         "keyName": "MATCHMAKING_INCENTIVE_CONFIG"
     },
     {
-        "value": "false",
+        "value": "true",
         "keyName": "MATCHMAKING_ALLOW_CROSSPLAY"
     },
     {
-        "value": "14400",
+        "value": "true",
+        "keyName": "NETCONNECTION_CLAMP_TO_AVERAGE_FRAMERATE"
+    },
+    {
+        "value": "10",
         "keyName": "SOCIAL_PLATFORM_FRIENDLIST_QUERY_RATE"
     },
     {
@@ -93,6 +97,10 @@
                         "label": "Steam"
                     },
                     {
+                        "data": "stadia",
+                        "label": "Stadia"
+                    },
+                    {
                         "data": "grdk",
                         "label": "Windows Store"
                     },
@@ -127,14 +135,6 @@
                     {
                         "data": "ios",
                         "label": "iOS"
-                    },
-                    {
-                        "data": "google",
-                        "label": "Google"
-                    },
-                    {
-                        "data": "facebook",
-                        "label": "Facebook"
                     }
                 ],
                 "label": "Mobile"
@@ -147,7 +147,7 @@
         "keyName": "GAME_CLIENT_VERSION_CHECK_ENABLED"
     },
     {
-        "value": "10",
+        "value": "25",
         "keyName": "FRAME_HIKE_ANALYTIC_LOG_BUFFER_SIZE"
     },
     {
@@ -163,6 +163,7 @@
                 "GameEventLogAnalytics",
                 "GameInitAnalytics",
                 "InvalidLoadoutAnalytics",
+                "KrakenRequestAnalytics",
                 "LogMirrorsAnalytics",
                 "S3CommandAnalytics",
                 "S3CommandErrorAnalytics",
@@ -305,6 +306,10 @@
             "scenarioId": "4.2.0_334183cert"
         },
         "keyName": "clientData"
+    },
+    {
+        "value": "NetworkError",
+        "keyName": "KRAKEN_REQUEST_ANALYTICS_LEVEL"
     },
     {
         "value": {
@@ -504,14 +509,15 @@
             "4.1.0_322515cert": "4.1.0_322515cert-1595033901",
             "4.1.0_329783cert": "4.1.0_329783cert-1596812615",
             "4.2.0_332485cert": "4.2.0_332485cert-1597419917",
-            "4.2.0_334183cert": "4.2.0_334183cert-1597792782"
+            "4.2.0_334183cert": "4.2.0_334183cert-1597792782",
+            "4.2.0_348145cert": "4.2.0_348145cert-1600900648"
         },
         "keyName": "VER_CLIENT_DATA"
     },
     {
         "value": {
             "ps4": true,
-            "stadia": false,
+            "stadia": true,
             "grdk": true,
             "android": false,
             "steam": true,
@@ -522,7 +528,7 @@
         "keyName": "SOCIAL_CROSSFRIENDS_PLATFORMS"
     },
     {
-        "value": "5",
+        "value": "10",
         "keyName": "FRAME_HIKE_THRESHOLD"
     },
     {
