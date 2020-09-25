@@ -31,10 +31,12 @@
             "ps4": true,
             "stadia": true,
             "grdk": true,
+            "ps5": true,
             "android": false,
             "steam": true,
             "xbox": true,
             "ios": false,
+            "xsx": true,
             "switch": true
         },
         "keyName": "MATCHMAKING_CROSSPLAY_PLATFORMS"
@@ -318,10 +320,12 @@
             "ps4": false,
             "stadia": false,
             "grdk": false,
+            "ps5": false,
             "android": false,
             "steam": false,
             "xbox": false,
             "ios": false,
+            "xsx": false,
             "switch": false
         },
         "keyName": "SOCIAL_CROSSPROGRESSION_PLATFORMS"
@@ -615,6 +619,7 @@
             "4.3.0_347622qa": "4.3.0_347622qa-1600810526",
             "4.3.0_348077qa": "4.3.0_348077qa-1600893898",
             "4.3.0_348107qa": "4.3.0_348107qa-1600896952",
+            "4.3.0_348558qa": "4.3.0_348558qa-1600979186",
             "edule_3.4.0_0qa": "edule_3.4.0_0qa-1576698389",
             "m_3.0.2_220683qa": "m_3.0.2_220683qa-1566333505",
             "m_3.0.3_240244qa": "m_3.0.3_240244qa-1572275329",
@@ -730,7 +735,8 @@
             "m_3.7.3_347103qa": "m_3.7.3_347103qa-1600724188",
             "m_3.7.3_347622qa": "m_3.7.3_347622qa-1600810731",
             "m_3.7.3_348077qa": "m_3.7.3_348077qa-1600896662",
-            "m_3.7.3_348143qa": "m_3.7.3_348143qa-1600900263"
+            "m_3.7.3_348143qa": "m_3.7.3_348143qa-1600900263",
+            "m_3.7.3_348558qa": "m_3.7.3_348558qa-1600979455"
         },
         "keyName": "VER_CLIENT_DATA"
     },
@@ -739,10 +745,12 @@
             "ps4": true,
             "stadia": true,
             "grdk": true,
+            "ps5": true,
             "android": false,
             "steam": true,
             "xbox": true,
             "ios": false,
+            "xsx": true,
             "switch": true
         },
         "keyName": "SOCIAL_CROSSFRIENDS_PLATFORMS"
