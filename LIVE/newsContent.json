@@ -49,6 +49,46 @@
                 "grdk",
                 "stadia"
             ],
+            "description": "Cybil found more than she bargained for when she ventured into the fog and the terror that is Silent Hill.<br/><br/>Now available in the store&#58;<li><b>Cheryl Mason</b> &#45; Cybil Bennett</li><br/>Check out the <a href=\"event:https://youtu.be/unmExqm36fg\"><font color=\"#ff0000\"><u>Collection Trailer here.</u></font></a>",
+            "dwnImagePath": "",
+            "imageHeight": "",
+            "imagePath": "UI/Icons/NewContentSplash/splashBanner_YC.png",
+            "isHidden": false,
+            "startDate": "2020-09-25T15:00:00",
+            "title": "<u>SILENT HILL LEGENDS COLLECTION</u>",
+            "type": 2,
+            "version": "4.2.0",
+            "weight": 793.0
+        },
+        {
+            "contentTags": [
+                "steam",
+                "xbox",
+                "ps4",
+                "switch",
+                "grdk",
+                "stadia"
+            ],
+            "description": "The game client has been updated to the 4.2.2 bugfix.<br/><br/><span class=\"Heading2\">KEY CHANGES&#58;</span><li>Fixed an issue that may cause hooking survivors&#44; breaking pallets and damaging generators to stop shortly after pressing the input</li><li>Fixed an issue that may cause movement stutters due to network latency</li><li>Fixed an issue that caused stun durations to be inconsistent across killers</li><br/><br/>Please see <a href=\"event:https://forum.deadbydaylight.com/en/kb/articles/238-4-2-2-bugfix-patch\"><font color=\"#ff0000\"><u>HERE</u></font></a> for detailed patch notes.",
+            "dwnImagePath": "",
+            "imageHeight": "",
+            "imagePath": "",
+            "isHidden": false,
+            "startDate": "2020-09-24T15:00:00",
+            "title": "4.2.2 BUGFIX",
+            "type": 4,
+            "version": "4.2.2",
+            "weight": 791.0
+        },
+        {
+            "contentTags": [
+                "steam",
+                "xbox",
+                "ps4",
+                "switch",
+                "grdk",
+                "stadia"
+            ],
             "description": "Level IV of Tome IV is now available! With it comes the below&#58;<br/><li>20 Challenges (incl. 8 Master Challenges)</li><li>8 Memory and Log Entries (including the <b>final entry for The Wraith&#39;s &#34;The Algebra of Infinite Night&#34;</b>)</li><li>More Bloodpoints</li><br/><br/>To access Level IV&#44; you must have reached the Epilogue node of Level III with either role.",
             "dwnImagePath": "",
             "imageHeight": "",
@@ -600,46 +640,6 @@
             "type": 2,
             "version": "4.0.2",
             "weight": 742.0
-        },
-        {
-            "contentTags": [
-                "steam",
-                "xbox",
-                "ps4",
-                "switch",
-                "grdk",
-                "stadia"
-            ],
-            "description": "The Dead by Daylight team would like your feedback in a Gaming Habits survey.<br/><br/>We encourage you to be as honest as possible. The information and answers provided are anonymous, not shared with any third-party, and will not be used for purposes other than survey analysis.<br/><br/><a href=\"event:https://www.surveymonkey.com/r/VZX58N8\"><font color=\"#ff0000\"><u>Access the survey HERE!</u></font></a>",
-            "dwnImagePath": "",
-            "imageHeight": "",
-            "imagePath": "",
-            "isHidden": false,
-            "startDate": "2020-07-20T18:00:00",
-            "title": "GAMING HABITS SURVEY",
-            "type": 4,
-            "version": "4.0.2",
-            "weight": 740.0
-        },
-        {
-            "contentTags": [
-                "steam",
-                "xbox",
-                "ps4",
-                "switch",
-                "grdk",
-                "stadia"
-            ],
-            "description": "With nothing holding him back, the open road became more of a home than the West Coast ever had.<br/><br/>Now available in the store:<li><b>Jeff Johansen:</b> Unhinged Rider</li>",
-            "dwnImagePath": "",
-            "imageHeight": "",
-            "imagePath": "UI/Icons/NewContentSplash/splashBanner_WKS.png",
-            "isHidden": false,
-            "startDate": "2020-07-17T15:00:00",
-            "title": "MAD ROAD COLLECTION",
-            "type": 2,
-            "version": "4.0.2",
-            "weight": 736.0
         }
     ]
 }
