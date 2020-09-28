@@ -2068,7 +2068,7 @@
                                         "operation": ">=",
                                         "parameters": "instigator:meTime:30",
                                         "questEventId": "QuestEvent.HillbillyChainsawConsecutive",
-                                        "repetition": 4
+                                        "repetition": 2
                                     }
                                 ]
                             }
@@ -2405,7 +2405,7 @@
                                     }
                                 ],
                                 "incrementWithEventRepetitions": true,
-                                "neededProgression": 30000,
+                                "neededProgression": 800,
                                 "objectiveId": "HealOtherPerc",
                                 "questEvent": [
                                     {
@@ -4244,6 +4244,6 @@
             }
         ],
         "rewardData": "Tome05",
-        "version": 18
+        "version": 19
     }
 }
