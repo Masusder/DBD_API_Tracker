@@ -1293,7 +1293,7 @@
                                     {
                                         "operation": ">=",
                                         "parameters": "instigator:me",
-                                        "questEventId": "QuestEvent.UnhookProtectionHit",
+                                        "questEventId": "QuestEvent.Escape",
                                         "repetition": 1
                                     }
                                 ]
@@ -1331,7 +1331,7 @@
                                     {
                                         "key": "role",
                                         "value": [
-                                            "survivor"
+                                            "killer"
                                         ]
                                     }
                                 ],
@@ -1675,7 +1675,7 @@
                                     {
                                         "key": "perk",
                                         "value": [
-                                            "BalancedLanding"
+                                            "Balanced_Landing"
                                         ]
                                     }
                                 ],
@@ -1731,7 +1731,7 @@
                                     {
                                         "key": "perk",
                                         "value": [
-                                            "UrbanEvasion"
+                                            "Urban_Evasion"
                                         ]
                                     }
                                 ],
@@ -1849,7 +1849,7 @@
                                     {
                                         "operation": ">=",
                                         "parameters": "instigator:me",
-                                        "questEventId": "QuestEvent.PalletStunInTrial",
+                                        "questEventId": "QuestEvent.PalletStun",
                                         "repetition": 3
                                     }
                                 ]
@@ -1954,7 +1954,6 @@
                                 "questEvent": [
                                     {
                                         "operation": ">=",
-                                        "parameters": "instigator:me",
                                         "questEventId": "QuestEvent.Down",
                                         "repetition": 6
                                     }
@@ -2219,7 +2218,7 @@
                                 "questEvent": [
                                     {
                                         "operation": ">=",
-                                        "parameters": "instigator:other",
+                                        "parameters": "instigator:me",
                                         "questEventId": "QuestEvent.CleanseFinish",
                                         "repetition": 1
                                     }
@@ -2856,7 +2855,7 @@
                                     {
                                         "operation": ">=",
                                         "parameters": "instigator:me",
-                                        "questEventId": "QuestEvent.EscapeHach",
+                                        "questEventId": "QuestEvent.EscapeHatch",
                                         "repetition": 1
                                     }
                                 ]
@@ -3914,7 +3913,7 @@
                                     {
                                         "operation": ">=",
                                         "parameters": "instigator:me",
-                                        "questEventId": "QuestEvent.UnhookSelfWithDeliveranceInTrial",
+                                        "questEventId": "QuestEvent.UnhookSelf",
                                         "repetition": 1
                                     }
                                 ]
@@ -4074,7 +4073,7 @@
                                 "questEvent": [
                                     {
                                         "operation": "<=",
-                                        "questEventId": "QuestEvent.ClownBottleHitInTrial",
+                                        "questEventId": "QuestEvent.ClownBottleHit",
                                         "repetition": 6
                                     }
                                 ]
@@ -4129,7 +4128,7 @@
                                 "questEvent": [
                                     {
                                         "operation": ">=",
-                                        "questEventId": "QuestEvent.ClownBottleDirectHitInTrial",
+                                        "questEventId": "QuestEvent.ClownBottleDirectHit",
                                         "repetition": 2
                                     }
                                 ]
@@ -4185,7 +4184,7 @@
                                     {
                                         "operation": ">=",
                                         "parameters": "instigator:me",
-                                        "questEventId": "QuestEvent.BreakGensWithPopGoesTheWeaselInTrial",
+                                        "questEventId": "QuestEvent.BreakGens",
                                         "repetition": 8
                                     }
                                 ]

@@ -40350,52 +40350,6 @@
                 "price": 400
             },
             {
-                "currencyId": "Shards",
-                "price": 7200
-            }
-        ],
-        "eventCostList": [],
-        "id": "TR_Mask007",
-        "initialQuantity": 0,
-        "metaData": {
-            "base_itemId": "TR_Mask007",
-            "character": "Chuckles",
-            "kind": "Customization",
-            "newEndDate": "2019-05-08T14:59:59",
-            "newStartDate": "2019-04-24T15:00:00",
-            "quality": "V0",
-            "qualityName": "quality1",
-            "rarity": "VeryRare",
-            "type": "Head",
-            "version": {
-                "grdk": true,
-                "nintendo": true,
-                "ps4": true,
-                "psn": true,
-                "stadia": true,
-                "steam": true,
-                "switch": true,
-                "xbox": true
-            }
-        },
-        "nonSecure": false,
-        "premium": false,
-        "purchasable": false,
-        "unique": true
-    },
-    {
-        "categories": [
-            "item"
-        ],
-        "consumable": false,
-        "consumptionCurrenciesList": [],
-        "consumptionObjectList": [],
-        "defaultCost": [
-            {
-                "currencyId": "Cells",
-                "price": 400
-            },
-            {
                 "currencyId": "HalloweenEventCurrency",
                 "price": 10
             }
@@ -40477,6 +40431,52 @@
         "nonSecure": false,
         "premium": false,
         "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 400
+            },
+            {
+                "currencyId": "Shards",
+                "price": 7200
+            }
+        ],
+        "eventCostList": [],
+        "id": "TR_Mask007",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "TR_Mask007",
+            "character": "Chuckles",
+            "kind": "Customization",
+            "newEndDate": "2019-05-08T14:59:59",
+            "newStartDate": "2019-04-24T15:00:00",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "VeryRare",
+            "type": "Head",
+            "version": {
+                "grdk": true,
+                "nintendo": true,
+                "ps4": true,
+                "psn": true,
+                "stadia": true,
+                "steam": true,
+                "switch": true,
+                "xbox": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": false,
         "unique": true
     },
     {
