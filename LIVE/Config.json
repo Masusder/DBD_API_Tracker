@@ -296,7 +296,22 @@
         "keyName": "CDN_ROOT_FOLDER_PATH"
     },
     {
-        "value": {},
+        "value": {
+            "retentionRewardId": "3.3.0_240899live",
+            "referralId": "3.3.0_240899live",
+            "achievementId": "3.3.0_240899live",
+            "leaderboardId": "3.3.0_240899live",
+            "gameContentId": "3.3.0_240899live",
+            "statesPermissionsId": "3.3.0_240899live",
+            "lootTableId": "3.3.0_240899live",
+            "consentId": "3.3.0_240899live",
+            "catalogId": "3.3.0_240899live",
+            "actionId": "3.3.0_240899live",
+            "subscriptionId": "3.3.0_240899live",
+            "currencyId": "3.3.0_240899live",
+            "actionQueueId": "3.3.0_240899live",
+            "scenarioId": "3.3.0_240899live"
+        },
         "keyName": "clientData"
     },
     {
