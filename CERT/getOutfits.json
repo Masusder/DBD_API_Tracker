@@ -6937,8 +6937,8 @@
                 "TN_Body009",
                 "TN_W009"
             ],
-            "newStartDate": "2018-06-12T00:00:00",
-            "newEndDate": "2018-06-25T23:59:59"
+            "newStartDate": "2020-10-20T15:00:00",
+            "newEndDate": "2020-11-03T14:59:59"
         },
         {
             "id": "TN_outfit_010",
@@ -10264,53 +10264,7 @@
             "newEndDate": "2018-06-25T23:59:59"
         },
         {
-            "id": "S23_outfit_006",
-            "defaultCost": [
-                {
-                    "currencyId": "Cells",
-                    "price": 1080,
-                    "discountPercentage": 0.1
-                },
-                {
-                    "currencyId": "Shards",
-                    "price": 21600,
-                    "discountPercentage": 0
-                }
-            ],
-            "character": "S23",
-            "storeItems": [
-                "S23_Head006",
-                "S23_Torso006",
-                "S23_Legs006"
-            ],
-            "newStartDate": "2018-06-12T00:00:00",
-            "newEndDate": "2018-06-25T23:59:59"
-        },
-        {
-            "id": "K21_outfit_006",
-            "defaultCost": [
-                {
-                    "currencyId": "Cells",
-                    "price": 1080,
-                    "discountPercentage": 0.1
-                },
-                {
-                    "currencyId": "Shards",
-                    "price": 21600,
-                    "discountPercentage": 0
-                }
-            ],
-            "character": "K21",
-            "storeItems": [
-                "K21_Head006",
-                "K21_Body006",
-                "K21_W006"
-            ],
-            "newStartDate": "2018-06-12T00:00:00",
-            "newEndDate": "2018-06-25T23:59:59"
-        },
-        {
-            "id": "S23_outfit_02",
+            "id": "DK_outfit_02_01",
             "defaultCost": [
                 {
                     "currencyId": "Cells",
@@ -10323,14 +10277,91 @@
                     "discountPercentage": 0
                 }
             ],
+            "character": "Smoke",
+            "storeItems": [
+                "DK_Head02_01",
+                "DK_Torso02_01",
+                "DK_Legs02_01"
+            ],
+            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2018-06-25T23:59:59"
+        },
+        {
+            "id": "DO_outfit_01_04",
+            "defaultCost": [
+                {
+                    "currencyId": "Cells",
+                    "price": 270,
+                    "discountPercentage": 0.1
+                },
+                {
+                    "currencyId": "Shards",
+                    "price": 5400,
+                    "discountPercentage": 0
+                }
+            ],
+            "character": "Killer07",
+            "storeItems": [
+                "DO_Head01_04",
+                "DO_Body01_04",
+                "DO_W01_04"
+            ],
+            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2018-06-25T23:59:59"
+        },
+        {
+            "id": "S23_outfit_006",
+            "defaultCost": [
+                {
+                    "currencyId": "Cells",
+                    "price": 1080,
+                    "discountPercentage": 0.1
+                }
+            ],
+            "character": "S23",
+            "storeItems": [
+                "S23_Head006",
+                "S23_Torso006",
+                "S23_Legs006"
+            ],
+            "newStartDate": "2020-09-08T00:00:00",
+            "newEndDate": "2020-09-21T23:59:59"
+        },
+        {
+            "id": "K21_outfit_006",
+            "defaultCost": [
+                {
+                    "currencyId": "Cells",
+                    "price": 1080,
+                    "discountPercentage": 0.1
+                }
+            ],
+            "character": "K21",
+            "storeItems": [
+                "K21_Head006",
+                "K21_Body006",
+                "K21_W006"
+            ],
+            "newStartDate": "2020-09-08T00:00:00",
+            "newEndDate": "2020-09-21T23:59:59"
+        },
+        {
+            "id": "S23_outfit_02",
+            "defaultCost": [
+                {
+                    "currencyId": "Cells",
+                    "price": 810,
+                    "discountPercentage": 0.1
+                }
+            ],
             "character": "S23",
             "storeItems": [
                 "S23_Head02",
                 "S23_Torso02",
                 "S23_Legs02"
             ],
-            "newStartDate": "2018-06-12T00:00:00",
-            "newEndDate": "2018-06-25T23:59:59"
+            "newStartDate": "2020-09-08T00:00:00",
+            "newEndDate": "2020-09-21T23:59:59"
         },
         {
             "id": "S23_outfit_02_01",
@@ -10352,8 +10383,8 @@
                 "S23_Torso02_01",
                 "S23_Legs02_01"
             ],
-            "newStartDate": "2018-06-12T00:00:00",
-            "newEndDate": "2018-06-25T23:59:59"
+            "newStartDate": "2020-09-08T00:00:00",
+            "newEndDate": "2020-09-21T23:59:59"
         },
         {
             "id": "K21_outfit_02",
@@ -10375,21 +10406,16 @@
                 "K21_Body02",
                 "K21_W02"
             ],
-            "newStartDate": "2018-06-12T00:00:00",
-            "newEndDate": "2018-06-25T23:59:59"
+            "newStartDate": "2020-09-08T00:00:00",
+            "newEndDate": "2020-09-21T23:59:59"
         },
         {
             "id": "K21_outfit_02_01",
             "defaultCost": [
                 {
                     "currencyId": "Cells",
-                    "price": 675,
+                    "price": 810,
                     "discountPercentage": 0.1
-                },
-                {
-                    "currencyId": "Shards",
-                    "price": 13500,
-                    "discountPercentage": 0
                 }
             ],
             "character": "K21",
@@ -10398,8 +10424,8 @@
                 "K21_Body02_01",
                 "K21_W02_01"
             ],
-            "newStartDate": "2018-06-12T00:00:00",
-            "newEndDate": "2018-06-25T23:59:59"
+            "newStartDate": "2020-09-08T00:00:00",
+            "newEndDate": "2020-09-21T23:59:59"
         },
         {
             "id": "S23_outfit_01_02",
@@ -10420,8 +10446,8 @@
                 "S23_Torso01_02",
                 "S23_Legs01_02"
             ],
-            "newStartDate": "2018-06-12T00:00:00",
-            "newEndDate": "2018-06-25T23:59:59"
+            "newStartDate": "2020-09-08T00:00:00",
+            "newEndDate": "2020-09-21T23:59:59"
         },
         {
             "id": "S23_outfit_01_03",
@@ -10442,8 +10468,8 @@
                 "S23_Torso01_03",
                 "S23_Legs01_03"
             ],
-            "newStartDate": "2018-06-12T00:00:00",
-            "newEndDate": "2018-06-25T23:59:59"
+            "newStartDate": "2020-09-08T00:00:00",
+            "newEndDate": "2020-09-21T23:59:59"
         },
         {
             "id": "S23_outfit_01_04",
@@ -10464,8 +10490,8 @@
                 "S23_Torso01_04",
                 "S23_Legs01_04"
             ],
-            "newStartDate": "2018-06-12T00:00:00",
-            "newEndDate": "2018-06-25T23:59:59"
+            "newStartDate": "2020-09-08T00:00:00",
+            "newEndDate": "2020-09-21T23:59:59"
         },
         {
             "id": "K21_outfit_01_01",
@@ -10487,8 +10513,8 @@
                 "K21_Body01_01",
                 "K21_W01_01"
             ],
-            "newStartDate": "2018-06-12T00:00:00",
-            "newEndDate": "2018-06-25T23:59:59"
+            "newStartDate": "2020-09-08T00:00:00",
+            "newEndDate": "2020-09-21T23:59:59"
         },
         {
             "id": "K21_outfit_01_02",
@@ -10510,8 +10536,8 @@
                 "K21_Body01_02",
                 "K21_W01_02"
             ],
-            "newStartDate": "2018-06-12T00:00:00",
-            "newEndDate": "2018-06-25T23:59:59"
+            "newStartDate": "2020-09-08T00:00:00",
+            "newEndDate": "2020-09-21T23:59:59"
         },
         {
             "id": "K21_outfit_01_03",
@@ -10533,8 +10559,8 @@
                 "K21_Body01_03",
                 "K21_W01_03"
             ],
-            "newStartDate": "2018-06-12T00:00:00",
-            "newEndDate": "2018-06-25T23:59:59"
+            "newStartDate": "2020-09-08T00:00:00",
+            "newEndDate": "2020-09-21T23:59:59"
         },
         {
             "id": "S23_outfit_01_CV01",
@@ -10555,8 +10581,8 @@
                 "S23_Torso01_CV01",
                 "S23_Legs01_CV01"
             ],
-            "newStartDate": "2018-06-12T00:00:00",
-            "newEndDate": "2018-06-25T23:59:59"
+            "newStartDate": "2020-09-08T00:00:00",
+            "newEndDate": "2020-09-21T23:59:59"
         },
         {
             "id": "S23_outfit_01_CV02",
@@ -10577,8 +10603,8 @@
                 "S23_Torso01_CV02",
                 "S23_Legs01_CV02"
             ],
-            "newStartDate": "2018-06-12T00:00:00",
-            "newEndDate": "2018-06-25T23:59:59"
+            "newStartDate": "2020-09-08T00:00:00",
+            "newEndDate": "2020-09-21T23:59:59"
         },
         {
             "id": "S23_outfit_01_CV03",
@@ -10599,8 +10625,8 @@
                 "S23_Torso01_CV03",
                 "S23_Legs01_CV03"
             ],
-            "newStartDate": "2018-06-12T00:00:00",
-            "newEndDate": "2018-06-25T23:59:59"
+            "newStartDate": "2020-09-08T00:00:00",
+            "newEndDate": "2020-09-21T23:59:59"
         },
         {
             "id": "S23_outfit_01_CV04",
@@ -10621,8 +10647,8 @@
                 "S23_Torso01_CV04",
                 "S23_Legs01_CV04"
             ],
-            "newStartDate": "2018-06-12T00:00:00",
-            "newEndDate": "2018-06-25T23:59:59"
+            "newStartDate": "2020-09-08T00:00:00",
+            "newEndDate": "2020-09-21T23:59:59"
         },
         {
             "id": "K21_outfit_01_CV01",
@@ -10644,8 +10670,8 @@
                 "K21_Body01_CV01",
                 "K21_W01_CV01"
             ],
-            "newStartDate": "2018-06-12T00:00:00",
-            "newEndDate": "2018-06-25T23:59:59"
+            "newStartDate": "2020-09-08T00:00:00",
+            "newEndDate": "2020-09-21T23:59:59"
         },
         {
             "id": "K21_outfit_01_CV02",
@@ -10667,8 +10693,8 @@
                 "K21_Body01_CV02",
                 "K21_W01_CV02"
             ],
-            "newStartDate": "2018-06-12T00:00:00",
-            "newEndDate": "2018-06-25T23:59:59"
+            "newStartDate": "2020-09-08T00:00:00",
+            "newEndDate": "2020-09-21T23:59:59"
         },
         {
             "id": "K21_outfit_01_CV03",
@@ -10690,8 +10716,8 @@
                 "K21_Body01_CV03",
                 "K21_W01_CV03"
             ],
-            "newStartDate": "2018-06-12T00:00:00",
-            "newEndDate": "2018-06-25T23:59:59"
+            "newStartDate": "2020-09-08T00:00:00",
+            "newEndDate": "2020-09-21T23:59:59"
         },
         {
             "id": "K21_outfit_01_CV04",
@@ -10713,8 +10739,8 @@
                 "K21_Body01_CV04",
                 "K21_W01_CV04"
             ],
-            "newStartDate": "2018-06-12T00:00:00",
-            "newEndDate": "2018-06-25T23:59:59"
+            "newStartDate": "2020-09-08T00:00:00",
+            "newEndDate": "2020-09-21T23:59:59"
         },
         {
             "id": "S23_outfit_007",
@@ -10736,8 +10762,8 @@
                 "S23_Torso007",
                 "S23_Legs007"
             ],
-            "newStartDate": "2018-06-12T00:00:00",
-            "newEndDate": "2018-06-25T23:59:59"
+            "newStartDate": "2020-09-11T00:00:00",
+            "newEndDate": "2020-09-24T23:59:59"
         },
         {
             "id": "MT_outfit_014",
@@ -10759,8 +10785,8 @@
                 "MT_Torso014",
                 "MT_Legs014"
             ],
-            "newStartDate": "2018-06-12T00:00:00",
-            "newEndDate": "2018-06-25T23:59:59"
+            "newStartDate": "2020-09-11T00:00:00",
+            "newEndDate": "2020-09-24T23:59:59"
         },
         {
             "id": "GS_outfit_013",
@@ -10769,11 +10795,6 @@
                     "currencyId": "Cells",
                     "price": 1080,
                     "discountPercentage": 0.1
-                },
-                {
-                    "currencyId": "Shards",
-                    "price": 21600,
-                    "discountPercentage": 0
                 }
             ],
             "character": "Kate",
@@ -10782,8 +10803,8 @@
                 "GS_Torso013",
                 "GS_Legs013"
             ],
-            "newStartDate": "2018-06-12T00:00:00",
-            "newEndDate": "2018-06-25T23:59:59"
+            "newStartDate": "2020-09-11T00:00:00",
+            "newEndDate": "2020-09-24T23:59:59"
         },
         {
             "id": "S22_outfit_008",
@@ -10800,8 +10821,8 @@
                 "S22_Torso008",
                 "S22_Legs008"
             ],
-            "newStartDate": "2018-06-12T00:00:00",
-            "newEndDate": "2018-06-25T23:59:59"
+            "newStartDate": "2020-09-25T00:00:00",
+            "newEndDate": "2020-10-08T23:59:59"
         }
     ]
 }

@@ -146,5 +146,167 @@
             0,
             0
         ]
-    }
+    },
+    "resetRewards": [
+        [
+            {
+                "amount": 250000,
+                "id": "Bloodpoints",
+                "itemSpecificData": "uncapped",
+                "type": "currency"
+            }
+        ],
+        [
+            {
+                "amount": 225000,
+                "id": "Bloodpoints",
+                "itemSpecificData": "uncapped",
+                "type": "currency"
+            }
+        ],
+        [
+            {
+                "amount": 210000,
+                "id": "Bloodpoints",
+                "itemSpecificData": "uncapped",
+                "type": "currency"
+            }
+        ],
+        [
+            {
+                "amount": 200000,
+                "id": "Bloodpoints",
+                "itemSpecificData": "uncapped",
+                "type": "currency"
+            }
+        ],
+        [
+            {
+                "amount": 150000,
+                "id": "Bloodpoints",
+                "itemSpecificData": "uncapped",
+                "type": "currency"
+            }
+        ],
+        [
+            {
+                "amount": 150000,
+                "id": "Bloodpoints",
+                "itemSpecificData": "uncapped",
+                "type": "currency"
+            }
+        ],
+        [
+            {
+                "amount": 150000,
+                "id": "Bloodpoints",
+                "itemSpecificData": "uncapped",
+                "type": "currency"
+            }
+        ],
+        [
+            {
+                "amount": 150000,
+                "id": "Bloodpoints",
+                "itemSpecificData": "uncapped",
+                "type": "currency"
+            }
+        ],
+        [
+            {
+                "amount": 100000,
+                "id": "Bloodpoints",
+                "itemSpecificData": "uncapped",
+                "type": "currency"
+            }
+        ],
+        [
+            {
+                "amount": 100000,
+                "id": "Bloodpoints",
+                "itemSpecificData": "uncapped",
+                "type": "currency"
+            }
+        ],
+        [
+            {
+                "amount": 100000,
+                "id": "Bloodpoints",
+                "itemSpecificData": "uncapped",
+                "type": "currency"
+            }
+        ],
+        [
+            {
+                "amount": 100000,
+                "id": "Bloodpoints",
+                "itemSpecificData": "uncapped",
+                "type": "currency"
+            }
+        ],
+        [
+            {
+                "amount": 30000,
+                "id": "Bloodpoints",
+                "itemSpecificData": "uncapped",
+                "type": "currency"
+            }
+        ],
+        [
+            {
+                "amount": 30000,
+                "id": "Bloodpoints",
+                "itemSpecificData": "uncapped",
+                "type": "currency"
+            }
+        ],
+        [
+            {
+                "amount": 30000,
+                "id": "Bloodpoints",
+                "itemSpecificData": "uncapped",
+                "type": "currency"
+            }
+        ],
+        [
+            {
+                "amount": 30000,
+                "id": "Bloodpoints",
+                "itemSpecificData": "uncapped",
+                "type": "currency"
+            }
+        ],
+        [
+            {
+                "amount": 10000,
+                "id": "Bloodpoints",
+                "itemSpecificData": "uncapped",
+                "type": "currency"
+            }
+        ],
+        [
+            {
+                "amount": 10000,
+                "id": "Bloodpoints",
+                "itemSpecificData": "uncapped",
+                "type": "currency"
+            }
+        ],
+        [
+            {
+                "amount": 10000,
+                "id": "Bloodpoints",
+                "itemSpecificData": "uncapped",
+                "type": "currency"
+            }
+        ],
+        [
+            {
+                "amount": 10000,
+                "id": "Bloodpoints",
+                "itemSpecificData": "uncapped",
+                "type": "currency"
+            }
+        ]
+    ]
 }

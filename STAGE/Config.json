@@ -15,14 +15,6 @@
         "keyName": "MATCHMAKING_INCENTIVE_CONFIG"
     },
     {
-        "value": "86400",
-        "keyName": "MIRRORS_CONFIG_KEY_GAMELIFT_IDLE_INSTANCE_SHUTDOWN_TIMER"
-    },
-    {
-        "value": "false",
-        "keyName": "MATCHMAKING_ALLOW_CROSSPLAY"
-    },
-    {
         "value": "true",
         "keyName": "NETCONNECTION_CLAMP_TO_AVERAGE_FRAMERATE"
     },
@@ -35,23 +27,15 @@
             "ps4": true,
             "stadia": true,
             "grdk": true,
+            "ps5": true,
             "android": false,
             "steam": true,
             "xbox": true,
             "ios": false,
+            "xsx": true,
             "switch": true
         },
         "keyName": "MATCHMAKING_CROSSPLAY_PLATFORMS"
-    },
-    {
-        "value": {
-            "WalesCypher": false
-        },
-        "keyName": "BUTTON_SEQUENCE_ENABLE"
-    },
-    {
-        "value": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAuq878RHxy7gwEGnjh/vXcOH+1evTjEA9ygzmKEmG4s2xfNTXgneht6IsCSt5rGgpB3SabgdfUlfZyNNcwx18H7PGdsEwDcbrpZvNsgVt12oSXANjUaWDhUFJ1mVV3QmRIMyknWsA7pRX5Vy1Jr9vZ6IfFopGD++OEGsGooCA7CLGi0+E2v9UvKu/CU+PeaLNTriLa/R8B2YnhmNtSa94U+6sxNt4tzY85+TOfM7SMIgagQcZgREnXsSYhHWs4zfrz6ANaKzi4x0Tep0rK1kTnVv431+VA2zcvFahujVYncQIim+Ivee3TttJMBygxQUGR2/0qJfMkjitldpR3c3sIQIDAQAB",
-        "keyName": "KRAKEN_RSA_PUBLIC_KEY"
     },
     {
         "value": "true",
@@ -72,83 +56,12 @@
         "keyName": "READ_ONLY_CONFIGS"
     },
     {
-        "value": "https://xbox1-live1.bhvrdbd.com/restservice.svc",
+        "value": "https://xbox1-live2.bhvrdbd.com/restservice.svc",
         "keyName": "MS_ENDPOINT"
-    },
-    {
-        "value": {
-            "uncategorized": {
-                "enabled": false
-            }
-        },
-        "keyName": "offenceCategories"
-    },
-    {
-        "value": "true",
-        "keyName": "SEGMENTATION_V2_ENABLED"
-    },
-    {
-        "value": [
-            {
-                "data": "Core",
-                "children": [
-                    {
-                        "data": "steam",
-                        "label": "Steam"
-                    },
-                    {
-                        "data": "stadia",
-                        "label": "Stadia"
-                    },
-                    {
-                        "data": "grdk",
-                        "label": "Windows Store"
-                    },
-                    {
-                        "data": "Consoles",
-                        "children": [
-                            {
-                                "data": "ps4",
-                                "label": "PlayStation"
-                            },
-                            {
-                                "data": "xbox",
-                                "label": "XBOX"
-                            },
-                            {
-                                "data": "switch",
-                                "label": "Switch"
-                            }
-                        ],
-                        "label": "Consoles"
-                    }
-                ],
-                "label": "Core"
-            },
-            {
-                "data": "Mobile",
-                "children": [
-                    {
-                        "data": "android",
-                        "label": "Android"
-                    },
-                    {
-                        "data": "ios",
-                        "label": "iOS"
-                    }
-                ],
-                "label": "Mobile"
-            }
-        ],
-        "keyName": "AVAILABLE_PLATFORMS"
     },
     {
         "value": "true",
         "keyName": "GAME_CLIENT_VERSION_CHECK_ENABLED"
-    },
-    {
-        "value": "10",
-        "keyName": "FRAME_HIKE_ANALYTIC_LOG_BUFFER_SIZE"
     },
     {
         "value": {
@@ -258,25 +171,16 @@
     },
     {
         "value": {
-            "DeltaDnaEngageAddress": "https://engage14352dbdmb.deltadna.net/86609193614997436569595476515429",
-            "DeltaDnaAnalytics": "https://collect14352dbdmb.deltadna.net/collect/api/86609193614997436569595476515429",
-            "KrakenAnalytics": "https://latest.stage.bhvrdbd.com/api/v1/gameDataAnalytics/binary/batch",
-            "KrakenLogs": "https://latest.stage.bhvrdbd.com/api/v1/gameLogs/batch"
-        },
-        "keyName": "ANALYTICS_ENDPOINTS"
-    },
-    {
-        "value": {
             "Mobile": {
                 "dbd_match_making_filter_unidirectional_always": true,
                 "dbd_match_making_filter_good_latency": 120,
-                "dbd_match_making_filter_skip_region_checks": false,
                 "dbd_match_making_filter_min_geo_distance": 1000,
+                "dbd_match_making_filter_skip_region_checks": false,
                 "dbd_match_making_filter_ok_latency": 250,
                 "dbd_match_making_filter_expansion_duration": 240000,
                 "dbd_match_making_filter_max_geo_distance": 7000,
-                "dbd_match_making_filter_unidirectional": true,
                 "dbd_match_making_filter_max_rank_diff": 20,
+                "dbd_match_making_filter_unidirectional": true,
                 "dbd_match_making_filter_min_rank_diff": 1
             }
         },
@@ -291,27 +195,23 @@
         "keyName": "CDN_ROOT_FOLDER_PATH"
     },
     {
-        "value": {
-            "retentionRewardId": "4.2.0_347709stage",
-            "referralId": "4.2.0_347709stage",
-            "achievementId": "4.2.0_347709stage",
-            "leaderboardId": "4.2.0_347709stage",
-            "gameContentId": "4.2.0_347709stage",
-            "statesPermissionsId": "4.2.0_347709stage",
-            "lootTableId": "4.2.0_347709stage",
-            "consentId": "4.2.0_347709stage",
-            "catalogId": "4.2.0_347709stage",
-            "actionId": "4.2.0_347709stage",
-            "subscriptionId": "4.2.0_347709stage",
-            "currencyId": "4.2.0_347709stage",
-            "actionQueueId": "4.2.0_347709stage",
-            "scenarioId": "4.2.0_347709stage"
-        },
-        "keyName": "clientData"
-    },
-    {
         "value": "NetworkError",
         "keyName": "KRAKEN_REQUEST_ANALYTICS_LEVEL"
+    },
+    {
+        "value": {
+            "ps4": false,
+            "stadia": false,
+            "grdk": false,
+            "ps5": false,
+            "android": false,
+            "steam": false,
+            "xbox": false,
+            "ios": false,
+            "xsx": false,
+            "switch": false
+        },
+        "keyName": "SOCIAL_CROSSPROGRESSION_PLATFORMS"
     },
     {
         "value": {
@@ -475,31 +375,10 @@
     },
     {
         "value": {
-            "3.4.0_245316stage": "3.4.0_245316stage-1573669104",
-            "3.5.0_269251stage": "3.5.0_269251stage-1580860675",
-            "3.5.0_271942stage": "3.5.0_271942stage-1581544572",
-            "3.6.0_272401stage": "3.6.0_272401stage-1581624731",
-            "3.6.0_273187stage": "3.6.0_273187stage-1581963745",
-            "3.6.0_287302stage": "3.6.0_287302stage-1585754744",
-            "3.7.0_288476stage": "3.7.0_288476stage-1585956899",
-            "4.0.0_304587stage": "4.0.0_304587stage-1590165976",
-            "4.0.0_305074stage": "4.0.0_305074stage-1590419531",
-            "4.0.0_316067stage": "4.0.0_316067stage-1593200765",
-            "4.0.0_317650stage": "4.0.0_317650stage-1593811762",
-            "4.0.0_320780stage": "4.0.0_320780stage-1594758426",
-            "4.1.0_320798stage": "4.1.0_320798stage-1594759658",
-            "4.1.0_320808stage": "4.1.0_320808stage-1594761659",
-            "4.1.0_322267stage": "4.1.0_322267stage-1595002907",
-            "4.1.0_322515stage": "4.1.0_322515stage-1595033788",
-            "4.1.0_323857stage": "4.1.0_323857stage-1595446931",
-            "4.1.0_323892stage": "4.1.0_323892stage-1595448479",
-            "4.2.0_332485stage": "4.2.0_332485stage-1597420042",
-            "4.2.0_338608stage": "4.2.0_338608stage-1598635210",
-            "4.2.0_346594stage": "4.2.0_346594stage-1600460600",
-            "4.2.0_347709stage": "4.2.0_347709stage-1600835255",
-            "4.2.0_347875stage": "4.2.0_347875stage-1600879302",
-            "4.2.0_348009stage": "4.2.0_348009stage-1600888339",
-            "4.2.0_348145stage": "4.2.0_348145stage-1600900533"
+            "4.2.0_332222stage": "4.2.0_332222stage-1601062842",
+            "4.2.0_338608stage": "4.2.0_338608stage-1601070894",
+            "4.3.0_349028stage": "4.3.0_349028stage-1601061091",
+            "4.3.0_350404stage": "4.3.0_350404stage-1601490328"
         },
         "keyName": "VER_CLIENT_DATA"
     },
@@ -508,17 +387,15 @@
             "ps4": true,
             "stadia": true,
             "grdk": true,
+            "ps5": true,
             "android": false,
             "steam": true,
             "xbox": true,
             "ios": false,
+            "xsx": true,
             "switch": true
         },
         "keyName": "SOCIAL_CROSSFRIENDS_PLATFORMS"
-    },
-    {
-        "value": "5",
-        "keyName": "FRAME_HIKE_THRESHOLD"
     },
     {
         "value": "600",
@@ -529,10 +406,6 @@
         "keyName": "MATCHMAKING_USE_QUEUE_API"
     },
     {
-        "value": "https://kibana-logs.live.dbd.bhvronline.com/app/kibana#/dashboard/f9722400-391e-11e9-b6e1-a7681f9f0f51?_a=%28query:%28query_string:%28analyze_wildcard:!t,query:'\"queueName\"'%29%29%29",
-        "keyName": "MATCHMAKING_QUEUE_DASHBOARD_URL"
-    },
-    {
         "value": "5000",
         "keyName": "DELTADNA_ENGAGE_TIMEOUT"
     },
@@ -541,7 +414,7 @@
         "keyName": "APPSFLYER_CUSTOMER_ID_ENABLED"
     },
     {
-        "value": "https://wstore-live1.bhvrdbd.com/restservice.svc",
+        "value": "https://wstore-live2.bhvrdbd.com/restservice.svc",
         "keyName": "MS_ENDPOINT_GRDK"
     },
     {
@@ -551,9 +424,5 @@
     {
         "value": "https://console.aws.amazon.com/gamelift/home?region=us-east-1#/r/game-session-queues/[[gameliftQueueName]]",
         "keyName": "MATCHMAKING_GAMELIFT_DASHBOARD_URL"
-    },
-    {
-        "value": "{\"0\":\"Harassment\",\"1\":\"Griefing\",\"2\":\"Exploits\",\"3\":\"Unsportsmanlike\"}",
-        "keyName": "BAN_REASON_ENUM"
     }
 ]

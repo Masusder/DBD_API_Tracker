@@ -1,7 +1,7 @@
 {
     "items": [
         {
-            "id": "Hex_HauntedGround",
+            "id": "Botany_Knowledge",
             "bloodpointValue": 150000,
             "experienceValue": 150000,
             "unique": false,
@@ -15,7 +15,7 @@
             ]
         },
         {
-            "id": "Leader",
+            "id": "MonitorAndAbuse",
             "bloodpointValue": 150000,
             "experienceValue": 150000,
             "unique": false,
@@ -29,7 +29,7 @@
             ]
         },
         {
-            "id": "Shadowborn",
+            "id": "RememberMe",
             "bloodpointValue": 150000,
             "experienceValue": 150000,
             "unique": false,
@@ -43,7 +43,7 @@
             ]
         },
         {
-            "id": "Urban_Evasion",
+            "id": "Vigil",
             "bloodpointValue": 150000,
             "experienceValue": 150000,
             "unique": false,
@@ -57,7 +57,7 @@
             ]
         }
     ],
-    "startDate": "2020-09-23T00:00:00",
-    "endDate": "2020-09-29T23:59:59",
-    "week": 206
+    "startDate": "2020-09-30T00:00:00",
+    "endDate": "2020-10-06T23:59:59",
+    "week": 207
 }

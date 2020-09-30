@@ -9,29 +9,29 @@
     },
     "hitValidation": {
         "enable": true,
-        "enableCollisionCheck": true,
+        "enableCollisionCheck": false,
         "recorder": {
             "cacheTimespan": 0.25
         },
         "validators": [
             {
                 "capsuleInflation": 50.0,
-                "maximumDistance": 200.0,
+                "maximumDistance": 300.0,
                 "name": "default"
             },
             {
                 "capsuleInflation": 50.0,
-                "maximumDistance": 100.0,
+                "maximumDistance": 200.0,
                 "name": "hatchet"
             },
             {
                 "capsuleInflation": 50.0,
-                "maximumDistance": 100.0,
+                "maximumDistance": 200.0,
                 "name": "bomb"
             },
             {
                 "capsuleInflation": 50.0,
-                "maximumDistance": 100.0,
+                "maximumDistance": 200.0,
                 "name": "harpoon"
             },
             {

@@ -53,7 +53,7 @@
                                 "questEvent": [
                                     {
                                         "operation": ">=",
-                                        "parameters": "BloodpointsCategory:Objectives",
+                                        "parameters": "BloodpointsCategory:DBD_CamperScoreCat_Objectives",
                                         "questEventId": "QuestEvent.EarnBloodpointsCategory",
                                         "repetition": 1
                                     }
@@ -342,7 +342,7 @@
                                 "questEvent": [
                                     {
                                         "operation": ">=",
-                                        "parameters": "BloodpointsCategory:Deviousness",
+                                        "parameters": "BloodpointsCategory:DBD_CamperScoreCat_Deviousness",
                                         "questEventId": "QuestEvent.HitExposed",
                                         "repetition": 1
                                     }
@@ -1105,7 +1105,7 @@
                                 "questEvent": [
                                     {
                                         "operation": ">=",
-                                        "parameters": "BloodpointsCategory:Altriusm",
+                                        "parameters": "BloodpointsCategory:DBD_CamperScoreCat_Altruism",
                                         "questEventId": "QuestEvent.EarnBloodpointsCategory",
                                         "repetition": 1
                                     }
@@ -1437,7 +1437,6 @@
                                 "questEvent": [
                                     {
                                         "operation": ">=",
-                                        "parameters": "BloodpointsCategory:Hunter",
                                         "questEventId": "QuestEvent.Kill",
                                         "repetition": 1
                                     }
@@ -1485,7 +1484,7 @@
                                 "questEvent": [
                                     {
                                         "operation": ">=",
-                                        "parameters": "BloodpointsCategory:Sacrifice",
+                                        "parameters": "BloodpointsCategory:DBD_CamperScoreCat_Sacrifice",
                                         "questEventId": "QuestEvent.EarnBloodpointsCategory",
                                         "repetition": 1
                                     }
@@ -1685,7 +1684,7 @@
                                 "questEvent": [
                                     {
                                         "operation": ">=",
-                                        "parameters": "instigator:me",
+                                        "parameters": "instigator:me;Distance:250",
                                         "questEventId": "QuestEvent.FallInChase",
                                         "repetition": 3
                                     }
@@ -2065,7 +2064,7 @@
                                 "questEvent": [
                                     {
                                         "operation": ">=",
-                                        "parameters": "instigator:meTime:30",
+                                        "parameters": "instigator:me;Time:30",
                                         "questEventId": "QuestEvent.HillbillyChainsawConsecutive",
                                         "repetition": 2
                                     }
@@ -2266,7 +2265,7 @@
                                 "questEvent": [
                                     {
                                         "operation": ">=",
-                                        "parameters": "BloodpointsCategory:Survival",
+                                        "parameters": "BloodpointsCategory:DBD_CamperScoreCat_Survival",
                                         "questEventId": "QuestEvent.EarnBloodpointsCategory",
                                         "repetition": 1
                                     }
@@ -2551,7 +2550,7 @@
                                 "questEvent": [
                                     {
                                         "operation": ">=",
-                                        "parameters": "BloodpointsCategory:Hunter",
+                                        "parameters": "BloodpointsCategory:DBD_CamperScoreCat_Hunter",
                                         "questEventId": "QuestEvent.EarnBloodpointsCategory",
                                         "repetition": 1
                                     }
@@ -3122,7 +3121,7 @@
                                 "objectiveId": "BreakPalletsGensInTrial",
                                 "questEvent": [
                                     {
-                                        "operation": "<=",
+                                        "operation": ">=",
                                         "parameters": "instigator:me",
                                         "questEventId": "QuestEvent.BreakPalletsGens",
                                         "repetition": 15
@@ -3217,7 +3216,7 @@
                 ],
                 "nodes": {
                     "node_T5L4_01": {
-                        "clientInfoId": "EarnBloodpointsAltruism",
+                        "clientInfoId": "EarnBloodpointsBoldness",
                         "coordinates": {
                             "x": 455,
                             "y": 605
@@ -3228,7 +3227,7 @@
                         ],
                         "nodeType": "quest:task",
                         "objectives": {
-                            "EarnBloodpointsAltruism": {
+                            "EarnBloodpointsBoldness": {
                                 "conditions": [
                                     {
                                         "key": "role",
@@ -3239,11 +3238,11 @@
                                 ],
                                 "incrementWithEventRepetitions": true,
                                 "neededProgression": 40000,
-                                "objectiveId": "EarnBloodpointsAltruism",
+                                "objectiveId": "EarnBloodpointsBoldness",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
-                                        "parameters": "BloodpointsCategory:Altruism",
+                                        "parameters": "BloodpointsCategory:DBD_CamperScoreCat_Boldness",
                                         "questEventId": "QuestEvent.EarnBloodpointsCategory",
                                         "repetition": 1
                                     }
@@ -3546,7 +3545,7 @@
                         ]
                     },
                     "node_T5L4_08": {
-                        "clientInfoId": "EarnBloodpointsDeviousness",
+                        "clientInfoId": "EarnBloodpointsBrutality",
                         "coordinates": {
                             "x": 815,
                             "y": 455
@@ -3572,7 +3571,7 @@
                                 "questEvent": [
                                     {
                                         "operation": ">=",
-                                        "parameters": "BloodpointsCategory:Deviousness",
+                                        "parameters": "BloodpointsCategory:DBD_CamperScoreCat_Deviousness",
                                         "questEventId": "QuestEvent.EarnBloodpointsCategory",
                                         "repetition": 1
                                     }
@@ -3735,7 +3734,7 @@
                         ]
                     },
                     "node_T5L4_12": {
-                        "clientInfoId": "HookMultiple",
+                        "clientInfoId": "Sacrifice",
                         "coordinates": {
                             "x": 1085,
                             "y": 305
@@ -3746,7 +3745,7 @@
                         ],
                         "nodeType": "quest:task",
                         "objectives": {
-                            "HookMultiple": {
+                            "Sacrifice": {
                                 "conditions": [
                                     {
                                         "key": "role",
@@ -3756,13 +3755,12 @@
                                     }
                                 ],
                                 "incrementWithEventRepetitions": true,
-                                "neededProgression": 8,
-                                "objectiveId": "HookMultiple",
+                                "neededProgression": 20,
+                                "objectiveId": "Sacrifice",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
-                                        "parameters": "instigator:me",
-                                        "questEventId": "QuestEvent.HookMultiple",
+                                        "questEventId": "QuestEvent.Sacrifice",
                                         "repetition": 1
                                     }
                                 ]
@@ -4243,6 +4241,6 @@
             }
         ],
         "rewardData": "Tome05",
-        "version": 19
+        "version": 21
     }
 }

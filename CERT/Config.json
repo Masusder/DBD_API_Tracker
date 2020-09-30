@@ -31,10 +31,12 @@
             "ps4": true,
             "stadia": true,
             "grdk": true,
+            "ps5": true,
             "android": false,
             "steam": true,
             "xbox": true,
             "ios": false,
+            "xsx": true,
             "switch": true
         },
         "keyName": "MATCHMAKING_CROSSPLAY_PLATFORMS"
@@ -313,6 +315,21 @@
     },
     {
         "value": {
+            "ps4": false,
+            "stadia": false,
+            "grdk": false,
+            "ps5": false,
+            "android": false,
+            "steam": false,
+            "xbox": false,
+            "ios": false,
+            "xsx": false,
+            "switch": false
+        },
+        "keyName": "SOCIAL_CROSSPROGRESSION_PLATFORMS"
+    },
+    {
+        "value": {
             "DD": [
                 "AtlantaDeepLinkAnalytics",
                 "AtlantaKillerTutorialAnalytics",
@@ -512,7 +529,8 @@
             "4.2.0_334183cert": "4.2.0_334183cert-1597792782",
             "4.2.0_348145cert": "4.2.0_348145cert-1600900648",
             "4.2.0_349222cert": "4.2.0_349222cert-1601257185",
-            "4.3.0_349440cert": "4.3.0_349440cert-1601317669"
+            "4.3.0_349440cert": "4.3.0_349440cert-1601317669",
+            "4.3.0_350404cert": "4.3.0_350404cert-1601490139"
         },
         "keyName": "VER_CLIENT_DATA"
     },
@@ -521,10 +539,12 @@
             "ps4": true,
             "stadia": true,
             "grdk": true,
+            "ps5": true,
             "android": false,
             "steam": true,
             "xbox": true,
             "ios": false,
+            "xsx": true,
             "switch": true
         },
         "keyName": "SOCIAL_CROSSFRIENDS_PLATFORMS"
