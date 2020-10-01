@@ -621,13 +621,13 @@
                         ]
                     },
                     "node_T5L1_14": {
-                        "clientInfoId": "ConsumeItemWithStreetwiseInTrial",
+                        "clientInfoId": "HookInTrial",
                         "coordinates": {
                             "x": 1265,
                             "y": 155
                         },
                         "journal": [
-                            "Tome05_Nea"
+                            "Tome05_Hillbilly"
                         ],
                         "neighbors": [
                             "node_T5L1_13",
@@ -635,30 +635,24 @@
                         ],
                         "nodeType": "quest:challenge",
                         "objectives": {
-                            "ConsumeItemWithPerkInTrial": {
+                            "HookInTrial": {
                                 "conditions": [
                                     {
                                         "key": "role",
                                         "value": [
-                                            "survivor"
-                                        ]
-                                    },
-                                    {
-                                        "key": "perk",
-                                        "value": [
-                                            "Streetwise"
+                                            "killer"
                                         ]
                                     }
                                 ],
                                 "incrementWithEventRepetitions": false,
                                 "neededProgression": 1,
-                                "objectiveId": "ConsumeItemWithPerkInTrial",
+                                "objectiveId": "HookInTrial",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
                                         "parameters": "instigator:me",
-                                        "questEventId": "QuestEvent.ConsumeItem",
-                                        "repetition": 1
+                                        "questEventId": "QuestEvent.Hook",
+                                        "repetition": 5
                                     }
                                 ]
                             }
@@ -4241,6 +4235,6 @@
             }
         ],
         "rewardData": "Tome05",
-        "version": 21
+        "version": 22
     }
 }
