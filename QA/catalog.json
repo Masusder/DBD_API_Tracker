@@ -4413,6 +4413,182 @@
         "defaultCost": [
             {
                 "currencyId": "Cells",
+                "price": 600
+            }
+        ],
+        "eventCostList": [],
+        "id": "DF_Torso04_TwitchKraken",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "DF_Torso04_TwitchKraken",
+            "character": "Dwight",
+            "kind": "Customization",
+            "newEndDate": "2020-07-08T23:59:59",
+            "newStartDate": "2020-07-08T00:00:00",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "UltraRare",
+            "type": "Torso",
+            "version": {
+                "grdk": true,
+                "nintendo": true,
+                "ps4": true,
+                "ps5": true,
+                "psn": true,
+                "stadia": true,
+                "steam": true,
+                "switch": true,
+                "xbox": true,
+                "xsx": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": false,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 600
+            }
+        ],
+        "eventCostList": [],
+        "id": "DF_Torso04_KingKongKraken",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "DF_Torso04_KingKongKraken",
+            "character": "Dwight",
+            "kind": "Customization",
+            "newEndDate": "2020-07-08T23:59:59",
+            "newStartDate": "2020-07-08T00:00:00",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "UltraRare",
+            "type": "Torso",
+            "version": {
+                "grdk": true,
+                "nintendo": true,
+                "ps4": true,
+                "ps5": true,
+                "psn": true,
+                "stadia": true,
+                "steam": true,
+                "switch": true,
+                "xbox": true,
+                "xsx": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": false,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 600
+            }
+        ],
+        "eventCostList": [],
+        "id": "DF_Torso04_PandaTVKraken",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "DF_Torso04_PandaTVKraken",
+            "character": "Dwight",
+            "kind": "Customization",
+            "newEndDate": "2020-07-08T23:59:59",
+            "newStartDate": "2020-07-08T00:00:00",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "UltraRare",
+            "type": "Torso",
+            "version": {
+                "grdk": true,
+                "nintendo": true,
+                "ps4": true,
+                "ps5": true,
+                "psn": true,
+                "stadia": true,
+                "steam": true,
+                "switch": true,
+                "xbox": true,
+                "xsx": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": false,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 480
+            }
+        ],
+        "eventCostList": [],
+        "id": "DF_Torso04_PandaTVChampKraken",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "DF_Torso04_PandaTVChampKraken",
+            "character": "Dwight",
+            "kind": "Customization",
+            "newEndDate": "2020-07-08T23:59:59",
+            "newStartDate": "2020-07-08T00:00:00",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "Artifact",
+            "type": "Torso",
+            "version": {
+                "grdk": true,
+                "nintendo": true,
+                "ps4": true,
+                "ps5": true,
+                "psn": true,
+                "stadia": true,
+                "steam": true,
+                "switch": true,
+                "xbox": true,
+                "xsx": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": false,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
                 "price": 100
             },
             {
@@ -8057,6 +8233,94 @@
             "qualityName": "quality1",
             "rarity": "SpecialEvent",
             "type": "Head",
+            "version": {
+                "grdk": true,
+                "nintendo": true,
+                "ps4": true,
+                "ps5": true,
+                "psn": true,
+                "stadia": true,
+                "steam": true,
+                "switch": true,
+                "xbox": true,
+                "xsx": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": false,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 600
+            }
+        ],
+        "eventCostList": [],
+        "id": "MT_Torso04_TwitchKraken",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "MT_Torso04_TwitchKraken",
+            "character": "Meg",
+            "kind": "Customization",
+            "newEndDate": "2020-07-08T23:59:59",
+            "newStartDate": "2020-07-08T00:00:00",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "UltraRare",
+            "type": "Torso",
+            "version": {
+                "grdk": true,
+                "nintendo": true,
+                "ps4": true,
+                "ps5": true,
+                "psn": true,
+                "stadia": true,
+                "steam": true,
+                "switch": true,
+                "xbox": true,
+                "xsx": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": false,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 600
+            }
+        ],
+        "eventCostList": [],
+        "id": "MT_Torso04_KingKongKraken",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "MT_Torso04_KingKongKraken",
+            "character": "Meg",
+            "kind": "Customization",
+            "newEndDate": "2020-07-08T23:59:59",
+            "newStartDate": "2020-07-08T00:00:00",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "UltraRare",
+            "type": "Torso",
             "version": {
                 "grdk": true,
                 "nintendo": true,
@@ -17697,6 +17961,50 @@
         "nonSecure": false,
         "premium": false,
         "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 500
+            }
+        ],
+        "eventCostList": [],
+        "id": "NK_Torso01_crew01Kraken",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "NK_Torso01_crew01Kraken",
+            "character": "Nea",
+            "kind": "Customization",
+            "newEndDate": "2020-07-08T23:59:59",
+            "newStartDate": "2020-07-08T00:00:00",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "UltraRare",
+            "type": "Torso",
+            "version": {
+                "grdk": true,
+                "nintendo": true,
+                "ps4": true,
+                "ps5": true,
+                "psn": true,
+                "stadia": true,
+                "steam": true,
+                "switch": true,
+                "xbox": true,
+                "xsx": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": false,
         "unique": true
     },
     {

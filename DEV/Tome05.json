@@ -343,7 +343,7 @@
                                     {
                                         "operation": ">=",
                                         "parameters": "BloodpointsCategory:DBD_CamperScoreCat_Deviousness",
-                                        "questEventId": "QuestEvent.HitExposed",
+                                        "questEventId": "QuestEvent.EarnBloodpointsCategory",
                                         "repetition": 1
                                     }
                                 ]
@@ -920,9 +920,9 @@
                                 "questEvent": [
                                     {
                                         "operation": ">=",
-                                        "parameters": "instigator:me",
+                                        "parameters": "instigator:me;Amount:4",
                                         "questEventId": "QuestEvent.BlightChainMultipleHitLethalRush",
-                                        "repetition": 3
+                                        "repetition": 1
                                     }
                                 ]
                             }

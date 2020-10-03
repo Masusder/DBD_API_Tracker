@@ -165,6 +165,7 @@
                 "EACClientInitAnalytics",
                 "EACClientViolationAnalytics",
                 "EACServerValidateAnalytics",
+                "FallOutOfWorldAnalytics",
                 "GameEventLogAnalytics",
                 "GameInitAnalytics",
                 "InvalidLoadoutAnalytics",
@@ -295,19 +296,20 @@
     },
     {
         "value": {
-            "retentionRewardId": "3.5.0_259488qa",
-            "achievementId": "3.5.0_259488qa",
-            "leaderboardId": "3.5.0_259488qa",
-            "gameContentId": "4.1.0_327362qa",
-            "statesPermissionsId": "3.5.0_259488qa",
-            "lootTableId": "3.5.0_259488qa",
-            "consentId": "3.5.0_259488qa",
-            "catalogId": "4.1.0_327362qa",
-            "actionId": "3.5.0_259488qa",
-            "subscriptionId": "3.5.0_259488qa",
-            "currencyId": "3.5.0_259488qa",
-            "actionQueueId": "3.5.0_259488qa",
-            "scenarioId": "3.5.0_259488qa"
+            "retentionRewardId": "4.3.0_350695qa",
+            "referralId": "4.3.0_350695qa",
+            "achievementId": "4.3.0_350695qa",
+            "leaderboardId": "4.3.0_350695qa",
+            "gameContentId": "4.3.0_350695qa",
+            "statesPermissionsId": "4.3.0_350695qa",
+            "lootTableId": "4.3.0_350695qa",
+            "consentId": "4.3.0_350695qa",
+            "catalogId": "4.3.0_350695qa",
+            "actionId": "4.3.0_350695qa",
+            "subscriptionId": "4.3.0_350695qa",
+            "currencyId": "4.3.0_350695qa",
+            "actionQueueId": "4.3.0_350695qa",
+            "scenarioId": "4.3.0_350695qa"
         },
         "keyName": "clientData"
     },
@@ -403,6 +405,10 @@
                 "af_killer_tutorial_completionAnalytics",
                 "af_loginAnalytics",
                 "af_survivor_tutorial_completionAnalytics"
+            ],
+            "KA": [
+                "ArchiveVignetteEntryAnalytics",
+                "ArchiveVignetteVideoAnalytics"
             ],
             "KAL": [
                 "CannibalAnalytics",
@@ -629,6 +635,8 @@
             "4.3.0_350048qa": "4.3.0_350048qa-1601408628",
             "4.3.0_350292qa": "4.3.0_350292qa-1601477237",
             "4.3.0_350592qa": "4.3.0_350592qa-1601505913",
+            "4.3.0_350695qa": "4.3.0_350695qa-1601556978",
+            "4.3.0_351315qa": "4.3.0_351315qa-1601654108",
             "edule_3.4.0_0qa": "edule_3.4.0_0qa-1576698389",
             "m_3.0.2_220683qa": "m_3.0.2_220683qa-1566333505",
             "m_3.0.3_240244qa": "m_3.0.3_240244qa-1572275329",
@@ -750,7 +758,9 @@
             "m_3.7.3_349659qa": "m_3.7.3_349659qa-1601332268",
             "m_3.7.3_349865qa": "m_3.7.3_349865qa-1601397060",
             "m_3.7.3_350048qa": "m_3.7.3_350048qa-1601408745",
-            "m_3.7.3_350592qa": "m_3.7.3_350592qa-1601508776"
+            "m_3.7.3_350592qa": "m_3.7.3_350592qa-1601508776",
+            "m_3.7.3_350695qa": "m_3.7.3_350695qa-1601559078",
+            "m_3.7.3_351348qa": "m_3.7.3_351348qa-1601656287"
         },
         "keyName": "VER_CLIENT_DATA"
     },
