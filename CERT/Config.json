@@ -27,6 +27,10 @@
         "keyName": "SOCIAL_PLATFORM_FRIENDLIST_QUERY_RATE"
     },
     {
+        "value": "true",
+        "keyName": "DDOS_DETECTION"
+    },
+    {
         "value": {
             "ps4": true,
             "stadia": true,
@@ -72,6 +76,10 @@
     {
         "value": "https://xbox1-dev1.bhvrdbd.com/restservice.svc",
         "keyName": "MS_ENDPOINT"
+    },
+    {
+        "value": "true",
+        "keyName": "DDOS_DETECTION_ANALYTICS"
     },
     {
         "value": {
@@ -162,6 +170,7 @@
                 "EACClientInitAnalytics",
                 "EACClientViolationAnalytics",
                 "EACServerValidateAnalytics",
+                "FallOutOfWorldAnalytics",
                 "GameEventLogAnalytics",
                 "GameInitAnalytics",
                 "InvalidLoadoutAnalytics",
@@ -402,6 +411,10 @@
                 "af_loginAnalytics",
                 "af_survivor_tutorial_completionAnalytics"
             ],
+            "KA": [
+                "ArchiveVignetteEntryAnalytics",
+                "ArchiveVignetteVideoAnalytics"
+            ],
             "KAL": [
                 "CannibalAnalytics",
                 "ChatAnalytics",
@@ -530,7 +543,8 @@
             "4.2.0_348145cert": "4.2.0_348145cert-1600900648",
             "4.2.0_349222cert": "4.2.0_349222cert-1601257185",
             "4.3.0_349440cert": "4.3.0_349440cert-1601317669",
-            "4.3.0_350404cert": "4.3.0_350404cert-1601490139"
+            "4.3.0_350404cert": "4.3.0_350404cert-1601490139",
+            "4.3.0_353154cert": "4.3.0_353154cert-1602084596"
         },
         "keyName": "VER_CLIENT_DATA"
     },
