@@ -156,6 +156,7 @@
                 "EACClientInitAnalytics",
                 "EACClientViolationAnalytics",
                 "EACServerValidateAnalytics",
+                "FallOutOfWorldAnalytics",
                 "GameEventLogAnalytics",
                 "GameInitAnalytics",
                 "InvalidLoadoutAnalytics",
@@ -394,6 +395,8 @@
                 "af_survivor_tutorial_completionAnalytics"
             ],
             "KA": [
+                "ArchiveVignetteEntryAnalytics",
+                "ArchiveVignetteVideoAnalytics",
                 "CannibalAnalytics",
                 "CustomizationLobbyAnalytics",
                 "DailyRitualAnalytics",
@@ -525,6 +528,7 @@
             "4.3.0_349639ptb": "4.3.0_349639ptb-1601328995",
             "4.3.0_350136ptb": "4.3.0_350136ptb-1601415691",
             "4.3.0_350292ptb": "4.3.0_350292ptb-1601476973",
+            "4.3.0_351873ptb": "4.3.0_351873ptb-1601907462",
             "m_3.3.5_260791ptb": "m_3.3.5_260791ptb-1578947417",
             "m_3.3.5_281807ptb": "m_3.3.5_281807ptb-1584119023",
             "m_3.6.0_282086ptb": "m_3.6.0_282086ptb-1585750969"

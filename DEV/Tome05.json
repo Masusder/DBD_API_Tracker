@@ -1652,8 +1652,7 @@
                         "neighbors": [
                             "node_T5L2_14",
                             "node_T5L2_20",
-                            "node_T5L2_11",
-                            "node_T5L2_18"
+                            "node_T5L2_11"
                         ],
                         "nodeType": "quest:challenge",
                         "objectives": {
@@ -1921,7 +1920,7 @@
                             "Tome05_Hillbilly"
                         ],
                         "neighbors": [
-                            "node_T5L2_13",
+                            "node_T5L2_20",
                             "node_T5L2_09"
                         ],
                         "nodeType": "quest:challenge",
@@ -2033,7 +2032,8 @@
                         ],
                         "neighbors": [
                             "node_T5L2_13",
-                            "node_T5L2_03"
+                            "node_T5L2_03",
+                            "node_T5L2_18"
                         ],
                         "nodeType": "quest:challenge",
                         "objectives": {
@@ -2612,7 +2612,7 @@
                         ]
                     },
                     "node_T5L3_11": {
-                        "clientInfoId": "HookMultiple",
+                        "clientInfoId": "Hit",
                         "coordinates": {
                             "x": 1265,
                             "y": 455
@@ -2624,7 +2624,7 @@
                         ],
                         "nodeType": "quest:task",
                         "objectives": {
-                            "HookMultiple": {
+                            "Hit": {
                                 "conditions": [
                                     {
                                         "key": "role",
@@ -2634,13 +2634,13 @@
                                     }
                                 ],
                                 "incrementWithEventRepetitions": true,
-                                "neededProgression": 5,
-                                "objectiveId": "HookMultiple",
+                                "neededProgression": 20,
+                                "objectiveId": "Hit",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
                                         "parameters": "instigator:me",
-                                        "questEventId": "QuestEvent.HookMultiple",
+                                        "questEventId": "QuestEvent.Hit",
                                         "repetition": 1
                                     }
                                 ]
@@ -4064,8 +4064,8 @@
                                 "objectiveId": "ClownBottleHitInTrial",
                                 "questEvent": [
                                     {
-                                        "operation": "<=",
-                                        "questEventId": "QuestEvent.ClownBottleHit",
+                                        "operation": ">=",
+                                        "questEventId": "QuestEvent.ClownSurvivorEnteredGasCloud",
                                         "repetition": 6
                                     }
                                 ]
@@ -4235,6 +4235,6 @@
             }
         ],
         "rewardData": "Tome05",
-        "version": 24
+        "version": 28
     }
 }
