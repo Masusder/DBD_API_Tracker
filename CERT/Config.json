@@ -1,5 +1,9 @@
 [
     {
+        "value": "false",
+        "keyName": "DISABLE_BLOODLUST"
+    },
+    {
         "value": {
             "killer": {
                 "acceptable_ratio": 0.4,
@@ -164,6 +168,7 @@
         "value": {
             "KL": [
                 "CustomerSupportAnalytics",
+                "DDoSDetectionAnalytics",
                 "DisconnectionAnalytics",
                 "EACClientAuthChallengeAnalytics",
                 "EACClientAuthInitAnalytics",
@@ -171,6 +176,7 @@
                 "EACClientViolationAnalytics",
                 "EACServerValidateAnalytics",
                 "FallOutOfWorldAnalytics",
+                "FrameHikeAnalytics",
                 "GameEventLogAnalytics",
                 "GameInitAnalytics",
                 "InvalidLoadoutAnalytics",
@@ -197,28 +203,29 @@
                 "PerformanceChartingAnalytics",
                 "RTMAnalytics"
             ],
-            "KAL": [
+            "KA": [
                 "ChatAnalytics",
-                "DedicatedServerStatusAnalytics",
                 "DetailedHitAnalytics",
                 "DetailedScoreAnalytics",
-                "DisconnectionDetailsAnalytics",
-                "FrameHikeAnalytics",
                 "FranklinsDemiseConsumedItemAnalytics",
                 "FranklinsHitNearDroppedItemAnalytics",
                 "HookAnalytics",
                 "KnockoutSurvivorFoundAnalytics",
-                "LevelLoadingStepAnalytics",
-                "LevelLoadingTimeoutAnalytics",
                 "LightbornAuraRevealedAnalytics",
                 "LoadingStepAnalytics",
                 "LoadingTimeoutAnalytics",
                 "MapCoordAnalytics",
-                "PerformanceAnalytics",
                 "ProceduralGenerationAnalytics",
                 "ScoreAnalytics",
                 "TinkererUndetectableHitNearGeneratorAnalytics",
                 "TinkererUndetectableInterruptAnalytics"
+            ],
+            "KAL": [
+                "DedicatedServerStatusAnalytics",
+                "DisconnectionDetailsAnalytics",
+                "LevelLoadingStepAnalytics",
+                "LevelLoadingTimeoutAnalytics",
+                "PerformanceAnalytics"
             ]
         },
         "keyName": "ANALYTICS_RULES_DEDICATED_SERVER"
@@ -341,6 +348,7 @@
         "value": {
             "DD": [
                 "AtlantaDeepLinkAnalytics",
+                "AtlantaGraphicsSettingsAnalytics",
                 "AtlantaKillerTutorialAnalytics",
                 "AtlantaPartyGameAnalytics",
                 "AtlantaPerkSelectionAnalytics",
@@ -348,6 +356,7 @@
                 "AtlantaPurchasePopupAnalytics",
                 "AtlantaSessionStartAnalytics",
                 "AtlantaSurvivorTutorialAnalytics",
+                "BloodMarketAdsAnalytics",
                 "BloodMarketRefreshAnalytics",
                 "BloodMarketTransactionAnalytics",
                 "DailyCalendarRewardAnalytics",
@@ -362,6 +371,7 @@
             "KL": [
                 "CustomerSupportAnalytics",
                 "CustomerSupportClientLoginAnalytics",
+                "DDoSDetectionAnalytics",
                 "DisconnectionAnalytics",
                 "EACClientAuthChallengeAnalytics",
                 "EACClientAuthInitAnalytics",
@@ -371,6 +381,8 @@
                 "EntitlementAnalytics",
                 "ErrorAnalytics",
                 "FallOutOfWorldAnalytics",
+                "FrameHikeAnalytics",
+                "FrameTravelTimeAnalytics",
                 "GameEventLogAnalytics",
                 "GameInitAnalytics",
                 "HeartbeatPerfAnalytics",
@@ -413,26 +425,20 @@
             ],
             "KA": [
                 "ArchiveVignetteEntryAnalytics",
-                "ArchiveVignetteVideoAnalytics"
-            ],
-            "KAL": [
+                "ArchiveVignetteVideoAnalytics",
+                "AtlantaCampaignEventAnalytics",
                 "CannibalAnalytics",
-                "ChatAnalytics",
                 "CrowdChoiceOnGameRoundStartedAnalytics",
                 "CrowdChoiceSummaryResultAnalytics",
                 "CrowdChoiceVoteResultAnalytics",
                 "CrowdPlayLobbyEventsAnalytics",
                 "CrowdPlayLobbyResultsAnalytics",
-                "CurrencyBalanceAnalytics",
-                "CustomizationAnalytics",
                 "CustomizationLobbyAnalytics",
                 "DailyRitualAnalytics",
                 "DetailedHitAnalytics",
                 "DetailedScoreAnalytics",
                 "EmblemProgressionAnalytics",
                 "EndpointLatencyAnalytics",
-                "EnvironmentAnalytics",
-                "FrameHikeAnalytics",
                 "FranklinsDemiseConsumedItemAnalytics",
                 "FranklinsHitNearDroppedItemAnalytics",
                 "FreeTrialLoginAnalytics",
@@ -450,35 +456,42 @@
                 "KnockoutSurvivorFoundAnalytics",
                 "LegionKillerAnalytics",
                 "LegionSurvivorAnalytics",
-                "LevelLoadingStepAnalytics",
-                "LevelLoadingTimeoutAnalytics",
                 "LightbornAuraRevealedAnalytics",
-                "LoadOutAnalytics",
                 "LoadOutLobbyAnalytics",
                 "LoadingStepAnalytics",
                 "LoadingTimeoutAnalytics",
                 "MapCoordAnalytics",
-                "MatchInfoAnalytics",
                 "MatchRatingAnalytics",
                 "MatchmakingLobbyAnalytics",
                 "MatchmakingQueueAnalytics",
                 "MenuFlowAnalytics",
-                "PerformanceAnalytics",
                 "PerkAcquisitionAnalytics",
                 "PlagueSurvivorAnalytics",
                 "PostGame_KillerAnalytics",
                 "PostGame_SurvivorAnalytics",
                 "ProceduralGenerationAnalytics",
                 "QueueAnalytics",
-                "ReportAnalytics",
                 "ScoreAnalytics",
                 "StadiaLivestreamAnalytics",
+                "StadiaStreamAnalytics",
                 "StoreMenuFlowAnalytics",
                 "SurvivorTutorialAnalytics",
                 "TinkererUndetectableHitNearGeneratorAnalytics",
                 "TinkererUndetectableInterruptAnalytics",
                 "TransactionAnalytics",
-                "WaitTimeAnalytics",
+                "WaitTimeAnalytics"
+            ],
+            "KAL": [
+                "ChatAnalytics",
+                "CurrencyBalanceAnalytics",
+                "CustomizationAnalytics",
+                "EnvironmentAnalytics",
+                "LevelLoadingStepAnalytics",
+                "LevelLoadingTimeoutAnalytics",
+                "LoadOutAnalytics",
+                "MatchInfoAnalytics",
+                "PerformanceAnalytics",
+                "ReportAnalytics",
                 "WalesCypherAnalytics"
             ]
         },
@@ -544,7 +557,9 @@
             "4.2.0_349222cert": "4.2.0_349222cert-1601257185",
             "4.3.0_349440cert": "4.3.0_349440cert-1601317669",
             "4.3.0_350404cert": "4.3.0_350404cert-1601490139",
-            "4.3.0_353154cert": "4.3.0_353154cert-1602084596"
+            "4.3.0_353154cert": "4.3.0_353154cert-1602084596",
+            "4.3.0_353511cert": "4.3.0_353511cert-1602107446",
+            "4.3.0_353811cert": "4.3.0_353811cert-1602175928"
         },
         "keyName": "VER_CLIENT_DATA"
     },

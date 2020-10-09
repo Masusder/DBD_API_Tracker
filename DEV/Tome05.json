@@ -1281,7 +1281,7 @@
                                     }
                                 ],
                                 "incrementWithEventRepetitions": true,
-                                "neededProgression": 5,
+                                "neededProgression": 3,
                                 "objectiveId": "Escape",
                                 "questEvent": [
                                     {
@@ -3327,7 +3327,7 @@
                                     }
                                 ],
                                 "incrementWithEventRepetitions": true,
-                                "neededProgression": 3,
+                                "neededProgression": 5,
                                 "objectiveId": "Escape",
                                 "questEvent": [
                                     {
@@ -3925,7 +3925,7 @@
                         ]
                     },
                     "node_T5L4_16": {
-                        "clientInfoId": "EscapeAsAdamInTrial",
+                        "clientInfoId": "SkillCheckGreatSuccessInTrial",
                         "coordinates": {
                             "x": 185,
                             "y": 605
@@ -3938,30 +3938,24 @@
                         ],
                         "nodeType": "quest:challenge",
                         "objectives": {
-                            "EscapeAsCharacterInTrial": {
+                            "SkillCheckGreatSuccessInTrial": {
                                 "conditions": [
                                     {
                                         "key": "role",
                                         "value": [
                                             "survivor"
                                         ]
-                                    },
-                                    {
-                                        "key": "character",
-                                        "value": [
-                                            "Adam"
-                                        ]
                                     }
                                 ],
                                 "incrementWithEventRepetitions": false,
                                 "neededProgression": 1,
-                                "objectiveId": "EscapeAsCharacterInTrial",
+                                "objectiveId": "SkillCheckGreatSuccessInTrial",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
                                         "parameters": "instigator:me",
-                                        "questEventId": "QuestEvent.Escape",
-                                        "repetition": 1
+                                        "questEventId": "QuestEvent.SkillCheckGreatSuccess",
+                                        "repetition": 6
                                     }
                                 ]
                             }
@@ -4235,6 +4229,6 @@
             }
         ],
         "rewardData": "Tome05",
-        "version": 28
+        "version": 30
     }
 }
