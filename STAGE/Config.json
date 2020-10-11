@@ -1,5 +1,9 @@
 [
     {
+        "value": "false",
+        "keyName": "DISABLE_BLOODLUST"
+    },
+    {
         "value": {
             "killer": {
                 "acceptable_ratio": 0.33,
@@ -21,6 +25,10 @@
     {
         "value": "10",
         "keyName": "SOCIAL_PLATFORM_FRIENDLIST_QUERY_RATE"
+    },
+    {
+        "value": "true",
+        "keyName": "DDOS_DETECTION"
     },
     {
         "value": {
@@ -61,25 +69,30 @@
     },
     {
         "value": "true",
+        "keyName": "DDOS_DETECTION_ANALYTICS"
+    },
+    {
+        "value": "true",
         "keyName": "GAME_CLIENT_VERSION_CHECK_ENABLED"
     },
     {
         "value": {
             "KL": [
                 "CustomerSupportAnalytics",
+                "DDoSDetectionAnalytics",
                 "DisconnectionAnalytics",
                 "EACClientAuthChallengeAnalytics",
                 "EACClientAuthInitAnalytics",
                 "EACClientInitAnalytics",
                 "EACClientViolationAnalytics",
                 "EACServerValidateAnalytics",
+                "FallOutOfWorldAnalytics",
                 "FrameHikeAnalytics",
                 "GameEventLogAnalytics",
                 "GameInitAnalytics",
                 "InvalidLoadoutAnalytics",
                 "KrakenRequestAnalytics",
                 "LogMirrorsAnalytics",
-                "RTMAnalytics",
                 "S3CommandAnalytics",
                 "S3CommandErrorAnalytics",
                 "SaveGameErrorAnalytics",
@@ -98,7 +111,8 @@
                 "MatchmakingSearchParamAnalytics",
                 "MatchmakingSearchResultAnalytics",
                 "MatchmakingSessionSpotReservationAnalytics",
-                "PerformanceChartingAnalytics"
+                "PerformanceChartingAnalytics",
+                "RTMAnalytics"
             ],
             "KA": [
                 "ChatAnalytics",
@@ -216,16 +230,21 @@
     {
         "value": {
             "DD": [
+                "AtlantaDeepLinkAnalytics",
+                "AtlantaGraphicsSettingsAnalytics",
                 "AtlantaKillerTutorialAnalytics",
                 "AtlantaPartyGameAnalytics",
                 "AtlantaPerkSelectionAnalytics",
                 "AtlantaPlayerLevelAnalytics",
+                "AtlantaPurchasePopupAnalytics",
                 "AtlantaSessionStartAnalytics",
                 "AtlantaSurvivorTutorialAnalytics",
+                "BloodMarketAdsAnalytics",
                 "BloodMarketRefreshAnalytics",
                 "BloodMarketTransactionAnalytics",
                 "DailyCalendarRewardAnalytics",
                 "FreeTicketAnalytics",
+                "MatchmakingIncentiveAnalytics",
                 "MobileBannerClickedAnalytics",
                 "MobileCdnDownloadAnalytics",
                 "MobileLoginAnalytics",
@@ -235,6 +254,7 @@
             "KL": [
                 "CustomerSupportAnalytics",
                 "CustomerSupportClientLoginAnalytics",
+                "DDoSDetectionAnalytics",
                 "DisconnectionAnalytics",
                 "EACClientAuthChallengeAnalytics",
                 "EACClientAuthInitAnalytics",
@@ -245,6 +265,7 @@
                 "ErrorAnalytics",
                 "FallOutOfWorldAnalytics",
                 "FrameHikeAnalytics",
+                "FrameTravelTimeAnalytics",
                 "GameEventLogAnalytics",
                 "GameInitAnalytics",
                 "HeartbeatPerfAnalytics",
@@ -259,8 +280,6 @@
                 "MatchmakingJoinSessionAnalytics",
                 "MatchmakingSearchCompleteAnalytics",
                 "MatchmakingSessionSpotReservationAnalytics",
-                "RTMAnalytics",
-                "RecordRanksMigrateCheatAnalytics",
                 "S3CommandAnalytics",
                 "S3CommandErrorAnalytics",
                 "SaveGameErrorAnalytics",
@@ -278,7 +297,8 @@
                 "MatchmakingSearchParamAnalytics",
                 "MatchmakingSearchResultAnalytics",
                 "MatchmakingSurviveWithFriendsAnalytics",
-                "PerformanceChartingAnalytics"
+                "PerformanceChartingAnalytics",
+                "RTMAnalytics"
             ],
             "AF": [
                 "af_complete_registrationAnalytics",
@@ -287,7 +307,15 @@
                 "af_survivor_tutorial_completionAnalytics"
             ],
             "KA": [
+                "ArchiveVignetteEntryAnalytics",
+                "ArchiveVignetteVideoAnalytics",
+                "AtlantaCampaignEventAnalytics",
                 "CannibalAnalytics",
+                "CrowdChoiceOnGameRoundStartedAnalytics",
+                "CrowdChoiceSummaryResultAnalytics",
+                "CrowdChoiceVoteResultAnalytics",
+                "CrowdPlayLobbyEventsAnalytics",
+                "CrowdPlayLobbyResultsAnalytics",
                 "CustomizationLobbyAnalytics",
                 "DailyRitualAnalytics",
                 "DetailedHitAnalytics",
@@ -327,6 +355,8 @@
                 "ProceduralGenerationAnalytics",
                 "QueueAnalytics",
                 "ScoreAnalytics",
+                "StadiaLivestreamAnalytics",
+                "StadiaStreamAnalytics",
                 "StoreMenuFlowAnalytics",
                 "SurvivorTutorialAnalytics",
                 "TinkererUndetectableHitNearGeneratorAnalytics",
@@ -378,7 +408,8 @@
             "4.2.0_332222stage": "4.2.0_332222stage-1601062842",
             "4.2.0_338608stage": "4.2.0_338608stage-1601070894",
             "4.3.0_349028stage": "4.3.0_349028stage-1601061091",
-            "4.3.0_350404stage": "4.3.0_350404stage-1601490328"
+            "4.3.0_350404stage": "4.3.0_350404stage-1601490328",
+            "4.3.0_353511stage": "4.3.0_353511stage-1602107326"
         },
         "keyName": "VER_CLIENT_DATA"
     },

@@ -19,7 +19,7 @@
         "keyName": "MATCHMAKING_INCENTIVE_CONFIG"
     },
     {
-        "value": "true",
+        "value": "TRUE",
         "keyName": "MATCHMAKING_ALLOW_CROSSPLAY"
     },
     {
@@ -60,12 +60,8 @@
         "keyName": "KRAKEN_RSA_PUBLIC_KEY"
     },
     {
-        "value": "true",
+        "value": "TRUE",
         "keyName": "CANCEL_MATCH_ON_DISCONNECT_DURING_LOADING"
-    },
-    {
-        "value": "7200",
-        "keyName": "GAMELIFT_INSTANCE_SHUTDOWN_TIMER"
     },
     {
         "value": {
@@ -86,15 +82,7 @@
         "keyName": "DDOS_DETECTION_ANALYTICS"
     },
     {
-        "value": {
-            "uncategorized": {
-                "enabled": false
-            }
-        },
-        "keyName": "offenceCategories"
-    },
-    {
-        "value": "true",
+        "value": "TRUE",
         "keyName": "SEGMENTATION_V2_ENABLED"
     },
     {
@@ -157,12 +145,8 @@
         "keyName": "AVAILABLE_PLATFORMS"
     },
     {
-        "value": "true",
+        "value": "TRUE",
         "keyName": "GAME_CLIENT_VERSION_CHECK_ENABLED"
-    },
-    {
-        "value": "25",
-        "keyName": "FRAME_HIKE_ANALYTIC_LOG_BUFFER_SIZE"
     },
     {
         "value": {
@@ -244,10 +228,6 @@
         "keyName": "CLIENT_VERSION"
     },
     {
-        "value": "600",
-        "keyName": "RICH_PRESENCE_SERVER_TIMER_RATE"
-    },
-    {
         "value": {
             "NetEase": {
                 "ios": {
@@ -273,12 +253,7 @@
         "keyName": "CLIENT_VERSION_V2"
     },
     {
-        "value": {
-            "DeltaDnaEngageAddress": "https://engage14352dbdmb.deltadna.net/86609193614997436569595476515429",
-            "DeltaDnaAnalytics": "https://collect14352dbdmb.deltadna.net/collect/api/86609193614997436569595476515429",
-            "KrakenAnalytics": "https://latest.cert.bhvrdbd.com/api/v1/gameDataAnalytics/binary/batch",
-            "KrakenLogs": "https://latest.cert.bhvrdbd.com/api/v1/gameLogs/batch"
-        },
+        "value": "{   \"DeltaDnaEngageAddress\": \"https://engage14352dbdmb.deltadna.net/86609193614997436569595476515429\",   \"DeltaDnaAnalytics\": \"https://collect14352dbdmb.deltadna.net/collect/api/86609193614997436569595476515429\",   \"KrakenAnalytics\": \"https://latest.cert.bhvrdbd.com/api/v1/gameDataAnalytics/binary/batch\",   \"KrakenLogs\": \"https://latest.cert.bhvrdbd.com/api/v1/gameLogs/batch\" }",
         "keyName": "ANALYTICS_ENDPOINTS"
     },
     {
@@ -286,13 +261,13 @@
             "Mobile": {
                 "dbd_match_making_filter_unidirectional_always": true,
                 "dbd_match_making_filter_good_latency": 120,
-                "dbd_match_making_filter_skip_region_checks": false,
                 "dbd_match_making_filter_min_geo_distance": 1000,
+                "dbd_match_making_filter_skip_region_checks": false,
                 "dbd_match_making_filter_ok_latency": 250,
                 "dbd_match_making_filter_expansion_duration": 240000,
                 "dbd_match_making_filter_max_geo_distance": 7000,
-                "dbd_match_making_filter_unidirectional": true,
                 "dbd_match_making_filter_max_rank_diff": 20,
+                "dbd_match_making_filter_unidirectional": true,
                 "dbd_match_making_filter_min_rank_diff": 1
             }
         },
@@ -305,25 +280,6 @@
     {
         "value": "81e79fac-5729-424d-aaec-4aecd65c44311",
         "keyName": "CDN_ROOT_FOLDER_PATH"
-    },
-    {
-        "value": {
-            "retentionRewardId": "4.2.0_334183cert",
-            "referralId": "4.2.0_334183cert",
-            "achievementId": "4.2.0_334183cert",
-            "leaderboardId": "4.2.0_334183cert",
-            "gameContentId": "4.2.0_334183cert",
-            "statesPermissionsId": "4.2.0_334183cert",
-            "lootTableId": "4.2.0_334183cert",
-            "consentId": "4.2.0_334183cert",
-            "catalogId": "4.2.0_334183cert",
-            "actionId": "4.2.0_334183cert",
-            "subscriptionId": "4.2.0_334183cert",
-            "currencyId": "4.2.0_334183cert",
-            "actionQueueId": "4.2.0_334183cert",
-            "scenarioId": "4.2.0_334183cert"
-        },
-        "keyName": "clientData"
     },
     {
         "value": "NetworkError",
@@ -522,44 +478,7 @@
     },
     {
         "value": {
-            "3.3.0_237396cert": "3.3.0_237396cert-1571336785",
-            "3.4.0_246503cert": "3.4.0_246503cert-1573857812",
-            "3.4.0_246504cert": "3.4.0_246504cert-1573858016",
-            "3.5.0_260297cert": "3.5.0_260297cert-1578687379",
-            "3.5.0_260791cert": "3.5.0_260791cert-1578947231",
-            "3.5.0_265015cert": "3.5.0_265015cert-1579807470",
-            "3.5.0_271942cert": "3.5.0_271942cert-1581544466",
-            "3.6.0_272255cert": "3.6.0_272255cert-1581612372",
-            "3.6.0_272262cert": "3.6.0_272262cert-1581614442",
-            "3.6.0_272347cert": "3.6.0_272347cert-1581622395",
-            "3.6.0_272486cert": "3.6.0_272486cert-1581630756",
-            "3.7.0_288752cert": "3.7.0_288752cert-1586195768",
-            "3.7.0_292179cert": "3.7.0_292179cert-1587067987",
-            "3.7.0_296696cert": "3.7.0_296696cert-1588273411",
-            "4.0.0_304587cert": "4.0.0_304587cert-1590165875",
-            "4.0.0_304631cert": "4.0.0_304631cert-1590170458",
-            "4.0.0_304648cert": "4.0.0_304648cert-1590171385",
-            "4.0.0_310379cert": "4.0.0_310379cert-1591630084",
-            "4.0.0_310727cert": "4.0.0_310727cert-1591712988",
-            "4.0.0_310996cert": "4.0.0_310996cert-1591734582",
-            "4.0.0_311516cert": "4.0.0_311516cert-1591884003",
-            "4.0.0_312199cert": "4.0.0_312199cert-1592000799",
-            "4.0.0_312406cert": "4.0.0_312406cert-1592220218",
-            "4.0.0_316036cert": "4.0.0_316036cert-1593197234",
-            "4.0.0_317650cert": "4.0.0_317650cert-1593811840",
-            "4.1.0_321297cert": "4.1.0_321297cert-1594844895",
-            "4.1.0_322267cert": "4.1.0_322267cert-1595002814",
-            "4.1.0_322515cert": "4.1.0_322515cert-1595033901",
-            "4.1.0_329783cert": "4.1.0_329783cert-1596812615",
-            "4.2.0_332485cert": "4.2.0_332485cert-1597419917",
-            "4.2.0_334183cert": "4.2.0_334183cert-1597792782",
-            "4.2.0_348145cert": "4.2.0_348145cert-1600900648",
-            "4.2.0_349222cert": "4.2.0_349222cert-1601257185",
-            "4.3.0_349440cert": "4.3.0_349440cert-1601317669",
-            "4.3.0_350404cert": "4.3.0_350404cert-1601490139",
-            "4.3.0_353154cert": "4.3.0_353154cert-1602084596",
-            "4.3.0_353511cert": "4.3.0_353511cert-1602107446",
-            "4.3.0_353811cert": "4.3.0_353811cert-1602175928"
+            "4.3.0_354300cert": "4.3.0_354300cert-1602261121"
         },
         "keyName": "VER_CLIENT_DATA"
     },
@@ -579,15 +498,7 @@
         "keyName": "SOCIAL_CROSSFRIENDS_PLATFORMS"
     },
     {
-        "value": "10",
-        "keyName": "FRAME_HIKE_THRESHOLD"
-    },
-    {
-        "value": "600",
-        "keyName": "RICH_PRESENCE_PLAYER_TIMER_RATE"
-    },
-    {
-        "value": "true",
+        "value": "TRUE",
         "keyName": "MATCHMAKING_USE_QUEUE_API"
     },
     {
@@ -617,9 +528,5 @@
     {
         "value": "https://console.aws.amazon.com/gamelift/home?region=us-east-1#/r/game-session-queues/[[gameliftQueueName]]",
         "keyName": "MATCHMAKING_GAMELIFT_DASHBOARD_URL"
-    },
-    {
-        "value": "{\"0\":\"Harassment\",\"1\":\"Griefing\",\"2\":\"Exploits\",\"3\":\"Unsportsmanlike\"}",
-        "keyName": "BAN_REASON_ENUM"
     }
 ]

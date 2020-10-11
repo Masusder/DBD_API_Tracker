@@ -27,6 +27,10 @@
         "keyName": "SOCIAL_PLATFORM_FRIENDLIST_QUERY_RATE"
     },
     {
+        "value": "true",
+        "keyName": "DDOS_DETECTION"
+    },
+    {
         "value": {
             "ps4": true,
             "stadia": true,
@@ -74,6 +78,10 @@
     {
         "value": "https://xbox1-live2.bhvrdbd.com/restservice.svc",
         "keyName": "MS_ENDPOINT"
+    },
+    {
+        "value": "true",
+        "keyName": "DDOS_DETECTION_ANALYTICS"
     },
     {
         "value": {
@@ -677,7 +685,10 @@
             "m_3.7.4_341483live": "m_3.7.4_341483live-1599234997",
             "m_3.7.4_344650live": "m_3.7.4_344650live-1600183603",
             "m_3.7.4_346923live": "m_3.7.4_346923live-1600711448",
-            "m_3.7.4_347791live": "m_3.7.4_347791live-1600873971"
+            "m_3.7.4_347791live": "m_3.7.4_347791live-1600873971",
+            "m_4.2.0_353773live": "m_4.2.0_353773live-1602173352",
+            "m_4.2.0_353890live": "m_4.2.0_353890live-1602180955",
+            "m_4.2.0_353994live": "m_4.2.0_353994live-1602186974"
         },
         "keyName": "VER_CLIENT_DATA"
     },
