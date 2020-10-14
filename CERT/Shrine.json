@@ -1,7 +1,7 @@
 {
     "items": [
         {
-            "id": "DeadHard",
+            "id": "BuckleUp",
             "bloodpointValue": 150000,
             "experienceValue": 150000,
             "unique": false,
@@ -15,7 +15,7 @@
             ]
         },
         {
-            "id": "MakeYourChoice",
+            "id": "Coulrophobia",
             "bloodpointValue": 150000,
             "experienceValue": 150000,
             "unique": false,
@@ -29,7 +29,7 @@
             ]
         },
         {
-            "id": "Saboteur",
+            "id": "Hex_The_Third_Seal",
             "bloodpointValue": 150000,
             "experienceValue": 150000,
             "unique": false,
@@ -43,7 +43,7 @@
             ]
         },
         {
-            "id": "ThrillingTremors",
+            "id": "Sprint_Burst",
             "bloodpointValue": 150000,
             "experienceValue": 150000,
             "unique": false,
@@ -57,7 +57,7 @@
             ]
         }
     ],
-    "startDate": "2020-10-07T00:00:00",
-    "endDate": "2020-10-13T23:59:59",
-    "week": 208
+    "startDate": "2020-10-14T00:00:00",
+    "endDate": "2020-10-20T23:59:59",
+    "week": 209
 }

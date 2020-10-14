@@ -64,6 +64,10 @@
         "keyName": "CANCEL_MATCH_ON_DISCONNECT_DURING_LOADING"
     },
     {
+        "value": "7200",
+        "keyName": "GAMELIFT_INSTANCE_SHUTDOWN_TIMER"
+    },
+    {
         "value": {
             "readonlyConfigs": [
                 "ANALYTICS_RULES",
@@ -228,6 +232,10 @@
         "keyName": "CLIENT_VERSION"
     },
     {
+        "value": "600",
+        "keyName": "RICH_PRESENCE_SERVER_TIMER_RATE"
+    },
+    {
         "value": {
             "NetEase": {
                 "ios": {
@@ -253,7 +261,12 @@
         "keyName": "CLIENT_VERSION_V2"
     },
     {
-        "value": "{   \"DeltaDnaEngageAddress\": \"https://engage14352dbdmb.deltadna.net/86609193614997436569595476515429\",   \"DeltaDnaAnalytics\": \"https://collect14352dbdmb.deltadna.net/collect/api/86609193614997436569595476515429\",   \"KrakenAnalytics\": \"https://latest.cert.bhvrdbd.com/api/v1/gameDataAnalytics/binary/batch\",   \"KrakenLogs\": \"https://latest.cert.bhvrdbd.com/api/v1/gameLogs/batch\" }",
+        "value": {
+            "DeltaDnaEngageAddress": "https://engage14352dbdmb.deltadna.net/86609193614997436569595476515429",
+            "DeltaDnaAnalytics": "https://collect14352dbdmb.deltadna.net/collect/api/86609193614997436569595476515429",
+            "KrakenAnalytics": "https://latest.cert.bhvrdbd.com/api/v1/gameDataAnalytics/batch",
+            "KrakenLogs": "https://latest.cert.bhvrdbd.com/api/v1/gameLogs/batch"
+        },
         "keyName": "ANALYTICS_ENDPOINTS"
     },
     {
@@ -478,7 +491,10 @@
     },
     {
         "value": {
-            "4.3.0_354300cert": "4.3.0_354300cert-1602261121"
+            "4.2.0_349222cert": "4.2.0_349222cert-1602284066",
+            "4.3.0_354300cert": "4.3.0_354300cert-1602261121",
+            "4.3.0_355187cert": "4.3.0_355187cert-1602622270",
+            "4.3.0_355295cert": "4.3.0_355295cert-1602628183"
         },
         "keyName": "VER_CLIENT_DATA"
     },
@@ -496,6 +512,10 @@
             "switch": true
         },
         "keyName": "SOCIAL_CROSSFRIENDS_PLATFORMS"
+    },
+    {
+        "value": "600",
+        "keyName": "RICH_PRESENCE_PLAYER_TIMER_RATE"
     },
     {
         "value": "TRUE",
