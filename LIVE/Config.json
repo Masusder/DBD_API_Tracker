@@ -35,10 +35,12 @@
             "ps4": true,
             "stadia": true,
             "grdk": true,
+            "ps5": true,
             "android": false,
             "steam": true,
             "xbox": true,
             "ios": false,
+            "xsx": true,
             "switch": true
         },
         "keyName": "MATCHMAKING_CROSSPLAY_PLATFORMS"
@@ -332,10 +334,12 @@
             "ps4": false,
             "stadia": false,
             "grdk": false,
+            "ps5": false,
             "android": false,
             "steam": false,
             "xbox": false,
             "ios": false,
+            "xsx": false,
             "switch": false
         },
         "keyName": "SOCIAL_CROSSPROGRESSION_PLATFORMS"
@@ -602,6 +606,7 @@
             "4.2.0_350321live": "4.2.0_350321live-1601479827",
             "4.2.0_350816live": "4.2.0_350816live-1601567411",
             "4.2.0_351364live": "4.2.0_351364live-1601656997",
+            "4.2.0_354897live": "4.2.0_354897live-1602601358",
             "m_3.0.2_219921live": "m_3.0.2_219921live-1566230507",
             "m_3.0.3_241022live": "m_3.0.3_241022live-1572449159",
             "m_3.3.3_220000live": "m_3.3.3_220000live-1574880017",
@@ -701,10 +706,12 @@
             "ps4": true,
             "stadia": true,
             "grdk": true,
+            "ps5": true,
             "android": false,
             "steam": true,
             "xbox": true,
             "ios": false,
+            "xsx": true,
             "switch": true
         },
         "keyName": "SOCIAL_CROSSFRIENDS_PLATFORMS"

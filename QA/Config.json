@@ -1,5 +1,9 @@
 [
     {
+        "value": "false",
+        "keyName": "DISABLE_BLOODLUST"
+    },
+    {
         "value": {
             "killer": {
                 "acceptable_ratio": 0.4,
@@ -25,6 +29,10 @@
     {
         "value": "10",
         "keyName": "SOCIAL_PLATFORM_FRIENDLIST_QUERY_RATE"
+    },
+    {
+        "value": "true",
+        "keyName": "DDOS_DETECTION"
     },
     {
         "value": {
@@ -74,6 +82,10 @@
         "keyName": "MS_ENDPOINT"
     },
     {
+        "value": "true",
+        "keyName": "DDOS_DETECTION_ANALYTICS"
+    },
+    {
         "value": {
             "uncategorized": {
                 "enabled": false
@@ -88,6 +100,7 @@
     {
         "value": [
             "EnableCheats",
+            "dbd.EnableBots 1",
             "dbd.EnableCheatsPersistently 1"
         ],
         "keyName": "COMMANDS_BOOT"
@@ -152,6 +165,10 @@
         "keyName": "GAME_CLIENT_VERSION_CHECK_ENABLED"
     },
     {
+        "value": "12",
+        "keyName": "PURCHASE_EXTRA_TIME_PREMIUM_BUNDLE"
+    },
+    {
         "value": "25",
         "keyName": "FRAME_HIKE_ANALYTIC_LOG_BUFFER_SIZE"
     },
@@ -159,6 +176,7 @@
         "value": {
             "KL": [
                 "CustomerSupportAnalytics",
+                "DDoSDetectionAnalytics",
                 "DisconnectionAnalytics",
                 "EACClientAuthChallengeAnalytics",
                 "EACClientAuthInitAnalytics",
@@ -336,6 +354,7 @@
         "value": {
             "DD": [
                 "AtlantaDeepLinkAnalytics",
+                "AtlantaGraphicsSettingsAnalytics",
                 "AtlantaKillerTutorialAnalytics",
                 "AtlantaPartyGameAnalytics",
                 "AtlantaPerkSelectionAnalytics",
@@ -343,6 +362,7 @@
                 "AtlantaPurchasePopupAnalytics",
                 "AtlantaSessionStartAnalytics",
                 "AtlantaSurvivorTutorialAnalytics",
+                "BloodMarketAdsAnalytics",
                 "BloodMarketRefreshAnalytics",
                 "BloodMarketTransactionAnalytics",
                 "DailyCalendarRewardAnalytics",
@@ -357,6 +377,7 @@
             "KL": [
                 "CustomerSupportAnalytics",
                 "CustomerSupportClientLoginAnalytics",
+                "DDoSDetectionAnalytics",
                 "DisconnectionAnalytics",
                 "EACClientAuthChallengeAnalytics",
                 "EACClientAuthInitAnalytics",
@@ -406,14 +427,12 @@
                 "af_loginAnalytics",
                 "af_survivor_tutorial_completionAnalytics"
             ],
-            "KA": [
-                "ArchiveVignetteEntryAnalytics",
-                "ArchiveVignetteVideoAnalytics"
-            ],
             "KAL": [
+                "ArchiveVignetteEntryAnalytics",
+                "ArchiveVignetteVideoAnalytics",
+                "AtlantaCampaignEventAnalytics",
                 "CannibalAnalytics",
                 "ChatAnalytics",
-                "CrowdChoiceIndividualVoteAnalytics",
                 "CrowdChoiceOnGameRoundStartedAnalytics",
                 "CrowdChoiceSummaryResultAnalytics",
                 "CrowdChoiceVoteResultAnalytics",
@@ -488,6 +507,7 @@
     },
     {
         "value": [
+            "dbd.EnableBots 1",
             "dbd.EnableCheatsPersistently 1"
         ],
         "keyName": "COMMANDS_DS_BOOT"
@@ -523,70 +543,10 @@
             "3.5.0_272450qa": "3.5.0_272450qa-1581628094",
             "3.6.0_287539qa": "3.6.0_287539qa-1585777409",
             "3.7.0_302900qa": "3.7.0_302900qa-1589897928",
-            "4.0.0_314988qa": "4.0.0_314988qa-1592876387",
-            "4.0.0_316109qa": "4.0.0_316109qa-1593203085",
-            "4.0.0_316270qa": "4.0.0_316270qa-1593441584",
-            "4.0.0_316282qa": "4.0.0_316282qa-1593442964",
-            "4.0.0_316469qa": "4.0.0_316469qa-1593466184",
             "4.0.0_316692qa": "4.0.0_316692qa-1593539119",
             "4.0.0_316787qa": "4.0.0_316787qa-1593547220",
             "4.0.0_316794qa": "4.0.0_316794qa-1593547825",
             "4.0.0_319019qa": "4.0.0_319019qa-1594302137",
-            "4.1.0_317275qa": "4.1.0_317275qa-1593727492",
-            "4.1.0_317650qa": "4.1.0_317650qa-1593812172",
-            "4.1.0_317683qa": "4.1.0_317683qa-1593823327",
-            "4.1.0_317938qa": "4.1.0_317938qa-1594058707",
-            "4.1.0_318002qa": "4.1.0_318002qa-1594063841",
-            "4.1.0_318213qa": "4.1.0_318213qa-1594128742",
-            "4.1.0_318385qa": "4.1.0_318385qa-1594148479",
-            "4.1.0_318409qa": "4.1.0_318409qa-1594150526",
-            "4.1.0_318429qa": "4.1.0_318429qa-1594151760",
-            "4.1.0_318449qa": "4.1.0_318449qa-1594153677",
-            "4.1.0_318572qa": "4.1.0_318572qa-1594215219",
-            "4.1.0_318600qa": "4.1.0_318600qa-1594216489",
-            "4.1.0_318940qa": "4.1.0_318940qa-1594301545",
-            "4.1.0_319026qa": "4.1.0_319026qa-1594303141",
-            "4.1.0_319461qa": "4.1.0_319461qa-1594382738",
-            "4.1.0_320147qa": "4.1.0_320147qa-1594663489",
-            "4.1.0_320329qa": "4.1.0_320329qa-1594675616",
-            "4.1.0_320357qa": "4.1.0_320357qa-1594676392",
-            "4.1.0_321024qa": "4.1.0_321024qa-1594825041",
-            "4.1.0_321081qa": "4.1.0_321081qa-1594828169",
-            "4.1.0_321140qa": "4.1.0_321140qa-1594834370",
-            "4.1.0_321152qa": "4.1.0_321152qa-1594835135",
-            "4.1.0_321160qa": "4.1.0_321160qa-1594835742",
-            "4.1.0_321297qa": "4.1.0_321297qa-1594844780",
-            "4.1.0_321556qa": "4.1.0_321556qa-1594908893",
-            "4.1.0_321562qa": "4.1.0_321562qa-1594909198",
-            "4.1.0_321663qa": "4.1.0_321663qa-1594916098",
-            "4.1.0_322216qa": "4.1.0_322216qa-1594999257",
-            "4.1.0_322282qa": "4.1.0_322282qa-1595005214",
-            "4.1.0_322659qa": "4.1.0_322659qa-1595255355",
-            "4.1.0_323106qa": "4.1.0_323106qa-1595335986",
-            "4.1.0_323115qa": "4.1.0_323115qa-1595336759",
-            "4.1.0_323260qa": "4.1.0_323260qa-1595351123",
-            "4.1.0_323488qa": "4.1.0_323488qa-1595367358",
-            "4.1.0_323896qa": "4.1.0_323896qa-1595449246",
-            "4.1.0_324190qa": "4.1.0_324190qa-1595521784",
-            "4.1.0_324804qa": "4.1.0_324804qa-1595621313",
-            "4.1.0_325290qa": "4.1.0_325290qa-1595883651",
-            "4.1.0_325637qa": "4.1.0_325637qa-1595959843",
-            "4.1.0_325646qa": "4.1.0_325646qa-1595960489",
-            "4.1.0_325966qa": "4.1.0_325966qa-1596033026",
-            "4.1.0_325984qa": "4.1.0_325984qa-1596034462",
-            "4.1.0_326047qa": "4.1.0_326047qa-1596036644",
-            "4.1.0_326083qa": "4.1.0_326083qa-1596039923",
-            "4.1.0_326309qa": "4.1.0_326309qa-1596054053",
-            "4.1.0_326397qa": "4.1.0_326397qa-1596059993",
-            "4.1.0_326546qa": "4.1.0_326546qa-1596119088",
-            "4.1.0_326664qa": "4.1.0_326664qa-1596124853",
-            "4.1.0_326693qa": "4.1.0_326693qa-1596127443",
-            "4.1.0_327362qa": "4.1.0_327362qa-1596220207",
-            "4.1.0_328279qa": "4.1.0_328279qa-1596564295",
-            "4.1.0_328499qa": "4.1.0_328499qa-1596576308",
-            "4.1.0_328783qa": "4.1.0_328783qa-1596648466",
-            "4.1.0_328900qa": "4.1.0_328900qa-1596656132",
-            "4.1.0_329485qa": "4.1.0_329485qa-1596745812",
             "4.1.0_329856qa": "4.1.0_329856qa-1596817197",
             "4.1.0_330122qa": "4.1.0_330122qa-1597062596",
             "4.1.0_330480qa": "4.1.0_330480qa-1597090213",
@@ -637,6 +597,7 @@
             "4.3.0_350592qa": "4.3.0_350592qa-1601505913",
             "4.3.0_350695qa": "4.3.0_350695qa-1601556978",
             "4.3.0_351315qa": "4.3.0_351315qa-1601654108",
+            "4.3.0_355010qa": "4.3.0_355010qa-1602611593",
             "edule_3.4.0_0qa": "edule_3.4.0_0qa-1576698389",
             "m_3.0.2_220683qa": "m_3.0.2_220683qa-1566333505",
             "m_3.0.3_240244qa": "m_3.0.3_240244qa-1572275329",
