@@ -276,7 +276,7 @@
         "value": {
             "DeltaDnaEngageAddress": "https://engage14352dbdmb.deltadna.net/86609205096052418441976264915429",
             "DeltaDnaAnalytics": "https://collect14352dbdmb.deltadna.net/collect/api/86609205096052418441976264915429",
-            "KrakenAnalytics": "https://gamelogs.live.bhvrdbd.com/api/v1/gameDataAnalytics/binary/batch",
+            "KrakenAnalytics": "https://gamelogs.live.bhvrdbd.com/api/v1/gameDataAnalytics/batch",
             "KrakenLogs": "https://gamelogs.live.bhvrdbd.com/api/v1/gameLogs/batch"
         },
         "keyName": "ANALYTICS_ENDPOINTS"
