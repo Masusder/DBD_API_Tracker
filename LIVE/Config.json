@@ -332,11 +332,11 @@
     {
         "value": {
             "ps4": false,
-            "stadia": false,
+            "stadia": true,
             "grdk": false,
             "ps5": false,
             "android": false,
-            "steam": false,
+            "steam": true,
             "xbox": false,
             "ios": false,
             "xsx": false,
