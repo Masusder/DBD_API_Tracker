@@ -78648,144 +78648,6 @@
         "defaultCost": [
             {
                 "currencyId": "Cells",
-                "price": 400
-            }
-        ],
-        "eventCostList": [],
-        "id": "CA_Head006",
-        "initialQuantity": 0,
-        "metaData": {
-            "base_itemId": "CA_Head006",
-            "character": "Cannibal",
-            "kind": "Customization",
-            "newEndDate": "2020-11-27T14:59:59",
-            "newStartDate": "2020-11-13T15:00:00",
-            "outfitId": "CA_outfit_006",
-            "quality": "V0",
-            "qualityName": "quality1",
-            "rarity": "VeryRare",
-            "type": "Head",
-            "unbreakable": false,
-            "version": {
-                "grdk": true,
-                "nintendo": true,
-                "ps4": true,
-                "ps5": true,
-                "psn": true,
-                "stadia": true,
-                "steam": true,
-                "switch": true,
-                "xbox": true,
-                "xsx": true
-            }
-        },
-        "nonSecure": false,
-        "premium": false,
-        "purchasable": true,
-        "unique": true
-    },
-    {
-        "categories": [
-            "item"
-        ],
-        "consumable": false,
-        "consumptionCurrenciesList": [],
-        "consumptionObjectList": [],
-        "defaultCost": [
-            {
-                "currencyId": "Cells",
-                "price": 400
-            }
-        ],
-        "eventCostList": [],
-        "id": "CA_Body006",
-        "initialQuantity": 0,
-        "metaData": {
-            "base_itemId": "CA_Body006",
-            "character": "Cannibal",
-            "kind": "Customization",
-            "newEndDate": "2020-11-27T14:59:59",
-            "newStartDate": "2020-11-13T15:00:00",
-            "outfitId": "CA_outfit_006",
-            "quality": "V0",
-            "qualityName": "quality1",
-            "rarity": "VeryRare",
-            "type": "Torso",
-            "unbreakable": false,
-            "version": {
-                "grdk": true,
-                "nintendo": true,
-                "ps4": true,
-                "ps5": true,
-                "psn": true,
-                "stadia": true,
-                "steam": true,
-                "switch": true,
-                "xbox": true,
-                "xsx": true
-            }
-        },
-        "nonSecure": false,
-        "premium": false,
-        "purchasable": true,
-        "unique": true
-    },
-    {
-        "categories": [
-            "item"
-        ],
-        "consumable": false,
-        "consumptionCurrenciesList": [],
-        "consumptionObjectList": [],
-        "defaultCost": [
-            {
-                "currencyId": "Cells",
-                "price": 400
-            }
-        ],
-        "eventCostList": [],
-        "id": "CA_W006",
-        "initialQuantity": 0,
-        "metaData": {
-            "base_itemId": "CA_W006",
-            "character": "Cannibal",
-            "kind": "Customization",
-            "newEndDate": "2020-11-27T14:59:59",
-            "newStartDate": "2020-11-13T15:00:00",
-            "outfitId": "CA_outfit_006",
-            "quality": "V0",
-            "qualityName": "quality1",
-            "rarity": "VeryRare",
-            "type": "Weapon",
-            "unbreakable": false,
-            "version": {
-                "grdk": true,
-                "nintendo": true,
-                "ps4": true,
-                "ps5": true,
-                "psn": true,
-                "stadia": true,
-                "steam": true,
-                "switch": true,
-                "xbox": true,
-                "xsx": true
-            }
-        },
-        "nonSecure": false,
-        "premium": false,
-        "purchasable": true,
-        "unique": true
-    },
-    {
-        "categories": [
-            "item"
-        ],
-        "consumable": false,
-        "consumptionCurrenciesList": [],
-        "consumptionObjectList": [],
-        "defaultCost": [
-            {
-                "currencyId": "Cells",
                 "price": 250
             }
         ],
@@ -80181,7 +80043,7 @@
             "outfitId": "DK_outfit_013",
             "quality": "V0",
             "qualityName": "quality1",
-            "rarity": "VeryRare",
+            "rarity": "SpecialEvent",
             "type": "Head",
             "unbreakable": false,
             "version": {
@@ -80227,7 +80089,7 @@
             "outfitId": "DK_outfit_013",
             "quality": "V0",
             "qualityName": "quality1",
-            "rarity": "VeryRare",
+            "rarity": "SpecialEvent",
             "type": "Torso",
             "unbreakable": false,
             "version": {
@@ -80273,145 +80135,7 @@
             "outfitId": "DK_outfit_013",
             "quality": "V0",
             "qualityName": "quality1",
-            "rarity": "VeryRare",
-            "type": "Legs",
-            "unbreakable": false,
-            "version": {
-                "grdk": true,
-                "nintendo": true,
-                "ps4": true,
-                "ps5": true,
-                "psn": true,
-                "stadia": true,
-                "steam": true,
-                "switch": true,
-                "xbox": true,
-                "xsx": true
-            }
-        },
-        "nonSecure": false,
-        "premium": false,
-        "purchasable": false,
-        "unique": true
-    },
-    {
-        "categories": [
-            "item"
-        ],
-        "consumable": false,
-        "consumptionCurrenciesList": [],
-        "consumptionObjectList": [],
-        "defaultCost": [
-            {
-                "currencyId": "Cells",
-                "price": 400
-            }
-        ],
-        "eventCostList": [],
-        "id": "CM_Head015",
-        "initialQuantity": 0,
-        "metaData": {
-            "base_itemId": "CM_Head015",
-            "character": "Claudette",
-            "kind": "Customization",
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
-            "outfitId": "CM_outfit_015",
-            "quality": "V0",
-            "qualityName": "quality1",
-            "rarity": "VeryRare",
-            "type": "Head",
-            "unbreakable": false,
-            "version": {
-                "grdk": true,
-                "nintendo": true,
-                "ps4": true,
-                "ps5": true,
-                "psn": true,
-                "stadia": true,
-                "steam": true,
-                "switch": true,
-                "xbox": true,
-                "xsx": true
-            }
-        },
-        "nonSecure": false,
-        "premium": false,
-        "purchasable": false,
-        "unique": true
-    },
-    {
-        "categories": [
-            "item"
-        ],
-        "consumable": false,
-        "consumptionCurrenciesList": [],
-        "consumptionObjectList": [],
-        "defaultCost": [
-            {
-                "currencyId": "Cells",
-                "price": 400
-            }
-        ],
-        "eventCostList": [],
-        "id": "CM_Torso015",
-        "initialQuantity": 0,
-        "metaData": {
-            "base_itemId": "CM_Torso015",
-            "character": "Claudette",
-            "kind": "Customization",
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
-            "outfitId": "CM_outfit_015",
-            "quality": "V0",
-            "qualityName": "quality1",
-            "rarity": "VeryRare",
-            "type": "Torso",
-            "unbreakable": false,
-            "version": {
-                "grdk": true,
-                "nintendo": true,
-                "ps4": true,
-                "ps5": true,
-                "psn": true,
-                "stadia": true,
-                "steam": true,
-                "switch": true,
-                "xbox": true,
-                "xsx": true
-            }
-        },
-        "nonSecure": false,
-        "premium": false,
-        "purchasable": false,
-        "unique": true
-    },
-    {
-        "categories": [
-            "item"
-        ],
-        "consumable": false,
-        "consumptionCurrenciesList": [],
-        "consumptionObjectList": [],
-        "defaultCost": [
-            {
-                "currencyId": "Cells",
-                "price": 400
-            }
-        ],
-        "eventCostList": [],
-        "id": "CM_Legs015",
-        "initialQuantity": 0,
-        "metaData": {
-            "base_itemId": "CM_Legs015",
-            "character": "Claudette",
-            "kind": "Customization",
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
-            "outfitId": "CM_outfit_015",
-            "quality": "V0",
-            "qualityName": "quality1",
-            "rarity": "VeryRare",
+            "rarity": "SpecialEvent",
             "type": "Legs",
             "unbreakable": false,
             "version": {
@@ -99618,28 +99342,6 @@
             "outfit"
         ],
         "consumable": false,
-        "id": "CA_outfit_006",
-        "metaData": {
-            "character": "Cannibal",
-            "discountPercentage": 0.1,
-            "items": [
-                "CA_Head006",
-                "CA_Body006",
-                "CA_W006"
-            ],
-            "newEndDate": "2020-11-27T14:59:59",
-            "newStartDate": "2020-11-13T15:00:00",
-            "unbreakable": false
-        },
-        "nonSecure": false,
-        "purchasable": true,
-        "unique": true
-    },
-    {
-        "categories": [
-            "outfit"
-        ],
-        "consumable": false,
         "id": "MK_outfit_01_04",
         "metaData": {
             "character": "Plague",
@@ -99868,28 +99570,6 @@
                 "DK_Head013",
                 "DK_Torso013",
                 "DK_Legs013"
-            ],
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
-            "unbreakable": false
-        },
-        "nonSecure": false,
-        "purchasable": false,
-        "unique": true
-    },
-    {
-        "categories": [
-            "outfit"
-        ],
-        "consumable": false,
-        "id": "CM_outfit_015",
-        "metaData": {
-            "character": "Claudette",
-            "discountPercentage": 0.1,
-            "items": [
-                "CM_Head015",
-                "CM_Torso015",
-                "CM_Legs015"
             ],
             "newEndDate": "2018-06-25T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",

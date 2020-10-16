@@ -1,5 +1,6 @@
 {
     "openStories": [
+        "Tome06",
         "Tome05",
         "Tome04",
         "Tome03",
@@ -7,6 +8,27 @@
         "Tome01"
     ],
     "storiesStatus": [
+        {
+            "id": "Tome06",
+            "levelStatus": [
+                {
+                    "status": "timeGated",
+                    "startDate": "2020-12-01T00:00:00"
+                },
+                {
+                    "status": "timeGated",
+                    "startDate": "2020-12-02T00:00:00"
+                },
+                {
+                    "status": "timeGated",
+                    "startDate": "2020-12-03T00:00:00"
+                },
+                {
+                    "status": "timeGated",
+                    "startDate": "2020-12-04T00:00:00"
+                }
+            ]
+        },
         {
             "id": "Tome05",
             "levelStatus": [

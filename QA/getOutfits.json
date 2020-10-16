@@ -10953,24 +10953,6 @@
             "newEndDate": "2020-11-03T14:59:59"
         },
         {
-            "id": "CA_outfit_006",
-            "defaultCost": [
-                {
-                    "currencyId": "Cells",
-                    "price": 1080,
-                    "discountPercentage": 0.1
-                }
-            ],
-            "character": "Cannibal",
-            "storeItems": [
-                "CA_Head006",
-                "CA_Body006",
-                "CA_W006"
-            ],
-            "newStartDate": "2020-11-13T15:00:00",
-            "newEndDate": "2020-11-27T14:59:59"
-        },
-        {
             "id": "MK_outfit_01_04",
             "defaultCost": [
                 {
@@ -11164,24 +11146,6 @@
                 "DK_Head013",
                 "DK_Torso013",
                 "DK_Legs013"
-            ],
-            "newStartDate": "2018-06-12T00:00:00",
-            "newEndDate": "2018-06-25T23:59:59"
-        },
-        {
-            "id": "CM_outfit_015",
-            "defaultCost": [
-                {
-                    "currencyId": "Cells",
-                    "price": 1080,
-                    "discountPercentage": 0.1
-                }
-            ],
-            "character": "Claudette",
-            "storeItems": [
-                "CM_Head015",
-                "CM_Torso015",
-                "CM_Legs015"
             ],
             "newStartDate": "2018-06-12T00:00:00",
             "newEndDate": "2018-06-25T23:59:59"
