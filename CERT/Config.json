@@ -86,6 +86,14 @@
         "keyName": "DDOS_DETECTION_ANALYTICS"
     },
     {
+        "value": {
+            "uncategorized": {
+                "enabled": false
+            }
+        },
+        "keyName": "offenceCategories"
+    },
+    {
         "value": "TRUE",
         "keyName": "SEGMENTATION_V2_ENABLED"
     },
@@ -494,7 +502,8 @@
             "4.2.0_349222cert": "4.2.0_349222cert-1602284066",
             "4.3.0_354300cert": "4.3.0_354300cert-1602261121",
             "4.3.0_355187cert": "4.3.0_355187cert-1602622270",
-            "4.3.0_355295cert": "4.3.0_355295cert-1602628183"
+            "4.3.0_355295cert": "4.3.0_355295cert-1602628183",
+            "4.3.0_356160cert": "4.3.0_356160cert-1602784444"
         },
         "keyName": "VER_CLIENT_DATA"
     },

@@ -1141,7 +1141,7 @@
                                     }
                                 ],
                                 "incrementWithEventRepetitions": true,
-                                "neededProgression": 5,
+                                "neededProgression": 3,
                                 "objectiveId": "ConsumeMedkit",
                                 "questEvent": [
                                     {
@@ -2445,7 +2445,7 @@
                                     }
                                 ],
                                 "incrementWithEventRepetitions": true,
-                                "neededProgression": 3,
+                                "neededProgression": 5,
                                 "objectiveId": "ConsumeToolbox",
                                 "questEvent": [
                                     {
@@ -4229,6 +4229,6 @@
             }
         ],
         "rewardData": "Tome05",
-        "version": 30
+        "version": 31
     }
 }

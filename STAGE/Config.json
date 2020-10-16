@@ -19,6 +19,10 @@
         "keyName": "MATCHMAKING_INCENTIVE_CONFIG"
     },
     {
+        "value": "TRUE",
+        "keyName": "MATCHMAKING_ALLOW_CROSSPLAY"
+    },
+    {
         "value": "true",
         "keyName": "NETCONNECTION_CLAMP_TO_AVERAGE_FRAMERATE"
     },
@@ -46,6 +50,16 @@
         "keyName": "MATCHMAKING_CROSSPLAY_PLATFORMS"
     },
     {
+        "value": {
+            "WalesCypher": true
+        },
+        "keyName": "BUTTON_SEQUENCE_ENABLE"
+    },
+    {
+        "value": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAuq878RHxy7gwEGnjh/vXcOH+1evTjEA9ygzmKEmG4s2xfNTXgneht6IsCSt5rGgpB3SabgdfUlfZyNNcwx18H7PGdsEwDcbrpZvNsgVt12oSXANjUaWDhUFJ1mVV3QmRIMyknWsA7pRX5Vy1Jr9vZ6IfFopGD++OEGsGooCA7CLGi0+E2v9UvKu/CU+PeaLNTriLa/R8B2YnhmNtSa94U+6sxNt4tzY85+TOfM7SMIgagQcZgREnXsSYhHWs4zfrz6ANaKzi4x0Tep0rK1kTnVv431+VA2zcvFahujVYncQIim+Ivee3TttJMBygxQUGR2/0qJfMkjitldpR3c3sIQIDAQAB",
+        "keyName": "KRAKEN_RSA_PUBLIC_KEY"
+    },
+    {
         "value": "true",
         "keyName": "CANCEL_MATCH_ON_DISCONNECT_DURING_LOADING"
     },
@@ -70,6 +84,69 @@
     {
         "value": "true",
         "keyName": "DDOS_DETECTION_ANALYTICS"
+    },
+    {
+        "value": "TRUE",
+        "keyName": "SEGMENTATION_V2_ENABLED"
+    },
+    {
+        "value": "ianfrederic.dissaux@bhvr.com;remi.veilleux@bhvr.com;stefan.beauchamp-daniel@bhvr.com;alvaro.castro@bhvr.com;fadi.beyrouti@bhvr.com;dev.ops@bhvr.com",
+        "keyName": "CERTIFICATE_EMAIL_NOTIFICATION"
+    },
+    {
+        "value": [
+            {
+                "data": "Core",
+                "children": [
+                    {
+                        "data": "steam",
+                        "label": "Steam"
+                    },
+                    {
+                        "data": "stadia",
+                        "label": "Stadia"
+                    },
+                    {
+                        "data": "grdk",
+                        "label": "Windows Store"
+                    },
+                    {
+                        "data": "Consoles",
+                        "children": [
+                            {
+                                "data": "ps4",
+                                "label": "PlayStation"
+                            },
+                            {
+                                "data": "xbox",
+                                "label": "XBOX"
+                            },
+                            {
+                                "data": "switch",
+                                "label": "Switch"
+                            }
+                        ],
+                        "label": "Consoles"
+                    }
+                ],
+                "label": "Core"
+            },
+            {
+                "data": "Mobile",
+                "children": [
+                    {
+                        "data": "android",
+                        "label": "Android"
+                    },
+                    {
+                        "data": "ios",
+                        "label": "iOS"
+                    }
+                ],
+                "label": "Mobile"
+            }
+        ],
+        "keyName": "AVAILABLE_PLATFORMS"
     },
     {
         "value": "true",
@@ -182,6 +259,15 @@
             }
         },
         "keyName": "CLIENT_VERSION_V2"
+    },
+    {
+        "value": {
+            "DeltaDnaEngageAddress": "https://engage14352dbdmb.deltadna.net/86609193614997436569595476515429",
+            "DeltaDnaAnalytics": "https://collect14352dbdmb.deltadna.net/collect/api/86609193614997436569595476515429",
+            "KrakenAnalytics": "https://latest.stage.bhvrdbd.com/api/v1/gameDataAnalytics/batch",
+            "KrakenLogs": "https://latest.stage.bhvrdbd.com/api/v1/gameLogs/batch"
+        },
+        "keyName": "ANALYTICS_ENDPOINTS"
     },
     {
         "value": {
@@ -409,7 +495,8 @@
             "4.2.0_338608stage": "4.2.0_338608stage-1601070894",
             "4.3.0_349028stage": "4.3.0_349028stage-1601061091",
             "4.3.0_350404stage": "4.3.0_350404stage-1601490328",
-            "4.3.0_353511stage": "4.3.0_353511stage-1602107326"
+            "4.3.0_353511stage": "4.3.0_353511stage-1602107326",
+            "4.3.0_356160stage": "4.3.0_356160stage-1602784730"
         },
         "keyName": "VER_CLIENT_DATA"
     },
@@ -435,6 +522,14 @@
     {
         "value": "true",
         "keyName": "MATCHMAKING_USE_QUEUE_API"
+    },
+    {
+        "value": "https://kibana-logs.live.dbd.bhvronline.com/app/kibana#/dashboard/f9722400-391e-11e9-b6e1-a7681f9f0f51?_a=%28query:%28query_string:%28analyze_wildcard:!t,query:'\"queueName\"'%29%29%29",
+        "keyName": "MATCHMAKING_QUEUE_DASHBOARD_URL"
+    },
+    {
+        "value": "wg5AL9shgIrmvj4abQfWnXHD25r8DZbS",
+        "keyName": "DELTA_DNA_HASH_KEY"
     },
     {
         "value": "5000",
