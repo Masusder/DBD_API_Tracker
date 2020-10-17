@@ -27,14 +27,20 @@
         "keyName": "SOCIAL_PLATFORM_FRIENDLIST_QUERY_RATE"
     },
     {
+        "value": "true",
+        "keyName": "DDOS_DETECTION"
+    },
+    {
         "value": {
             "ps4": true,
             "stadia": true,
             "grdk": true,
+            "ps5": true,
             "android": false,
             "steam": true,
             "xbox": true,
             "ios": false,
+            "xsx": true,
             "switch": true
         },
         "keyName": "MATCHMAKING_CROSSPLAY_PLATFORMS"
@@ -70,6 +76,10 @@
     {
         "value": "https://xbox1-live2-dbd.bhvronline.com/restservice.svc",
         "keyName": "MS_ENDPOINT"
+    },
+    {
+        "value": "true",
+        "keyName": "DDOS_DETECTION_ANALYTICS"
     },
     {
         "value": {
@@ -314,10 +324,12 @@
             "ps4": false,
             "stadia": false,
             "grdk": false,
+            "ps5": false,
             "android": false,
             "steam": false,
             "xbox": false,
             "ios": false,
+            "xsx": false,
             "switch": false
         },
         "keyName": "SOCIAL_CROSSPROGRESSION_PLATFORMS"
@@ -529,6 +541,7 @@
             "4.3.0_350136ptb": "4.3.0_350136ptb-1601415691",
             "4.3.0_350292ptb": "4.3.0_350292ptb-1601476973",
             "4.3.0_351873ptb": "4.3.0_351873ptb-1601907462",
+            "4.3.0_356204ptb": "4.3.0_356204ptb-1602787235",
             "m_3.3.5_260791ptb": "m_3.3.5_260791ptb-1578947417",
             "m_3.3.5_281807ptb": "m_3.3.5_281807ptb-1584119023",
             "m_3.6.0_282086ptb": "m_3.6.0_282086ptb-1585750969"
@@ -540,10 +553,12 @@
             "ps4": true,
             "stadia": true,
             "grdk": true,
+            "ps5": true,
             "android": false,
             "steam": true,
             "xbox": true,
             "ios": false,
+            "xsx": true,
             "switch": true
         },
         "keyName": "SOCIAL_CROSSFRIENDS_PLATFORMS"

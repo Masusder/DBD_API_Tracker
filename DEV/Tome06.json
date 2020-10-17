@@ -40,14 +40,48 @@
                             "x": 5,
                             "y": 5
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T6L1_TestGlyph"
+                        ],
                         "nodeType": "narrative"
+                    },
+                    "node_T6L1_TestGlyph": {
+                        "clientInfoId": "DebugGlyph",
+                        "coordinates": {
+                            "x": 100,
+                            "y": 100
+                        },
+                        "neighbors": [
+                            "node_T6L1_Start01"
+                        ],
+                        "nodeType": "quest:contextual",
+                        "objectives": {
+                            "DebugGlyph": {
+                                "conditions": [],
+                                "incrementWithEventRepetitions": true,
+                                "neededProgression": 5,
+                                "objectiveId": "DebugGlyph",
+                                "questEvent": [
+                                    {
+                                        "operation": ">=",
+                                        "parameters": "instigator:me",
+                                        "questEventId": "QuestEvent.RedGlyph",
+                                        "repetition": 1
+                                    }
+                                ],
+                                "specialBehaviours": [
+                                    {
+                                        "params": "RedGlyph"
+                                    }
+                                ]
+                            }
+                        }
                     }
                 },
                 "start": [
                     "node_T6L1_Start01"
                 ],
-                "startDate": "2020-12-01T00:00:00",
+                "startDate": "2020-10-01T00:00:00",
                 "taskRewards": [
                     {
                         "amount": 0,
@@ -102,7 +136,7 @@
                 "start": [
                     "node_T6L2_Start01"
                 ],
-                "startDate": "2020-12-02T00:00:00",
+                "startDate": "2020-10-02T00:00:00",
                 "taskRewards": [
                     {
                         "amount": 0,
@@ -157,7 +191,7 @@
                 "start": [
                     "node_T6L3_Start01"
                 ],
-                "startDate": "2020-12-03T00:00:00",
+                "startDate": "2020-10-03T00:00:00",
                 "taskRewards": [
                     {
                         "amount": 0,
@@ -212,7 +246,7 @@
                 "start": [
                     "node_T6L4_Start01"
                 ],
-                "startDate": "2020-12-04T00:00:00",
+                "startDate": "2020-10-04T00:00:00",
                 "taskRewards": [
                     {
                         "amount": 0,
@@ -223,6 +257,6 @@
             }
         ],
         "rewardData": "Tome06",
-        "version": 1
+        "version": 3
     }
 }

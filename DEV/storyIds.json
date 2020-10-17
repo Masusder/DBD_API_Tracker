@@ -12,20 +12,17 @@
             "id": "Tome06",
             "levelStatus": [
                 {
-                    "status": "timeGated",
-                    "startDate": "2020-12-01T00:00:00"
+                    "status": "open",
+                    "hasUnseenContent": true
                 },
                 {
-                    "status": "timeGated",
-                    "startDate": "2020-12-02T00:00:00"
+                    "status": "locked"
                 },
                 {
-                    "status": "timeGated",
-                    "startDate": "2020-12-03T00:00:00"
+                    "status": "locked"
                 },
                 {
-                    "status": "timeGated",
-                    "startDate": "2020-12-04T00:00:00"
+                    "status": "locked"
                 }
             ]
         },
