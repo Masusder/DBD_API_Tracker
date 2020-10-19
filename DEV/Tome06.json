@@ -25,6 +25,50 @@
                     }
                 ],
                 "nodes": {
+                    "node_T6L1_01": {
+                        "clientInfoId": "ConsumeToolbox",
+                        "coordinates": {
+                            "x": 1265,
+                            "y": 355
+                        },
+                        "neighbors": [],
+                        "nodeType": "quest:task",
+                        "objectives": {
+                            "ConsumeToolbox": {
+                                "conditions": [
+                                    {
+                                        "key": "role",
+                                        "value": [
+                                            "survivor"
+                                        ]
+                                    }
+                                ],
+                                "incrementWithEventRepetitions": true,
+                                "neededProgression": 5,
+                                "objectiveId": "ConsumeToolbox",
+                                "questEvent": [
+                                    {
+                                        "operation": ">=",
+                                        "parameters": "instigator:me;ItemName:Toolbox",
+                                        "questEventId": "QuestEvent.ConsumeItem",
+                                        "repetition": 1
+                                    }
+                                ]
+                            }
+                        },
+                        "reward": [
+                            {
+                                "amount": 3,
+                                "id": "star",
+                                "type": "progressionDbD"
+                            },
+                            {
+                                "amount": 25000,
+                                "id": "Bloodpoints",
+                                "type": "currency"
+                            }
+                        ]
+                    },
                     "node_T6L1_End01": {
                         "clientInfoId": "End",
                         "coordinates": {
@@ -257,6 +301,6 @@
             }
         ],
         "rewardData": "Tome06",
-        "version": 3
+        "version": 5
     }
 }
