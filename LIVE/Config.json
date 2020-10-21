@@ -179,6 +179,7 @@
                 "FrameHikeAnalytics",
                 "GameEventLogAnalytics",
                 "GameInitAnalytics",
+                "InteractionAnalytics",
                 "InvalidLoadoutAnalytics",
                 "KrakenRequestAnalytics",
                 "LogMirrorsAnalytics",
@@ -390,6 +391,7 @@
                 "GameEventLogAnalytics",
                 "GameInitAnalytics",
                 "HeartbeatPerfAnalytics",
+                "InteractionAnalytics",
                 "InvalidLoadoutAnalytics",
                 "KrakenRequestAnalytics",
                 "LogAnalytics",
@@ -614,6 +616,7 @@
             "4.2.0_351364live": "4.2.0_351364live-1601656997",
             "4.2.0_354897live": "4.2.0_354897live-1602601358",
             "4.3.0_357420live": "4.3.0_357420live-1603193561",
+            "4.3.0_358100live": "4.3.0_358100live-1603291991",
             "m_3.0.2_219921live": "m_3.0.2_219921live-1566230507",
             "m_3.0.3_241022live": "m_3.0.3_241022live-1572449159",
             "m_3.3.3_220000live": "m_3.3.3_220000live-1574880017",
@@ -700,7 +703,8 @@
             "m_3.7.4_347791live": "m_3.7.4_347791live-1600873971",
             "m_4.2.0_353773live": "m_4.2.0_353773live-1602173352",
             "m_4.2.0_353890live": "m_4.2.0_353890live-1602180955",
-            "m_4.2.0_353994live": "m_4.2.0_353994live-1602186974"
+            "m_4.2.0_353994live": "m_4.2.0_353994live-1602186974",
+            "m_4.2.1_358065live": "m_4.2.1_358065live-1603288010"
         },
         "keyName": "VER_CLIENT_DATA"
     },

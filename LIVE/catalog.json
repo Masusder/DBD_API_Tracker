@@ -410,7 +410,7 @@
             },
             {
                 "currencyId": "Cells",
-                "price": 500
+                "price": 250
             }
         ],
         "eventCostList": [
@@ -418,7 +418,7 @@
                 "cost": [
                     {
                         "currencyId": "Cells",
-                        "price": 400
+                        "price": 200
                     }
                 ],
                 "endDate": "2020-10-14T18:00:00",
@@ -452,7 +452,7 @@
             },
             {
                 "currencyId": "Cells",
-                "price": 500
+                "price": 250
             }
         ],
         "id": "Adam",
