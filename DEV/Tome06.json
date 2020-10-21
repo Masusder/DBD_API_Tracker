@@ -25,32 +25,38 @@
                     }
                 ],
                 "nodes": {
-                    "node_T6L1_01": {
-                        "clientInfoId": "ConsumeToolbox",
+                    "node1": {
+                        "clientInfoId": "PalletResetNearKillerWithAnyMeansNecessaryInTrial",
                         "coordinates": {
-                            "x": 1265,
-                            "y": 355
+                            "x": 20,
+                            "y": 20
                         },
                         "neighbors": [],
-                        "nodeType": "quest:task",
+                        "nodeType": "quest:challenge",
                         "objectives": {
-                            "ConsumeToolbox": {
+                            "PalletResetNearKillerWithPerkInTrial": {
                                 "conditions": [
                                     {
                                         "key": "role",
                                         "value": [
                                             "survivor"
                                         ]
+                                    },
+                                    {
+                                        "key": "perk",
+                                        "value": [
+                                            "AnyMeansNecessary"
+                                        ]
                                     }
                                 ],
-                                "incrementWithEventRepetitions": true,
-                                "neededProgression": 5,
-                                "objectiveId": "ConsumeToolbox",
+                                "incrementWithEventRepetitions": false,
+                                "neededProgression": 1,
+                                "objectiveId": "PalletResetNearKillerWithPerkInTrial",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
-                                        "parameters": "instigator:me;ItemName:Toolbox",
-                                        "questEventId": "QuestEvent.ConsumeItem",
+                                        "parameters": "instigator:me",
+                                        "questEventId": "QuestEvent.PalletResetNearKiller",
                                         "repetition": 1
                                     }
                                 ]
@@ -58,13 +64,574 @@
                         },
                         "reward": [
                             {
-                                "amount": 3,
+                                "amount": 5,
                                 "id": "star",
                                 "type": "progressionDbD"
                             },
                             {
                                 "amount": 25000,
-                                "id": "Bloodpoints",
+                                "id": "bloodpoints",
+                                "type": "currency"
+                            }
+                        ]
+                    },
+                    "node2": {
+                        "clientInfoId": "PalletResetNearKillerWithAnyMeansNecessaryInTrial",
+                        "coordinates": {
+                            "x": 40,
+                            "y": 40
+                        },
+                        "neighbors": [],
+                        "nodeType": "quest:challenge",
+                        "objectives": {
+                            "PalletResetNearKillerWithPerkInTrial": {
+                                "conditions": [
+                                    {
+                                        "key": "role",
+                                        "value": [
+                                            "survivor"
+                                        ]
+                                    },
+                                    {
+                                        "key": "perk",
+                                        "value": [
+                                            "AnyMeansNecessary"
+                                        ]
+                                    }
+                                ],
+                                "incrementWithEventRepetitions": false,
+                                "neededProgression": 1,
+                                "objectiveId": "PalletResetNearKillerWithPerkInTrial",
+                                "questEvent": [
+                                    {
+                                        "operation": ">=",
+                                        "parameters": "instigator:me",
+                                        "questEventId": "QuestEvent.PalletResetNearKiller",
+                                        "repetition": 1
+                                    }
+                                ]
+                            }
+                        },
+                        "reward": [
+                            {
+                                "amount": 5,
+                                "id": "star",
+                                "type": "progressionDbD"
+                            },
+                            {
+                                "amount": 25000,
+                                "id": "bloodpoints",
+                                "type": "currency"
+                            }
+                        ]
+                    },
+                    "node3": {
+                        "clientInfoId": "PalletResetNearKillerWithAnyMeansNecessaryInTrial",
+                        "coordinates": {
+                            "x": 60,
+                            "y": 60
+                        },
+                        "neighbors": [],
+                        "nodeType": "quest:challenge",
+                        "objectives": {
+                            "PalletResetNearKillerWithPerkInTrial": {
+                                "conditions": [
+                                    {
+                                        "key": "role",
+                                        "value": [
+                                            "survivor"
+                                        ]
+                                    },
+                                    {
+                                        "key": "perk",
+                                        "value": [
+                                            "AnyMeansNecessary"
+                                        ]
+                                    }
+                                ],
+                                "incrementWithEventRepetitions": false,
+                                "neededProgression": 1,
+                                "objectiveId": "PalletResetNearKillerWithPerkInTrial",
+                                "questEvent": [
+                                    {
+                                        "operation": ">=",
+                                        "parameters": "instigator:me",
+                                        "questEventId": "QuestEvent.PalletResetNearKiller",
+                                        "repetition": 1
+                                    }
+                                ]
+                            }
+                        },
+                        "reward": [
+                            {
+                                "amount": 5,
+                                "id": "star",
+                                "type": "progressionDbD"
+                            },
+                            {
+                                "amount": 25000,
+                                "id": "bloodpoints",
+                                "type": "currency"
+                            }
+                        ]
+                    },
+                    "node4": {
+                        "clientInfoId": "PalletResetNearKillerWithAnyMeansNecessaryInTrial",
+                        "coordinates": {
+                            "x": 80,
+                            "y": 80
+                        },
+                        "neighbors": [],
+                        "nodeType": "quest:challenge",
+                        "objectives": {
+                            "PalletResetNearKillerWithPerkInTrial": {
+                                "conditions": [
+                                    {
+                                        "key": "role",
+                                        "value": [
+                                            "survivor"
+                                        ]
+                                    },
+                                    {
+                                        "key": "perk",
+                                        "value": [
+                                            "AnyMeansNecessary"
+                                        ]
+                                    }
+                                ],
+                                "incrementWithEventRepetitions": false,
+                                "neededProgression": 1,
+                                "objectiveId": "PalletResetNearKillerWithPerkInTrial",
+                                "questEvent": [
+                                    {
+                                        "operation": ">=",
+                                        "parameters": "instigator:me",
+                                        "questEventId": "QuestEvent.PalletResetNearKiller",
+                                        "repetition": 1
+                                    }
+                                ]
+                            }
+                        },
+                        "reward": [
+                            {
+                                "amount": 5,
+                                "id": "star",
+                                "type": "progressionDbD"
+                            },
+                            {
+                                "amount": 25000,
+                                "id": "bloodpoints",
+                                "type": "currency"
+                            }
+                        ]
+                    },
+                    "node_T6L1_01": {
+                        "clientInfoId": "BreakGensWithSpiesFromTheShadowsInTrial",
+                        "coordinates": {
+                            "x": 365,
+                            "y": 305
+                        },
+                        "neighbors": [],
+                        "nodeType": "quest:challenge",
+                        "objectives": {
+                            "BreakGensWithPerkInTrial": {
+                                "conditions": [
+                                    {
+                                        "key": "role",
+                                        "value": [
+                                            "killer"
+                                        ]
+                                    },
+                                    {
+                                        "key": "perk",
+                                        "value": [
+                                            "Spies_From_The_Shadows"
+                                        ]
+                                    }
+                                ],
+                                "incrementWithEventRepetitions": false,
+                                "neededProgression": 1,
+                                "objectiveId": "BreakGensWithPerkInTrial",
+                                "questEvent": [
+                                    {
+                                        "operation": ">=",
+                                        "parameters": "instigator:me",
+                                        "questEventId": "QuestEvent.BreakGens",
+                                        "repetition": 6
+                                    }
+                                ]
+                            }
+                        },
+                        "reward": [
+                            {
+                                "amount": 5,
+                                "id": "star",
+                                "type": "progressionDbD"
+                            },
+                            {
+                                "amount": 25000,
+                                "id": "bloodpoints",
+                                "type": "currency"
+                            }
+                        ]
+                    },
+                    "node_T6L1_02": {
+                        "clientInfoId": "DownWithStridorInTrial",
+                        "coordinates": {
+                            "x": 455,
+                            "y": 605
+                        },
+                        "neighbors": [],
+                        "nodeType": "quest:challenge",
+                        "objectives": {
+                            "DownWithPerkInTrial": {
+                                "conditions": [
+                                    {
+                                        "key": "role",
+                                        "value": [
+                                            "killer"
+                                        ]
+                                    },
+                                    {
+                                        "key": "perk",
+                                        "value": [
+                                            "Stridor"
+                                        ]
+                                    }
+                                ],
+                                "incrementWithEventRepetitions": false,
+                                "neededProgression": 1,
+                                "objectiveId": "DownWithPerkInTrial",
+                                "questEvent": [
+                                    {
+                                        "operation": ">=",
+                                        "parameters": "instigator:me",
+                                        "questEventId": "QuestEvent.Down",
+                                        "repetition": 6
+                                    }
+                                ]
+                            }
+                        },
+                        "reward": [
+                            {
+                                "amount": 5,
+                                "id": "star",
+                                "type": "progressionDbD"
+                            },
+                            {
+                                "amount": 25000,
+                                "id": "bloodpoints",
+                                "type": "currency"
+                            }
+                        ]
+                    },
+                    "node_T6L1_03": {
+                        "clientInfoId": "HookDifferentWithNurseCallingInTrial",
+                        "coordinates": {
+                            "x": 815,
+                            "y": 605
+                        },
+                        "neighbors": [
+                            "node_T6L1_07"
+                        ],
+                        "nodeType": "quest:challenge",
+                        "objectives": {
+                            "HookDifferentWithPerkInTrial": {
+                                "conditions": [
+                                    {
+                                        "key": "role",
+                                        "value": [
+                                            "killer"
+                                        ]
+                                    },
+                                    {
+                                        "key": "perk",
+                                        "value": [
+                                            "NurseCalling"
+                                        ]
+                                    }
+                                ],
+                                "incrementWithEventRepetitions": false,
+                                "neededProgression": 1,
+                                "objectiveId": "HookDifferentWithPerkInTrial",
+                                "questEvent": [
+                                    {
+                                        "operation": ">=",
+                                        "parameters": "instigator:me",
+                                        "questEventId": "QuestEvent.HookDifferent",
+                                        "repetition": 3
+                                    }
+                                ]
+                            }
+                        },
+                        "reward": [
+                            {
+                                "amount": 5,
+                                "id": "star",
+                                "type": "progressionDbD"
+                            },
+                            {
+                                "amount": 25000,
+                                "id": "bloodpoints",
+                                "type": "currency"
+                            }
+                        ]
+                    },
+                    "node_T6L1_04": {
+                        "clientInfoId": "ChaseStartCrowInTrial",
+                        "coordinates": {
+                            "x": 635,
+                            "y": 305
+                        },
+                        "neighbors": [
+                            "node_T6L1_05"
+                        ],
+                        "nodeType": "quest:challenge",
+                        "objectives": {
+                            "ChaseStartCrowInTrial": {
+                                "conditions": [
+                                    {
+                                        "key": "role",
+                                        "value": [
+                                            "killer"
+                                        ]
+                                    },
+                                    {
+                                        "key": "perk",
+                                        "value": [
+                                            "Spies_From_The_Shadows"
+                                        ]
+                                    }
+                                ],
+                                "incrementWithEventRepetitions": false,
+                                "neededProgression": 1,
+                                "objectiveId": "ChaseStartCrowInTrial",
+                                "questEvent": [
+                                    {
+                                        "operation": ">=",
+                                        "parameters": "instigator:me",
+                                        "questEventId": "QuestEvent.ChaseStartCrow",
+                                        "repetition": 9
+                                    }
+                                ]
+                            }
+                        },
+                        "reward": [
+                            {
+                                "amount": 5,
+                                "id": "star",
+                                "type": "progressionDbD"
+                            },
+                            {
+                                "amount": 25000,
+                                "id": "bloodpoints",
+                                "type": "currency"
+                            }
+                        ]
+                    },
+                    "node_T6L1_05": {
+                        "clientInfoId": "EmotePointAtKillerWithPremonitionInTrial",
+                        "coordinates": {
+                            "x": 905,
+                            "y": 305
+                        },
+                        "neighbors": [
+                            "node_T6L1_04"
+                        ],
+                        "nodeType": "quest:challenge",
+                        "objectives": {
+                            "EmotePointAtKillerWithPerkInTrial": {
+                                "conditions": [
+                                    {
+                                        "key": "role",
+                                        "value": [
+                                            "survivor"
+                                        ]
+                                    },
+                                    {
+                                        "key": "perk",
+                                        "value": [
+                                            "Premonition"
+                                        ]
+                                    }
+                                ],
+                                "incrementWithEventRepetitions": false,
+                                "neededProgression": 1,
+                                "objectiveId": "EmotePointAtKillerWithPerkInTrial",
+                                "questEvent": [
+                                    {
+                                        "operation": ">=",
+                                        "parameters": "instigator:me",
+                                        "questEventId": "QuestEvent.EmotePointAtKiller",
+                                        "repetition": 2
+                                    }
+                                ]
+                            }
+                        },
+                        "reward": [
+                            {
+                                "amount": 5,
+                                "id": "star",
+                                "type": "progressionDbD"
+                            },
+                            {
+                                "amount": 25000,
+                                "id": "bloodpoints",
+                                "type": "currency"
+                            }
+                        ]
+                    },
+                    "node_T6L1_06": {
+                        "clientInfoId": "EscapeChaseInjuredWithLuckyBreakInTrial",
+                        "coordinates": {
+                            "x": 725,
+                            "y": 5
+                        },
+                        "neighbors": [
+                            "node_T6L1_08"
+                        ],
+                        "nodeType": "quest:challenge",
+                        "objectives": {
+                            "EscapeChaseInjuredWithPerkInTrial": {
+                                "conditions": [
+                                    {
+                                        "key": "role",
+                                        "value": [
+                                            "survivor"
+                                        ]
+                                    },
+                                    {
+                                        "key": "perk",
+                                        "value": [
+                                            "LuckyBreak"
+                                        ]
+                                    }
+                                ],
+                                "incrementWithEventRepetitions": false,
+                                "neededProgression": 1,
+                                "objectiveId": "EscapeChaseInjuredWithPerkInTrial",
+                                "questEvent": [
+                                    {
+                                        "operation": ">=",
+                                        "questEventId": "QuestEvent.EscapeChaseInjured",
+                                        "repetition": 2
+                                    }
+                                ]
+                            }
+                        },
+                        "reward": [
+                            {
+                                "amount": 5,
+                                "id": "star",
+                                "type": "progressionDbD"
+                            },
+                            {
+                                "amount": 25000,
+                                "id": "bloodpoints",
+                                "type": "currency"
+                            }
+                        ]
+                    },
+                    "node_T6L1_07": {
+                        "clientInfoId": "NurseBlinkPreciseInTrial",
+                        "coordinates": {
+                            "x": 1085,
+                            "y": 605
+                        },
+                        "neighbors": [
+                            "node_T6L1_03"
+                        ],
+                        "nodeType": "quest:challenge",
+                        "objectives": {
+                            "NurseBlinkPreciseInTrial": {
+                                "conditions": [
+                                    {
+                                        "key": "role",
+                                        "value": [
+                                            "killer"
+                                        ]
+                                    },
+                                    {
+                                        "key": "character",
+                                        "value": [
+                                            "Nurse"
+                                        ]
+                                    }
+                                ],
+                                "incrementWithEventRepetitions": false,
+                                "neededProgression": 1,
+                                "objectiveId": "NurseBlinkPreciseInTrial",
+                                "questEvent": [
+                                    {
+                                        "operation": ">=",
+                                        "parameters": "instigator:me",
+                                        "questEventId": "QuestEvent.NurseBlinkPrecise",
+                                        "repetition": 3
+                                    }
+                                ]
+                            }
+                        },
+                        "reward": [
+                            {
+                                "amount": 5,
+                                "id": "star",
+                                "type": "progressionDbD"
+                            },
+                            {
+                                "amount": 25000,
+                                "id": "bloodpoints",
+                                "type": "currency"
+                            }
+                        ]
+                    },
+                    "node_T6L1_08": {
+                        "clientInfoId": "PalletResetNearKillerWithAnyMeansNecessaryInTrial",
+                        "coordinates": {
+                            "x": 995,
+                            "y": 5
+                        },
+                        "neighbors": [
+                            "node_T6L1_06"
+                        ],
+                        "nodeType": "quest:challenge",
+                        "objectives": {
+                            "PalletResetNearKillerWithPerkInTrial": {
+                                "conditions": [
+                                    {
+                                        "key": "role",
+                                        "value": [
+                                            "survivor"
+                                        ]
+                                    },
+                                    {
+                                        "key": "perk",
+                                        "value": [
+                                            "AnyMeansNecessary"
+                                        ]
+                                    }
+                                ],
+                                "incrementWithEventRepetitions": false,
+                                "neededProgression": 1,
+                                "objectiveId": "PalletResetNearKillerWithPerkInTrial",
+                                "questEvent": [
+                                    {
+                                        "operation": ">=",
+                                        "parameters": "instigator:me",
+                                        "questEventId": "QuestEvent.PalletResetNearKiller",
+                                        "repetition": 1
+                                    }
+                                ]
+                            }
+                        },
+                        "reward": [
+                            {
+                                "amount": 5,
+                                "id": "star",
+                                "type": "progressionDbD"
+                            },
+                            {
+                                "amount": 25000,
+                                "id": "bloodpoints",
                                 "type": "currency"
                             }
                         ]
@@ -72,8 +639,8 @@
                     "node_T6L1_End01": {
                         "clientInfoId": "End",
                         "coordinates": {
-                            "x": 1265,
-                            "y": 455
+                            "x": 1355,
+                            "y": 305
                         },
                         "neighbors": [],
                         "nodeType": "narrative"
@@ -82,44 +649,10 @@
                         "clientInfoId": "Start",
                         "coordinates": {
                             "x": 5,
-                            "y": 5
+                            "y": 305
                         },
-                        "neighbors": [
-                            "node_T6L1_TestGlyph"
-                        ],
+                        "neighbors": [],
                         "nodeType": "narrative"
-                    },
-                    "node_T6L1_TestGlyph": {
-                        "clientInfoId": "DebugGlyph",
-                        "coordinates": {
-                            "x": 100,
-                            "y": 100
-                        },
-                        "neighbors": [
-                            "node_T6L1_Start01"
-                        ],
-                        "nodeType": "quest:contextual",
-                        "objectives": {
-                            "DebugGlyph": {
-                                "conditions": [],
-                                "incrementWithEventRepetitions": true,
-                                "neededProgression": 5,
-                                "objectiveId": "DebugGlyph",
-                                "questEvent": [
-                                    {
-                                        "operation": ">=",
-                                        "parameters": "instigator:me",
-                                        "questEventId": "QuestEvent.RedGlyph",
-                                        "repetition": 1
-                                    }
-                                ],
-                                "specialBehaviours": [
-                                    {
-                                        "id": "RedGlyph"
-                                    }
-                                ]
-                            }
-                        }
                     }
                 },
                 "start": [
@@ -158,6 +691,491 @@
                     }
                 ],
                 "nodes": {
+                    "node_T6L2_01": {
+                        "clientInfoId": "StatusHastedWithBreakoutInTrial",
+                        "coordinates": {
+                            "x": 100,
+                            "y": 100
+                        },
+                        "neighbors": [],
+                        "nodeType": "quest:challenge",
+                        "objectives": {
+                            "StatusHastedWithPerkInTrial": {
+                                "conditions": [
+                                    {
+                                        "key": "role",
+                                        "value": [
+                                            "survivor"
+                                        ]
+                                    },
+                                    {
+                                        "key": "perk",
+                                        "value": [
+                                            "Breakout"
+                                        ]
+                                    }
+                                ],
+                                "incrementWithEventRepetitions": false,
+                                "neededProgression": 1,
+                                "objectiveId": "StatusHastedWithPerkInTrial",
+                                "questEvent": [
+                                    {
+                                        "operation": ">=",
+                                        "questEventId": "QuestEvent.StatusHasted",
+                                        "repetition": 60
+                                    }
+                                ]
+                            }
+                        },
+                        "reward": [
+                            {
+                                "amount": 5,
+                                "id": "star",
+                                "type": "progressionDbD"
+                            },
+                            {
+                                "amount": 35000,
+                                "id": "bloodpoints",
+                                "type": "currency"
+                            }
+                        ]
+                    },
+                    "node_T6L2_02": {
+                        "clientInfoId": "BreakGensWithSpiesFromTheShadowsInTrial",
+                        "coordinates": {
+                            "x": 200,
+                            "y": 100
+                        },
+                        "neighbors": [],
+                        "nodeType": "quest:challenge",
+                        "objectives": {
+                            "BreakGensWithPerkInTrial": {
+                                "conditions": [
+                                    {
+                                        "key": "role",
+                                        "value": [
+                                            "killer"
+                                        ]
+                                    },
+                                    {
+                                        "key": "perk",
+                                        "value": [
+                                            "Spies_From_The_Shadows"
+                                        ]
+                                    }
+                                ],
+                                "incrementWithEventRepetitions": false,
+                                "neededProgression": 1,
+                                "objectiveId": "BreakGensWithPerkInTrial",
+                                "questEvent": [
+                                    {
+                                        "operation": ">=",
+                                        "parameters": "instigator:me",
+                                        "questEventId": "QuestEvent.BreakGens",
+                                        "repetition": 6
+                                    }
+                                ]
+                            }
+                        },
+                        "reward": [
+                            {
+                                "amount": 5,
+                                "id": "star",
+                                "type": "progressionDbD"
+                            },
+                            {
+                                "amount": 35000,
+                                "id": "bloodpoints",
+                                "type": "currency"
+                            }
+                        ]
+                    },
+                    "node_T6L2_03": {
+                        "clientInfoId": "ChaseStartCrowInTrial",
+                        "coordinates": {
+                            "x": 300,
+                            "y": 100
+                        },
+                        "neighbors": [],
+                        "nodeType": "quest:challenge",
+                        "objectives": {
+                            "ChaseStartCrowInTrial": {
+                                "conditions": [
+                                    {
+                                        "key": "role",
+                                        "value": [
+                                            "killer"
+                                        ]
+                                    },
+                                    {
+                                        "key": "perk",
+                                        "value": [
+                                            "Spies_From_The_Shadows"
+                                        ]
+                                    }
+                                ],
+                                "incrementWithEventRepetitions": false,
+                                "neededProgression": 1,
+                                "objectiveId": "ChaseStartCrowInTrial",
+                                "questEvent": [
+                                    {
+                                        "operation": ">=",
+                                        "parameters": "instigator:me",
+                                        "questEventId": "QuestEvent.ChaseStartCrow",
+                                        "repetition": 9
+                                    }
+                                ]
+                            }
+                        },
+                        "reward": [
+                            {
+                                "amount": 5,
+                                "id": "star",
+                                "type": "progressionDbD"
+                            },
+                            {
+                                "amount": 35000,
+                                "id": "bloodpoints",
+                                "type": "currency"
+                            }
+                        ]
+                    },
+                    "node_T6L2_04": {
+                        "clientInfoId": "ConsumeItemChargesWithBotanyKnowledgeInTrial",
+                        "coordinates": {
+                            "x": 400,
+                            "y": 100
+                        },
+                        "neighbors": [],
+                        "nodeType": "quest:challenge",
+                        "objectives": {
+                            "ConsumeItemChargesWithPerkInTrial": {
+                                "conditions": [
+                                    {
+                                        "key": "role",
+                                        "value": [
+                                            "survivor"
+                                        ]
+                                    },
+                                    {
+                                        "key": "perk",
+                                        "value": [
+                                            "Botany_Knowledge"
+                                        ]
+                                    }
+                                ],
+                                "incrementWithEventRepetitions": false,
+                                "neededProgression": 1,
+                                "objectiveId": "ConsumeItemChargesWithPerkInTrial",
+                                "questEvent": [
+                                    {
+                                        "operation": ">=",
+                                        "questEventId": "QuestEvent.ConsumeItemCharges",
+                                        "repetition": 24
+                                    }
+                                ]
+                            }
+                        },
+                        "reward": [
+                            {
+                                "amount": 5,
+                                "id": "star",
+                                "type": "progressionDbD"
+                            },
+                            {
+                                "amount": 35000,
+                                "id": "bloodpoints",
+                                "type": "currency"
+                            }
+                        ]
+                    },
+                    "node_T6L2_05": {
+                        "clientInfoId": "EmotePointAtKillerWithPremonitionInTrial",
+                        "coordinates": {
+                            "x": 500,
+                            "y": 100
+                        },
+                        "neighbors": [],
+                        "nodeType": "quest:challenge",
+                        "objectives": {
+                            "EmotePointAtKillerWithPerkInTrial": {
+                                "conditions": [
+                                    {
+                                        "key": "role",
+                                        "value": [
+                                            "survivor"
+                                        ]
+                                    },
+                                    {
+                                        "key": "perk",
+                                        "value": [
+                                            "Premonition"
+                                        ]
+                                    }
+                                ],
+                                "incrementWithEventRepetitions": false,
+                                "neededProgression": 1,
+                                "objectiveId": "EmotePointAtKillerWithPerkInTrial",
+                                "questEvent": [
+                                    {
+                                        "operation": ">=",
+                                        "parameters": "instigator:me",
+                                        "questEventId": "QuestEvent.EmotePointAtKiller",
+                                        "repetition": 2
+                                    }
+                                ]
+                            }
+                        },
+                        "reward": [
+                            {
+                                "amount": 5,
+                                "id": "star",
+                                "type": "progressionDbD"
+                            },
+                            {
+                                "amount": 35000,
+                                "id": "bloodpoints",
+                                "type": "currency"
+                            }
+                        ]
+                    },
+                    "node_T6L2_06": {
+                        "clientInfoId": "HealDyingWithEmpathyInTrial",
+                        "coordinates": {
+                            "x": 600,
+                            "y": 100
+                        },
+                        "neighbors": [],
+                        "nodeType": "quest:challenge",
+                        "objectives": {
+                            "HealDyingWithPerkInTrial": {
+                                "conditions": [
+                                    {
+                                        "key": "role",
+                                        "value": [
+                                            "survivor"
+                                        ]
+                                    },
+                                    {
+                                        "key": "perk",
+                                        "value": [
+                                            "Empathy"
+                                        ]
+                                    }
+                                ],
+                                "incrementWithEventRepetitions": false,
+                                "neededProgression": 1,
+                                "objectiveId": "HealDyingWithPerkInTrial",
+                                "questEvent": [
+                                    {
+                                        "operation": ">=",
+                                        "parameters": "instigator:me",
+                                        "questEventId": "QuestEvent.HealDying",
+                                        "repetition": 2
+                                    }
+                                ]
+                            }
+                        },
+                        "reward": [
+                            {
+                                "amount": 5,
+                                "id": "star",
+                                "type": "progressionDbD"
+                            },
+                            {
+                                "amount": 35000,
+                                "id": "bloodpoints",
+                                "type": "currency"
+                            }
+                        ]
+                    },
+                    "node_T6L2_07": {
+                        "clientInfoId": "NurseBlinkChainMultipleHitInTrial",
+                        "coordinates": {
+                            "x": 700,
+                            "y": 100
+                        },
+                        "neighbors": [],
+                        "nodeType": "quest:challenge",
+                        "objectives": {
+                            "NurseBlinkChainMultipleHitInTrial": {
+                                "conditions": [
+                                    {
+                                        "key": "role",
+                                        "value": [
+                                            "killer"
+                                        ]
+                                    },
+                                    {
+                                        "key": "character",
+                                        "value": [
+                                            "Nurse"
+                                        ]
+                                    }
+                                ],
+                                "incrementWithEventRepetitions": false,
+                                "neededProgression": 1,
+                                "objectiveId": "NurseBlinkChainMultipleHitInTrial",
+                                "questEvent": [
+                                    {
+                                        "operation": ">=",
+                                        "parameters": "instigator:me",
+                                        "questEventId": "QuestEvent.NurseBlinkChainMultipleHit",
+                                        "repetition": 2
+                                    }
+                                ]
+                            }
+                        },
+                        "reward": [
+                            {
+                                "amount": 5,
+                                "id": "star",
+                                "type": "progressionDbD"
+                            },
+                            {
+                                "amount": 35000,
+                                "id": "bloodpoints",
+                                "type": "currency"
+                            }
+                        ]
+                    },
+                    "node_T6L2_08": {
+                        "clientInfoId": "StunBlindAsYuiInTrial",
+                        "coordinates": {
+                            "x": 800,
+                            "y": 100
+                        },
+                        "neighbors": [],
+                        "nodeType": "quest:challenge",
+                        "objectives": {
+                            "StunBlindAsCharacterInTrial": {
+                                "conditions": [
+                                    {
+                                        "key": "role",
+                                        "value": [
+                                            "survivor"
+                                        ]
+                                    },
+                                    {
+                                        "key": "character",
+                                        "value": [
+                                            "Yui"
+                                        ]
+                                    }
+                                ],
+                                "incrementWithEventRepetitions": false,
+                                "neededProgression": 1,
+                                "objectiveId": "StunBlindAsCharacterInTrial",
+                                "questEvent": [
+                                    {
+                                        "operation": ">=",
+                                        "parameters": "instigator:me",
+                                        "questEventId": "QuestEvent.StunBlind",
+                                        "repetition": 1
+                                    }
+                                ]
+                            }
+                        },
+                        "reward": [
+                            {
+                                "amount": 5,
+                                "id": "star",
+                                "type": "progressionDbD"
+                            },
+                            {
+                                "amount": 35000,
+                                "id": "bloodpoints",
+                                "type": "currency"
+                            }
+                        ]
+                    },
+                    "node_T6L2_09": {
+                        "clientInfoId": "InjuredDyingHookedMultipleWithThanatophobiaInTrial",
+                        "coordinates": {
+                            "x": 900,
+                            "y": 100
+                        },
+                        "neighbors": [],
+                        "nodeType": "quest:challenge",
+                        "objectives": {
+                            "InjuredDyingHookedMultipleWithPerkInTrial": {
+                                "conditions": [
+                                    {
+                                        "key": "role",
+                                        "value": [
+                                            "killer"
+                                        ]
+                                    },
+                                    {
+                                        "key": "perk",
+                                        "value": [
+                                            "Thanatophobia"
+                                        ]
+                                    }
+                                ],
+                                "incrementWithEventRepetitions": false,
+                                "neededProgression": 1,
+                                "objectiveId": "InjuredDyingHookedMultipleWithPerkInTrial",
+                                "questEvent": [
+                                    {
+                                        "operation": ">=",
+                                        "parameters": "instigator:other",
+                                        "questEventId": "QuestEvent.InjuredDyingHookedMultiple",
+                                        "repetition": 3
+                                    }
+                                ]
+                            }
+                        },
+                        "reward": [
+                            {
+                                "amount": 5,
+                                "id": "star",
+                                "type": "progressionDbD"
+                            },
+                            {
+                                "amount": 35000,
+                                "id": "bloodpoints",
+                                "type": "currency"
+                            }
+                        ]
+                    },
+                    "node_T6L2_10": {
+                        "clientInfoId": "EarnEmblemsSilver",
+                        "coordinates": {
+                            "x": 20,
+                            "y": 20
+                        },
+                        "neighbors": [],
+                        "nodeType": "quest:task",
+                        "objectives": {
+                            "EarnEmblemsSilver": {
+                                "conditions": [],
+                                "incrementWithEventRepetitions": true,
+                                "neededProgression": 12,
+                                "objectiveId": "EarnEmblemsSilver",
+                                "questEvent": [
+                                    {
+                                        "operation": ">=",
+                                        "parameters": "EmblemQuality:Silver",
+                                        "questEventId": "QuestEvent.EarnEmblemsQuality",
+                                        "repetition": 1
+                                    }
+                                ]
+                            }
+                        },
+                        "reward": [
+                            {
+                                "amount": 3,
+                                "id": "star",
+                                "type": "progressionDbD"
+                            },
+                            {
+                                "amount": 15000,
+                                "id": "Bloodpoints",
+                                "type": "currency"
+                            }
+                        ]
+                    },
                     "node_T6L2_End01": {
                         "clientInfoId": "End",
                         "coordinates": {
@@ -213,6 +1231,556 @@
                     }
                 ],
                 "nodes": {
+                    "node_T6L3_01": {
+                        "clientInfoId": "BreakGensWithSpiesFromTheShadowsInTrial",
+                        "coordinates": {
+                            "x": 100,
+                            "y": 100
+                        },
+                        "neighbors": [],
+                        "nodeType": "quest:challenge",
+                        "objectives": {
+                            "BreakGensWithPerkInTrial": {
+                                "conditions": [
+                                    {
+                                        "key": "role",
+                                        "value": [
+                                            "killer"
+                                        ]
+                                    },
+                                    {
+                                        "key": "perk",
+                                        "value": [
+                                            "Spies_From_The_Shadows"
+                                        ]
+                                    }
+                                ],
+                                "incrementWithEventRepetitions": false,
+                                "neededProgression": 1,
+                                "objectiveId": "BreakGensWithPerkInTrial",
+                                "questEvent": [
+                                    {
+                                        "operation": ">=",
+                                        "parameters": "instigator:me",
+                                        "questEventId": "QuestEvent.BreakGens",
+                                        "repetition": 6
+                                    }
+                                ]
+                            }
+                        },
+                        "reward": [
+                            {
+                                "amount": 5,
+                                "id": "star",
+                                "type": "progressionDbD"
+                            },
+                            {
+                                "amount": 50000,
+                                "id": "bloodpoints",
+                                "type": "currency"
+                            }
+                        ]
+                    },
+                    "node_T6L3_02": {
+                        "clientInfoId": "DownWithZanshinTacticsInTrial",
+                        "coordinates": {
+                            "x": 200,
+                            "y": 100
+                        },
+                        "neighbors": [],
+                        "nodeType": "quest:challenge",
+                        "objectives": {
+                            "DownWithPerkInTrial": {
+                                "conditions": [
+                                    {
+                                        "key": "role",
+                                        "value": [
+                                            "killer"
+                                        ]
+                                    },
+                                    {
+                                        "key": "perk",
+                                        "value": [
+                                            "ZanshinTactics"
+                                        ]
+                                    }
+                                ],
+                                "incrementWithEventRepetitions": false,
+                                "neededProgression": 1,
+                                "objectiveId": "DownWithPerkInTrial",
+                                "questEvent": [
+                                    {
+                                        "operation": ">=",
+                                        "parameters": "instigator:me",
+                                        "questEventId": "QuestEvent.Down",
+                                        "repetition": 8
+                                    }
+                                ]
+                            }
+                        },
+                        "reward": [
+                            {
+                                "amount": 5,
+                                "id": "star",
+                                "type": "progressionDbD"
+                            },
+                            {
+                                "amount": 50000,
+                                "id": "bloodpoints",
+                                "type": "currency"
+                            }
+                        ]
+                    },
+                    "node_T6L3_03": {
+                        "clientInfoId": "SkillCheckHealingSuccessAsClaudetteInTrial",
+                        "coordinates": {
+                            "x": 300,
+                            "y": 100
+                        },
+                        "neighbors": [],
+                        "nodeType": "quest:challenge",
+                        "objectives": {
+                            "SkillCheckHealingSuccessAsCharacterInTrial": {
+                                "conditions": [
+                                    {
+                                        "key": "role",
+                                        "value": [
+                                            "survivor"
+                                        ]
+                                    },
+                                    {
+                                        "key": "character",
+                                        "value": [
+                                            "Claudette"
+                                        ]
+                                    }
+                                ],
+                                "incrementWithEventRepetitions": false,
+                                "neededProgression": 1,
+                                "objectiveId": "SkillCheckHealingSuccessAsCharacterInTrial",
+                                "questEvent": [
+                                    {
+                                        "operation": ">=",
+                                        "parameters": "instigator:me",
+                                        "questEventId": "QuestEvent.SkillCheckHealingSuccess",
+                                        "repetition": 6
+                                    }
+                                ]
+                            }
+                        },
+                        "reward": [
+                            {
+                                "amount": 5,
+                                "id": "star",
+                                "type": "progressionDbD"
+                            },
+                            {
+                                "amount": 50000,
+                                "id": "bloodpoints",
+                                "type": "currency"
+                            }
+                        ]
+                    },
+                    "node_T6L3_04": {
+                        "clientInfoId": "ChaseStartCrowInTrial",
+                        "coordinates": {
+                            "x": 400,
+                            "y": 100
+                        },
+                        "neighbors": [],
+                        "nodeType": "quest:challenge",
+                        "objectives": {
+                            "ChaseStartCrowInTrial": {
+                                "conditions": [
+                                    {
+                                        "key": "role",
+                                        "value": [
+                                            "killer"
+                                        ]
+                                    },
+                                    {
+                                        "key": "perk",
+                                        "value": [
+                                            "Spies_From_The_Shadows"
+                                        ]
+                                    }
+                                ],
+                                "incrementWithEventRepetitions": false,
+                                "neededProgression": 1,
+                                "objectiveId": "ChaseStartCrowInTrial",
+                                "questEvent": [
+                                    {
+                                        "operation": ">=",
+                                        "parameters": "instigator:me",
+                                        "questEventId": "QuestEvent.ChaseStartCrow",
+                                        "repetition": 9
+                                    }
+                                ]
+                            }
+                        },
+                        "reward": [
+                            {
+                                "amount": 5,
+                                "id": "star",
+                                "type": "progressionDbD"
+                            },
+                            {
+                                "amount": 50000,
+                                "id": "bloodpoints",
+                                "type": "currency"
+                            }
+                        ]
+                    },
+                    "node_T6L3_05": {
+                        "clientInfoId": "EmotePointAtKillerWithPremonitionInTrial",
+                        "coordinates": {
+                            "x": 500,
+                            "y": 100
+                        },
+                        "neighbors": [],
+                        "nodeType": "quest:challenge",
+                        "objectives": {
+                            "EmotePointAtKillerWithPerkInTrial": {
+                                "conditions": [
+                                    {
+                                        "key": "role",
+                                        "value": [
+                                            "survivor"
+                                        ]
+                                    },
+                                    {
+                                        "key": "perk",
+                                        "value": [
+                                            "Premonition"
+                                        ]
+                                    }
+                                ],
+                                "incrementWithEventRepetitions": false,
+                                "neededProgression": 1,
+                                "objectiveId": "EmotePointAtKillerWithPerkInTrial",
+                                "questEvent": [
+                                    {
+                                        "operation": ">=",
+                                        "parameters": "instigator:me",
+                                        "questEventId": "QuestEvent.EmotePointAtKiller",
+                                        "repetition": 2
+                                    }
+                                ]
+                            }
+                        },
+                        "reward": [
+                            {
+                                "amount": 5,
+                                "id": "star",
+                                "type": "progressionDbD"
+                            },
+                            {
+                                "amount": 50000,
+                                "id": "bloodpoints",
+                                "type": "currency"
+                            }
+                        ]
+                    },
+                    "node_T6L3_06": {
+                        "clientInfoId": "HealFinishNearKillerWithSelfCareInTrial",
+                        "coordinates": {
+                            "x": 600,
+                            "y": 100
+                        },
+                        "neighbors": [],
+                        "nodeType": "quest:challenge",
+                        "objectives": {
+                            "HealFinishNearKillerWithPerkInTrial": {
+                                "conditions": [
+                                    {
+                                        "key": "role",
+                                        "value": [
+                                            "survivor"
+                                        ]
+                                    },
+                                    {
+                                        "key": "perk",
+                                        "value": [
+                                            "Self_Care"
+                                        ]
+                                    }
+                                ],
+                                "incrementWithEventRepetitions": false,
+                                "neededProgression": 1,
+                                "objectiveId": "HealFinishNearKillerWithPerkInTrial",
+                                "questEvent": [
+                                    {
+                                        "operation": ">=",
+                                        "parameters": "instigator:me",
+                                        "questEventId": "QuestEvent.HealFinishNearKiller",
+                                        "repetition": 1
+                                    }
+                                ]
+                            }
+                        },
+                        "reward": [
+                            {
+                                "amount": 5,
+                                "id": "star",
+                                "type": "progressionDbD"
+                            },
+                            {
+                                "amount": 50000,
+                                "id": "bloodpoints",
+                                "type": "currency"
+                            }
+                        ]
+                    },
+                    "node_T6L3_07": {
+                        "clientInfoId": "HitObliviousWithNemesisInTrial",
+                        "coordinates": {
+                            "x": 700,
+                            "y": 100
+                        },
+                        "neighbors": [],
+                        "nodeType": "quest:challenge",
+                        "objectives": {
+                            "HitObliviousWithPerkInTrial": {
+                                "conditions": [
+                                    {
+                                        "key": "role",
+                                        "value": [
+                                            "killer"
+                                        ]
+                                    },
+                                    {
+                                        "key": "perk",
+                                        "value": [
+                                            "Nemesis"
+                                        ]
+                                    }
+                                ],
+                                "incrementWithEventRepetitions": false,
+                                "neededProgression": 1,
+                                "objectiveId": "HitObliviousWithPerkInTrial",
+                                "questEvent": [
+                                    {
+                                        "operation": ">=",
+                                        "parameters": "instigator:me",
+                                        "questEventId": "QuestEvent.HitOblivious",
+                                        "repetition": 9
+                                    }
+                                ]
+                            }
+                        },
+                        "reward": [
+                            {
+                                "amount": 5,
+                                "id": "star",
+                                "type": "progressionDbD"
+                            },
+                            {
+                                "amount": 50000,
+                                "id": "bloodpoints",
+                                "type": "currency"
+                            }
+                        ]
+                    },
+                    "node_T6L3_08": {
+                        "clientInfoId": "OniStrikeInTrial",
+                        "coordinates": {
+                            "x": 800,
+                            "y": 100
+                        },
+                        "neighbors": [],
+                        "nodeType": "quest:challenge",
+                        "objectives": {
+                            "OniStrikeInTrial": {
+                                "conditions": [
+                                    {
+                                        "key": "role",
+                                        "value": [
+                                            "killer"
+                                        ]
+                                    },
+                                    {
+                                        "key": "character",
+                                        "value": [
+                                            "Oni"
+                                        ]
+                                    }
+                                ],
+                                "incrementWithEventRepetitions": false,
+                                "neededProgression": 1,
+                                "objectiveId": "OniStrikeInTrial",
+                                "questEvent": [
+                                    {
+                                        "operation": ">=",
+                                        "parameters": "instigator:me",
+                                        "questEventId": "QuestEvent.OniStrike",
+                                        "repetition": 4
+                                    }
+                                ]
+                            }
+                        },
+                        "reward": [
+                            {
+                                "amount": 5,
+                                "id": "star",
+                                "type": "progressionDbD"
+                            },
+                            {
+                                "amount": 50000,
+                                "id": "bloodpoints",
+                                "type": "currency"
+                            }
+                        ]
+                    },
+                    "node_T6L3_09": {
+                        "clientInfoId": "PalletStunResetWithAnyMeansNecessaryInTrial",
+                        "coordinates": {
+                            "x": 900,
+                            "y": 100
+                        },
+                        "neighbors": [],
+                        "nodeType": "quest:challenge",
+                        "objectives": {
+                            "PalletStunResetWithPerkInTrial": {
+                                "conditions": [
+                                    {
+                                        "key": "role",
+                                        "value": [
+                                            "survivor"
+                                        ]
+                                    },
+                                    {
+                                        "key": "perk",
+                                        "value": [
+                                            "AnyMeansNecessary"
+                                        ]
+                                    }
+                                ],
+                                "incrementWithEventRepetitions": false,
+                                "neededProgression": 1,
+                                "objectiveId": "PalletStunResetWithPerkInTrial",
+                                "questEvent": [
+                                    {
+                                        "operation": ">=",
+                                        "parameters": "instigator:me",
+                                        "questEventId": "QuestEvent.PalletStunReset",
+                                        "repetition": 1
+                                    }
+                                ]
+                            }
+                        },
+                        "reward": [
+                            {
+                                "amount": 5,
+                                "id": "star",
+                                "type": "progressionDbD"
+                            },
+                            {
+                                "amount": 50000,
+                                "id": "bloodpoints",
+                                "type": "currency"
+                            }
+                        ]
+                    },
+                    "node_T6L3_10": {
+                        "clientInfoId": "ChasedByKillerAsYuiInTrial",
+                        "coordinates": {
+                            "x": 1000,
+                            "y": 100
+                        },
+                        "neighbors": [],
+                        "nodeType": "quest:challenge",
+                        "objectives": {
+                            "ChasedByKillerAsCharacterInTrial": {
+                                "conditions": [
+                                    {
+                                        "key": "role",
+                                        "value": [
+                                            "survivor"
+                                        ]
+                                    },
+                                    {
+                                        "key": "character",
+                                        "value": [
+                                            "Yui"
+                                        ]
+                                    }
+                                ],
+                                "incrementWithEventRepetitions": false,
+                                "neededProgression": 1,
+                                "objectiveId": "ChasedByKillerAsCharacterInTrial",
+                                "questEvent": [
+                                    {
+                                        "operation": ">=",
+                                        "parameters": "instigator:other",
+                                        "questEventId": "QuestEvent.Chase",
+                                        "repetition": 60
+                                    }
+                                ]
+                            }
+                        },
+                        "reward": [
+                            {
+                                "amount": 5,
+                                "id": "star",
+                                "type": "progressionDbD"
+                            },
+                            {
+                                "amount": 50000,
+                                "id": "bloodpoints",
+                                "type": "currency"
+                            }
+                        ]
+                    },
+                    "node_T6L3_11": {
+                        "clientInfoId": "WiggleFreeDropNearKillerWithBreakoutInTrial",
+                        "coordinates": {
+                            "x": 1100,
+                            "y": 100
+                        },
+                        "neighbors": [],
+                        "nodeType": "quest:challenge",
+                        "objectives": {
+                            "WiggleFreeDropNearKillerWithPerkInTrial": {
+                                "conditions": [
+                                    {
+                                        "key": "role",
+                                        "value": [
+                                            "survivor"
+                                        ]
+                                    },
+                                    {
+                                        "key": "perk",
+                                        "value": [
+                                            "Breakout"
+                                        ]
+                                    }
+                                ],
+                                "incrementWithEventRepetitions": false,
+                                "neededProgression": 1,
+                                "objectiveId": "WiggleFreeDropNearKillerWithPerkInTrial",
+                                "questEvent": [
+                                    {
+                                        "operation": ">=",
+                                        "parameters": "instigator:other",
+                                        "questEventId": "QuestEvent.WiggleFreeDropNearKiller",
+                                        "repetition": 1
+                                    }
+                                ]
+                            }
+                        },
+                        "reward": [
+                            {
+                                "amount": 5,
+                                "id": "star",
+                                "type": "progressionDbD"
+                            },
+                            {
+                                "amount": 50000,
+                                "id": "bloodpoints",
+                                "type": "currency"
+                            }
+                        ]
+                    },
                     "node_T6L3_End01": {
                         "clientInfoId": "End",
                         "coordinates": {
@@ -268,6 +1836,483 @@
                     }
                 ],
                 "nodes": {
+                    "node_T6L4_01": {
+                        "clientInfoId": "BreakGensWithSpiesFromTheShadowsInTrial",
+                        "coordinates": {
+                            "x": 100,
+                            "y": 100
+                        },
+                        "journal": [
+                            "yes something"
+                        ],
+                        "neighbors": [],
+                        "nodeType": "quest:challenge",
+                        "objectives": {
+                            "BreakGensWithPerkInTrial": {
+                                "conditions": [
+                                    {
+                                        "key": "role",
+                                        "value": [
+                                            "killer"
+                                        ]
+                                    },
+                                    {
+                                        "key": "perk",
+                                        "value": [
+                                            "Spies_From_The_Shadows"
+                                        ]
+                                    }
+                                ],
+                                "incrementWithEventRepetitions": false,
+                                "neededProgression": 1,
+                                "objectiveId": "BreakGensWithPerkInTrial",
+                                "questEvent": [
+                                    {
+                                        "operation": ">=",
+                                        "parameters": "instigator:me",
+                                        "questEventId": "QuestEvent.BreakGens",
+                                        "repetition": 6
+                                    }
+                                ]
+                            }
+                        },
+                        "reward": [
+                            {
+                                "amount": 5,
+                                "id": "star",
+                                "type": "progressionDbD"
+                            },
+                            {
+                                "amount": 60000,
+                                "id": "bloodpoints",
+                                "type": "currency"
+                            }
+                        ]
+                    },
+                    "node_T6L4_02": {
+                        "clientInfoId": "HealDifferentWithEmpathyInTrial",
+                        "coordinates": {
+                            "x": 200,
+                            "y": 100
+                        },
+                        "journal": [
+                            "yes something"
+                        ],
+                        "neighbors": [],
+                        "nodeType": "quest:challenge",
+                        "objectives": {
+                            "HealDifferentWithPerkInTrial": {
+                                "conditions": [
+                                    {
+                                        "key": "role",
+                                        "value": [
+                                            "survivor"
+                                        ]
+                                    },
+                                    {
+                                        "key": "perk",
+                                        "value": [
+                                            "Empathy"
+                                        ]
+                                    }
+                                ],
+                                "incrementWithEventRepetitions": false,
+                                "neededProgression": 1,
+                                "objectiveId": "HealDifferentWithPerkInTrial",
+                                "questEvent": [
+                                    {
+                                        "operation": ">=",
+                                        "parameters": "instigator:me",
+                                        "questEventId": "QuestEvent.HealDifferent",
+                                        "repetition": 3
+                                    }
+                                ]
+                            }
+                        },
+                        "reward": [
+                            {
+                                "amount": 5,
+                                "id": "star",
+                                "type": "progressionDbD"
+                            },
+                            {
+                                "amount": 60000,
+                                "id": "bloodpoints",
+                                "type": "currency"
+                            }
+                        ]
+                    },
+                    "node_T6L4_03": {
+                        "clientInfoId": "HookObsessionWIthNemesisInTrial",
+                        "coordinates": {
+                            "x": 300,
+                            "y": 100
+                        },
+                        "journal": [
+                            "yes something"
+                        ],
+                        "neighbors": [],
+                        "nodeType": "quest:challenge",
+                        "objectives": {
+                            "HookObsessionWithPerkInTrial": {
+                                "conditions": [
+                                    {
+                                        "key": "role",
+                                        "value": [
+                                            "killer"
+                                        ]
+                                    },
+                                    {
+                                        "key": "perk",
+                                        "value": [
+                                            "Nemesis"
+                                        ]
+                                    }
+                                ],
+                                "incrementWithEventRepetitions": false,
+                                "neededProgression": 1,
+                                "objectiveId": "HookObsessionWithPerkInTrial",
+                                "questEvent": [
+                                    {
+                                        "operation": ">=",
+                                        "parameters": "instigator:me",
+                                        "questEventId": "QuestEvent.HookObsession",
+                                        "repetition": 4
+                                    }
+                                ]
+                            }
+                        },
+                        "reward": [
+                            {
+                                "amount": 5,
+                                "id": "star",
+                                "type": "progressionDbD"
+                            },
+                            {
+                                "amount": 60000,
+                                "id": "bloodpoints",
+                                "type": "currency"
+                            }
+                        ]
+                    },
+                    "node_T6L4_04": {
+                        "clientInfoId": "ChaseStartCrowInTrial",
+                        "coordinates": {
+                            "x": 400,
+                            "y": 100
+                        },
+                        "journal": [
+                            "yes something"
+                        ],
+                        "neighbors": [],
+                        "nodeType": "quest:challenge",
+                        "objectives": {
+                            "ChaseStartCrowInTrial": {
+                                "conditions": [
+                                    {
+                                        "key": "role",
+                                        "value": [
+                                            "killer"
+                                        ]
+                                    },
+                                    {
+                                        "key": "perk",
+                                        "value": [
+                                            "Spies_From_The_Shadows"
+                                        ]
+                                    }
+                                ],
+                                "incrementWithEventRepetitions": false,
+                                "neededProgression": 1,
+                                "objectiveId": "ChaseStartCrowInTrial",
+                                "questEvent": [
+                                    {
+                                        "operation": ">=",
+                                        "parameters": "instigator:me",
+                                        "questEventId": "QuestEvent.ChaseStartCrow",
+                                        "repetition": 9
+                                    }
+                                ]
+                            }
+                        },
+                        "reward": [
+                            {
+                                "amount": 5,
+                                "id": "star",
+                                "type": "progressionDbD"
+                            },
+                            {
+                                "amount": 60000,
+                                "id": "bloodpoints",
+                                "type": "currency"
+                            }
+                        ]
+                    },
+                    "node_T6L4_05": {
+                        "clientInfoId": "EmotePointAtKillerWithPremonitionInTrial",
+                        "coordinates": {
+                            "x": 500,
+                            "y": 100
+                        },
+                        "journal": [
+                            "yes something"
+                        ],
+                        "neighbors": [],
+                        "nodeType": "quest:challenge",
+                        "objectives": {
+                            "EmotePointAtKillerWithPerkInTrial": {
+                                "conditions": [
+                                    {
+                                        "key": "role",
+                                        "value": [
+                                            "survivor"
+                                        ]
+                                    },
+                                    {
+                                        "key": "perk",
+                                        "value": [
+                                            "Premonition"
+                                        ]
+                                    }
+                                ],
+                                "incrementWithEventRepetitions": false,
+                                "neededProgression": 1,
+                                "objectiveId": "EmotePointAtKillerWithPerkInTrial",
+                                "questEvent": [
+                                    {
+                                        "operation": ">=",
+                                        "parameters": "instigator:me",
+                                        "questEventId": "QuestEvent.EmotePointAtKiller",
+                                        "repetition": 2
+                                    }
+                                ]
+                            }
+                        },
+                        "reward": [
+                            {
+                                "amount": 5,
+                                "id": "star",
+                                "type": "progressionDbD"
+                            },
+                            {
+                                "amount": 60000,
+                                "id": "bloodpoints",
+                                "type": "currency"
+                            }
+                        ]
+                    },
+                    "node_T6L4_06": {
+                        "clientInfoId": "HealSelfEndgameAsClaudetteInTrial",
+                        "coordinates": {
+                            "x": 600,
+                            "y": 100
+                        },
+                        "journal": [
+                            "yes something"
+                        ],
+                        "neighbors": [],
+                        "nodeType": "quest:challenge",
+                        "objectives": {
+                            "HealSelfEndgameAsCharacterInTrial": {
+                                "conditions": [
+                                    {
+                                        "key": "role",
+                                        "value": [
+                                            "survivor"
+                                        ]
+                                    },
+                                    {
+                                        "key": "character",
+                                        "value": [
+                                            "Claudette"
+                                        ]
+                                    }
+                                ],
+                                "incrementWithEventRepetitions": false,
+                                "neededProgression": 1,
+                                "objectiveId": "HealSelfEndgameAsCharacterInTrial",
+                                "questEvent": [
+                                    {
+                                        "operation": ">=",
+                                        "parameters": "instigator:me",
+                                        "questEventId": "QuestEvent.HealFinishEndgame",
+                                        "repetition": 1
+                                    }
+                                ]
+                            }
+                        },
+                        "reward": [
+                            {
+                                "amount": 5,
+                                "id": "star",
+                                "type": "progressionDbD"
+                            },
+                            {
+                                "amount": 60000,
+                                "id": "bloodpoints",
+                                "type": "currency"
+                            }
+                        ]
+                    },
+                    "node_T6L4_07": {
+                        "clientInfoId": "HitGrabNearPalletsVaultsWallsWithZanshinTacticsInTrial",
+                        "coordinates": {
+                            "x": 700,
+                            "y": 100
+                        },
+                        "journal": [
+                            "yes something"
+                        ],
+                        "neighbors": [],
+                        "nodeType": "quest:challenge",
+                        "objectives": {
+                            "HitGrabNearPalletsVaultsWallsWithPerkInTrial": {
+                                "conditions": [
+                                    {
+                                        "key": "role",
+                                        "value": [
+                                            "killer"
+                                        ]
+                                    },
+                                    {
+                                        "key": "perk",
+                                        "value": [
+                                            "ZanshinTactics"
+                                        ]
+                                    }
+                                ],
+                                "incrementWithEventRepetitions": false,
+                                "neededProgression": 1,
+                                "objectiveId": "HitGrabNearPalletsVaultsWallsWithPerkInTrial",
+                                "questEvent": [
+                                    {
+                                        "operation": ">=",
+                                        "parameters": "instigator:me",
+                                        "questEventId": "QuestEvent.HitGrabNearPalletsVaultsWalls",
+                                        "repetition": 12
+                                    }
+                                ]
+                            }
+                        },
+                        "reward": [
+                            {
+                                "amount": 5,
+                                "id": "star",
+                                "type": "progressionDbD"
+                            },
+                            {
+                                "amount": 60000,
+                                "id": "bloodpoints",
+                                "type": "currency"
+                            }
+                        ]
+                    },
+                    "node_T6L4_08": {
+                        "clientInfoId": "HitHemorrhageWithBloodEchoInTrial",
+                        "coordinates": {
+                            "x": 800,
+                            "y": 100
+                        },
+                        "journal": [
+                            "yes something"
+                        ],
+                        "neighbors": [],
+                        "nodeType": "quest:challenge",
+                        "objectives": {
+                            "HitHemorrhageWithPerkInTrial": {
+                                "conditions": [
+                                    {
+                                        "key": "role",
+                                        "value": [
+                                            "killer"
+                                        ]
+                                    },
+                                    {
+                                        "key": "perk",
+                                        "value": [
+                                            "BloodEcho"
+                                        ]
+                                    }
+                                ],
+                                "incrementWithEventRepetitions": false,
+                                "neededProgression": 1,
+                                "objectiveId": "HitHemorrhageWithPerkInTrial",
+                                "questEvent": [
+                                    {
+                                        "operation": ">=",
+                                        "parameters": "instigator:me",
+                                        "questEventId": "QuestEvent.HitHemorrhage",
+                                        "repetition": 12
+                                    }
+                                ]
+                            }
+                        },
+                        "reward": [
+                            {
+                                "amount": 5,
+                                "id": "star",
+                                "type": "progressionDbD"
+                            },
+                            {
+                                "amount": 60000,
+                                "id": "bloodpoints",
+                                "type": "currency"
+                            }
+                        ]
+                    },
+                    "node_T6L4_09": {
+                        "clientInfoId": "OniDashDistanceHitInTrial",
+                        "coordinates": {
+                            "x": 900,
+                            "y": 100
+                        },
+                        "journal": [
+                            "yes something"
+                        ],
+                        "neighbors": [],
+                        "nodeType": "quest:challenge",
+                        "objectives": {
+                            "OniDashDistanceHitInTrial": {
+                                "conditions": [
+                                    {
+                                        "key": "role",
+                                        "value": [
+                                            "killer"
+                                        ]
+                                    },
+                                    {
+                                        "key": "character",
+                                        "value": [
+                                            "Oni"
+                                        ]
+                                    }
+                                ],
+                                "incrementWithEventRepetitions": false,
+                                "neededProgression": 1,
+                                "objectiveId": "OniDashDistanceHitInTrial",
+                                "questEvent": [
+                                    {
+                                        "operation": ">=",
+                                        "parameters": "instigator:me",
+                                        "questEventId": "QuestEvent.OniDashDistanceHit",
+                                        "repetition": 30
+                                    }
+                                ]
+                            }
+                        },
+                        "reward": [
+                            {
+                                "amount": 5,
+                                "id": "star",
+                                "type": "progressionDbD"
+                            },
+                            {
+                                "amount": 60000,
+                                "id": "bloodpoints",
+                                "type": "currency"
+                            }
+                        ]
+                    },
                     "node_T6L4_End01": {
                         "clientInfoId": "End",
                         "coordinates": {
@@ -301,6 +2346,6 @@
             }
         ],
         "rewardData": "Tome06",
-        "version": 5
+        "version": 11
     }
 }

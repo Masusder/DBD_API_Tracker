@@ -59,364 +59,49 @@
             "priority": "0"
         },
         {
-            "description": "Zambia PTB",
-            "end_date": "2020-09-30T14:59:59",
+            "description": "Zambia",
+            "end_date": "2020-10-27T14:59:59",
             "maps_weight": {
-                "Ind_CoalTower": "35"
+                "Ind_CoalTower": "20"
             },
             "priority": "101",
-            "start_date": "2020-09-29T15:00:00"
+            "start_date": "2020-10-20T15:00:00"
         },
         {
-            "description": "Zambia PTB",
-            "end_date": "2020-09-30T14:59:59",
+            "description": "Zambia",
+            "end_date": "2020-10-27T14:59:59",
             "maps_weight": {
-                "Ind_Mine": "35"
+                "Ind_Mine": "20"
             },
             "priority": "102",
-            "start_date": "2020-09-29T15:00:00"
+            "start_date": "2020-10-20T15:00:00"
         },
         {
-            "description": "Zambia PTB",
-            "end_date": "2020-09-30T14:59:59",
+            "description": "Zambia",
+            "end_date": "2020-10-27T14:59:59",
             "maps_weight": {
-                "Ind_Foundry": "35"
+                "Ind_Foundry": "20"
             },
             "priority": "103",
-            "start_date": "2020-09-29T15:00:00"
+            "start_date": "2020-10-20T15:00:00"
         },
         {
-            "description": "Zambia PTB",
-            "end_date": "2020-09-30T14:59:59",
+            "description": "Zambia",
+            "end_date": "2020-10-27T14:59:59",
             "maps_weight": {
-                "Ind_Forest": "35"
+                "Ind_Forest": "20"
             },
             "priority": "104",
-            "start_date": "2020-09-29T15:00:00"
+            "start_date": "2020-10-20T15:00:00"
         },
         {
-            "description": "Zambia PTB",
-            "end_date": "2020-09-30T14:59:59",
+            "description": "Zambia",
+            "end_date": "2020-10-27T14:59:59",
             "maps_weight": {
-                "Ind_Storehouse": "35"
+                "Ind_Storehouse": "20"
             },
             "priority": "105",
-            "start_date": "2020-09-29T15:00:00"
-        },
-        {
-            "description": "Zambia PTB",
-            "end_date": "2020-10-01T14:59:59",
-            "maps_weight": {
-                "Ind_CoalTower": "45"
-            },
-            "priority": "106",
-            "start_date": "2020-09-30T15:00:00"
-        },
-        {
-            "description": "Zambia PTB",
-            "end_date": "2020-10-01T14:59:59",
-            "maps_weight": {
-                "Ind_Mine": "45"
-            },
-            "priority": "107",
-            "start_date": "2020-09-30T15:00:00"
-        },
-        {
-            "description": "Zambia PTB",
-            "end_date": "2020-10-01T14:59:59",
-            "maps_weight": {
-                "Ind_Foundry": "35"
-            },
-            "priority": "108",
-            "start_date": "2020-09-30T15:00:00"
-        },
-        {
-            "description": "Zambia PTB",
-            "end_date": "2020-10-01T14:59:59",
-            "maps_weight": {
-                "Ind_Forest": "35"
-            },
-            "priority": "109",
-            "start_date": "2020-09-30T15:00:00"
-        },
-        {
-            "description": "Zambia PTB",
-            "end_date": "2020-10-01T14:59:59",
-            "maps_weight": {
-                "Ind_Storehouse": "35"
-            },
-            "priority": "110",
-            "start_date": "2020-09-30T15:00:00"
-        },
-        {
-            "description": "Zambia PTB",
-            "end_date": "2020-10-02T14:59:59",
-            "maps_weight": {
-                "Ind_CoalTower": "35"
-            },
-            "priority": "111",
-            "start_date": "2020-10-01T15:00:00"
-        },
-        {
-            "description": "Zambia PTB",
-            "end_date": "2020-10-02T14:59:59",
-            "maps_weight": {
-                "Ind_Mine": "45"
-            },
-            "priority": "112",
-            "start_date": "2020-10-01T15:00:00"
-        },
-        {
-            "description": "Zambia PTB",
-            "end_date": "2020-10-02T14:59:59",
-            "maps_weight": {
-                "Ind_Foundry": "45"
-            },
-            "priority": "113",
-            "start_date": "2020-10-01T15:00:00"
-        },
-        {
-            "description": "Zambia PTB",
-            "end_date": "2020-10-02T14:59:59",
-            "maps_weight": {
-                "Ind_Forest": "35"
-            },
-            "priority": "114",
-            "start_date": "2020-10-01T15:00:00"
-        },
-        {
-            "description": "Zambia PTB",
-            "end_date": "2020-10-02T14:59:59",
-            "maps_weight": {
-                "Ind_Storehouse": "35"
-            },
-            "priority": "115",
-            "start_date": "2020-10-01T15:00:00"
-        },
-        {
-            "description": "Zambia PTB",
-            "end_date": "2020-10-03T14:59:59",
-            "maps_weight": {
-                "Ind_CoalTower": "35"
-            },
-            "priority": "116",
-            "start_date": "2020-10-02T15:00:00"
-        },
-        {
-            "description": "Zambia PTB",
-            "end_date": "2020-10-03T14:59:59",
-            "maps_weight": {
-                "Ind_Mine": "35"
-            },
-            "priority": "117",
-            "start_date": "2020-10-02T15:00:00"
-        },
-        {
-            "description": "Zambia PTB",
-            "end_date": "2020-10-03T14:59:59",
-            "maps_weight": {
-                "Ind_Foundry": "45"
-            },
-            "priority": "118",
-            "start_date": "2020-10-02T15:00:00"
-        },
-        {
-            "description": "Zambia PTB",
-            "end_date": "2020-10-03T14:59:59",
-            "maps_weight": {
-                "Ind_Forest": "45"
-            },
-            "priority": "119",
-            "start_date": "2020-10-02T15:00:00"
-        },
-        {
-            "description": "Zambia PTB",
-            "end_date": "2020-10-03T14:59:59",
-            "maps_weight": {
-                "Ind_Storehouse": "35"
-            },
-            "priority": "120",
-            "start_date": "2020-10-02T15:00:00"
-        },
-        {
-            "description": "Zambia PTB",
-            "end_date": "2020-10-04T14:59:59",
-            "maps_weight": {
-                "Ind_CoalTower": "35"
-            },
-            "priority": "121",
-            "start_date": "2020-10-03T15:00:00"
-        },
-        {
-            "description": "Zambia PTB",
-            "end_date": "2020-10-04T14:59:59",
-            "maps_weight": {
-                "Ind_Mine": "35"
-            },
-            "priority": "122",
-            "start_date": "2020-10-03T15:00:00"
-        },
-        {
-            "description": "Zambia PTB",
-            "end_date": "2020-10-04T14:59:59",
-            "maps_weight": {
-                "Ind_Foundry": "35"
-            },
-            "priority": "123",
-            "start_date": "2020-10-03T15:00:00"
-        },
-        {
-            "description": "Zambia PTB",
-            "end_date": "2020-10-04T14:59:59",
-            "maps_weight": {
-                "Ind_Forest": "45"
-            },
-            "priority": "124",
-            "start_date": "2020-10-03T15:00:00"
-        },
-        {
-            "description": "Zambia PTB",
-            "end_date": "2020-10-04T14:59:59",
-            "maps_weight": {
-                "Ind_Storehouse": "45"
-            },
-            "priority": "125",
-            "start_date": "2020-10-03T15:00:00"
-        },
-        {
-            "description": "Zambia PTB",
-            "end_date": "2020-10-05T14:59:59",
-            "maps_weight": {
-                "Ind_CoalTower": "45"
-            },
-            "priority": "126",
-            "start_date": "2020-10-04T15:00:00"
-        },
-        {
-            "description": "Zambia PTB",
-            "end_date": "2020-10-05T14:59:59",
-            "maps_weight": {
-                "Ind_Mine": "35"
-            },
-            "priority": "127",
-            "start_date": "2020-10-04T15:00:00"
-        },
-        {
-            "description": "Zambia PTB",
-            "end_date": "2020-10-05T14:59:59",
-            "maps_weight": {
-                "Ind_Foundry": "45"
-            },
-            "priority": "128",
-            "start_date": "2020-10-04T15:00:00"
-        },
-        {
-            "description": "Zambia PTB",
-            "end_date": "2020-10-05T14:59:59",
-            "maps_weight": {
-                "Ind_Forest": "35"
-            },
-            "priority": "129",
-            "start_date": "2020-10-04T15:00:00"
-        },
-        {
-            "description": "Zambia PTB",
-            "end_date": "2020-10-05T14:59:59",
-            "maps_weight": {
-                "Ind_Storehouse": "35"
-            },
-            "priority": "130",
-            "start_date": "2020-10-04T15:00:00"
-        },
-        {
-            "description": "Zambia PTB",
-            "end_date": "2020-10-06T14:59:59",
-            "maps_weight": {
-                "Ind_CoalTower": "35"
-            },
-            "priority": "131",
-            "start_date": "2020-10-05T15:00:00"
-        },
-        {
-            "description": "Zambia PTB",
-            "end_date": "2020-10-06T14:59:59",
-            "maps_weight": {
-                "Ind_Mine": "45"
-            },
-            "priority": "132",
-            "start_date": "2020-10-05T15:00:00"
-        },
-        {
-            "description": "Zambia PTB",
-            "end_date": "2020-10-06T14:59:59",
-            "maps_weight": {
-                "Ind_Foundry": "35"
-            },
-            "priority": "133",
-            "start_date": "2020-10-05T15:00:00"
-        },
-        {
-            "description": "Zambia PTB",
-            "end_date": "2020-10-06T14:59:59",
-            "maps_weight": {
-                "Ind_Forest": "45"
-            },
-            "priority": "134",
-            "start_date": "2020-10-05T15:00:00"
-        },
-        {
-            "description": "Zambia PTB",
-            "end_date": "2020-10-06T14:59:59",
-            "maps_weight": {
-                "Ind_Storehouse": "35"
-            },
-            "priority": "135",
-            "start_date": "2020-10-05T15:00:00"
-        },
-        {
-            "description": "Zambia PTB",
-            "end_date": "2020-10-07T14:59:59",
-            "maps_weight": {
-                "Ind_CoalTower": "35"
-            },
-            "priority": "136",
-            "start_date": "2020-10-06T15:00:00"
-        },
-        {
-            "description": "Zambia PTB",
-            "end_date": "2020-10-07T14:59:59",
-            "maps_weight": {
-                "Ind_Mine": "35"
-            },
-            "priority": "137",
-            "start_date": "2020-10-06T15:00:00"
-        },
-        {
-            "description": "Zambia PTB",
-            "end_date": "2020-10-07T14:59:59",
-            "maps_weight": {
-                "Ind_Foundry": "45"
-            },
-            "priority": "138",
-            "start_date": "2020-10-06T15:00:00"
-        },
-        {
-            "description": "Zambia PTB",
-            "end_date": "2020-10-07T14:59:59",
-            "maps_weight": {
-                "Ind_Forest": "35"
-            },
-            "priority": "139",
-            "start_date": "2020-10-06T15:00:00"
-        },
-        {
-            "description": "Zambia PTB",
-            "end_date": "2020-10-07T14:59:59",
-            "maps_weight": {
-                "Ind_Storehouse": "45"
-            },
-            "priority": "140",
-            "start_date": "2020-10-06T15:00:00"
+            "start_date": "2020-10-20T15:00:00"
         }
     ]
 }
