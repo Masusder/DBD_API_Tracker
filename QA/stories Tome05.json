@@ -1,5 +1,62 @@
 {
-    "listOfNodes": [],
+    "listOfNodes": [
+        {
+            "nodeTreeCoordinate": {
+                "storyId": "Tome05",
+                "level": 0,
+                "nodeId": "node_T5L1_03"
+            },
+            "status": "open"
+        },
+        {
+            "nodeTreeCoordinate": {
+                "storyId": "Tome05",
+                "level": 0,
+                "nodeId": "node_T5L1_09"
+            },
+            "status": "open"
+        },
+        {
+            "nodeTreeCoordinate": {
+                "storyId": "Tome05",
+                "level": 0,
+                "nodeId": "node_T5L1_12"
+            },
+            "status": "open"
+        },
+        {
+            "nodeTreeCoordinate": {
+                "storyId": "Tome05",
+                "level": 0,
+                "nodeId": "node_T5L1_18"
+            },
+            "status": "open"
+        },
+        {
+            "nodeTreeCoordinate": {
+                "storyId": "Tome05",
+                "level": 0,
+                "nodeId": "node_T5L1_20"
+            },
+            "status": "open"
+        },
+        {
+            "nodeTreeCoordinate": {
+                "storyId": "Tome05",
+                "level": 0,
+                "nodeId": "node_T5L1_Start01"
+            },
+            "status": "completed"
+        },
+        {
+            "nodeTreeCoordinate": {
+                "storyId": "Tome05",
+                "level": 0,
+                "nodeId": "node_T5L1_Start02"
+            },
+            "status": "completed"
+        }
+    ],
     "highestLevelIsNewContent": false,
     "activeNodes": [],
     "hasUnreadJournal": true
