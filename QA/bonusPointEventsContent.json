@@ -76,6 +76,13 @@
             "eventType": 0,
             "multiplier": 1.5,
             "startTime": "2020-03-25T15:00:00"
+        },
+        {
+            "endTime": "2020-11-02T14:59:59",
+            "eventTitle": "BPEVENT_Bloodhunt_NAME",
+            "eventType": 0,
+            "multiplier": 2.0,
+            "startTime": "2020-10-29T15:00:00"
         }
     ]
 }
