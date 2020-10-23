@@ -168,6 +168,7 @@
         "value": {
             "KL": [
                 "CustomerSupportAnalytics",
+                "DDoSDetectionAnalytics",
                 "DisconnectionAnalytics",
                 "EACClientAuthChallengeAnalytics",
                 "EACClientAuthInitAnalytics",
@@ -175,9 +176,12 @@
                 "EACClientViolationAnalytics",
                 "EACServerValidateAnalytics",
                 "FallOutOfWorldAnalytics",
+                "FrameHikeAnalytics",
                 "GameEventLogAnalytics",
                 "GameInitAnalytics",
+                "InteractionAnalytics",
                 "InvalidLoadoutAnalytics",
+                "KrakenRequestAnalytics",
                 "LogMirrorsAnalytics",
                 "S3CommandAnalytics",
                 "S3CommandErrorAnalytics",
@@ -220,11 +224,9 @@
             "KAL": [
                 "DedicatedServerStatusAnalytics",
                 "DisconnectionDetailsAnalytics",
-                "FrameHikeAnalytics",
                 "LevelLoadingStepAnalytics",
                 "LevelLoadingTimeoutAnalytics",
-                "PerformanceAnalytics",
-                "S3CommandAnalytics"
+                "PerformanceAnalytics"
             ]
         },
         "keyName": "ANALYTICS_RULES_DEDICATED_SERVER"
@@ -311,20 +313,20 @@
     },
     {
         "value": {
-            "retentionRewardId": "4.3.0_357420live",
-            "referralId": "4.3.0_357420live",
-            "achievementId": "4.3.0_357420live",
-            "leaderboardId": "4.3.0_357420live",
-            "gameContentId": "4.3.0_357420live",
-            "statesPermissionsId": "4.3.0_357420live",
-            "lootTableId": "4.3.0_357420live",
-            "consentId": "4.3.0_357420live",
-            "catalogId": "4.3.0_357420live",
-            "actionId": "4.3.0_357420live",
-            "subscriptionId": "4.3.0_357420live",
-            "currencyId": "4.3.0_357420live",
-            "actionQueueId": "4.3.0_357420live",
-            "scenarioId": "4.3.0_357420live"
+            "retentionRewardId": "4.3.0_358726live",
+            "referralId": "4.3.0_358726live",
+            "achievementId": "4.3.0_358726live",
+            "leaderboardId": "4.3.0_358726live",
+            "gameContentId": "4.3.0_358726live",
+            "statesPermissionsId": "4.3.0_358726live",
+            "lootTableId": "4.3.0_358726live",
+            "consentId": "4.3.0_358726live",
+            "catalogId": "4.3.0_358726live",
+            "actionId": "4.3.0_358726live",
+            "subscriptionId": "4.3.0_358726live",
+            "currencyId": "4.3.0_358726live",
+            "actionQueueId": "4.3.0_358726live",
+            "scenarioId": "4.3.0_358726live"
         },
         "keyName": "clientData"
     },
@@ -350,6 +352,7 @@
     {
         "value": {
             "DD": [
+                "AtlantaDeepLinkAnalytics",
                 "AtlantaGraphicsSettingsAnalytics",
                 "AtlantaKillerTutorialAnalytics",
                 "AtlantaPartyGameAnalytics",
@@ -358,6 +361,7 @@
                 "AtlantaPurchasePopupAnalytics",
                 "AtlantaSessionStartAnalytics",
                 "AtlantaSurvivorTutorialAnalytics",
+                "BloodMarketAdsAnalytics",
                 "BloodMarketRefreshAnalytics",
                 "BloodMarketTransactionAnalytics",
                 "DailyCalendarRewardAnalytics",
@@ -372,6 +376,7 @@
             "KL": [
                 "CustomerSupportAnalytics",
                 "CustomerSupportClientLoginAnalytics",
+                "DDoSDetectionAnalytics",
                 "DisconnectionAnalytics",
                 "EACClientAuthChallengeAnalytics",
                 "EACClientAuthInitAnalytics",
@@ -381,9 +386,12 @@
                 "EntitlementAnalytics",
                 "ErrorAnalytics",
                 "FallOutOfWorldAnalytics",
+                "FrameHikeAnalytics",
+                "FrameTravelTimeAnalytics",
                 "GameEventLogAnalytics",
                 "GameInitAnalytics",
                 "HeartbeatPerfAnalytics",
+                "InteractionAnalytics",
                 "InvalidLoadoutAnalytics",
                 "KrakenRequestAnalytics",
                 "LogAnalytics",
@@ -395,8 +403,7 @@
                 "MatchmakingJoinSessionAnalytics",
                 "MatchmakingSearchCompleteAnalytics",
                 "MatchmakingSessionSpotReservationAnalytics",
-                "MatchmakingSurviveWithFriendsAnalytics",
-                "RecordRanksMigrateCheatAnalytics",
+                "S3CommandAnalytics",
                 "S3CommandErrorAnalytics",
                 "SaveGameErrorAnalytics",
                 "SaveGameLoadResultAnalytics",
@@ -412,6 +419,7 @@
                 "MatchmakingHostSettingAnalytics",
                 "MatchmakingSearchParamAnalytics",
                 "MatchmakingSearchResultAnalytics",
+                "MatchmakingSurviveWithFriendsAnalytics",
                 "PerformanceChartingAnalytics",
                 "RTMAnalytics"
             ],
@@ -424,7 +432,13 @@
             "KA": [
                 "ArchiveVignetteEntryAnalytics",
                 "ArchiveVignetteVideoAnalytics",
+                "AtlantaCampaignEventAnalytics",
                 "CannibalAnalytics",
+                "CrowdChoiceOnGameRoundStartedAnalytics",
+                "CrowdChoiceSummaryResultAnalytics",
+                "CrowdChoiceVoteResultAnalytics",
+                "CrowdPlayLobbyEventsAnalytics",
+                "CrowdPlayLobbyResultsAnalytics",
                 "CustomizationLobbyAnalytics",
                 "DailyRitualAnalytics",
                 "DetailedHitAnalytics",
@@ -464,27 +478,27 @@
                 "ProceduralGenerationAnalytics",
                 "QueueAnalytics",
                 "ScoreAnalytics",
+                "StadiaLivestreamAnalytics",
+                "StadiaStreamAnalytics",
                 "StoreMenuFlowAnalytics",
                 "SurvivorTutorialAnalytics",
                 "TinkererUndetectableHitNearGeneratorAnalytics",
                 "TinkererUndetectableInterruptAnalytics",
                 "TransactionAnalytics",
-                "WaitTimeAnalytics",
-                "WalesCypherAnalytics"
+                "WaitTimeAnalytics"
             ],
             "KAL": [
                 "ChatAnalytics",
                 "CurrencyBalanceAnalytics",
                 "CustomizationAnalytics",
                 "EnvironmentAnalytics",
-                "FrameHikeAnalytics",
                 "LevelLoadingStepAnalytics",
                 "LevelLoadingTimeoutAnalytics",
                 "LoadOutAnalytics",
                 "MatchInfoAnalytics",
                 "PerformanceAnalytics",
                 "ReportAnalytics",
-                "S3CommandAnalytics"
+                "WalesCypherAnalytics"
             ]
         },
         "keyName": "ANALYTICS_RULES"
@@ -604,6 +618,7 @@
             "4.3.0_357420live": "4.3.0_357420live-1603193561",
             "4.3.0_358100live": "4.3.0_358100live-1603291991",
             "4.3.0_358726live": "4.3.0_358726live-1603378612",
+            "4.3.0_359501live": "4.3.0_359501live-1603479609",
             "m_3.0.2_219921live": "m_3.0.2_219921live-1566230507",
             "m_3.0.3_241022live": "m_3.0.3_241022live-1572449159",
             "m_3.3.3_220000live": "m_3.3.3_220000live-1574880017",
