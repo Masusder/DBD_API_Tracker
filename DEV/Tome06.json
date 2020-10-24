@@ -458,7 +458,7 @@
                         ]
                     },
                     "node10": {
-                        "clientInfoId": "Repair",
+                        "clientInfoId": "HideNearKiller",
                         "coordinates": {
                             "x": 635,
                             "y": 155
@@ -470,7 +470,7 @@
                         ],
                         "nodeType": "quest:task",
                         "objectives": {
-                            "RepairPerc": {
+                            "HideNearKiller": {
                                 "conditions": [
                                     {
                                         "key": "role",
@@ -480,13 +480,13 @@
                                     }
                                 ],
                                 "incrementWithEventRepetitions": true,
-                                "neededProgression": 400,
-                                "objectiveId": "RepairPerc",
+                                "neededProgression": 30,
+                                "objectiveId": "HideNearKiller",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
-                                        "parameters": "instigator:me",
-                                        "questEventId": "QuestEvent.Repair",
+                                        "parameters": "instigator:me;Distance:1000",
+                                        "questEventId": "QuestEvent.HideNearKiller",
                                         "repetition": 1
                                     }
                                 ]
@@ -506,7 +506,7 @@
                         ]
                     },
                     "node11": {
-                        "clientInfoId": "Repair",
+                        "clientInfoId": "UnhookProtectionHit",
                         "coordinates": {
                             "x": 275,
                             "y": 155
@@ -519,7 +519,7 @@
                         ],
                         "nodeType": "quest:task",
                         "objectives": {
-                            "RepairPerc": {
+                            "UnhookProtectionHit": {
                                 "conditions": [
                                     {
                                         "key": "role",
@@ -529,13 +529,13 @@
                                     }
                                 ],
                                 "incrementWithEventRepetitions": true,
-                                "neededProgression": 400,
-                                "objectiveId": "RepairPerc",
+                                "neededProgression": 15,
+                                "objectiveId": "UnhookProtectionHit",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
                                         "parameters": "instigator:me",
-                                        "questEventId": "QuestEvent.Repair",
+                                        "questEventId": "QuestEvent.UnhookProtectionHit",
                                         "repetition": 1
                                     }
                                 ]
@@ -555,7 +555,7 @@
                         ]
                     },
                     "node12": {
-                        "clientInfoId": "Repair",
+                        "clientInfoId": "EscapeChase",
                         "coordinates": {
                             "x": 1175,
                             "y": 305
@@ -567,7 +567,7 @@
                         ],
                         "nodeType": "quest:task",
                         "objectives": {
-                            "RepairPerc": {
+                            "EscapeChase": {
                                 "conditions": [
                                     {
                                         "key": "role",
@@ -577,13 +577,13 @@
                                     }
                                 ],
                                 "incrementWithEventRepetitions": true,
-                                "neededProgression": 400,
-                                "objectiveId": "RepairPerc",
+                                "neededProgression": 5,
+                                "objectiveId": "EscapeChase",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
                                         "parameters": "instigator:me",
-                                        "questEventId": "QuestEvent.Repair",
+                                        "questEventId": "QuestEvent.EscapeChase",
                                         "repetition": 1
                                     }
                                 ]
@@ -5449,6 +5449,6 @@
             }
         ],
         "rewardData": "Tome06",
-        "version": 24
+        "version": 25
     }
 }
