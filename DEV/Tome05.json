@@ -920,7 +920,7 @@
                                 "questEvent": [
                                     {
                                         "operation": ">=",
-                                        "parameters": "instigator:me;Amount:4",
+                                        "parameters": "instigator:me;Amount:3",
                                         "questEventId": "QuestEvent.BlightChainMultipleHitLethalRush",
                                         "repetition": 1
                                     }
@@ -2450,7 +2450,7 @@
                                 "questEvent": [
                                     {
                                         "operation": ">=",
-                                        "parameters": "instigator:me;ItemType:Toolbox",
+                                        "parameters": "instigator:me;ItemName:Toolbox",
                                         "questEventId": "QuestEvent.ConsumeItem",
                                         "repetition": 1
                                     }
