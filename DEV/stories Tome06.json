@@ -4,7 +4,31 @@
             "nodeTreeCoordinate": {
                 "storyId": "Tome06",
                 "level": 0,
-                "nodeId": "node11"
+                "nodeId": "node_T6L1_03"
+            },
+            "status": "open"
+        },
+        {
+            "nodeTreeCoordinate": {
+                "storyId": "Tome06",
+                "level": 0,
+                "nodeId": "node_T6L1_04"
+            },
+            "status": "open"
+        },
+        {
+            "nodeTreeCoordinate": {
+                "storyId": "Tome06",
+                "level": 0,
+                "nodeId": "node_T6L1_07"
+            },
+            "status": "open"
+        },
+        {
+            "nodeTreeCoordinate": {
+                "storyId": "Tome06",
+                "level": 0,
+                "nodeId": "node_T6L1_13"
             },
             "status": "open"
         },
@@ -13,6 +37,14 @@
                 "storyId": "Tome06",
                 "level": 0,
                 "nodeId": "node_T6L1_Start01"
+            },
+            "status": "completed"
+        },
+        {
+            "nodeTreeCoordinate": {
+                "storyId": "Tome06",
+                "level": 0,
+                "nodeId": "node_T6L1_Start02"
             },
             "status": "completed"
         }
