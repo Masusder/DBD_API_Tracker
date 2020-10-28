@@ -90,7 +90,7 @@
                             "EarnBloodpoints": {
                                 "conditions": [],
                                 "incrementWithEventRepetitions": true,
-                                "neededProgression": 50000,
+                                "neededProgression": 25000,
                                 "objectiveId": "EarnBloodpoints",
                                 "questEvent": [
                                     {
@@ -241,50 +241,6 @@
                                         "operation": ">=",
                                         "parameters": "instigator:me",
                                         "questEventId": "QuestEvent.Chase",
-                                        "repetition": 1
-                                    }
-                                ]
-                            }
-                        },
-                        "reward": [
-                            {
-                                "amount": 3,
-                                "id": "star",
-                                "type": "progressionDbD"
-                            },
-                            {
-                                "amount": 15000,
-                                "id": "Bloodpoints",
-                                "type": "currency"
-                            }
-                        ]
-                    },
-                    "node_T6L1_06": {
-                        "clientInfoId": "BreakPalletsGens",
-                        "coordinates": {
-                            "x": 5,
-                            "y": 5
-                        },
-                        "neighbors": [],
-                        "nodeType": "quest:task",
-                        "objectives": {
-                            "BreakPalletsGens": {
-                                "conditions": [
-                                    {
-                                        "key": "role",
-                                        "value": [
-                                            "killer"
-                                        ]
-                                    }
-                                ],
-                                "incrementWithEventRepetitions": true,
-                                "neededProgression": 16,
-                                "objectiveId": "BreakPalletsGens",
-                                "questEvent": [
-                                    {
-                                        "operation": ">=",
-                                        "parameters": "instigator:me",
-                                        "questEventId": "QuestEvent.BreakPalletsGens",
                                         "repetition": 1
                                     }
                                 ]
@@ -494,43 +450,6 @@
                             }
                         ]
                     },
-                    "node_T6L1_11": {
-                        "clientInfoId": "EarnEmblemsSilver",
-                        "coordinates": {
-                            "x": 5,
-                            "y": 5
-                        },
-                        "neighbors": [],
-                        "nodeType": "quest:task",
-                        "objectives": {
-                            "EarnEmblemsSilver": {
-                                "conditions": [],
-                                "incrementWithEventRepetitions": true,
-                                "neededProgression": 8,
-                                "objectiveId": "EarnEmblemsSilver",
-                                "questEvent": [
-                                    {
-                                        "operation": ">=",
-                                        "parameters": "EmblemQuality:Silver",
-                                        "questEventId": "QuestEvent.EarnEmblemsQuality",
-                                        "repetition": 1
-                                    }
-                                ]
-                            }
-                        },
-                        "reward": [
-                            {
-                                "amount": 3,
-                                "id": "star",
-                                "type": "progressionDbD"
-                            },
-                            {
-                                "amount": 15000,
-                                "id": "Bloodpoints",
-                                "type": "currency"
-                            }
-                        ]
-                    },
                     "node_T6L1_12": {
                         "clientInfoId": "HideInLockerInOrAfterChase",
                         "coordinates": {
@@ -627,7 +546,7 @@
                         ]
                     },
                     "node_T6L1_14": {
-                        "clientInfoId": "BreakGensWithSpiesFromTheShadowsInTrial",
+                        "clientInfoId": "Kill",
                         "coordinates": {
                             "x": 545,
                             "y": 455
@@ -638,30 +557,24 @@
                         ],
                         "nodeType": "quest:challenge",
                         "objectives": {
-                            "BreakGensWithPerkInTrial": {
+                            "Kill": {
                                 "conditions": [
                                     {
                                         "key": "role",
                                         "value": [
                                             "killer"
                                         ]
-                                    },
-                                    {
-                                        "key": "perk",
-                                        "value": [
-                                            "Spies_From_The_Shadows"
-                                        ]
                                     }
                                 ],
                                 "incrementWithEventRepetitions": false,
                                 "neededProgression": 1,
-                                "objectiveId": "BreakGensWithPerkInTrial",
+                                "objectiveId": "Kill",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
                                         "parameters": "instigator:me",
-                                        "questEventId": "QuestEvent.BreakGens",
-                                        "repetition": 8
+                                        "questEventId": "QuestEvent.Kill",
+                                        "repetition": 2
                                     }
                                 ]
                             }
@@ -1033,7 +946,7 @@
                                         "operation": ">=",
                                         "parameters": "instigator:me",
                                         "questEventId": "QuestEvent.PalletResetNearKiller",
-                                        "repetition": 1
+                                        "repetition": 2
                                     }
                                 ]
                             }
@@ -1170,6 +1083,53 @@
                     }
                 ],
                 "nodes": {
+                    "node": {
+                        "clientInfoId": "CleanseFinish",
+                        "coordinates": {
+                            "x": 365,
+                            "y": 155
+                        },
+                        "neighbors": [
+                            "node_T6L2_01",
+                            "node_T6L2_03"
+                        ],
+                        "nodeType": "quest:task",
+                        "objectives": {
+                            "CleanseFinish": {
+                                "conditions": [
+                                    {
+                                        "key": "role",
+                                        "value": [
+                                            "survivor"
+                                        ]
+                                    }
+                                ],
+                                "incrementWithEventRepetitions": true,
+                                "neededProgression": 12,
+                                "objectiveId": "CleanseFinish",
+                                "questEvent": [
+                                    {
+                                        "operation": ">=",
+                                        "parameters": "instigator:me",
+                                        "questEventId": "QuestEvent.CleanseFinish",
+                                        "repetition": 1
+                                    }
+                                ]
+                            }
+                        },
+                        "reward": [
+                            {
+                                "amount": 3,
+                                "id": "star",
+                                "type": "progressionDbD"
+                            },
+                            {
+                                "amount": 15000,
+                                "id": "Bloodpoints",
+                                "type": "currency"
+                            }
+                        ]
+                    },
                     "node_T6L2_01": {
                         "clientInfoId": "Hit",
                         "coordinates": {
@@ -1177,8 +1137,9 @@
                             "y": 155
                         },
                         "neighbors": [
-                            "node_T6L2_Glyph",
-                            "node_T6L2_Start02"
+                            "node_T6L2_03",
+                            "node_T6L2_Start02",
+                            "node"
                         ],
                         "nodeType": "quest:task",
                         "objectives": {
@@ -1192,7 +1153,7 @@
                                     }
                                 ],
                                 "incrementWithEventRepetitions": true,
-                                "neededProgression": 20,
+                                "neededProgression": 32,
                                 "objectiveId": "Hit",
                                 "questEvent": [
                                     {
@@ -1240,7 +1201,7 @@
                                     }
                                 ],
                                 "incrementWithEventRepetitions": true,
-                                "neededProgression": 20,
+                                "neededProgression": 6,
                                 "objectiveId": "HookBasement",
                                 "questEvent": [
                                     {
@@ -1272,10 +1233,11 @@
                             "y": 155
                         },
                         "neighbors": [
-                            "node_T6L2_09",
+                            "node_T6L2_01",
                             "node_T6L2_08",
-                            "node_T6L2_Glyph",
-                            "node_T6L2_15"
+                            "node_T6L2_09",
+                            "node_T6L2_15",
+                            "node"
                         ],
                         "nodeType": "quest:task",
                         "objectives": {
@@ -1289,7 +1251,7 @@
                                     }
                                 ],
                                 "incrementWithEventRepetitions": true,
-                                "neededProgression": 20,
+                                "neededProgression": 8,
                                 "objectiveId": "Sacrifice",
                                 "questEvent": [
                                     {
@@ -1337,7 +1299,7 @@
                                     }
                                 ],
                                 "incrementWithEventRepetitions": true,
-                                "neededProgression": 400,
+                                "neededProgression": 180,
                                 "objectiveId": "CoopAction",
                                 "questEvent": [
                                     {
@@ -1369,8 +1331,8 @@
                             "y": 455
                         },
                         "neighbors": [
-                            "node_T6L2_10",
-                            "node_T6L2_18"
+                            "node_T6L2_18",
+                            "node_T6L2_Glyph"
                         ],
                         "nodeType": "quest:task",
                         "objectives": {
@@ -1384,7 +1346,7 @@
                                     }
                                 ],
                                 "incrementWithEventRepetitions": true,
-                                "neededProgression": 400,
+                                "neededProgression": 4,
                                 "objectiveId": "HealOtherPerc",
                                 "questEvent": [
                                     {
@@ -1410,20 +1372,20 @@
                         ]
                     },
                     "node_T6L2_06": {
-                        "clientInfoId": "RepairDifferent",
+                        "clientInfoId": "RepairFinishTeam",
                         "coordinates": {
                             "x": 545,
                             "y": 455
                         },
                         "neighbors": [
                             "node_T6L2_07",
-                            "node_T6L2_10",
                             "node_T6L2_08",
+                            "node_T6L2_Glyph",
                             "node_T6L2_13"
                         ],
                         "nodeType": "quest:task",
                         "objectives": {
-                            "RepairDifferentPerc": {
+                            "RepairFinishTeam": {
                                 "conditions": [
                                     {
                                         "key": "role",
@@ -1433,13 +1395,13 @@
                                     }
                                 ],
                                 "incrementWithEventRepetitions": true,
-                                "neededProgression": 400,
-                                "objectiveId": "RepairDifferentPerc",
+                                "neededProgression": 6,
+                                "objectiveId": "RepairFinishTeam",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
-                                        "parameters": "instigator:me",
-                                        "questEventId": "QuestEvent.Repair",
+                                        "parameters": "instigator:me;instigator:other",
+                                        "questEventId": "QuestEvent.GeneratorRepairedByTeam",
                                         "repetition": 1
                                     }
                                 ]
@@ -1480,12 +1442,12 @@
                                     }
                                 ],
                                 "incrementWithEventRepetitions": true,
-                                "neededProgression": 400,
+                                "neededProgression": 4,
                                 "objectiveId": "ConsumeMedkit",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
-                                        "parameters": "instigator:me",
+                                        "parameters": "instigator:me;ItemName:Medkit",
                                         "questEventId": "QuestEvent.ConsumeItem",
                                         "repetition": 1
                                     }
@@ -1506,7 +1468,7 @@
                         ]
                     },
                     "node_T6L2_08": {
-                        "clientInfoId": "EarnEmblemsSilver",
+                        "clientInfoId": "EarnEmblemsGold",
                         "coordinates": {
                             "x": 545,
                             "y": 305
@@ -1517,15 +1479,15 @@
                         ],
                         "nodeType": "quest:task",
                         "objectives": {
-                            "EarnEmblemsSilver": {
+                            "EarnEmblemsGold": {
                                 "conditions": [],
                                 "incrementWithEventRepetitions": true,
                                 "neededProgression": 12,
-                                "objectiveId": "EarnEmblemsSilver",
+                                "objectiveId": "EarnEmblemsGold",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
-                                        "parameters": "EmblemQuality:Silver",
+                                        "parameters": "EmblemQuality:Gold",
                                         "questEventId": "QuestEvent.EarnEmblemsQuality",
                                         "repetition": 1
                                     }
@@ -1593,49 +1555,8 @@
                             }
                         ]
                     },
-                    "node_T6L2_10": {
-                        "clientInfoId": "EarnEmblemsSilver",
-                        "coordinates": {
-                            "x": 815,
-                            "y": 455
-                        },
-                        "neighbors": [
-                            "node_T6L2_16",
-                            "node_T6L2_06",
-                            "node_T6L2_05"
-                        ],
-                        "nodeType": "quest:task",
-                        "objectives": {
-                            "EarnEmblemsSilver": {
-                                "conditions": [],
-                                "incrementWithEventRepetitions": true,
-                                "neededProgression": 12,
-                                "objectiveId": "EarnEmblemsSilver",
-                                "questEvent": [
-                                    {
-                                        "operation": ">=",
-                                        "parameters": "EmblemQuality:Silver",
-                                        "questEventId": "QuestEvent.EarnEmblemsQuality",
-                                        "repetition": 1
-                                    }
-                                ]
-                            }
-                        },
-                        "reward": [
-                            {
-                                "amount": 3,
-                                "id": "star",
-                                "type": "progressionDbD"
-                            },
-                            {
-                                "amount": 15000,
-                                "id": "Bloodpoints",
-                                "type": "currency"
-                            }
-                        ]
-                    },
                     "node_T6L2_11": {
-                        "clientInfoId": "HookDifferentInTrial",
+                        "clientInfoId": "BreakGensWithSpiesFromTheShadowsInTrial",
                         "coordinates": {
                             "x": 995,
                             "y": 305
@@ -1646,23 +1567,29 @@
                         ],
                         "nodeType": "quest:challenge",
                         "objectives": {
-                            "HookDifferentInTrial": {
+                            "BreakGensWithPerkInTrial": {
                                 "conditions": [
                                     {
                                         "key": "role",
                                         "value": [
                                             "killer"
                                         ]
+                                    },
+                                    {
+                                        "key": "perk",
+                                        "value": [
+                                            "Spies_From_The_Shadows"
+                                        ]
                                     }
                                 ],
                                 "incrementWithEventRepetitions": false,
                                 "neededProgression": 1,
-                                "objectiveId": "HookDifferentInTrial",
+                                "objectiveId": "BreakGensWithPerkInTrial",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
                                         "parameters": "instigator:me",
-                                        "questEventId": "QuestEvent.HookDifferent",
+                                        "questEventId": "QuestEvent.BreakGens",
                                         "repetition": 3
                                     }
                                 ]
@@ -1684,7 +1611,7 @@
                     "node_T6L2_12": {
                         "clientInfoId": "StatusHastedWithBreakoutInTrial",
                         "coordinates": {
-                            "x": 635,
+                            "x": 680,
                             "y": 5
                         },
                         "neighbors": [
@@ -1901,9 +1828,9 @@
                             "y": 605
                         },
                         "neighbors": [
+                            "node_T6L2_17",
                             "node_T6L2_End01",
-                            "node_T6L2_10",
-                            "node_T6L2_17"
+                            "node_T6L2_Glyph"
                         ],
                         "nodeType": "quest:challenge",
                         "objectives": {
@@ -1951,7 +1878,7 @@
                     "node_T6L2_17": {
                         "clientInfoId": "InjuredDyingHookedMultipleWithThanatophobiaInTrial",
                         "coordinates": {
-                            "x": 635,
+                            "x": 680,
                             "y": 605
                         },
                         "neighbors": [
@@ -2002,7 +1929,7 @@
                         ]
                     },
                     "node_T6L2_18": {
-                        "clientInfoId": "SearchFinishAsAceInTrial",
+                        "clientInfoId": "EscapeWithItemRarityInTrial",
                         "coordinates": {
                             "x": 1175,
                             "y": 455
@@ -2013,30 +1940,24 @@
                         ],
                         "nodeType": "quest:challenge",
                         "objectives": {
-                            "SearchFinishAsCharacterInTrial": {
+                            "EscapeWithItemVeryRareInTrial": {
                                 "conditions": [
                                     {
                                         "key": "role",
                                         "value": [
                                             "survivor"
                                         ]
-                                    },
-                                    {
-                                        "key": "character",
-                                        "value": [
-                                            "Ace"
-                                        ]
                                     }
                                 ],
                                 "incrementWithEventRepetitions": false,
                                 "neededProgression": 1,
-                                "objectiveId": "SearchFinishAsCharacterInTrial",
+                                "objectiveId": "EscapeWithItemVeryRareInTrial",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
-                                        "parameters": "instigator:me",
-                                        "questEventId": "QuestEvent.SearchFinish",
-                                        "repetition": 2
+                                        "parameters": "instigator:me;ItemRarity:VeryRare",
+                                        "questEventId": "QuestEvent.EscapeWithItemRarity",
+                                        "repetition": 1
                                     }
                                 ]
                             }
@@ -2057,7 +1978,7 @@
                     "node_T6L2_End01": {
                         "clientInfoId": "End",
                         "coordinates": {
-                            "x": 1355,
+                            "x": 1265,
                             "y": 605
                         },
                         "neighbors": [
@@ -2069,7 +1990,7 @@
                     "node_T6L2_End02": {
                         "clientInfoId": "End",
                         "coordinates": {
-                            "x": 1355,
+                            "x": 1265,
                             "y": 5
                         },
                         "neighbors": [
@@ -2080,12 +2001,13 @@
                     "node_T6L2_Glyph": {
                         "clientInfoId": "DebugGlyph",
                         "coordinates": {
-                            "x": 365,
-                            "y": 155
+                            "x": 815,
+                            "y": 455
                         },
                         "neighbors": [
-                            "node_T6L2_01",
-                            "node_T6L2_03"
+                            "node_T6L2_16",
+                            "node_T6L2_06",
+                            "node_T6L2_05"
                         ],
                         "nodeType": "quest:contextual",
                         "objectives": {
@@ -2113,7 +2035,7 @@
                     "node_T6L2_Start01": {
                         "clientInfoId": "Start",
                         "coordinates": {
-                            "x": 5,
+                            "x": 95,
                             "y": 605
                         },
                         "neighbors": [
@@ -2124,7 +2046,7 @@
                     "node_T6L2_Start02": {
                         "clientInfoId": "Start",
                         "coordinates": {
-                            "x": 5,
+                            "x": 95,
                             "y": 5
                         },
                         "neighbors": [
@@ -2274,7 +2196,7 @@
                     "node03": {
                         "clientInfoId": "HookDifferentInTrial",
                         "coordinates": {
-                            "x": 725,
+                            "x": 770,
                             "y": 305
                         },
                         "neighbors": [
@@ -2416,7 +2338,7 @@
                     "node06": {
                         "clientInfoId": "Hook",
                         "coordinates": {
-                            "x": 995,
+                            "x": 1085,
                             "y": 455
                         },
                         "neighbors": [
@@ -2463,7 +2385,7 @@
                     "node07": {
                         "clientInfoId": "Hook",
                         "coordinates": {
-                            "x": 815,
+                            "x": 905,
                             "y": 455
                         },
                         "neighbors": [
@@ -2609,7 +2531,7 @@
                     "node10": {
                         "clientInfoId": "Repair",
                         "coordinates": {
-                            "x": 815,
+                            "x": 905,
                             "y": 155
                         },
                         "neighbors": [
@@ -2705,7 +2627,7 @@
                     "node12": {
                         "clientInfoId": "Repair",
                         "coordinates": {
-                            "x": 995,
+                            "x": 1085,
                             "y": 155
                         },
                         "neighbors": [
@@ -2752,7 +2674,7 @@
                     "node13": {
                         "clientInfoId": "EarnEmblemsSilver",
                         "coordinates": {
-                            "x": 905,
+                            "x": 995,
                             "y": 305
                         },
                         "neighbors": [
@@ -2833,7 +2755,7 @@
                         ]
                     },
                     "node15": {
-                        "clientInfoId": "Hook",
+                        "clientInfoId": "BreakPalletsGens",
                         "coordinates": {
                             "x": 15,
                             "y": 15
@@ -2841,7 +2763,7 @@
                         "neighbors": [],
                         "nodeType": "quest:task",
                         "objectives": {
-                            "Hook": {
+                            "BreakPalletsGens": {
                                 "conditions": [
                                     {
                                         "key": "role",
@@ -2852,12 +2774,12 @@
                                 ],
                                 "incrementWithEventRepetitions": true,
                                 "neededProgression": 20,
-                                "objectiveId": "Hook",
+                                "objectiveId": "BreakPalletsGens",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
                                         "parameters": "instigator:me",
-                                        "questEventId": "QuestEvent.Hook",
+                                        "questEventId": "QuestEvent.BreakPalletsGens",
                                         "repetition": 1
                                     }
                                 ]
@@ -2973,7 +2895,7 @@
                     "node_T6L3_02": {
                         "clientInfoId": "DownWithZanshinTacticsInTrial",
                         "coordinates": {
-                            "x": 725,
+                            "x": 815,
                             "y": 605
                         },
                         "neighbors": [
@@ -3179,7 +3101,7 @@
                     "node_T6L3_06": {
                         "clientInfoId": "HealFinishNearKillerWithSelfCareInTrial",
                         "coordinates": {
-                            "x": 725,
+                            "x": 815,
                             "y": 5
                         },
                         "neighbors": [
@@ -3232,7 +3154,7 @@
                     "node_T6L3_07": {
                         "clientInfoId": "HitObliviousWithNemesisInTrial",
                         "coordinates": {
-                            "x": 905,
+                            "x": 995,
                             "y": 605
                         },
                         "neighbors": [
@@ -3285,7 +3207,7 @@
                     "node_T6L3_08": {
                         "clientInfoId": "OniStrikeInTrial",
                         "coordinates": {
-                            "x": 1085,
+                            "x": 1175,
                             "y": 605
                         },
                         "neighbors": [
@@ -3391,7 +3313,7 @@
                     "node_T6L3_10": {
                         "clientInfoId": "ChasedByKillerAsYuiInTrial",
                         "coordinates": {
-                            "x": 545,
+                            "x": 635,
                             "y": 455
                         },
                         "neighbors": [
@@ -3444,7 +3366,7 @@
                     "node_T6L3_11": {
                         "clientInfoId": "WiggleFreeDropNearKillerWithBreakoutInTrial",
                         "coordinates": {
-                            "x": 905,
+                            "x": 995,
                             "y": 5
                         },
                         "neighbors": [
@@ -3497,7 +3419,7 @@
                     "node_T6L3_End01": {
                         "clientInfoId": "End",
                         "coordinates": {
-                            "x": 1175,
+                            "x": 1265,
                             "y": 455
                         },
                         "neighbors": [
@@ -3509,7 +3431,7 @@
                     "node_T6L3_End02": {
                         "clientInfoId": "End",
                         "coordinates": {
-                            "x": 1085,
+                            "x": 1175,
                             "y": 5
                         },
                         "neighbors": [
@@ -5028,6 +4950,6 @@
             }
         ],
         "rewardData": "Tome06",
-        "version": 40
+        "version": 47
     }
 }

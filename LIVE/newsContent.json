@@ -2,6 +2,40 @@
     "news": [
         {
             "contentTags": [
+                "ps4"
+            ],
+            "description": "The game client has been updated to the 4.3.1 bugfix.<br/><br/><span class=\"Heading2\">KEY CHANGES&#58;</span><li>Fixed an issue that might prevent medkits with 32 charges to completely heal the second health state.</li><li>Fixed an issue that caused survivors&#39; auras not to be shown if a killer equipped with the Discordance perk enters the activation range after the survivors have started repairing a generator.</li><li>Fixed an issue that caused killers to have their first person view posture during the intro.</li><li>Tentatively fixed an issue that caused the framerate to drop intermittently during Trials.</li><br/><br/>Please see <a href=\"event:https://forum.deadbydaylight.com/en/kb/patchnotes\"><font color=\"#ff0000\"><u>HERE</u></font></a> for detailed patch notes.",
+            "dwnImagePath": "",
+            "imageHeight": "",
+            "imagePath": "",
+            "isHidden": false,
+            "startDate": "2020-10-28T15:00:00",
+            "title": "4.3.1 BUGFIX",
+            "type": 4,
+            "version": "4.3.1",
+            "weight": 844.0
+        },
+        {
+            "contentTags": [
+                "steam",
+                "xbox",
+                "switch",
+                "grdk",
+                "stadia"
+            ],
+            "description": "The game client has been updated to the 4.3.1 bugfix.<br/><br/><span class=\"Heading2\">KEY CHANGES&#58;</span><li>Fixed an issue that might prevent medkits with 32 charges to completely heal the second health state.</li><li>Fixed an issue that caused survivors&#39; auras not to be shown if a killer equipped with the Discordance perk enters the activation range after the survivors have started repairing a generator.</li><li>Fixed an issue that caused killers to have their first person view posture during the intro.</li><br/><br/>Please see <a href=\"event:https://forum.deadbydaylight.com/en/kb/patchnotes\"><font color=\"#ff0000\"><u>HERE</u></font></a> for detailed patch notes.",
+            "dwnImagePath": "",
+            "imageHeight": "",
+            "imagePath": "",
+            "isHidden": false,
+            "startDate": "2020-10-28T15:00:00",
+            "title": "4.3.1 BUGFIX",
+            "type": 4,
+            "version": "4.3.1",
+            "weight": 843.0
+        },
+        {
+            "contentTags": [
                 "steam",
                 "xbox",
                 "ps4",
