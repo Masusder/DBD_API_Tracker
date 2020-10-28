@@ -167,6 +167,7 @@
                 "FrameHikeAnalytics",
                 "GameEventLogAnalytics",
                 "GameInitAnalytics",
+                "InteractionAnalytics",
                 "InvalidLoadoutAnalytics",
                 "KrakenRequestAnalytics",
                 "LogMirrorsAnalytics",
@@ -355,6 +356,7 @@
                 "GameEventLogAnalytics",
                 "GameInitAnalytics",
                 "HeartbeatPerfAnalytics",
+                "InteractionAnalytics",
                 "InvalidLoadoutAnalytics",
                 "KrakenRequestAnalytics",
                 "LogAnalytics",
@@ -496,7 +498,8 @@
             "4.3.0_349028stage": "4.3.0_349028stage-1601061091",
             "4.3.0_350404stage": "4.3.0_350404stage-1601490328",
             "4.3.0_353511stage": "4.3.0_353511stage-1602107326",
-            "4.3.0_356160stage": "4.3.0_356160stage-1602784730"
+            "4.3.0_356160stage": "4.3.0_356160stage-1602784730",
+            "4.3.0_360783stage": "4.3.0_360783stage-1603833825"
         },
         "keyName": "VER_CLIENT_DATA"
     },

@@ -175,6 +175,7 @@
                 "FrameHikeAnalytics",
                 "GameEventLogAnalytics",
                 "GameInitAnalytics",
+                "InteractionAnalytics",
                 "InvalidLoadoutAnalytics",
                 "KrakenRequestAnalytics",
                 "LogMirrorsAnalytics",
@@ -363,6 +364,7 @@
                 "GameEventLogAnalytics",
                 "GameInitAnalytics",
                 "HeartbeatPerfAnalytics",
+                "InteractionAnalytics",
                 "InvalidLoadoutAnalytics",
                 "KrakenRequestAnalytics",
                 "LogAnalytics",
@@ -503,7 +505,8 @@
             "4.3.0_354300cert": "4.3.0_354300cert-1602261121",
             "4.3.0_355187cert": "4.3.0_355187cert-1602622270",
             "4.3.0_355295cert": "4.3.0_355295cert-1602628183",
-            "4.3.0_356160cert": "4.3.0_356160cert-1602784444"
+            "4.3.0_356160cert": "4.3.0_356160cert-1602784444",
+            "4.3.0_360488cert": "4.3.0_360488cert-1603813829"
         },
         "keyName": "VER_CLIENT_DATA"
     },
