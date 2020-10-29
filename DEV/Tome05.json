@@ -48,7 +48,7 @@
                                     }
                                 ],
                                 "incrementWithEventRepetitions": true,
-                                "neededProgression": 20000,
+                                "neededProgression": 1,
                                 "objectiveId": "EarnBloodpointsObjectives",
                                 "questEvent": [
                                     {
@@ -337,7 +337,7 @@
                                     }
                                 ],
                                 "incrementWithEventRepetitions": true,
-                                "neededProgression": 20000,
+                                "neededProgression": 1,
                                 "objectiveId": "EarnBloodpointsDeviousness",
                                 "questEvent": [
                                     {
@@ -4229,6 +4229,6 @@
             }
         ],
         "rewardData": "Tome05",
-        "version": 32
+        "version": 33
     }
 }

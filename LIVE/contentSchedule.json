@@ -50,7 +50,7 @@
                 "Jnk_Scrapyard": "10",
                 "Kny_Cottage": "10",
                 "Qat_Lab": "10",
-                "Sub_Street": "10",
+                "Sub_Street": "11",
                 "Swp_GrimPantry": "10",
                 "Swp_PaleRose": "10",
                 "Ukr_Saloon": "10",
@@ -59,130 +59,49 @@
             "priority": "0"
         },
         {
-            "description": "Yemen Live",
-            "end_date": "2020-09-14T14:59:59",
+            "description": "Zambia",
+            "end_date": "2020-10-27T14:59:59",
             "maps_weight": {
-                "Brl_MaHouse": "35"
+                "Ind_CoalTower": "20"
             },
             "priority": "101",
-            "start_date": "2020-09-08T15:00:00"
+            "start_date": "2020-10-20T15:00:00"
         },
         {
-            "description": "Yemen Live",
-            "end_date": "2020-09-14T14:59:59",
+            "description": "Zambia",
+            "end_date": "2020-10-27T14:59:59",
             "maps_weight": {
-                "Brl_Temple": "35"
+                "Ind_Mine": "20"
             },
             "priority": "102",
-            "start_date": "2020-09-08T15:00:00"
+            "start_date": "2020-10-20T15:00:00"
         },
         {
-            "description": "Yemen Live",
-            "end_date": "2020-09-16T14:59:59",
+            "description": "Zambia",
+            "end_date": "2020-10-27T14:59:59",
             "maps_weight": {
-                "Brl_MaHouse": "20"
+                "Ind_Foundry": "20"
             },
             "priority": "103",
-            "start_date": "2020-09-14T15:00:00"
+            "start_date": "2020-10-20T15:00:00"
         },
         {
-            "description": "Yemen Live",
-            "end_date": "2020-09-16T14:59:59",
+            "description": "Zambia",
+            "end_date": "2020-10-27T14:59:59",
             "maps_weight": {
-                "Brl_Temple": "20"
+                "Ind_Forest": "20"
             },
             "priority": "104",
-            "start_date": "2020-09-14T15:00:00"
+            "start_date": "2020-10-20T15:00:00"
         },
         {
-            "description": "Yemen Live",
-            "end_date": "2020-09-14T14:59:59",
+            "description": "Zambia",
+            "end_date": "2020-10-27T14:59:59",
             "maps_weight": {
-                "Eng_Street_01": "12"
+                "Ind_Storehouse": "20"
             },
             "priority": "105",
-            "start_date": "2020-09-08T15:00:00"
-        },
-        {
-            "description": "Yemen Live",
-            "end_date": "2020-09-14T14:59:59",
-            "maps_weight": {
-                "Eng_Street_02": "12"
-            },
-            "priority": "106",
-            "start_date": "2020-09-08T15:00:00"
-        },
-        {
-            "description": "Yemen Live",
-            "end_date": "2020-09-14T14:59:59",
-            "maps_weight": {
-                "Eng_Street_03": "12"
-            },
-            "priority": "107",
-            "start_date": "2020-09-08T15:00:00"
-        },
-        {
-            "description": "Yemen Live",
-            "end_date": "2020-09-14T14:59:59",
-            "maps_weight": {
-                "Eng_Street_04": "12"
-            },
-            "priority": "108",
-            "start_date": "2020-09-08T15:00:00"
-        },
-        {
-            "description": "Yemen Live",
-            "end_date": "2020-09-14T14:59:59",
-            "maps_weight": {
-                "Eng_Street_05": "12"
-            },
-            "priority": "109",
-            "start_date": "2020-09-08T15:00:00"
-        },
-        {
-            "description": "Yemen Live",
-            "end_date": "2020-09-16T14:59:59",
-            "maps_weight": {
-                "Eng_Street_01": "7"
-            },
-            "priority": "110",
-            "start_date": "2020-09-14T15:00:00"
-        },
-        {
-            "description": "Yemen Live",
-            "end_date": "2020-09-16T14:59:59",
-            "maps_weight": {
-                "Eng_Street_02": "7"
-            },
-            "priority": "111",
-            "start_date": "2020-09-14T15:00:00"
-        },
-        {
-            "description": "Yemen Live",
-            "end_date": "2020-09-16T14:59:59",
-            "maps_weight": {
-                "Eng_Street_03": "7"
-            },
-            "priority": "112",
-            "start_date": "2020-09-14T15:00:00"
-        },
-        {
-            "description": "Yemen Live",
-            "end_date": "2020-09-16T14:59:59",
-            "maps_weight": {
-                "Eng_Street_04": "7"
-            },
-            "priority": "113",
-            "start_date": "2020-09-14T15:00:00"
-        },
-        {
-            "description": "Yemen Live",
-            "end_date": "2020-09-16T14:59:59",
-            "maps_weight": {
-                "Eng_Street_05": "7"
-            },
-            "priority": "114",
-            "start_date": "2020-09-14T15:00:00"
+            "start_date": "2020-10-20T15:00:00"
         }
     ]
 }

@@ -330,7 +330,7 @@
                                     }
                                 ],
                                 "incrementWithEventRepetitions": true,
-                                "neededProgression": 30,
+                                "neededProgression": 20,
                                 "objectiveId": "HideNearKiller",
                                 "questEvent": [
                                     {
@@ -377,7 +377,7 @@
                                     }
                                 ],
                                 "incrementWithEventRepetitions": true,
-                                "neededProgression": 6,
+                                "neededProgression": 4,
                                 "objectiveId": "UnhookProtectionHit",
                                 "questEvent": [
                                     {
@@ -555,7 +555,7 @@
                             "node_T6L1_05",
                             "node_T6L1_03"
                         ],
-                        "nodeType": "quest:challenge",
+                        "nodeType": "quest:task",
                         "objectives": {
                             "Kill": {
                                 "conditions": [
@@ -567,14 +567,14 @@
                                     }
                                 ],
                                 "incrementWithEventRepetitions": false,
-                                "neededProgression": 1,
+                                "neededProgression": 3,
                                 "objectiveId": "Kill",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
                                         "parameters": "instigator:me",
                                         "questEventId": "QuestEvent.Kill",
-                                        "repetition": 2
+                                        "repetition": 1
                                     }
                                 ]
                             }
@@ -2094,7 +2094,7 @@
                 ],
                 "nodes": {
                     "node01": {
-                        "clientInfoId": "SearchFinishAsAceInTrial",
+                        "clientInfoId": "SearchFinishInTrial",
                         "coordinates": {
                             "x": 5,
                             "y": 5
@@ -2102,24 +2102,18 @@
                         "neighbors": [],
                         "nodeType": "quest:challenge",
                         "objectives": {
-                            "SearchFinishAsCharacterInTrial": {
+                            "SearchFinishInTrial": {
                                 "conditions": [
                                     {
                                         "key": "role",
                                         "value": [
                                             "survivor"
                                         ]
-                                    },
-                                    {
-                                        "key": "character",
-                                        "value": [
-                                            "Ace"
-                                        ]
                                     }
                                 ],
                                 "incrementWithEventRepetitions": false,
                                 "neededProgression": 1,
-                                "objectiveId": "SearchFinishAsCharacterInTrial",
+                                "objectiveId": "SearchFinishInTrial",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -2144,7 +2138,7 @@
                         ]
                     },
                     "node02": {
-                        "clientInfoId": "SearchFinishAsAceInTrial",
+                        "clientInfoId": "EscapeOther",
                         "coordinates": {
                             "x": 635,
                             "y": 155
@@ -2156,7 +2150,7 @@
                         ],
                         "nodeType": "quest:challenge",
                         "objectives": {
-                            "SearchFinishAsCharacterInTrial": {
+                            "EscapeOther": {
                                 "conditions": [
                                     {
                                         "key": "role",
@@ -2173,12 +2167,12 @@
                                 ],
                                 "incrementWithEventRepetitions": false,
                                 "neededProgression": 1,
-                                "objectiveId": "SearchFinishAsCharacterInTrial",
+                                "objectiveId": "EscapeOther",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
                                         "parameters": "instigator:me",
-                                        "questEventId": "QuestEvent.SearchFinish",
+                                        "questEventId": "QuestEvent.EscapeOther",
                                         "repetition": 2
                                     }
                                 ]
@@ -2198,7 +2192,7 @@
                         ]
                     },
                     "node03": {
-                        "clientInfoId": "HookDifferentInTrial",
+                        "clientInfoId": "BreakPalletsInTrial",
                         "coordinates": {
                             "x": 815,
                             "y": 605
@@ -2209,7 +2203,7 @@
                         ],
                         "nodeType": "quest:challenge",
                         "objectives": {
-                            "HookDifferentInTrial": {
+                            "BreakPalletsInTrial": {
                                 "conditions": [
                                     {
                                         "key": "role",
@@ -2220,12 +2214,12 @@
                                 ],
                                 "incrementWithEventRepetitions": false,
                                 "neededProgression": 1,
-                                "objectiveId": "HookDifferentInTrial",
+                                "objectiveId": "BreakPalletsInTrial",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
                                         "parameters": "instigator:me",
-                                        "questEventId": "QuestEvent.HookDifferent",
+                                        "questEventId": "QuestEvent.BreakPallets",
                                         "repetition": 3
                                     }
                                 ]
@@ -2292,7 +2286,7 @@
                         ]
                     },
                     "node05": {
-                        "clientInfoId": "Hook",
+                        "clientInfoId": "Scream",
                         "coordinates": {
                             "x": 275,
                             "y": 455
@@ -2304,7 +2298,7 @@
                         ],
                         "nodeType": "quest:task",
                         "objectives": {
-                            "Hook": {
+                            "Scream": {
                                 "conditions": [
                                     {
                                         "key": "role",
@@ -2315,12 +2309,12 @@
                                 ],
                                 "incrementWithEventRepetitions": true,
                                 "neededProgression": 20,
-                                "objectiveId": "Hook",
+                                "objectiveId": "Scream",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
                                         "parameters": "instigator:me",
-                                        "questEventId": "QuestEvent.Hook",
+                                        "questEventId": "QuestEvent.Scream",
                                         "repetition": 1
                                     }
                                 ]
@@ -2387,7 +2381,7 @@
                         ]
                     },
                     "node07": {
-                        "clientInfoId": "Hook",
+                        "clientInfoId": "Chase",
                         "coordinates": {
                             "x": 905,
                             "y": 455
@@ -2401,7 +2395,7 @@
                         ],
                         "nodeType": "quest:task",
                         "objectives": {
-                            "Hook": {
+                            "Chase": {
                                 "conditions": [
                                     {
                                         "key": "role",
@@ -2411,13 +2405,13 @@
                                     }
                                 ],
                                 "incrementWithEventRepetitions": true,
-                                "neededProgression": 20,
-                                "objectiveId": "Hook",
+                                "neededProgression": 240,
+                                "objectiveId": "Chase",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
                                         "parameters": "instigator:me",
-                                        "questEventId": "QuestEvent.Hook",
+                                        "questEventId": "QuestEvent.Chase",
                                         "repetition": 1
                                     }
                                 ]
@@ -2437,7 +2431,7 @@
                         ]
                     },
                     "node08": {
-                        "clientInfoId": "Hook",
+                        "clientInfoId": "Kill",
                         "coordinates": {
                             "x": 185,
                             "y": 305
@@ -2448,7 +2442,7 @@
                         ],
                         "nodeType": "quest:task",
                         "objectives": {
-                            "Hook": {
+                            "Kill": {
                                 "conditions": [
                                     {
                                         "key": "role",
@@ -2458,13 +2452,13 @@
                                     }
                                 ],
                                 "incrementWithEventRepetitions": true,
-                                "neededProgression": 20,
-                                "objectiveId": "Hook",
+                                "neededProgression": 6,
+                                "objectiveId": "Kill",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
                                         "parameters": "instigator:me",
-                                        "questEventId": "QuestEvent.Hook",
+                                        "questEventId": "QuestEvent.Kill",
                                         "repetition": 1
                                     }
                                 ]
@@ -2507,7 +2501,7 @@
                                     }
                                 ],
                                 "incrementWithEventRepetitions": true,
-                                "neededProgression": 400,
+                                "neededProgression": 800,
                                 "objectiveId": "RepairPerc",
                                 "questEvent": [
                                     {
@@ -2533,7 +2527,7 @@
                         ]
                     },
                     "node10": {
-                        "clientInfoId": "Repair",
+                        "clientInfoId": "HideNearKiller",
                         "coordinates": {
                             "x": 905,
                             "y": 155
@@ -2546,7 +2540,7 @@
                         ],
                         "nodeType": "quest:task",
                         "objectives": {
-                            "RepairPerc": {
+                            "HideNearKiller": {
                                 "conditions": [
                                     {
                                         "key": "role",
@@ -2556,13 +2550,13 @@
                                     }
                                 ],
                                 "incrementWithEventRepetitions": true,
-                                "neededProgression": 400,
-                                "objectiveId": "RepairPerc",
+                                "neededProgression": 40,
+                                "objectiveId": "HideNearKiller",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
                                         "parameters": "instigator:me",
-                                        "questEventId": "QuestEvent.Repair",
+                                        "questEventId": "QuestEvent.HideNearKiller",
                                         "repetition": 1
                                     }
                                 ]
@@ -2582,7 +2576,7 @@
                         ]
                     },
                     "node11": {
-                        "clientInfoId": "Repair",
+                        "clientInfoId": "UnhookProtectionHit",
                         "coordinates": {
                             "x": 455,
                             "y": 155
@@ -2593,7 +2587,7 @@
                         ],
                         "nodeType": "quest:task",
                         "objectives": {
-                            "RepairPerc": {
+                            "UnhookProtectionHit": {
                                 "conditions": [
                                     {
                                         "key": "role",
@@ -2603,13 +2597,13 @@
                                     }
                                 ],
                                 "incrementWithEventRepetitions": true,
-                                "neededProgression": 400,
-                                "objectiveId": "RepairPerc",
+                                "neededProgression": 10,
+                                "objectiveId": "UnhookProtectionHit",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
                                         "parameters": "instigator:me",
-                                        "questEventId": "QuestEvent.Repair",
+                                        "questEventId": "QuestEvent.UnhookProtectionHit",
                                         "repetition": 1
                                     }
                                 ]
@@ -2629,7 +2623,7 @@
                         ]
                     },
                     "node12": {
-                        "clientInfoId": "Repair",
+                        "clientInfoId": "EscapeChase",
                         "coordinates": {
                             "x": 1085,
                             "y": 155
@@ -2640,7 +2634,7 @@
                         ],
                         "nodeType": "quest:task",
                         "objectives": {
-                            "RepairPerc": {
+                            "EscapeChase": {
                                 "conditions": [
                                     {
                                         "key": "role",
@@ -2651,12 +2645,12 @@
                                 ],
                                 "incrementWithEventRepetitions": true,
                                 "neededProgression": 400,
-                                "objectiveId": "RepairPerc",
+                                "objectiveId": "EscapeChase",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
                                         "parameters": "instigator:me",
-                                        "questEventId": "QuestEvent.Repair",
+                                        "questEventId": "QuestEvent.EscapeChase",
                                         "repetition": 1
                                     }
                                 ]
@@ -2692,7 +2686,7 @@
                             "EarnBloodpoints": {
                                 "conditions": [],
                                 "incrementWithEventRepetitions": true,
-                                "neededProgression": 75000,
+                                "neededProgression": 8,
                                 "objectiveId": "EarnBloodpoints",
                                 "questEvent": [
                                     {
@@ -4675,6 +4669,6 @@
             }
         ],
         "rewardData": "Tome06",
-        "version": 48
+        "version": 50
     }
 }

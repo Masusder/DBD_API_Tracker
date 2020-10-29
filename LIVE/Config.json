@@ -183,7 +183,6 @@
                 "InvalidLoadoutAnalytics",
                 "KrakenRequestAnalytics",
                 "LogMirrorsAnalytics",
-                "S3CommandAnalytics",
                 "S3CommandErrorAnalytics",
                 "SaveGameErrorAnalytics",
                 "SpecialEventAnalytics",
@@ -226,7 +225,8 @@
                 "DisconnectionDetailsAnalytics",
                 "LevelLoadingStepAnalytics",
                 "LevelLoadingTimeoutAnalytics",
-                "PerformanceAnalytics"
+                "PerformanceAnalytics",
+                "S3CommandAnalytics"
             ]
         },
         "keyName": "ANALYTICS_RULES_DEDICATED_SERVER"
@@ -403,7 +403,6 @@
                 "MatchmakingJoinSessionAnalytics",
                 "MatchmakingSearchCompleteAnalytics",
                 "MatchmakingSessionSpotReservationAnalytics",
-                "S3CommandAnalytics",
                 "S3CommandErrorAnalytics",
                 "SaveGameErrorAnalytics",
                 "SaveGameLoadResultAnalytics",
@@ -498,6 +497,7 @@
                 "MatchInfoAnalytics",
                 "PerformanceAnalytics",
                 "ReportAnalytics",
+                "S3CommandAnalytics",
                 "WalesCypherAnalytics"
             ]
         },
@@ -622,6 +622,7 @@
             "4.3.0_359712live": "4.3.0_359712live-1603551430",
             "4.3.0_359951live": "4.3.0_359951live-1603733593",
             "4.3.0_361126live": "4.3.0_361126live-1603909464",
+            "4.3.0_361657live": "4.3.0_361657live-1603983866",
             "m_3.0.2_219921live": "m_3.0.2_219921live-1566230507",
             "m_3.0.3_241022live": "m_3.0.3_241022live-1572449159",
             "m_3.3.3_220000live": "m_3.3.3_220000live-1574880017",
@@ -717,7 +718,8 @@
             "m_4.2.1_360097live": "m_4.2.1_360097live-1603742855",
             "m_4.2.1_360434live": "m_4.2.1_360434live-1603811183",
             "m_4.2.1_361043live": "m_4.2.1_361043live-1603900272",
-            "m_4.2.1_361070live": "m_4.2.1_361070live-1603903712"
+            "m_4.2.1_361070live": "m_4.2.1_361070live-1603903712",
+            "m_4.2.1_361724live": "m_4.2.1_361724live-1603988036"
         },
         "keyName": "VER_CLIENT_DATA"
     },

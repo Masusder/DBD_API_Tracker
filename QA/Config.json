@@ -190,7 +190,6 @@
                 "InvalidLoadoutAnalytics",
                 "KrakenRequestAnalytics",
                 "LogMirrorsAnalytics",
-                "S3CommandAnalytics",
                 "S3CommandErrorAnalytics",
                 "SaveGameErrorAnalytics",
                 "SpecialEventAnalytics",
@@ -230,6 +229,7 @@
                 "MapCoordAnalytics",
                 "PerformanceAnalytics",
                 "ProceduralGenerationAnalytics",
+                "S3CommandAnalytics",
                 "ScoreAnalytics",
                 "TinkererUndetectableHitNearGeneratorAnalytics",
                 "TinkererUndetectableInterruptAnalytics"
@@ -403,7 +403,6 @@
                 "MatchmakingJoinSessionAnalytics",
                 "MatchmakingSearchCompleteAnalytics",
                 "MatchmakingSessionSpotReservationAnalytics",
-                "S3CommandAnalytics",
                 "S3CommandErrorAnalytics",
                 "SaveGameErrorAnalytics",
                 "SaveGameLoadResultAnalytics",
@@ -489,6 +488,7 @@
                 "ProceduralGenerationAnalytics",
                 "QueueAnalytics",
                 "ReportAnalytics",
+                "S3CommandAnalytics",
                 "ScoreAnalytics",
                 "StadiaLivestreamAnalytics",
                 "StadiaStreamAnalytics",
@@ -618,6 +618,9 @@
             "4.3.0_360468qa": "4.3.0_360468qa-1603812813",
             "4.3.0_360497qa": "4.3.0_360497qa-1603814466",
             "4.3.0_360699qa": "4.3.0_360699qa-1603828199",
+            "4.3.0_361374qa": "4.3.0_361374qa-1603920402",
+            "4.3.0_361585qa": "4.3.0_361585qa-1603979077",
+            "4.3.0_361766qa": "4.3.0_361766qa-1603991412",
             "edule_3.4.0_0qa": "edule_3.4.0_0qa-1576698389",
             "m_3.0.2_220683qa": "m_3.0.2_220683qa-1566333505",
             "m_3.0.3_240244qa": "m_3.0.3_240244qa-1572275329",
@@ -755,7 +758,10 @@
             "m_3.7.3_360047qa": "m_3.7.3_360047qa-1603740688",
             "m_3.7.3_360143qa": "m_3.7.3_360143qa-1603747866",
             "m_3.7.3_360221qa": "m_3.7.3_360221qa-1603751452",
-            "m_3.7.3_360497qa": "m_3.7.3_360497qa-1603816279"
+            "m_3.7.3_360497qa": "m_3.7.3_360497qa-1603816279",
+            "m_3.7.3_361374qa": "m_3.7.3_361374qa-1603920669",
+            "m_3.7.3_361609qa": "m_3.7.3_361609qa-1603981912",
+            "m_3.7.3_361775qa": "m_3.7.3_361775qa-1603992667"
         },
         "keyName": "VER_CLIENT_DATA"
     },

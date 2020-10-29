@@ -2,6 +2,46 @@
     "news": [
         {
             "contentTags": [
+                "steam",
+                "xbox",
+                "ps4",
+                "switch",
+                "grdk",
+                "stadia"
+            ],
+            "description": "Dead by Daylight is celebrating Halloween &#34;On&#45;Air&#34;&#33; No tricks &#45; just treats&#33; Get into spooky season with these eventful streams live on Twitch.tv&#33;<br/><br/><b>INTO THE FOG BROADCAST &#45;</b><br/>October 29th 2020 9&#58;00AM PT &#47; NOON ET<br/> Tune&#45;in to earn a DwightCrow Charm&#33;<br/><br/><br/><b>STRANGER THINGS EVENT with Gaten Matarazzo of Stranger Things in collaboration with JessicaBelvins and Ninja</b><br/>October 31st 2020 9&#58;00AM PT &#47; NOON ET  <br/><br/><b>TWITCH RIVALS&#58; HALLOWEEN SHOWDOWN </b><br/> October 31st 2020 10&#58;00AM PT &#47; 1PM ET  <br/> Tune&#45;in to earn a Trap&#45;o&#45;Lantern Charm&#33;<br/><br/>View more details <a href=\"event:https://deadbydaylight.com/en/news/dead-by-daylight-on-air\"><font color=\"#ff0000\"><u>HERE</u></font></a>",
+            "dwnImagePath": "",
+            "imageHeight": "",
+            "imagePath": "UI/Icons/NewContentSplash/splashBanner_OAB.png",
+            "isHidden": false,
+            "startDate": "2020-10-29T16:00:00",
+            "title": "DBD ON&#45;AIR",
+            "type": 5,
+            "version": "4.3.0",
+            "weight": 846.0
+        },
+        {
+            "contentTags": [
+                "steam",
+                "xbox",
+                "ps4",
+                "switch",
+                "grdk",
+                "stadia"
+            ],
+            "description": "Enjoy 2X BLOODPOINTS earned from Trials during the Bloodhunt&#33;<br/><br/><b>Duration&#58;</b> Oct. 29th 11AM ET &#45; Nov. 2nd 11AM ET",
+            "dwnImagePath": "",
+            "imageHeight": "",
+            "imagePath": "UI/Icons/NewContentSplash/splashBanner_HWN.png",
+            "isHidden": false,
+            "startDate": "2020-10-29T15:00:00",
+            "title": "<b>HALLOWEEN BLOODHUNT</b>",
+            "type": 5,
+            "version": "4.3.0",
+            "weight": 845.0
+        },
+        {
+            "contentTags": [
                 "ps4"
             ],
             "description": "The game client has been updated to the 4.3.1 bugfix.<br/><br/><span class=\"Heading2\">KEY CHANGES&#58;</span><li>Fixed an issue that might prevent medkits with 32 charges to completely heal the second health state.</li><li>Fixed an issue that caused survivors&#39; auras not to be shown if a killer equipped with the Discordance perk enters the activation range after the survivors have started repairing a generator.</li><li>Fixed an issue that caused killers to have their first person view posture during the intro.</li><li>Tentatively fixed an issue that caused the framerate to drop intermittently during Trials.</li><br/><br/>Please see <a href=\"event:https://forum.deadbydaylight.com/en/kb/patchnotes\"><font color=\"#ff0000\"><u>HERE</u></font></a> for detailed patch notes.",
