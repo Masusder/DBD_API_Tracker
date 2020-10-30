@@ -179,7 +179,6 @@
                 "InvalidLoadoutAnalytics",
                 "KrakenRequestAnalytics",
                 "LogMirrorsAnalytics",
-                "S3CommandAnalytics",
                 "S3CommandErrorAnalytics",
                 "SaveGameErrorAnalytics",
                 "SpecialEventAnalytics",
@@ -222,7 +221,8 @@
                 "DisconnectionDetailsAnalytics",
                 "LevelLoadingStepAnalytics",
                 "LevelLoadingTimeoutAnalytics",
-                "PerformanceAnalytics"
+                "PerformanceAnalytics",
+                "S3CommandAnalytics"
             ]
         },
         "keyName": "ANALYTICS_RULES_DEDICATED_SERVER"
@@ -376,7 +376,6 @@
                 "MatchmakingJoinSessionAnalytics",
                 "MatchmakingSearchCompleteAnalytics",
                 "MatchmakingSessionSpotReservationAnalytics",
-                "S3CommandAnalytics",
                 "S3CommandErrorAnalytics",
                 "SaveGameErrorAnalytics",
                 "SaveGameLoadResultAnalytics",
@@ -471,6 +470,7 @@
                 "MatchInfoAnalytics",
                 "PerformanceAnalytics",
                 "ReportAnalytics",
+                "S3CommandAnalytics",
                 "WalesCypherAnalytics"
             ]
         },
@@ -506,7 +506,8 @@
             "4.3.0_355187cert": "4.3.0_355187cert-1602622270",
             "4.3.0_355295cert": "4.3.0_355295cert-1602628183",
             "4.3.0_356160cert": "4.3.0_356160cert-1602784444",
-            "4.3.0_360488cert": "4.3.0_360488cert-1603813829"
+            "4.3.0_360488cert": "4.3.0_360488cert-1603813829",
+            "4.3.0_361770cert": "4.3.0_361770cert-1603991547"
         },
         "keyName": "VER_CLIENT_DATA"
     },

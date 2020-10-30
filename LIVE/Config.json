@@ -176,7 +176,6 @@
                 "EACClientViolationAnalytics",
                 "EACServerValidateAnalytics",
                 "FallOutOfWorldAnalytics",
-                "FrameHikeAnalytics",
                 "GameEventLogAnalytics",
                 "GameInitAnalytics",
                 "InteractionAnalytics",
@@ -223,6 +222,7 @@
             "KAL": [
                 "DedicatedServerStatusAnalytics",
                 "DisconnectionDetailsAnalytics",
+                "FrameHikeAnalytics",
                 "LevelLoadingStepAnalytics",
                 "LevelLoadingTimeoutAnalytics",
                 "PerformanceAnalytics",
@@ -386,7 +386,6 @@
                 "EntitlementAnalytics",
                 "ErrorAnalytics",
                 "FallOutOfWorldAnalytics",
-                "FrameHikeAnalytics",
                 "FrameTravelTimeAnalytics",
                 "GameEventLogAnalytics",
                 "GameInitAnalytics",
@@ -491,6 +490,7 @@
                 "CurrencyBalanceAnalytics",
                 "CustomizationAnalytics",
                 "EnvironmentAnalytics",
+                "FrameHikeAnalytics",
                 "LevelLoadingStepAnalytics",
                 "LevelLoadingTimeoutAnalytics",
                 "LoadOutAnalytics",
@@ -719,7 +719,8 @@
             "m_4.2.1_360434live": "m_4.2.1_360434live-1603811183",
             "m_4.2.1_361043live": "m_4.2.1_361043live-1603900272",
             "m_4.2.1_361070live": "m_4.2.1_361070live-1603903712",
-            "m_4.2.1_361724live": "m_4.2.1_361724live-1603988036"
+            "m_4.2.1_361724live": "m_4.2.1_361724live-1603988036",
+            "m_4.2.1_361974live": "m_4.2.1_361974live-1604003883"
         },
         "keyName": "VER_CLIENT_DATA"
     },
