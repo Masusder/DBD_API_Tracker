@@ -3390,7 +3390,7 @@
                         ]
                     },
                     "node05": {
-                        "clientInfoId": "Hook",
+                        "clientInfoId": "ChaseStartDifferent",
                         "coordinates": {
                             "x": 185,
                             "y": 455
@@ -3398,12 +3398,11 @@
                         "neighbors": [
                             "node_T6L4_Start01",
                             "node17",
-                            "node_T6L4_03",
                             "node08"
                         ],
                         "nodeType": "quest:task",
                         "objectives": {
-                            "Hook": {
+                            "ChaseStartDifferent": {
                                 "conditions": [
                                     {
                                         "key": "role",
@@ -3414,12 +3413,12 @@
                                 ],
                                 "incrementWithEventRepetitions": true,
                                 "neededProgression": 20,
-                                "objectiveId": "Hook",
+                                "objectiveId": "ChaseStartDifferent",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
                                         "parameters": "instigator:me",
-                                        "questEventId": "QuestEvent.Hook",
+                                        "questEventId": "QuestEvent.ChaseStartDifferent",
                                         "repetition": 1
                                     }
                                 ]
@@ -3439,7 +3438,7 @@
                         ]
                     },
                     "node06": {
-                        "clientInfoId": "Hook",
+                        "clientInfoId": "HookBasement",
                         "coordinates": {
                             "x": 995,
                             "y": 155
@@ -3451,7 +3450,7 @@
                         ],
                         "nodeType": "quest:task",
                         "objectives": {
-                            "Hook": {
+                            "HookBasement": {
                                 "conditions": [
                                     {
                                         "key": "role",
@@ -3462,12 +3461,12 @@
                                 ],
                                 "incrementWithEventRepetitions": true,
                                 "neededProgression": 20,
-                                "objectiveId": "Hook",
+                                "objectiveId": "HookBasement",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
                                         "parameters": "instigator:me",
-                                        "questEventId": "QuestEvent.Hook",
+                                        "questEventId": "QuestEvent.HookBasement",
                                         "repetition": 1
                                     }
                                 ]
@@ -3487,7 +3486,7 @@
                         ]
                     },
                     "node07": {
-                        "clientInfoId": "Hook",
+                        "clientInfoId": "Kill",
                         "coordinates": {
                             "x": 545,
                             "y": 605
@@ -3498,7 +3497,7 @@
                         ],
                         "nodeType": "quest:task",
                         "objectives": {
-                            "Hook": {
+                            "Kill": {
                                 "conditions": [
                                     {
                                         "key": "role",
@@ -3509,12 +3508,12 @@
                                 ],
                                 "incrementWithEventRepetitions": true,
                                 "neededProgression": 20,
-                                "objectiveId": "Hook",
+                                "objectiveId": "Kill",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
                                         "parameters": "instigator:me",
-                                        "questEventId": "QuestEvent.Hook",
+                                        "questEventId": "QuestEvent.Kill",
                                         "repetition": 1
                                     }
                                 ]
@@ -3540,6 +3539,7 @@
                             "y": 605
                         },
                         "neighbors": [
+                            "node_T6L4_07",
                             "node05",
                             "node07"
                         ],
@@ -3724,7 +3724,7 @@
                         ]
                     },
                     "node13": {
-                        "clientInfoId": "EarnEmblemsSilver",
+                        "clientInfoId": "EarnEmblemsIridescent",
                         "coordinates": {
                             "x": 725,
                             "y": 155
@@ -3736,15 +3736,15 @@
                         ],
                         "nodeType": "quest:task",
                         "objectives": {
-                            "EarnEmblemsSilver": {
+                            "EarnEmblemsIridescent": {
                                 "conditions": [],
                                 "incrementWithEventRepetitions": true,
-                                "neededProgression": 12,
-                                "objectiveId": "EarnEmblemsSilver",
+                                "neededProgression": 8,
+                                "objectiveId": "EarnEmblemsIridescent",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
-                                        "parameters": "EmblemQuality:Silver",
+                                        "parameters": "EmblemQuality:Iridescent",
                                         "questEventId": "QuestEvent.EarnEmblemsQuality",
                                         "repetition": 1
                                     }
@@ -3771,10 +3771,10 @@
                             "y": 455
                         },
                         "neighbors": [
-                            "node_T6L4_07",
                             "node15",
                             "node07",
-                            "node17"
+                            "node17",
+                            "node_T6L4_03"
                         ],
                         "nodeType": "quest:task",
                         "objectives": {
@@ -3959,11 +3959,12 @@
                     "node_T6L4_03": {
                         "clientInfoId": "HookObsessionWIthNemesisInTrial",
                         "coordinates": {
-                            "x": 95,
+                            "x": 815,
                             "y": 605
                         },
                         "neighbors": [
-                            "node05"
+                            "node_T6L4_08",
+                            "node14"
                         ],
                         "nodeType": "quest:challenge",
                         "objectives": {
@@ -4064,12 +4065,11 @@
                     "node_T6L4_07": {
                         "clientInfoId": "HitGrabNearPalletsVaultsWallsWithZanshinTacticsInTrial",
                         "coordinates": {
-                            "x": 815,
+                            "x": 185,
                             "y": 605
                         },
                         "neighbors": [
-                            "node_T6L4_08",
-                            "node14"
+                            "node08"
                         ],
                         "nodeType": "quest:challenge",
                         "objectives": {
@@ -4121,8 +4121,8 @@
                             "y": 605
                         },
                         "neighbors": [
-                            "node_T6L4_07",
-                            "node10"
+                            "node10",
+                            "node_T6L4_03"
                         ],
                         "nodeType": "quest:challenge",
                         "objectives": {
@@ -4382,6 +4382,6 @@
             }
         ],
         "rewardData": "Tome06",
-        "version": 53
+        "version": 55
     }
 }
