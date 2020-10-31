@@ -3237,7 +3237,7 @@
                 ],
                 "nodes": {
                     "node01": {
-                        "clientInfoId": "SearchFinishAsAceInTrial",
+                        "clientInfoId": "EscapeWithItemRarityInTrial",
                         "coordinates": {
                             "x": 275,
                             "y": 5
@@ -3248,7 +3248,7 @@
                         ],
                         "nodeType": "quest:challenge",
                         "objectives": {
-                            "SearchFinishAsCharacterInTrial": {
+                            "EscapeWithItemVeryRareInTrial": {
                                 "conditions": [
                                     {
                                         "key": "role",
@@ -3259,17 +3259,17 @@
                                     {
                                         "key": "character",
                                         "value": [
-                                            "Ace"
+                                            "QuestEvent.EscapeWithItemRarity"
                                         ]
                                     }
                                 ],
                                 "incrementWithEventRepetitions": false,
                                 "neededProgression": 1,
-                                "objectiveId": "SearchFinishAsCharacterInTrial",
+                                "objectiveId": "EscapeWithItemVeryRareInTrial",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
-                                        "parameters": "instigator:me",
+                                        "parameters": "instigator:me;ItemRarity:VeryRare",
                                         "questEventId": "QuestEvent.SearchFinish",
                                         "repetition": 2
                                     }
@@ -3290,7 +3290,7 @@
                         ]
                     },
                     "node02": {
-                        "clientInfoId": "SearchFinishAsAceInTrial",
+                        "clientInfoId": "RepairFinishInTerrorRadiusInTrial",
                         "coordinates": {
                             "x": 635,
                             "y": 5
@@ -3301,7 +3301,7 @@
                         ],
                         "nodeType": "quest:challenge",
                         "objectives": {
-                            "SearchFinishAsCharacterInTrial": {
+                            "RepairFinishInTerrorRadiusInTrial": {
                                 "conditions": [
                                     {
                                         "key": "role",
@@ -3312,18 +3312,18 @@
                                     {
                                         "key": "character",
                                         "value": [
-                                            "Ace"
+                                            "QuestEvent.RepairFinishInTerrorRadius"
                                         ]
                                     }
                                 ],
                                 "incrementWithEventRepetitions": false,
                                 "neededProgression": 1,
-                                "objectiveId": "SearchFinishAsCharacterInTrial",
+                                "objectiveId": "RepairFinishInTerrorRadiusInTrial",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
-                                        "parameters": "instigator:me",
-                                        "questEventId": "QuestEvent.SearchFinish",
+                                        "parameters": "instigator:me;ItemRarity:VeryRare",
+                                        "questEventId": "QuestEvent.RepairFinishInTerrorRadius",
                                         "repetition": 2
                                     }
                                 ]
@@ -3343,7 +3343,7 @@
                         ]
                     },
                     "node03": {
-                        "clientInfoId": "HookDifferentInTrial",
+                        "clientInfoId": "GrabFromGenerator",
                         "coordinates": {
                             "x": 1085,
                             "y": 5
@@ -3354,7 +3354,7 @@
                         ],
                         "nodeType": "quest:challenge",
                         "objectives": {
-                            "HookDifferentInTrial": {
+                            "GrabFromGenerator": {
                                 "conditions": [
                                     {
                                         "key": "role",
@@ -3365,12 +3365,12 @@
                                 ],
                                 "incrementWithEventRepetitions": false,
                                 "neededProgression": 1,
-                                "objectiveId": "HookDifferentInTrial",
+                                "objectiveId": "GrabFromGenerator",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
                                         "parameters": "instigator:me",
-                                        "questEventId": "QuestEvent.HookDifferent",
+                                        "questEventId": "QuestEvent.Grab",
                                         "repetition": 3
                                     }
                                 ]
@@ -3533,7 +3533,7 @@
                         ]
                     },
                     "node08": {
-                        "clientInfoId": "Hook",
+                        "clientInfoId": "BreakGens",
                         "coordinates": {
                             "x": 365,
                             "y": 605
@@ -3545,7 +3545,7 @@
                         ],
                         "nodeType": "quest:task",
                         "objectives": {
-                            "Hook": {
+                            "BreakGens": {
                                 "conditions": [
                                     {
                                         "key": "role",
@@ -3556,12 +3556,12 @@
                                 ],
                                 "incrementWithEventRepetitions": true,
                                 "neededProgression": 20,
-                                "objectiveId": "Hook",
+                                "objectiveId": "BreakGens",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
                                         "parameters": "instigator:me",
-                                        "questEventId": "QuestEvent.Hook",
+                                        "questEventId": "QuestEvent.BreakGens",
                                         "repetition": 1
                                     }
                                 ]
@@ -3581,7 +3581,7 @@
                         ]
                     },
                     "node09": {
-                        "clientInfoId": "Repair",
+                        "clientInfoId": "RepairFinishTeam",
                         "coordinates": {
                             "x": 185,
                             "y": 155
@@ -3593,7 +3593,7 @@
                         ],
                         "nodeType": "quest:task",
                         "objectives": {
-                            "RepairPerc": {
+                            "RepairFinishTeam": {
                                 "conditions": [
                                     {
                                         "key": "role",
@@ -3604,12 +3604,12 @@
                                 ],
                                 "incrementWithEventRepetitions": true,
                                 "neededProgression": 400,
-                                "objectiveId": "RepairPerc",
+                                "objectiveId": "RepairFinishTeam",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
                                         "parameters": "instigator:me",
-                                        "questEventId": "QuestEvent.Repair",
+                                        "questEventId": "QuestEvent.GeneratorRepairedByTeam",
                                         "repetition": 1
                                     }
                                 ]
@@ -3629,7 +3629,7 @@
                         ]
                     },
                     "node10": {
-                        "clientInfoId": "Repair",
+                        "clientInfoId": "ConsumeToolbox",
                         "coordinates": {
                             "x": 1085,
                             "y": 455
@@ -3641,7 +3641,7 @@
                         ],
                         "nodeType": "quest:task",
                         "objectives": {
-                            "RepairPerc": {
+                            "ConsumeToolbox": {
                                 "conditions": [
                                     {
                                         "key": "role",
@@ -3652,12 +3652,12 @@
                                 ],
                                 "incrementWithEventRepetitions": true,
                                 "neededProgression": 400,
-                                "objectiveId": "RepairPerc",
+                                "objectiveId": "ConsumeToolbox",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
-                                        "parameters": "instigator:me",
-                                        "questEventId": "QuestEvent.Repair",
+                                        "parameters": "instigator:me;ItemName:Toolbox",
+                                        "questEventId": "QuestEvent.ConsumeItem",
                                         "repetition": 1
                                     }
                                 ]
@@ -3677,7 +3677,7 @@
                         ]
                     },
                     "node11": {
-                        "clientInfoId": "Repair",
+                        "clientInfoId": "HealOther",
                         "coordinates": {
                             "x": 365,
                             "y": 155
@@ -3688,7 +3688,7 @@
                         ],
                         "nodeType": "quest:task",
                         "objectives": {
-                            "RepairPerc": {
+                            "HealOtherPerc": {
                                 "conditions": [
                                     {
                                         "key": "role",
@@ -3699,12 +3699,12 @@
                                 ],
                                 "incrementWithEventRepetitions": true,
                                 "neededProgression": 400,
-                                "objectiveId": "RepairPerc",
+                                "objectiveId": "HealOtherPerc",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
                                         "parameters": "instigator:me",
-                                        "questEventId": "QuestEvent.Repair",
+                                        "questEventId": "QuestEvent.HealDying",
                                         "repetition": 1
                                     }
                                 ]
@@ -3807,7 +3807,7 @@
                         ]
                     },
                     "node15": {
-                        "clientInfoId": "Repair",
+                        "clientInfoId": "EscapeHatch",
                         "coordinates": {
                             "x": 815,
                             "y": 305
@@ -3820,7 +3820,7 @@
                         ],
                         "nodeType": "quest:task",
                         "objectives": {
-                            "RepairPerc": {
+                            "EscapeHatch": {
                                 "conditions": [
                                     {
                                         "key": "role",
@@ -3831,12 +3831,12 @@
                                 ],
                                 "incrementWithEventRepetitions": true,
                                 "neededProgression": 400,
-                                "objectiveId": "RepairPerc",
+                                "objectiveId": "EscapeHatch",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
                                         "parameters": "instigator:me",
-                                        "questEventId": "QuestEvent.Repair",
+                                        "questEventId": "QuestEvent.EscapeHatch",
                                         "repetition": 1
                                     }
                                 ]
@@ -4382,6 +4382,6 @@
             }
         ],
         "rewardData": "Tome06",
-        "version": 55
+        "version": 57
     }
 }
