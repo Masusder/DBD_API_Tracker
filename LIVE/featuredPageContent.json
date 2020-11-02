@@ -508,7 +508,7 @@
                 "startDate": "2020-10-24T15:00:00"
             },
             {
-                "endDate": "2020-11-26T14:59:59",
+                "endDate": "2020-11-02T15:59:59",
                 "ids": [
                     "Banner_ZSH",
                     "Banner_ZHS",
@@ -517,6 +517,16 @@
                     "Banner_YOC"
                 ],
                 "startDate": "2020-10-26T15:00:00"
+            },
+            {
+                "endDate": "2020-11-09T15:59:59",
+                "ids": [
+                    "Banner_ZSH",
+                    "Banner_ZKH",
+                    "Banner_YC",
+                    "Banner_YOC"
+                ],
+                "startDate": "2020-11-02T16:00:00"
             }
         ],
         "right": [
@@ -605,124 +615,6 @@
         }
     ],
     "recommendations": [
-        {
-            "data": [
-                {
-                    "category": "outfit",
-                    "ids": [
-                        "S23_outfit_008",
-                        "SwedenSurvivor_outfit_012",
-                        "FM_outfit_013",
-                        "US_outfit_006",
-                        "UK_outfit_006",
-                        "MS_outfit_012",
-                        "S22_outfit_007",
-                        "KK_outfit_016",
-                        "K20_outfit_006"
-                    ]
-                }
-            ],
-            "endDate": "2020-10-28T14:59:59",
-            "startDate": "2020-10-27T15:00:00"
-        },
-        {
-            "data": [
-                {
-                    "category": "outfit",
-                    "ids": [
-                        "S23_outfit_008",
-                        "SwedenSurvivor_outfit_012",
-                        "FM_outfit_013",
-                        "MK_outfit_008",
-                        "QM_outfit_006",
-                        "SwedenKiller_outfit_006",
-                        "SwedenSurvivor_outfit_009",
-                        "QK_outfit_006",
-                        "QF_outfit_008"
-                    ]
-                }
-            ],
-            "endDate": "2020-10-29T14:59:59",
-            "startDate": "2020-10-28T15:00:00"
-        },
-        {
-            "data": [
-                {
-                    "category": "outfit",
-                    "ids": [
-                        "OK_outfit_009",
-                        "KK_outfit_018",
-                        "K21_outfit_007",
-                        "Smoke_outfit_008_01",
-                        "OK_outfit_02",
-                        "FS_outfit_006",
-                        "FK_outfit_006",
-                        "Meg_outfit_008_01",
-                        "Kate_outfit_009_01"
-                    ]
-                }
-            ],
-            "endDate": "2020-10-30T14:59:59",
-            "startDate": "2020-10-29T15:00:00"
-        },
-        {
-            "data": [
-                {
-                    "category": "outfit",
-                    "ids": [
-                        "OK_outfit_009",
-                        "KK_outfit_018",
-                        "K21_outfit_007",
-                        "TN_outfit_008",
-                        "Dwight_outfit_019",
-                        "Claudette_outfit_019",
-                        "JP_outfit_011",
-                        "Chuckles_outfit_010",
-                        "Bob_outfit_010"
-                    ]
-                }
-            ],
-            "endDate": "2020-10-31T14:59:59",
-            "startDate": "2020-10-30T15:00:00"
-        },
-        {
-            "data": [
-                {
-                    "category": "outfit",
-                    "ids": [
-                        "HillBilly_outfit_010",
-                        "WI_outfit_008",
-                        "Killer07_outfit_013",
-                        "TN_outfit_009",
-                        "Bear_outfit_006",
-                        "GK_outfit_009",
-                        "HK_outfit_008"
-                    ]
-                }
-            ],
-            "endDate": "2020-11-01T14:59:59",
-            "startDate": "2020-10-31T15:00:00"
-        },
-        {
-            "data": [
-                {
-                    "category": "outfit",
-                    "ids": [
-                        "S23_outfit_008",
-                        "SwedenSurvivor_outfit_012",
-                        "FM_outfit_013",
-                        "Feng_outfit_002",
-                        "Jeff_Outfit_007",
-                        "ML_outfit_02",
-                        "Ace_outfit_008_01",
-                        "Nea_outfit_009_01",
-                        "Adam_outfit_008_01"
-                    ]
-                }
-            ],
-            "endDate": "2020-11-02T15:59:59",
-            "startDate": "2020-11-01T15:00:00"
-        },
         {
             "data": [
                 {
