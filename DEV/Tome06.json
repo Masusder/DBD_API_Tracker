@@ -1003,7 +1003,7 @@
                             "DebugGlyph": {
                                 "conditions": [],
                                 "incrementWithEventRepetitions": true,
-                                "neededProgression": 4,
+                                "neededProgression": 3,
                                 "objectiveId": "DebugGlyph",
                                 "questEvent": [
                                     {
@@ -2014,7 +2014,7 @@
                             "DebugGlyph": {
                                 "conditions": [],
                                 "incrementWithEventRepetitions": true,
-                                "neededProgression": 10,
+                                "neededProgression": 6,
                                 "objectiveId": "DebugGlyph",
                                 "questEvent": [
                                     {
@@ -2093,50 +2093,6 @@
                     }
                 ],
                 "nodes": {
-                    "node01": {
-                        "clientInfoId": "SearchFinishInTrial",
-                        "coordinates": {
-                            "x": 5,
-                            "y": 5
-                        },
-                        "neighbors": [],
-                        "nodeType": "quest:challenge",
-                        "objectives": {
-                            "SearchFinishInTrial": {
-                                "conditions": [
-                                    {
-                                        "key": "role",
-                                        "value": [
-                                            "survivor"
-                                        ]
-                                    }
-                                ],
-                                "incrementWithEventRepetitions": false,
-                                "neededProgression": 1,
-                                "objectiveId": "SearchFinishInTrial",
-                                "questEvent": [
-                                    {
-                                        "operation": ">=",
-                                        "parameters": "instigator:me",
-                                        "questEventId": "QuestEvent.SearchFinish",
-                                        "repetition": 2
-                                    }
-                                ]
-                            }
-                        },
-                        "reward": [
-                            {
-                                "amount": 5,
-                                "id": "star",
-                                "type": "progressionDbD"
-                            },
-                            {
-                                "amount": 25000,
-                                "id": "Bloodpoints",
-                                "type": "currency"
-                            }
-                        ]
-                    },
                     "node02": {
                         "clientInfoId": "EscapeOther",
                         "coordinates": {
@@ -3169,7 +3125,7 @@
                             "DebugGlyph": {
                                 "conditions": [],
                                 "incrementWithEventRepetitions": true,
-                                "neededProgression": 5,
+                                "neededProgression": 9,
                                 "objectiveId": "DebugGlyph",
                                 "questEvent": [
                                     {
@@ -3237,7 +3193,7 @@
                 ],
                 "nodes": {
                     "node01": {
-                        "clientInfoId": "EscapeWithItemRarityInTrial",
+                        "clientInfoId": "StunBlindInTrial",
                         "coordinates": {
                             "x": 545,
                             "y": 155
@@ -3247,7 +3203,7 @@
                         ],
                         "nodeType": "quest:challenge",
                         "objectives": {
-                            "EscapeWithItemVeryRareInTrial": {
+                            "StunBlindInTrial": {
                                 "conditions": [
                                     {
                                         "key": "role",
@@ -3264,12 +3220,12 @@
                                 ],
                                 "incrementWithEventRepetitions": false,
                                 "neededProgression": 1,
-                                "objectiveId": "EscapeWithItemVeryRareInTrial",
+                                "objectiveId": "StunBlindInTrial",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
                                         "parameters": "instigator:me;ItemRarity:VeryRare",
-                                        "questEventId": "QuestEvent.SearchFinish",
+                                        "questEventId": "QuestEvent.StunBlind",
                                         "repetition": 1
                                     }
                                 ]
@@ -3295,8 +3251,8 @@
                             "y": 5
                         },
                         "neighbors": [
-                            "node13",
-                            "node09"
+                            "node09",
+                            "node_T6L4_Glyph"
                         ],
                         "nodeType": "quest:challenge",
                         "objectives": {
@@ -3443,9 +3399,9 @@
                             "y": 155
                         },
                         "neighbors": [
+                            "node_T6L4_02",
                             "node_T6L4_08",
-                            "node13",
-                            "node_T6L4_02"
+                            "node_T6L4_Glyph"
                         ],
                         "nodeType": "quest:task",
                         "objectives": {
@@ -3491,8 +3447,8 @@
                             "y": 455
                         },
                         "neighbors": [
-                            "node08",
-                            "node_T6L4_Glyph"
+                            "node13",
+                            "node08"
                         ],
                         "nodeType": "quest:task",
                         "objectives": {
@@ -3727,12 +3683,13 @@
                         "clientInfoId": "EarnEmblemsIridescent",
                         "coordinates": {
                             "x": 725,
-                            "y": 155
+                            "y": 455
                         },
                         "neighbors": [
-                            "node02",
-                            "node06",
-                            "node10"
+                            "node07",
+                            "node17",
+                            "node10",
+                            "node_T6L4_03"
                         ],
                         "nodeType": "quest:task",
                         "objectives": {
@@ -3860,7 +3817,7 @@
                         },
                         "neighbors": [
                             "node03",
-                            "node_T6L4_Glyph"
+                            "node13"
                         ],
                         "nodeType": "quest:challenge",
                         "objectives": {
@@ -3960,8 +3917,8 @@
                             "y": 605
                         },
                         "neighbors": [
-                            "node05",
-                            "node_T6L4_Glyph"
+                            "node13",
+                            "node05"
                         ],
                         "nodeType": "quest:challenge",
                         "objectives": {
@@ -4232,13 +4189,12 @@
                         "clientInfoId": "DebugGlyph",
                         "coordinates": {
                             "x": 725,
-                            "y": 455
+                            "y": 155
                         },
                         "neighbors": [
-                            "node07",
-                            "node17",
-                            "node10",
-                            "node_T6L4_03"
+                            "node02",
+                            "node06",
+                            "node10"
                         ],
                         "nodeType": "quest:contextual",
                         "objectives": {
@@ -4382,6 +4338,6 @@
             }
         ],
         "rewardData": "Tome06",
-        "version": 63
+        "version": 64
     }
 }

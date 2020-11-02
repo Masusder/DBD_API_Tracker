@@ -1094,7 +1094,7 @@
                                     }
                                 ],
                                 "incrementWithEventRepetitions": true,
-                                "neededProgression": 24000,
+                                "neededProgression": 180,
                                 "objectiveId": "CoopAction",
                                 "questEvent": [
                                     {
@@ -4227,6 +4227,6 @@
             }
         ],
         "rewardData": "Tome05",
-        "version": 34
+        "version": 35
     }
 }
