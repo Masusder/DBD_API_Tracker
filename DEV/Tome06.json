@@ -3271,7 +3271,7 @@
                                         "operation": ">=",
                                         "parameters": "instigator:me;ItemRarity:VeryRare",
                                         "questEventId": "QuestEvent.SearchFinish",
-                                        "repetition": 2
+                                        "repetition": 1
                                     }
                                 ]
                             }
@@ -3364,14 +3364,14 @@
                                     }
                                 ],
                                 "incrementWithEventRepetitions": false,
-                                "neededProgression": 1,
+                                "neededProgression": 3,
                                 "objectiveId": "GrabFromGenerator",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
                                         "parameters": "instigator:me",
                                         "questEventId": "QuestEvent.Grab",
-                                        "repetition": 3
+                                        "repetition": 1
                                     }
                                 ]
                             }
@@ -3555,7 +3555,7 @@
                                     }
                                 ],
                                 "incrementWithEventRepetitions": true,
-                                "neededProgression": 20,
+                                "neededProgression": 24,
                                 "objectiveId": "BreakGens",
                                 "questEvent": [
                                     {
@@ -3603,7 +3603,7 @@
                                     }
                                 ],
                                 "incrementWithEventRepetitions": true,
-                                "neededProgression": 400,
+                                "neededProgression": 8,
                                 "objectiveId": "RepairFinishTeam",
                                 "questEvent": [
                                     {
@@ -3635,7 +3635,6 @@
                             "y": 455
                         },
                         "neighbors": [
-                            "node_T6L4_08",
                             "node_T6L4_End01",
                             "node_T6L4_02"
                         ],
@@ -3651,7 +3650,7 @@
                                     }
                                 ],
                                 "incrementWithEventRepetitions": true,
-                                "neededProgression": 400,
+                                "neededProgression": 6,
                                 "objectiveId": "ConsumeToolbox",
                                 "questEvent": [
                                     {
@@ -3698,7 +3697,7 @@
                                     }
                                 ],
                                 "incrementWithEventRepetitions": true,
-                                "neededProgression": 400,
+                                "neededProgression": 1200,
                                 "objectiveId": "HealOtherPerc",
                                 "questEvent": [
                                     {
@@ -3765,7 +3764,7 @@
                         ]
                     },
                     "node14": {
-                        "clientInfoId": "EarnEmblemsSilver",
+                        "clientInfoId": "SkillCheckConsecutiveInTrial",
                         "coordinates": {
                             "x": 725,
                             "y": 455
@@ -3778,17 +3777,17 @@
                         ],
                         "nodeType": "quest:task",
                         "objectives": {
-                            "EarnEmblemsSilver": {
+                            "SkillCheckConsecutiveInTrial": {
                                 "conditions": [],
                                 "incrementWithEventRepetitions": true,
-                                "neededProgression": 12,
-                                "objectiveId": "EarnEmblemsSilver",
+                                "neededProgression": 1,
+                                "objectiveId": "SkillCheckConsecutiveInTrial",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
-                                        "parameters": "EmblemQuality:Silver",
-                                        "questEventId": "QuestEvent.EarnEmblemsQuality",
-                                        "repetition": 1
+                                        "parameters": "instigator:me",
+                                        "questEventId": "QuestEvent.SkillCheckConsecutive",
+                                        "repetition": 999
                                     }
                                 ]
                             }
@@ -3830,7 +3829,7 @@
                                     }
                                 ],
                                 "incrementWithEventRepetitions": true,
-                                "neededProgression": 400,
+                                "neededProgression": 2,
                                 "objectiveId": "EscapeHatch",
                                 "questEvent": [
                                     {
@@ -4121,7 +4120,7 @@
                             "y": 605
                         },
                         "neighbors": [
-                            "node10",
+                            "node_T6L4_End01",
                             "node_T6L4_03"
                         ],
                         "nodeType": "quest:challenge",
@@ -4222,10 +4221,11 @@
                     "node_T6L4_End01": {
                         "clientInfoId": "End",
                         "coordinates": {
-                            "x": 1265,
+                            "x": 905,
                             "y": 455
                         },
                         "neighbors": [
+                            "node_T6L4_08",
                             "node10"
                         ],
                         "nodeType": "narrative"
@@ -4382,6 +4382,6 @@
             }
         ],
         "rewardData": "Tome06",
-        "version": 57
+        "version": 59
     }
 }

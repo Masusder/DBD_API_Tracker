@@ -693,6 +693,7 @@
                         "HillBilly_outfit_010",
                         "WI_outfit_008",
                         "Killer07_outfit_013",
+                        "TN_outfit_009",
                         "Bear_outfit_006",
                         "GK_outfit_009",
                         "HK_outfit_008"
@@ -719,8 +720,31 @@
                     ]
                 }
             ],
-            "endDate": "2020-11-02T14:59:59",
+            "endDate": "2020-11-02T15:59:59",
             "startDate": "2020-11-01T15:00:00"
+        },
+        {
+            "data": [
+                {
+                    "category": "outfit",
+                    "ids": [
+                        "Nea_outfit_010",
+                        "NK_outfit_012",
+                        "Nea_outfit_008_01",
+                        "DK_outfit_009",
+                        "MS_outfit_009",
+                        "KK_outfit_010",
+                        "KK_outfit_011",
+                        "K21_outfit_006",
+                        "TC_outfit_010",
+                        "HillBilly_outfit_008_01",
+                        "BE_outfit_009",
+                        "CM_outfit_014"
+                    ]
+                }
+            ],
+            "endDate": "2020-11-09T15:59:59",
+            "startDate": "2020-11-02T16:00:00"
         }
     ]
 }

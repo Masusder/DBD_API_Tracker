@@ -1072,7 +1072,7 @@
                 ],
                 "nodes": {
                     "node_T5L2_01": {
-                        "clientInfoId": "EarnBloodpointsAltruism",
+                        "clientInfoId": "CoopAction",
                         "coordinates": {
                             "x": 905,
                             "y": 305
@@ -1084,7 +1084,7 @@
                         ],
                         "nodeType": "quest:task",
                         "objectives": {
-                            "EarnBloodpointsAltruism": {
+                            "CoopAction": {
                                 "conditions": [
                                     {
                                         "key": "role",
@@ -1095,12 +1095,12 @@
                                 ],
                                 "incrementWithEventRepetitions": true,
                                 "neededProgression": 24000,
-                                "objectiveId": "EarnBloodpointsAltruism",
+                                "objectiveId": "CoopAction",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
-                                        "parameters": "BloodpointsCategory:DBD_CamperScoreCat_Altruism",
-                                        "questEventId": "QuestEvent.EarnBloodpointsCategory",
+                                        "parameters": "instigator:me",
+                                        "questEventId": "QuestEvent.CoopAction",
                                         "repetition": 1
                                     }
                                 ]
@@ -1451,7 +1451,7 @@
                         ]
                     },
                     "node_T5L2_09": {
-                        "clientInfoId": "EarnBloodpointsSacrifice",
+                        "clientInfoId": "Hit",
                         "coordinates": {
                             "x": 185,
                             "y": 155
@@ -1463,7 +1463,7 @@
                         ],
                         "nodeType": "quest:task",
                         "objectives": {
-                            "EarnBloodpointsSacrifice": {
+                            "Hit": {
                                 "conditions": [
                                     {
                                         "key": "role",
@@ -1473,13 +1473,13 @@
                                     }
                                 ],
                                 "incrementWithEventRepetitions": true,
-                                "neededProgression": 24000,
-                                "objectiveId": "EarnBloodpointsSacrifice",
+                                "neededProgression": 18,
+                                "objectiveId": "Hit",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
-                                        "parameters": "BloodpointsCategory:DBD_SlasherScoreCat_Sacrifice",
-                                        "questEventId": "QuestEvent.EarnBloodpointsCategory",
+                                        "parameters": "instigator:me",
+                                        "questEventId": "QuestEvent.Hit",
                                         "repetition": 1
                                     }
                                 ]
@@ -2232,7 +2232,7 @@
                         ]
                     },
                     "node_T5L3_03": {
-                        "clientInfoId": "EarnBloodpointsSurvival",
+                        "clientInfoId": "EarnBloodpointsSurvivor",
                         "coordinates": {
                             "x": 455,
                             "y": 155
@@ -2244,7 +2244,7 @@
                         ],
                         "nodeType": "quest:task",
                         "objectives": {
-                            "EarnBloodpointsSurvival": {
+                            "EarnBloodpointsSurvivor": {
                                 "conditions": [
                                     {
                                         "key": "role",
@@ -2255,12 +2255,11 @@
                                 ],
                                 "incrementWithEventRepetitions": true,
                                 "neededProgression": 30000,
-                                "objectiveId": "EarnBloodpointsSurvival",
+                                "objectiveId": "EarnBloodpointsSurvivor",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
-                                        "parameters": "BloodpointsCategory:DBD_CamperScoreCat_Survival",
-                                        "questEventId": "QuestEvent.EarnBloodpointsCategory",
+                                        "questEventId": "QuestEvent.EarnBloodpoints",
                                         "repetition": 1
                                     }
                                 ]
@@ -2518,7 +2517,7 @@
                         ]
                     },
                     "node_T5L3_09": {
-                        "clientInfoId": "EarnBloodpointsHunter",
+                        "clientInfoId": "EarnBloodpointsKiller",
                         "coordinates": {
                             "x": 725,
                             "y": 455
@@ -2529,7 +2528,7 @@
                         ],
                         "nodeType": "quest:task",
                         "objectives": {
-                            "EarnBloodpointsHunter": {
+                            "EarnBloodpointsKiller": {
                                 "conditions": [
                                     {
                                         "key": "role",
@@ -2540,12 +2539,11 @@
                                 ],
                                 "incrementWithEventRepetitions": true,
                                 "neededProgression": 30000,
-                                "objectiveId": "EarnBloodpointsHunter",
+                                "objectiveId": "EarnBloodpointsKiller",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
-                                        "parameters": "BloodpointsCategory:DBD_SlasherScoreCat_Hunter",
-                                        "questEventId": "QuestEvent.EarnBloodpointsCategory",
+                                        "questEventId": "QuestEvent.EarnBloodpoints",
                                         "repetition": 1
                                     }
                                 ]
@@ -3210,7 +3208,7 @@
                 ],
                 "nodes": {
                     "node_T5L4_01": {
-                        "clientInfoId": "EarnBloodpointsBoldness",
+                        "clientInfoId": "CleanseFinish",
                         "coordinates": {
                             "x": 455,
                             "y": 605
@@ -3221,7 +3219,7 @@
                         ],
                         "nodeType": "quest:task",
                         "objectives": {
-                            "EarnBloodpointsBoldness": {
+                            "CleanseFinish": {
                                 "conditions": [
                                     {
                                         "key": "role",
@@ -3231,13 +3229,13 @@
                                     }
                                 ],
                                 "incrementWithEventRepetitions": true,
-                                "neededProgression": 40000,
-                                "objectiveId": "EarnBloodpointsBoldness",
+                                "neededProgression": 20,
+                                "objectiveId": "CleanseFinish",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
-                                        "parameters": "BloodpointsCategory:DBD_CamperScoreCat_Boldness",
-                                        "questEventId": "QuestEvent.EarnBloodpointsCategory",
+                                        "parameters": "instigator:me",
+                                        "questEventId": "QuestEvent.CleanseFinish",
                                         "repetition": 1
                                     }
                                 ]
@@ -3539,7 +3537,7 @@
                         ]
                     },
                     "node_T5L4_08": {
-                        "clientInfoId": "EarnBloodpointsBrutality",
+                        "clientInfoId": "Hit",
                         "coordinates": {
                             "x": 815,
                             "y": 455
@@ -3550,7 +3548,7 @@
                         ],
                         "nodeType": "quest:task",
                         "objectives": {
-                            "EarnBloodpointsBrutality": {
+                            "Hit": {
                                 "conditions": [
                                     {
                                         "key": "role",
@@ -3560,13 +3558,13 @@
                                     }
                                 ],
                                 "incrementWithEventRepetitions": true,
-                                "neededProgression": 40000,
-                                "objectiveId": "EarnBloodpointsBrutality",
+                                "neededProgression": 25,
+                                "objectiveId": "Hit",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
-                                        "parameters": "BloodpointsCategory:DBD_SlasherScoreCat_Brutality",
-                                        "questEventId": "QuestEvent.EarnBloodpointsCategory",
+                                        "parameters": "instigator:me",
+                                        "questEventId": "QuestEvent.Hit",
                                         "repetition": 1
                                     }
                                 ]
@@ -4229,6 +4227,6 @@
             }
         ],
         "rewardData": "Tome05",
-        "version": 33
+        "version": 34
     }
 }
