@@ -451,6 +451,72 @@
                     "Banner_XCY"
                 ],
                 "startDate": "2020-08-21T15:00:00"
+            },
+            {
+                "endDate": "2020-09-11T14:59:59",
+                "ids": [
+                    "Banner_DLC_Chapter_17_Big",
+                    "Banner_YFB",
+                    "Banner_XE",
+                    "Banner_XFJ",
+                    "Banner_XSA"
+                ],
+                "startDate": "2020-09-08T15:00:00"
+            },
+            {
+                "endDate": "2020-09-25T14:59:59",
+                "ids": [
+                    "Banner_YOC",
+                    "Banner_YFB",
+                    "Banner_XE",
+                    "Banner_XFJ",
+                    "Banner_XSA"
+                ],
+                "startDate": "2020-09-11T15:00:00"
+            },
+            {
+                "endDate": "2020-10-20T14:59:59",
+                "ids": [
+                    "Banner_YC",
+                    "Banner_YOC",
+                    "Banner_YFB",
+                    "Banner_XE",
+                    "Banner_XFJ"
+                ],
+                "startDate": "2020-09-25T15:00:00"
+            },
+            {
+                "endDate": "2020-10-22T14:59:59",
+                "ids": [
+                    "Banner_ZKH",
+                    "Banner_ZSH",
+                    "Banner_YC",
+                    "Banner_YOC",
+                    "Banner_YFB"
+                ],
+                "startDate": "2020-10-20T15:00:00"
+            },
+            {
+                "endDate": "2020-10-26T14:59:59",
+                "ids": [
+                    "Banner_ZHS",
+                    "Banner_ZKH",
+                    "Banner_ZSH",
+                    "Banner_YC",
+                    "Banner_YOC"
+                ],
+                "startDate": "2020-10-23T15:00:00"
+            },
+            {
+                "endDate": "2020-11-26T14:59:59",
+                "ids": [
+                    "Banner_ZSH",
+                    "Banner_ZHS",
+                    "Banner_ZKH",
+                    "Banner_YC",
+                    "Banner_YOC"
+                ],
+                "startDate": "2020-10-27T15:00:00"
             }
         ],
         "right": [
@@ -485,11 +551,18 @@
                 "startDate": "2020-03-18T15:00:00"
             },
             {
-                "endDate": "2020-09-22T14:59:59",
+                "endDate": "2020-09-08T14:59:59",
                 "ids": [
                     "Banner_DLC_Chapter_16_Small"
                 ],
                 "startDate": "2020-06-19T15:00:00"
+            },
+            {
+                "endDate": "2020-11-26T14:59:59",
+                "ids": [
+                    "Banner_DLC_Chapter_17_Small"
+                ],
+                "startDate": "2020-09-08T15:00:00"
             }
         ]
     },

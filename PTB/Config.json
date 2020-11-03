@@ -1,5 +1,9 @@
 [
     {
+        "value": "false",
+        "keyName": "DISABLE_BLOODLUST"
+    },
+    {
         "value": {
             "killer": {
                 "acceptable_ratio": 0.4,
@@ -160,6 +164,7 @@
         "value": {
             "KL": [
                 "CustomerSupportAnalytics",
+                "DDoSDetectionAnalytics",
                 "DisconnectionAnalytics",
                 "EACClientAuthChallengeAnalytics",
                 "EACClientAuthInitAnalytics",
@@ -169,10 +174,10 @@
                 "FallOutOfWorldAnalytics",
                 "GameEventLogAnalytics",
                 "GameInitAnalytics",
+                "InteractionAnalytics",
                 "InvalidLoadoutAnalytics",
                 "KrakenRequestAnalytics",
                 "LogMirrorsAnalytics",
-                "S3CommandAnalytics",
                 "S3CommandErrorAnalytics",
                 "SaveGameErrorAnalytics",
                 "SpecialEventAnalytics",
@@ -195,6 +200,7 @@
             ],
             "KA": [
                 "ChatAnalytics",
+                "DetailedHitAnalytics",
                 "DetailedScoreAnalytics",
                 "FranklinsDemiseConsumedItemAnalytics",
                 "FranklinsHitNearDroppedItemAnalytics",
@@ -211,12 +217,12 @@
             ],
             "KAL": [
                 "DedicatedServerStatusAnalytics",
-                "DetailedHitAnalytics",
                 "DisconnectionDetailsAnalytics",
                 "FrameHikeAnalytics",
                 "LevelLoadingStepAnalytics",
                 "LevelLoadingTimeoutAnalytics",
-                "PerformanceAnalytics"
+                "PerformanceAnalytics",
+                "S3CommandAnalytics"
             ]
         },
         "keyName": "ANALYTICS_RULES_DEDICATED_SERVER"
@@ -322,11 +328,11 @@
     {
         "value": {
             "ps4": false,
-            "stadia": false,
+            "stadia": true,
             "grdk": false,
             "ps5": false,
             "android": false,
-            "steam": false,
+            "steam": true,
             "xbox": false,
             "ios": false,
             "xsx": false,
@@ -337,16 +343,21 @@
     {
         "value": {
             "DD": [
+                "AtlantaDeepLinkAnalytics",
+                "AtlantaGraphicsSettingsAnalytics",
                 "AtlantaKillerTutorialAnalytics",
                 "AtlantaPartyGameAnalytics",
                 "AtlantaPerkSelectionAnalytics",
                 "AtlantaPlayerLevelAnalytics",
+                "AtlantaPurchasePopupAnalytics",
                 "AtlantaSessionStartAnalytics",
                 "AtlantaSurvivorTutorialAnalytics",
+                "BloodMarketAdsAnalytics",
                 "BloodMarketRefreshAnalytics",
                 "BloodMarketTransactionAnalytics",
                 "DailyCalendarRewardAnalytics",
                 "FreeTicketAnalytics",
+                "MatchmakingIncentiveAnalytics",
                 "MobileBannerClickedAnalytics",
                 "MobileCdnDownloadAnalytics",
                 "MobileLoginAnalytics",
@@ -356,6 +367,7 @@
             "KL": [
                 "CustomerSupportAnalytics",
                 "CustomerSupportClientLoginAnalytics",
+                "DDoSDetectionAnalytics",
                 "DisconnectionAnalytics",
                 "EACClientAuthChallengeAnalytics",
                 "EACClientAuthInitAnalytics",
@@ -365,9 +377,11 @@
                 "EntitlementAnalytics",
                 "ErrorAnalytics",
                 "FallOutOfWorldAnalytics",
+                "FrameTravelTimeAnalytics",
                 "GameEventLogAnalytics",
                 "GameInitAnalytics",
                 "HeartbeatPerfAnalytics",
+                "InteractionAnalytics",
                 "InvalidLoadoutAnalytics",
                 "KrakenRequestAnalytics",
                 "LogAnalytics",
@@ -379,8 +393,6 @@
                 "MatchmakingJoinSessionAnalytics",
                 "MatchmakingSearchCompleteAnalytics",
                 "MatchmakingSessionSpotReservationAnalytics",
-                "RecordRanksMigrateCheatAnalytics",
-                "S3CommandAnalytics",
                 "S3CommandErrorAnalytics",
                 "SaveGameErrorAnalytics",
                 "SaveGameLoadResultAnalytics",
@@ -409,9 +421,16 @@
             "KA": [
                 "ArchiveVignetteEntryAnalytics",
                 "ArchiveVignetteVideoAnalytics",
+                "AtlantaCampaignEventAnalytics",
                 "CannibalAnalytics",
+                "CrowdChoiceOnGameRoundStartedAnalytics",
+                "CrowdChoiceSummaryResultAnalytics",
+                "CrowdChoiceVoteResultAnalytics",
+                "CrowdPlayLobbyEventsAnalytics",
+                "CrowdPlayLobbyResultsAnalytics",
                 "CustomizationLobbyAnalytics",
                 "DailyRitualAnalytics",
+                "DetailedHitAnalytics",
                 "DetailedScoreAnalytics",
                 "EmblemProgressionAnalytics",
                 "EndpointLatencyAnalytics",
@@ -448,19 +467,19 @@
                 "ProceduralGenerationAnalytics",
                 "QueueAnalytics",
                 "ScoreAnalytics",
+                "StadiaLivestreamAnalytics",
+                "StadiaStreamAnalytics",
                 "StoreMenuFlowAnalytics",
                 "SurvivorTutorialAnalytics",
                 "TinkererUndetectableHitNearGeneratorAnalytics",
                 "TinkererUndetectableInterruptAnalytics",
                 "TransactionAnalytics",
-                "WaitTimeAnalytics",
-                "WalesCypherAnalytics"
+                "WaitTimeAnalytics"
             ],
             "KAL": [
                 "ChatAnalytics",
                 "CurrencyBalanceAnalytics",
                 "CustomizationAnalytics",
-                "DetailedHitAnalytics",
                 "EnvironmentAnalytics",
                 "FrameHikeAnalytics",
                 "LevelLoadingStepAnalytics",
@@ -468,7 +487,9 @@
                 "LoadOutAnalytics",
                 "MatchInfoAnalytics",
                 "PerformanceAnalytics",
-                "ReportAnalytics"
+                "ReportAnalytics",
+                "S3CommandAnalytics",
+                "WalesCypherAnalytics"
             ]
         },
         "keyName": "ANALYTICS_RULES"
@@ -543,6 +564,7 @@
             "4.3.0_351873ptb": "4.3.0_351873ptb-1601907462",
             "4.3.0_356204ptb": "4.3.0_356204ptb-1602787235",
             "4.3.0_362793ptb": "4.3.0_362793ptb-1604333848",
+            "4.4.0_363078ptb": "4.4.0_363078ptb-1604350683",
             "m_3.3.5_260791ptb": "m_3.3.5_260791ptb-1578947417",
             "m_3.3.5_281807ptb": "m_3.3.5_281807ptb-1584119023",
             "m_3.6.0_282086ptb": "m_3.6.0_282086ptb-1585750969"
