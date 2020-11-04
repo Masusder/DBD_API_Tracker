@@ -711,7 +711,7 @@
                         ],
                         "nodeType": "quest:challenge",
                         "objectives": {
-                            "ChaseStartCrowInTrial": {
+                            "ChaseStartCrowWithPerkInTrial": {
                                 "conditions": [
                                     {
                                         "key": "role",
@@ -728,7 +728,7 @@
                                 ],
                                 "incrementWithEventRepetitions": false,
                                 "neededProgression": 1,
-                                "objectiveId": "ChaseStartCrowInTrial",
+                                "objectiveId": "ChaseStartCrowWithPerkInTrial",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -4338,6 +4338,6 @@
             }
         ],
         "rewardData": "Tome06",
-        "version": 65
+        "version": 66
     }
 }
