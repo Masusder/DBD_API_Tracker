@@ -3299,7 +3299,7 @@
                         ]
                     },
                     "node03": {
-                        "clientInfoId": "GrabFromGeneratorInTrial",
+                        "clientInfoId": "GrabFromGenerator",
                         "coordinates": {
                             "x": 995,
                             "y": 605
@@ -3308,9 +3308,9 @@
                             "node_T6L4_End01",
                             "node17"
                         ],
-                        "nodeType": "quest:challenge",
+                        "nodeType": "quest:task",
                         "objectives": {
-                            "GrabFromGeneratorInTrial": {
+                            "GrabFromGenerator": {
                                 "conditions": [
                                     {
                                         "key": "role",
@@ -3319,9 +3319,9 @@
                                         ]
                                     }
                                 ],
-                                "incrementWithEventRepetitions": false,
+                                "incrementWithEventRepetitions": true,
                                 "neededProgression": 2,
-                                "objectiveId": "GrabFromGeneratorInTrial",
+                                "objectiveId": "GrabFromGenerator",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -4339,6 +4339,6 @@
             }
         ],
         "rewardData": "Tome06",
-        "version": 67
+        "version": 68
     }
 }
