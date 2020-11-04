@@ -451,7 +451,7 @@
                         ]
                     },
                     "node_T6L1_12": {
-                        "clientInfoId": "HideInLockerInOrAfterChase",
+                        "clientInfoId": "HideInLockerInOrAfterChaseInTrial",
                         "coordinates": {
                             "x": 635,
                             "y": 5
@@ -463,7 +463,7 @@
                         ],
                         "nodeType": "quest:challenge",
                         "objectives": {
-                            "HideInLockerInOrAfterChase": {
+                            "HideInLockerInOrAfterChaseInTrial": {
                                 "conditions": [
                                     {
                                         "key": "role",
@@ -474,7 +474,7 @@
                                 ],
                                 "incrementWithEventRepetitions": false,
                                 "neededProgression": 1,
-                                "objectiveId": "HideInLockerInOrAfterChase",
+                                "objectiveId": "HideInLockerInOrAfterChaseInTrial",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -520,14 +520,14 @@
                                     }
                                 ],
                                 "incrementWithEventRepetitions": false,
-                                "neededProgression": 3,
+                                "neededProgression": 1,
                                 "objectiveId": "VaultInChase",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
                                         "parameters": "instigator:me",
                                         "questEventId": "QuestEvent.VaultInChase",
-                                        "repetition": 1
+                                        "repetition": 3
                                     }
                                 ]
                             }
@@ -839,6 +839,7 @@
                                 "questEvent": [
                                     {
                                         "operation": ">=",
+                                        "parameters": "instigator:me",
                                         "questEventId": "QuestEvent.EscapeChaseInjured",
                                         "repetition": 2
                                     }
@@ -4338,6 +4339,6 @@
             }
         ],
         "rewardData": "Tome06",
-        "version": 66
+        "version": 67
     }
 }
