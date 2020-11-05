@@ -166,6 +166,9 @@
     },
     {
         "value": {
+            "DD": [
+                "AtlantaPartyGameAnalytics"
+            ],
             "KL": [
                 "CustomerSupportAnalytics",
                 "DDoSDetectionAnalytics",
@@ -184,10 +187,12 @@
                 "LogMirrorsAnalytics",
                 "S3CommandErrorAnalytics",
                 "SaveGameErrorAnalytics",
+                "ShopAnalytics",
                 "SpecialEventAnalytics",
                 "SpecialEventBaseAnalytics"
             ],
             "BL": [
+                "AtlantaControlsSettingsAnalytics",
                 "CannibalAnalytics",
                 "HillbillyAnalytics",
                 "MatchmakingApproveLoginAnalytics",
@@ -414,6 +419,7 @@
                 "SyncLoadAnalytics"
             ],
             "BL": [
+                "AtlantaControlsSettingsAnalytics",
                 "MatchmakingHostSettingAnalytics",
                 "MatchmakingSearchParamAnalytics",
                 "MatchmakingSearchResultAnalytics",
@@ -724,7 +730,8 @@
             "m_4.2.1_361043live": "m_4.2.1_361043live-1603900272",
             "m_4.2.1_361070live": "m_4.2.1_361070live-1603903712",
             "m_4.2.1_361724live": "m_4.2.1_361724live-1603988036",
-            "m_4.2.1_361974live": "m_4.2.1_361974live-1604003883"
+            "m_4.2.1_361974live": "m_4.2.1_361974live-1604003883",
+            "m_4.2.1_364505live": "m_4.2.1_364505live-1604592098"
         },
         "keyName": "VER_CLIENT_DATA"
     },
