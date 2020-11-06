@@ -234,12 +234,12 @@
                                     }
                                 ],
                                 "incrementWithEventRepetitions": true,
-                                "neededProgression": 90,
+                                "neededProgression": 60,
                                 "objectiveId": "ChasedByKiller",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
-                                        "parameters": "instigator:me",
+                                        "parameters": "target:me",
                                         "questEventId": "QuestEvent.Chase",
                                         "repetition": 1
                                     }
@@ -4381,6 +4381,6 @@
             }
         ],
         "rewardData": "Tome06",
-        "version": 74
+        "version": 75
     }
 }
