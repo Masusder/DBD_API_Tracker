@@ -31,7 +31,7 @@
         "keyName": "SOCIAL_PLATFORM_FRIENDLIST_QUERY_RATE"
     },
     {
-        "value": "true",
+        "value": "false",
         "keyName": "DDOS_DETECTION"
     },
     {
@@ -162,6 +162,9 @@
     },
     {
         "value": {
+            "DD": [
+                "AtlantaPartyGameAnalytics"
+            ],
             "KL": [
                 "CustomerSupportAnalytics",
                 "DDoSDetectionAnalytics",
@@ -180,10 +183,12 @@
                 "LogMirrorsAnalytics",
                 "S3CommandErrorAnalytics",
                 "SaveGameErrorAnalytics",
+                "ShopAnalytics",
                 "SpecialEventAnalytics",
                 "SpecialEventBaseAnalytics"
             ],
             "BL": [
+                "AtlantaControlsSettingsAnalytics",
                 "CannibalAnalytics",
                 "HillbillyAnalytics",
                 "MatchmakingApproveLoginAnalytics",
@@ -405,6 +410,7 @@
                 "SyncLoadAnalytics"
             ],
             "BL": [
+                "AtlantaControlsSettingsAnalytics",
                 "MatchmakingHostSettingAnalytics",
                 "MatchmakingSearchParamAnalytics",
                 "MatchmakingSearchResultAnalytics",
@@ -565,6 +571,7 @@
             "4.3.0_356204ptb": "4.3.0_356204ptb-1602787235",
             "4.3.0_362793ptb": "4.3.0_362793ptb-1604333848",
             "4.4.0_363078ptb": "4.4.0_363078ptb-1604350683",
+            "4.4.0_364862ptb": "4.4.0_364862ptb-1604672111",
             "m_3.3.5_260791ptb": "m_3.3.5_260791ptb-1578947417",
             "m_3.3.5_281807ptb": "m_3.3.5_281807ptb-1584119023",
             "m_3.6.0_282086ptb": "m_3.6.0_282086ptb-1585750969"

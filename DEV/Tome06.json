@@ -28,13 +28,12 @@
                     "node_T6L1_01": {
                         "clientInfoId": "SabotageFinish",
                         "coordinates": {
-                            "x": 815,
-                            "y": 155
+                            "x": 455,
+                            "y": 5
                         },
                         "neighbors": [
-                            "node_T6L1_02",
-                            "node_T6L1_12",
-                            "node_T6L1_19"
+                            "node_T6L1_13",
+                            "node_T6L1_12"
                         ],
                         "nodeType": "quest:task",
                         "objectives": {
@@ -77,13 +76,12 @@
                         "clientInfoId": "EarnBloodpoints",
                         "coordinates": {
                             "x": 815,
-                            "y": 305
+                            "y": 155
                         },
                         "neighbors": [
                             "node_T6L1_05",
-                            "node_T6L1_01",
-                            "node_T6L1_18",
-                            "node_T6L1_09"
+                            "node_T6L1_12",
+                            "node_T6L1_19"
                         ],
                         "nodeType": "quest:task",
                         "objectives": {
@@ -214,13 +212,13 @@
                         "clientInfoId": "ChasedByKiller",
                         "coordinates": {
                             "x": 815,
-                            "y": 455
+                            "y": 305
                         },
                         "neighbors": [
-                            "node_T6L1_15",
-                            "node_T6L1_14",
+                            "node_T6L1_02",
                             "node_T6L1_Glyph",
-                            "node_T6L1_02"
+                            "node_T6L1_18",
+                            "node_T6L1_09"
                         ],
                         "nodeType": "quest:task",
                         "objectives": {
@@ -362,7 +360,7 @@
                             "y": 305
                         },
                         "neighbors": [
-                            "node_T6L1_02",
+                            "node_T6L1_05",
                             "node_T6L1_08"
                         ],
                         "nodeType": "quest:task",
@@ -403,7 +401,7 @@
                         ]
                     },
                     "node_T6L1_10": {
-                        "clientInfoId": "ChasedBy",
+                        "clientInfoId": "SearchFinish",
                         "coordinates": {
                             "x": 545,
                             "y": 155
@@ -415,7 +413,7 @@
                         ],
                         "nodeType": "quest:task",
                         "objectives": {
-                            "ChasedBy": {
+                            "SearchFinish": {
                                 "conditions": [
                                     {
                                         "key": "role",
@@ -425,13 +423,13 @@
                                     }
                                 ],
                                 "incrementWithEventRepetitions": true,
-                                "neededProgression": 3,
-                                "objectiveId": "ChasedBy",
+                                "neededProgression": 5,
+                                "objectiveId": "SearchFinish",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
                                         "parameters": "instigator:me",
-                                        "questEventId": "QuestEvent.Chase",
+                                        "questEventId": "QuestEvent.SearchFinish",
                                         "repetition": 1
                                     }
                                 ]
@@ -457,9 +455,9 @@
                             "y": 5
                         },
                         "neighbors": [
-                            "node_T6L1_13",
-                            "node_T6L1_10",
-                            "node_T6L1_01"
+                            "node_T6L1_02",
+                            "node_T6L1_01",
+                            "node_T6L1_10"
                         ],
                         "nodeType": "quest:challenge",
                         "objectives": {
@@ -501,11 +499,11 @@
                     "node_T6L1_13": {
                         "clientInfoId": "VaultInChaseInTrial",
                         "coordinates": {
-                            "x": 185,
+                            "x": 275,
                             "y": 5
                         },
                         "neighbors": [
-                            "node_T6L1_12",
+                            "node_T6L1_01",
                             "node_T6L1_Start01"
                         ],
                         "nodeType": "quest:challenge",
@@ -552,7 +550,7 @@
                             "y": 455
                         },
                         "neighbors": [
-                            "node_T6L1_05",
+                            "node_T6L1_Glyph",
                             "node_T6L1_03"
                         ],
                         "nodeType": "quest:task",
@@ -600,7 +598,7 @@
                         },
                         "neighbors": [
                             "node_T6L1_04",
-                            "node_T6L1_05"
+                            "node_T6L1_Glyph"
                         ],
                         "nodeType": "quest:challenge",
                         "objectives": {
@@ -702,7 +700,7 @@
                     "node_T6L1_17": {
                         "clientInfoId": "ChaseStartCrowInTrial",
                         "coordinates": {
-                            "x": 1175,
+                            "x": 995,
                             "y": 605
                         },
                         "neighbors": [
@@ -759,8 +757,8 @@
                             "y": 305
                         },
                         "neighbors": [
+                            "node_T6L1_05",
                             "node_T6L1_20",
-                            "node_T6L1_02",
                             "node_T6L1_10"
                         ],
                         "nodeType": "quest:challenge",
@@ -809,12 +807,12 @@
                     "node_T6L1_19": {
                         "clientInfoId": "EscapeChaseInjuredWithLuckyBreakInTrial",
                         "coordinates": {
-                            "x": 905,
+                            "x": 995,
                             "y": 5
                         },
                         "neighbors": [
-                            "node_T6L1_21",
-                            "node_T6L1_01"
+                            "node_T6L1_02",
+                            "node_T6L1_21"
                         ],
                         "nodeType": "quest:challenge",
                         "objectives": {
@@ -968,7 +966,7 @@
                     "node_T6L1_22": {
                         "clientInfoId": "Repair",
                         "coordinates": {
-                            "x": 5,
+                            "x": 95,
                             "y": 5
                         },
                         "neighbors": [],
@@ -1036,12 +1034,47 @@
                     "node_T6L1_Glyph": {
                         "clientInfoId": "DebugGlyph",
                         "coordinates": {
-                            "x": 905,
-                            "y": 605
+                            "x": 815,
+                            "y": 455
                         },
                         "neighbors": [
+                            "node_T6L1_15",
                             "node_T6L1_05",
+                            "node_T6L1_14",
                             "node_T6L1_17"
+                        ],
+                        "nodeType": "quest:contextual",
+                        "objectives": {
+                            "DebugGlyph": {
+                                "conditions": [],
+                                "incrementWithEventRepetitions": true,
+                                "neededProgression": 3,
+                                "objectiveId": "DebugGlyph",
+                                "questEvent": [
+                                    {
+                                        "operation": ">=",
+                                        "parameters": "instigator:me",
+                                        "questEventId": "QuestEvent.RedGlyph",
+                                        "repetition": 1
+                                    }
+                                ],
+                                "specialBehaviours": [
+                                    {
+                                        "id": "RedGlyph"
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "node_T6L1_Glyph2": {
+                        "clientInfoId": "DebugGlyph",
+                        "coordinates": {
+                            "x": 95,
+                            "y": 305
+                        },
+                        "neighbors": [
+                            "node_T6L1_Start02",
+                            "node_T6L1_Start01"
                         ],
                         "nodeType": "quest:contextual",
                         "objectives": {
@@ -1074,6 +1107,7 @@
                         },
                         "neighbors": [
                             "node_T6L1_13",
+                            "node_T6L1_Glyph2",
                             "node_T6L1_07"
                         ],
                         "nodeType": "narrative"
@@ -1086,7 +1120,8 @@
                         },
                         "neighbors": [
                             "node_T6L1_04",
-                            "node_T6L1_03"
+                            "node_T6L1_03",
+                            "node_T6L1_Glyph2"
                         ],
                         "nodeType": "narrative"
                     }
@@ -4381,6 +4416,6 @@
             }
         ],
         "rewardData": "Tome06",
-        "version": 75
+        "version": 78
     }
 }
