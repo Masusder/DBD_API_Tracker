@@ -11794,8 +11794,8 @@
             "base_itemId": "CM_Head011",
             "character": "Claudette",
             "kind": "Customization",
-            "newEndDate": "2018-06-12T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2021-01-29T15:59:59",
+            "newStartDate": "2021-01-15T16:00:00",
             "outfitId": "CM_outfit_011",
             "quality": "V0",
             "qualityName": "quality1",
@@ -11818,7 +11818,7 @@
         },
         "nonSecure": false,
         "premium": false,
-        "purchasable": false,
+        "purchasable": true,
         "unique": true
     },
     {
@@ -11841,8 +11841,8 @@
             "base_itemId": "CM_Torso011",
             "character": "Claudette",
             "kind": "Customization",
-            "newEndDate": "2018-06-12T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2021-01-29T15:59:59",
+            "newStartDate": "2021-01-15T16:00:00",
             "outfitId": "CM_outfit_011",
             "quality": "V0",
             "qualityName": "quality1",
@@ -11865,7 +11865,7 @@
         },
         "nonSecure": false,
         "premium": false,
-        "purchasable": false,
+        "purchasable": true,
         "unique": true
     },
     {
@@ -11888,8 +11888,8 @@
             "base_itemId": "CM_Legs011",
             "character": "Claudette",
             "kind": "Customization",
-            "newEndDate": "2018-06-12T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2021-01-29T15:59:59",
+            "newStartDate": "2021-01-15T16:00:00",
             "outfitId": "CM_outfit_011",
             "quality": "V0",
             "qualityName": "quality1",
@@ -11912,7 +11912,7 @@
         },
         "nonSecure": false,
         "premium": false,
-        "purchasable": false,
+        "purchasable": true,
         "unique": true
     },
     {
@@ -15131,8 +15131,8 @@
             "base_itemId": "JP_Head010",
             "character": "Jake",
             "kind": "Customization",
-            "newEndDate": "2018-06-12T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2021-02-05T15:59:59",
+            "newStartDate": "2021-01-22T16:00:00",
             "outfitId": "JP_outfit_010",
             "quality": "V0",
             "qualityName": "quality1",
@@ -15155,7 +15155,7 @@
         },
         "nonSecure": false,
         "premium": false,
-        "purchasable": false,
+        "purchasable": true,
         "unique": true
     },
     {
@@ -15178,8 +15178,8 @@
             "base_itemId": "JP_Torso010",
             "character": "Jake",
             "kind": "Customization",
-            "newEndDate": "2018-06-12T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2021-02-05T15:59:59",
+            "newStartDate": "2021-01-22T16:00:00",
             "outfitId": "JP_outfit_010",
             "quality": "V0",
             "qualityName": "quality1",
@@ -15202,7 +15202,7 @@
         },
         "nonSecure": false,
         "premium": false,
-        "purchasable": false,
+        "purchasable": true,
         "unique": true
     },
     {
@@ -15225,8 +15225,8 @@
             "base_itemId": "JP_Legs010",
             "character": "Jake",
             "kind": "Customization",
-            "newEndDate": "2018-06-12T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2021-02-05T15:59:59",
+            "newStartDate": "2021-01-22T16:00:00",
             "outfitId": "JP_outfit_010",
             "quality": "V0",
             "qualityName": "quality1",
@@ -15249,7 +15249,7 @@
         },
         "nonSecure": false,
         "premium": false,
-        "purchasable": false,
+        "purchasable": true,
         "unique": true
     },
     {
@@ -25210,10 +25210,6 @@
         "consumptionObjectList": [],
         "defaultCost": [
             {
-                "currencyId": "Cells",
-                "price": 400
-            },
-            {
                 "currencyId": "Shards",
                 "price": 7200
             }
@@ -25225,8 +25221,8 @@
             "base_itemId": "FM_Head010",
             "character": "Feng",
             "kind": "Customization",
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2020-12-28T15:59:59",
+            "newStartDate": "2020-12-14T16:00:00",
             "outfitId": "FM_outfit_010",
             "quality": "V0",
             "qualityName": "quality1",
@@ -25249,7 +25245,7 @@
         },
         "nonSecure": false,
         "premium": false,
-        "purchasable": false,
+        "purchasable": true,
         "unique": true
     },
     {
@@ -25261,12 +25257,8 @@
         "consumptionObjectList": [],
         "defaultCost": [
             {
-                "currencyId": "Cells",
-                "price": 400
-            },
-            {
                 "currencyId": "Shards",
-                "price": 7200
+                "price": 7150
             }
         ],
         "eventCostList": [],
@@ -25276,8 +25268,8 @@
             "base_itemId": "FM_Torso010",
             "character": "Feng",
             "kind": "Customization",
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2020-12-28T15:59:59",
+            "newStartDate": "2020-12-14T16:00:00",
             "outfitId": "FM_outfit_010",
             "quality": "V0",
             "qualityName": "quality1",
@@ -25300,7 +25292,7 @@
         },
         "nonSecure": false,
         "premium": false,
-        "purchasable": false,
+        "purchasable": true,
         "unique": true
     },
     {
@@ -25312,12 +25304,8 @@
         "consumptionObjectList": [],
         "defaultCost": [
             {
-                "currencyId": "Cells",
-                "price": 400
-            },
-            {
                 "currencyId": "Shards",
-                "price": 7200
+                "price": 7150
             }
         ],
         "eventCostList": [],
@@ -25327,8 +25315,8 @@
             "base_itemId": "FM_Legs010",
             "character": "Feng",
             "kind": "Customization",
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2020-12-28T15:59:59",
+            "newStartDate": "2020-12-14T16:00:00",
             "outfitId": "FM_outfit_010",
             "quality": "V0",
             "qualityName": "quality1",
@@ -25351,7 +25339,7 @@
         },
         "nonSecure": false,
         "premium": false,
-        "purchasable": false,
+        "purchasable": true,
         "unique": true
     },
     {
@@ -46504,8 +46492,8 @@
             "base_itemId": "TR_Mask009",
             "character": "Chuckles",
             "kind": "Customization",
-            "newEndDate": "2018-06-12T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2021-01-29T15:59:59",
+            "newStartDate": "2021-01-15T16:00:00",
             "outfitId": "TR_outfit_009",
             "quality": "V0",
             "qualityName": "quality1",
@@ -46528,7 +46516,7 @@
         },
         "nonSecure": false,
         "premium": false,
-        "purchasable": false,
+        "purchasable": true,
         "unique": true
     },
     {
@@ -46551,8 +46539,8 @@
             "base_itemId": "TR_Body009",
             "character": "Chuckles",
             "kind": "Customization",
-            "newEndDate": "2018-06-12T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2021-01-29T15:59:59",
+            "newStartDate": "2021-01-15T16:00:00",
             "outfitId": "TR_outfit_009",
             "quality": "V0",
             "qualityName": "quality1",
@@ -46575,7 +46563,7 @@
         },
         "nonSecure": false,
         "premium": false,
-        "purchasable": false,
+        "purchasable": true,
         "unique": true
     },
     {
@@ -46598,8 +46586,8 @@
             "base_itemId": "TR_W009",
             "character": "Chuckles",
             "kind": "Customization",
-            "newEndDate": "2018-06-12T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2021-01-29T15:59:59",
+            "newStartDate": "2021-01-15T16:00:00",
             "outfitId": "TR_outfit_009",
             "quality": "V0",
             "qualityName": "quality1",
@@ -46622,7 +46610,7 @@
         },
         "nonSecure": false,
         "premium": false,
-        "purchasable": false,
+        "purchasable": true,
         "unique": true
     },
     {
@@ -48947,8 +48935,8 @@
             "base_itemId": "TW_Head009",
             "character": "Bob",
             "kind": "Customization",
-            "newEndDate": "2018-06-12T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2021-02-05T15:59:59",
+            "newStartDate": "2021-01-22T16:00:00",
             "outfitId": "TW_outfit_009",
             "quality": "V0",
             "qualityName": "quality1",
@@ -48971,7 +48959,7 @@
         },
         "nonSecure": false,
         "premium": false,
-        "purchasable": false,
+        "purchasable": true,
         "unique": true
     },
     {
@@ -48994,8 +48982,8 @@
             "base_itemId": "TW_Body009",
             "character": "Bob",
             "kind": "Customization",
-            "newEndDate": "2018-06-12T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2021-02-05T15:59:59",
+            "newStartDate": "2021-01-22T16:00:00",
             "outfitId": "TW_outfit_009",
             "quality": "V0",
             "qualityName": "quality1",
@@ -49018,7 +49006,7 @@
         },
         "nonSecure": false,
         "premium": false,
-        "purchasable": false,
+        "purchasable": true,
         "unique": true
     },
     {
@@ -49041,8 +49029,8 @@
             "base_itemId": "TW_W009",
             "character": "Bob",
             "kind": "Customization",
-            "newEndDate": "2018-06-12T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2021-02-05T15:59:59",
+            "newStartDate": "2021-01-22T16:00:00",
             "outfitId": "TW_outfit_009",
             "quality": "V0",
             "qualityName": "quality1",
@@ -49065,7 +49053,7 @@
         },
         "nonSecure": false,
         "premium": false,
-        "purchasable": false,
+        "purchasable": true,
         "unique": true
     },
     {
@@ -63893,10 +63881,6 @@
         "consumptionObjectList": [],
         "defaultCost": [
             {
-                "currencyId": "Cells",
-                "price": 400
-            },
-            {
                 "currencyId": "Shards",
                 "price": 7200
             }
@@ -63908,8 +63892,8 @@
             "base_itemId": "GK_Head010",
             "character": "Clown",
             "kind": "Customization",
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2020-12-28T15:59:59",
+            "newStartDate": "2020-12-14T16:00:00",
             "outfitId": "GK_outfit_010",
             "quality": "V0",
             "qualityName": "quality1",
@@ -63932,7 +63916,7 @@
         },
         "nonSecure": false,
         "premium": false,
-        "purchasable": false,
+        "purchasable": true,
         "unique": true
     },
     {
@@ -63944,12 +63928,8 @@
         "consumptionObjectList": [],
         "defaultCost": [
             {
-                "currencyId": "Cells",
-                "price": 400
-            },
-            {
                 "currencyId": "Shards",
-                "price": 7200
+                "price": 7150
             }
         ],
         "eventCostList": [],
@@ -63959,8 +63939,8 @@
             "base_itemId": "GK_Body010",
             "character": "Clown",
             "kind": "Customization",
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2020-12-28T15:59:59",
+            "newStartDate": "2020-12-14T16:00:00",
             "outfitId": "GK_outfit_010",
             "quality": "V0",
             "qualityName": "quality1",
@@ -63983,7 +63963,7 @@
         },
         "nonSecure": false,
         "premium": false,
-        "purchasable": false,
+        "purchasable": true,
         "unique": true
     },
     {
@@ -63995,12 +63975,8 @@
         "consumptionObjectList": [],
         "defaultCost": [
             {
-                "currencyId": "Cells",
-                "price": 400
-            },
-            {
                 "currencyId": "Shards",
-                "price": 7200
+                "price": 7150
             }
         ],
         "eventCostList": [],
@@ -64010,8 +63986,8 @@
             "base_itemId": "GK_W010",
             "character": "Clown",
             "kind": "Customization",
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2020-12-28T15:59:59",
+            "newStartDate": "2020-12-14T16:00:00",
             "outfitId": "GK_outfit_010",
             "quality": "V0",
             "qualityName": "quality1",
@@ -64034,7 +64010,7 @@
         },
         "nonSecure": false,
         "premium": false,
-        "purchasable": false,
+        "purchasable": true,
         "unique": true
     },
     {
@@ -82082,147 +82058,6 @@
         "defaultCost": [
             {
                 "currencyId": "Cells",
-                "price": 400
-            }
-        ],
-        "eventCostList": [],
-        "id": "CA_Head006",
-        "initialQuantity": 0,
-        "metaData": {
-            "base_itemId": "CA_Head006",
-            "character": "Cannibal",
-            "kind": "Customization",
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
-            "outfitId": "CA_outfit_006",
-            "quality": "V0",
-            "qualityName": "quality1",
-            "rarity": "VeryRare",
-            "type": "Head",
-            "unbreakable": false,
-            "version": {
-                "dmm": true,
-                "grdk": true,
-                "nintendo": true,
-                "ps4": true,
-                "ps5": true,
-                "psn": true,
-                "stadia": true,
-                "steam": true,
-                "switch": true,
-                "xbox": true,
-                "xsx": true
-            }
-        },
-        "nonSecure": false,
-        "premium": false,
-        "purchasable": true,
-        "unique": true
-    },
-    {
-        "categories": [
-            "item"
-        ],
-        "consumable": false,
-        "consumptionCurrenciesList": [],
-        "consumptionObjectList": [],
-        "defaultCost": [
-            {
-                "currencyId": "Cells",
-                "price": 400
-            }
-        ],
-        "eventCostList": [],
-        "id": "CA_Body006",
-        "initialQuantity": 0,
-        "metaData": {
-            "base_itemId": "CA_Body006",
-            "character": "Cannibal",
-            "kind": "Customization",
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
-            "outfitId": "CA_outfit_006",
-            "quality": "V0",
-            "qualityName": "quality1",
-            "rarity": "VeryRare",
-            "type": "Torso",
-            "unbreakable": false,
-            "version": {
-                "dmm": true,
-                "grdk": true,
-                "nintendo": true,
-                "ps4": true,
-                "ps5": true,
-                "psn": true,
-                "stadia": true,
-                "steam": true,
-                "switch": true,
-                "xbox": true,
-                "xsx": true
-            }
-        },
-        "nonSecure": false,
-        "premium": false,
-        "purchasable": true,
-        "unique": true
-    },
-    {
-        "categories": [
-            "item"
-        ],
-        "consumable": false,
-        "consumptionCurrenciesList": [],
-        "consumptionObjectList": [],
-        "defaultCost": [
-            {
-                "currencyId": "Cells",
-                "price": 400
-            }
-        ],
-        "eventCostList": [],
-        "id": "CA_W006",
-        "initialQuantity": 0,
-        "metaData": {
-            "base_itemId": "CA_W006",
-            "character": "Cannibal",
-            "kind": "Customization",
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
-            "outfitId": "CA_outfit_006",
-            "quality": "V0",
-            "qualityName": "quality1",
-            "rarity": "VeryRare",
-            "type": "Weapon",
-            "unbreakable": false,
-            "version": {
-                "dmm": true,
-                "grdk": true,
-                "nintendo": true,
-                "ps4": true,
-                "ps5": true,
-                "psn": true,
-                "stadia": true,
-                "steam": true,
-                "switch": true,
-                "xbox": true,
-                "xsx": true
-            }
-        },
-        "nonSecure": false,
-        "premium": false,
-        "purchasable": true,
-        "unique": true
-    },
-    {
-        "categories": [
-            "item"
-        ],
-        "consumable": false,
-        "consumptionCurrenciesList": [],
-        "consumptionObjectList": [],
-        "defaultCost": [
-            {
-                "currencyId": "Cells",
                 "price": 250
             }
         ],
@@ -84213,6 +84048,4197 @@
             "rarity": "Uncommon",
             "type": "Legs",
             "unbreakable": false,
+            "version": {
+                "dmm": true,
+                "grdk": true,
+                "nintendo": true,
+                "ps4": true,
+                "ps5": true,
+                "psn": true,
+                "stadia": true,
+                "steam": true,
+                "switch": true,
+                "xbox": true,
+                "xsx": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": false,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 400
+            }
+        ],
+        "eventCostList": [],
+        "id": "CA_Head006",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "CA_Head006",
+            "character": "Cannibal",
+            "kind": "Customization",
+            "newEndDate": "2020-11-27T15:59:59",
+            "newStartDate": "2020-11-13T16:00:00",
+            "outfitId": "CA_outfit_006",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "VeryRare",
+            "type": "Head",
+            "unbreakable": false,
+            "version": {
+                "dmm": true,
+                "grdk": true,
+                "nintendo": true,
+                "ps4": true,
+                "ps5": true,
+                "psn": true,
+                "stadia": true,
+                "steam": true,
+                "switch": true,
+                "xbox": true,
+                "xsx": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 400
+            }
+        ],
+        "eventCostList": [],
+        "id": "CA_Body006",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "CA_Body006",
+            "character": "Cannibal",
+            "kind": "Customization",
+            "newEndDate": "2020-11-27T15:59:59",
+            "newStartDate": "2020-11-13T16:00:00",
+            "outfitId": "CA_outfit_006",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "VeryRare",
+            "type": "Torso",
+            "unbreakable": false,
+            "version": {
+                "dmm": true,
+                "grdk": true,
+                "nintendo": true,
+                "ps4": true,
+                "ps5": true,
+                "psn": true,
+                "stadia": true,
+                "steam": true,
+                "switch": true,
+                "xbox": true,
+                "xsx": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 400
+            }
+        ],
+        "eventCostList": [],
+        "id": "CA_W006",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "CA_W006",
+            "character": "Cannibal",
+            "kind": "Customization",
+            "newEndDate": "2020-11-27T15:59:59",
+            "newStartDate": "2020-11-13T16:00:00",
+            "outfitId": "CA_outfit_006",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "VeryRare",
+            "type": "Weapon",
+            "unbreakable": false,
+            "version": {
+                "dmm": true,
+                "grdk": true,
+                "nintendo": true,
+                "ps4": true,
+                "ps5": true,
+                "psn": true,
+                "stadia": true,
+                "steam": true,
+                "switch": true,
+                "xbox": true,
+                "xsx": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 250
+            }
+        ],
+        "eventCostList": [],
+        "id": "S24_Head02",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "S24_Head02",
+            "character": "S24",
+            "kind": "Customization",
+            "newEndDate": "2019-12-15T15:59:59",
+            "newStartDate": "2019-12-01T16:00:00",
+            "outfitId": "S24_outfit_02",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "Rare",
+            "type": "Head",
+            "unbreakable": false,
+            "version": {
+                "dmm": true,
+                "grdk": true,
+                "nintendo": true,
+                "ps4": true,
+                "ps5": true,
+                "psn": true,
+                "stadia": true,
+                "steam": true,
+                "switch": true,
+                "xbox": true,
+                "xsx": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 250
+            }
+        ],
+        "eventCostList": [],
+        "id": "S24_Torso02",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "S24_Torso02",
+            "character": "S24",
+            "kind": "Customization",
+            "newEndDate": "2019-12-15T15:59:59",
+            "newStartDate": "2019-12-01T16:00:00",
+            "outfitId": "S24_outfit_02",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "Rare",
+            "type": "Torso",
+            "unbreakable": false,
+            "version": {
+                "dmm": true,
+                "grdk": true,
+                "nintendo": true,
+                "ps4": true,
+                "ps5": true,
+                "psn": true,
+                "stadia": true,
+                "steam": true,
+                "switch": true,
+                "xbox": true,
+                "xsx": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 250
+            }
+        ],
+        "eventCostList": [],
+        "id": "S24_Legs02",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "S24_Legs02",
+            "character": "S24",
+            "kind": "Customization",
+            "newEndDate": "2019-12-15T15:59:59",
+            "newStartDate": "2019-12-01T16:00:00",
+            "outfitId": "S24_outfit_02",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "Rare",
+            "type": "Legs",
+            "unbreakable": false,
+            "version": {
+                "dmm": true,
+                "grdk": true,
+                "nintendo": true,
+                "ps4": true,
+                "ps5": true,
+                "psn": true,
+                "stadia": true,
+                "steam": true,
+                "switch": true,
+                "xbox": true,
+                "xsx": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 250
+            },
+            {
+                "currencyId": "Shards",
+                "price": 4500
+            }
+        ],
+        "eventCostList": [],
+        "id": "S24_Head02_01",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "S24_Head02_01",
+            "character": "S24",
+            "kind": "Customization",
+            "newEndDate": "2020-12-15T15:59:59",
+            "newStartDate": "2020-12-01T16:00:00",
+            "outfitId": "S24_outfit_02_01",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "Rare",
+            "type": "Head",
+            "unbreakable": false,
+            "version": {
+                "dmm": true,
+                "grdk": true,
+                "nintendo": true,
+                "ps4": true,
+                "ps5": true,
+                "psn": true,
+                "stadia": true,
+                "steam": true,
+                "switch": true,
+                "xbox": true,
+                "xsx": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 250
+            },
+            {
+                "currencyId": "Shards",
+                "price": 4500
+            }
+        ],
+        "eventCostList": [],
+        "id": "S24_Torso02_01",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "S24_Torso02_01",
+            "character": "S24",
+            "kind": "Customization",
+            "newEndDate": "2020-12-15T15:59:59",
+            "newStartDate": "2020-12-01T16:00:00",
+            "outfitId": "S24_outfit_02_01",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "Rare",
+            "type": "Torso",
+            "unbreakable": false,
+            "version": {
+                "dmm": true,
+                "grdk": true,
+                "nintendo": true,
+                "ps4": true,
+                "ps5": true,
+                "psn": true,
+                "stadia": true,
+                "steam": true,
+                "switch": true,
+                "xbox": true,
+                "xsx": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 250
+            },
+            {
+                "currencyId": "Shards",
+                "price": 4500
+            }
+        ],
+        "eventCostList": [],
+        "id": "S24_Legs02_01",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "S24_Legs02_01",
+            "character": "S24",
+            "kind": "Customization",
+            "newEndDate": "2020-12-15T15:59:59",
+            "newStartDate": "2020-12-01T16:00:00",
+            "outfitId": "S24_outfit_02_01",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "Rare",
+            "type": "Legs",
+            "unbreakable": false,
+            "version": {
+                "dmm": true,
+                "grdk": true,
+                "nintendo": true,
+                "ps4": true,
+                "ps5": true,
+                "psn": true,
+                "stadia": true,
+                "steam": true,
+                "switch": true,
+                "xbox": true,
+                "xsx": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 100
+            },
+            {
+                "currencyId": "Shards",
+                "price": 1800
+            }
+        ],
+        "eventCostList": [],
+        "id": "S24_Head01_02",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "S24_Head01_02",
+            "character": "S24",
+            "kind": "Customization",
+            "newEndDate": "2020-12-15T15:59:59",
+            "newStartDate": "2020-12-01T16:00:00",
+            "outfitId": "S24_outfit_01_02",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "Uncommon",
+            "type": "Head",
+            "unbreakable": false,
+            "version": {
+                "dmm": true,
+                "grdk": true,
+                "nintendo": true,
+                "ps4": true,
+                "ps5": true,
+                "psn": true,
+                "stadia": true,
+                "steam": true,
+                "switch": true,
+                "xbox": true,
+                "xsx": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 100
+            },
+            {
+                "currencyId": "Shards",
+                "price": 1800
+            }
+        ],
+        "eventCostList": [],
+        "id": "S24_Torso01_02",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "S24_Torso01_02",
+            "character": "S24",
+            "kind": "Customization",
+            "newEndDate": "2020-12-15T15:59:59",
+            "newStartDate": "2020-12-01T16:00:00",
+            "outfitId": "S24_outfit_01_02",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "Uncommon",
+            "type": "Torso",
+            "unbreakable": false,
+            "version": {
+                "dmm": true,
+                "grdk": true,
+                "nintendo": true,
+                "ps4": true,
+                "ps5": true,
+                "psn": true,
+                "stadia": true,
+                "steam": true,
+                "switch": true,
+                "xbox": true,
+                "xsx": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 100
+            },
+            {
+                "currencyId": "Shards",
+                "price": 1800
+            }
+        ],
+        "eventCostList": [],
+        "id": "S24_Legs01_02",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "S24_Legs01_02",
+            "character": "S24",
+            "kind": "Customization",
+            "newEndDate": "2020-12-15T15:59:59",
+            "newStartDate": "2020-12-01T16:00:00",
+            "outfitId": "S24_outfit_01_02",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "Uncommon",
+            "type": "Legs",
+            "unbreakable": false,
+            "version": {
+                "dmm": true,
+                "grdk": true,
+                "nintendo": true,
+                "ps4": true,
+                "ps5": true,
+                "psn": true,
+                "stadia": true,
+                "steam": true,
+                "switch": true,
+                "xbox": true,
+                "xsx": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 100
+            },
+            {
+                "currencyId": "Shards",
+                "price": 1800
+            }
+        ],
+        "eventCostList": [],
+        "id": "S24_Head01_03",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "S24_Head01_03",
+            "character": "S24",
+            "kind": "Customization",
+            "newEndDate": "2020-12-15T15:59:59",
+            "newStartDate": "2020-12-01T16:00:00",
+            "outfitId": "S24_outfit_01_03",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "Uncommon",
+            "type": "Head",
+            "unbreakable": false,
+            "version": {
+                "dmm": true,
+                "grdk": true,
+                "nintendo": true,
+                "ps4": true,
+                "ps5": true,
+                "psn": true,
+                "stadia": true,
+                "steam": true,
+                "switch": true,
+                "xbox": true,
+                "xsx": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 100
+            },
+            {
+                "currencyId": "Shards",
+                "price": 1800
+            }
+        ],
+        "eventCostList": [],
+        "id": "S24_Torso01_03",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "S24_Torso01_03",
+            "character": "S24",
+            "kind": "Customization",
+            "newEndDate": "2020-12-15T15:59:59",
+            "newStartDate": "2020-12-01T16:00:00",
+            "outfitId": "S24_outfit_01_03",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "Uncommon",
+            "type": "Torso",
+            "unbreakable": false,
+            "version": {
+                "dmm": true,
+                "grdk": true,
+                "nintendo": true,
+                "ps4": true,
+                "ps5": true,
+                "psn": true,
+                "stadia": true,
+                "steam": true,
+                "switch": true,
+                "xbox": true,
+                "xsx": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 100
+            },
+            {
+                "currencyId": "Shards",
+                "price": 1800
+            }
+        ],
+        "eventCostList": [],
+        "id": "S24_Legs01_03",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "S24_Legs01_03",
+            "character": "S24",
+            "kind": "Customization",
+            "newEndDate": "2020-12-15T15:59:59",
+            "newStartDate": "2020-12-01T16:00:00",
+            "outfitId": "S24_outfit_01_03",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "Uncommon",
+            "type": "Legs",
+            "unbreakable": false,
+            "version": {
+                "dmm": true,
+                "grdk": true,
+                "nintendo": true,
+                "ps4": true,
+                "ps5": true,
+                "psn": true,
+                "stadia": true,
+                "steam": true,
+                "switch": true,
+                "xbox": true,
+                "xsx": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 100
+            },
+            {
+                "currencyId": "Shards",
+                "price": 1800
+            }
+        ],
+        "eventCostList": [],
+        "id": "S24_Head01_04",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "S24_Head01_04",
+            "character": "S24",
+            "kind": "Customization",
+            "newEndDate": "2020-12-15T15:59:59",
+            "newStartDate": "2020-12-01T16:00:00",
+            "outfitId": "S24_outfit_01_04",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "Uncommon",
+            "type": "Head",
+            "unbreakable": false,
+            "version": {
+                "dmm": true,
+                "grdk": true,
+                "nintendo": true,
+                "ps4": true,
+                "ps5": true,
+                "psn": true,
+                "stadia": true,
+                "steam": true,
+                "switch": true,
+                "xbox": true,
+                "xsx": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 100
+            },
+            {
+                "currencyId": "Shards",
+                "price": 1800
+            }
+        ],
+        "eventCostList": [],
+        "id": "S24_Torso01_04",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "S24_Torso01_04",
+            "character": "S24",
+            "kind": "Customization",
+            "newEndDate": "2020-12-15T15:59:59",
+            "newStartDate": "2020-12-01T16:00:00",
+            "outfitId": "S24_outfit_01_04",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "Uncommon",
+            "type": "Torso",
+            "unbreakable": false,
+            "version": {
+                "dmm": true,
+                "grdk": true,
+                "nintendo": true,
+                "ps4": true,
+                "ps5": true,
+                "psn": true,
+                "stadia": true,
+                "steam": true,
+                "switch": true,
+                "xbox": true,
+                "xsx": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 100
+            },
+            {
+                "currencyId": "Shards",
+                "price": 1800
+            }
+        ],
+        "eventCostList": [],
+        "id": "S24_Legs01_04",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "S24_Legs01_04",
+            "character": "S24",
+            "kind": "Customization",
+            "newEndDate": "2020-12-15T15:59:59",
+            "newStartDate": "2020-12-01T16:00:00",
+            "outfitId": "S24_outfit_01_04",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "Uncommon",
+            "type": "Legs",
+            "unbreakable": false,
+            "version": {
+                "dmm": true,
+                "grdk": true,
+                "nintendo": true,
+                "ps4": true,
+                "ps5": true,
+                "psn": true,
+                "stadia": true,
+                "steam": true,
+                "switch": true,
+                "xbox": true,
+                "xsx": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 50
+            },
+            {
+                "currencyId": "Shards",
+                "price": 900
+            }
+        ],
+        "eventCostList": [],
+        "id": "S24_Torso01_CV01",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "S24_Torso01_CV01",
+            "character": "S24",
+            "kind": "Customization",
+            "newEndDate": "2020-12-15T15:59:59",
+            "newStartDate": "2020-12-01T16:00:00",
+            "outfitId": "S24_outfit_01_CV01",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "Common",
+            "type": "Torso",
+            "unbreakable": false,
+            "version": {
+                "dmm": true,
+                "grdk": true,
+                "nintendo": true,
+                "ps4": true,
+                "ps5": true,
+                "psn": true,
+                "stadia": true,
+                "steam": true,
+                "switch": true,
+                "xbox": true,
+                "xsx": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 50
+            },
+            {
+                "currencyId": "Shards",
+                "price": 900
+            }
+        ],
+        "eventCostList": [],
+        "id": "S24_Legs01_CV01",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "S24_Legs01_CV01",
+            "character": "S24",
+            "kind": "Customization",
+            "newEndDate": "2020-12-15T15:59:59",
+            "newStartDate": "2020-12-01T16:00:00",
+            "outfitId": "S24_outfit_01_CV01",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "Common",
+            "type": "Legs",
+            "unbreakable": false,
+            "version": {
+                "dmm": true,
+                "grdk": true,
+                "nintendo": true,
+                "ps4": true,
+                "ps5": true,
+                "psn": true,
+                "stadia": true,
+                "steam": true,
+                "switch": true,
+                "xbox": true,
+                "xsx": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 50
+            },
+            {
+                "currencyId": "Shards",
+                "price": 900
+            }
+        ],
+        "eventCostList": [],
+        "id": "S24_Torso01_CV02",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "S24_Torso01_CV02",
+            "character": "S24",
+            "kind": "Customization",
+            "newEndDate": "2020-12-15T15:59:59",
+            "newStartDate": "2020-12-01T16:00:00",
+            "outfitId": "S24_outfit_01_CV02",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "Common",
+            "type": "Torso",
+            "unbreakable": false,
+            "version": {
+                "dmm": true,
+                "grdk": true,
+                "nintendo": true,
+                "ps4": true,
+                "ps5": true,
+                "psn": true,
+                "stadia": true,
+                "steam": true,
+                "switch": true,
+                "xbox": true,
+                "xsx": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 50
+            },
+            {
+                "currencyId": "Shards",
+                "price": 900
+            }
+        ],
+        "eventCostList": [],
+        "id": "S24_Legs01_CV02",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "S24_Legs01_CV02",
+            "character": "S24",
+            "kind": "Customization",
+            "newEndDate": "2020-12-15T15:59:59",
+            "newStartDate": "2020-12-01T16:00:00",
+            "outfitId": "S24_outfit_01_CV02",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "Common",
+            "type": "Legs",
+            "unbreakable": false,
+            "version": {
+                "dmm": true,
+                "grdk": true,
+                "nintendo": true,
+                "ps4": true,
+                "ps5": true,
+                "psn": true,
+                "stadia": true,
+                "steam": true,
+                "switch": true,
+                "xbox": true,
+                "xsx": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 50
+            },
+            {
+                "currencyId": "Shards",
+                "price": 900
+            }
+        ],
+        "eventCostList": [],
+        "id": "S24_Torso01_CV03",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "S24_Torso01_CV03",
+            "character": "S24",
+            "kind": "Customization",
+            "newEndDate": "2020-12-15T15:59:59",
+            "newStartDate": "2020-12-01T16:00:00",
+            "outfitId": "S24_outfit_01_CV03",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "Common",
+            "type": "Torso",
+            "unbreakable": false,
+            "version": {
+                "dmm": true,
+                "grdk": true,
+                "nintendo": true,
+                "ps4": true,
+                "ps5": true,
+                "psn": true,
+                "stadia": true,
+                "steam": true,
+                "switch": true,
+                "xbox": true,
+                "xsx": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 50
+            },
+            {
+                "currencyId": "Shards",
+                "price": 900
+            }
+        ],
+        "eventCostList": [],
+        "id": "S24_Legs01_CV03",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "S24_Legs01_CV03",
+            "character": "S24",
+            "kind": "Customization",
+            "newEndDate": "2020-12-15T15:59:59",
+            "newStartDate": "2020-12-01T16:00:00",
+            "outfitId": "S24_outfit_01_CV03",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "Common",
+            "type": "Legs",
+            "unbreakable": false,
+            "version": {
+                "dmm": true,
+                "grdk": true,
+                "nintendo": true,
+                "ps4": true,
+                "ps5": true,
+                "psn": true,
+                "stadia": true,
+                "steam": true,
+                "switch": true,
+                "xbox": true,
+                "xsx": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 50
+            },
+            {
+                "currencyId": "Shards",
+                "price": 900
+            }
+        ],
+        "eventCostList": [],
+        "id": "S24_Torso01_CV04",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "S24_Torso01_CV04",
+            "character": "S24",
+            "kind": "Customization",
+            "newEndDate": "2020-12-15T15:59:59",
+            "newStartDate": "2020-12-01T16:00:00",
+            "outfitId": "S24_outfit_01_CV04",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "Common",
+            "type": "Torso",
+            "unbreakable": false,
+            "version": {
+                "dmm": true,
+                "grdk": true,
+                "nintendo": true,
+                "ps4": true,
+                "ps5": true,
+                "psn": true,
+                "stadia": true,
+                "steam": true,
+                "switch": true,
+                "xbox": true,
+                "xsx": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 50
+            },
+            {
+                "currencyId": "Shards",
+                "price": 900
+            }
+        ],
+        "eventCostList": [],
+        "id": "S24_Legs01_CV04",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "S24_Legs01_CV04",
+            "character": "S24",
+            "kind": "Customization",
+            "newEndDate": "2020-12-15T15:59:59",
+            "newStartDate": "2020-12-01T16:00:00",
+            "outfitId": "S24_outfit_01_CV04",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "Common",
+            "type": "Legs",
+            "unbreakable": false,
+            "version": {
+                "dmm": true,
+                "grdk": true,
+                "nintendo": true,
+                "ps4": true,
+                "ps5": true,
+                "psn": true,
+                "stadia": true,
+                "steam": true,
+                "switch": true,
+                "xbox": true,
+                "xsx": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 50
+            }
+        ],
+        "eventCostList": [],
+        "id": "S24_Torso01_01",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "S24_Torso01_01",
+            "character": "S24",
+            "kind": "Customization",
+            "newEndDate": "2018-06-25T23:59:59",
+            "newStartDate": "2018-06-12T00:00:00",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "Common",
+            "type": "Torso",
+            "version": {
+                "dmm": true,
+                "grdk": true,
+                "nintendo": true,
+                "ps4": true,
+                "ps5": true,
+                "psn": true,
+                "stadia": true,
+                "steam": true,
+                "switch": true,
+                "xbox": true,
+                "xsx": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": false,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 250
+            },
+            {
+                "currencyId": "Shards",
+                "price": 4500
+            }
+        ],
+        "eventCostList": [],
+        "id": "K22_Head02",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "K22_Head02",
+            "character": "K22",
+            "kind": "Customization",
+            "newEndDate": "2020-12-15T15:59:59",
+            "newStartDate": "2020-12-01T16:00:00",
+            "outfitId": "K22_outfit_02",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "Rare",
+            "type": "Head",
+            "unbreakable": false,
+            "version": {
+                "dmm": true,
+                "grdk": true,
+                "nintendo": true,
+                "ps4": true,
+                "ps5": true,
+                "psn": true,
+                "stadia": true,
+                "steam": true,
+                "switch": true,
+                "xbox": true,
+                "xsx": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 250
+            },
+            {
+                "currencyId": "Shards",
+                "price": 4500
+            }
+        ],
+        "eventCostList": [],
+        "id": "K22_Body02",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "K22_Body02",
+            "character": "K22",
+            "kind": "Customization",
+            "newEndDate": "2020-12-15T15:59:59",
+            "newStartDate": "2020-12-01T16:00:00",
+            "outfitId": "K22_outfit_02",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "Rare",
+            "type": "Torso",
+            "unbreakable": false,
+            "version": {
+                "dmm": true,
+                "grdk": true,
+                "nintendo": true,
+                "ps4": true,
+                "ps5": true,
+                "psn": true,
+                "stadia": true,
+                "steam": true,
+                "switch": true,
+                "xbox": true,
+                "xsx": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 250
+            },
+            {
+                "currencyId": "Shards",
+                "price": 4500
+            }
+        ],
+        "eventCostList": [],
+        "id": "K22_W02",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "K22_W02",
+            "character": "K22",
+            "kind": "Customization",
+            "newEndDate": "2020-12-15T15:59:59",
+            "newStartDate": "2020-12-01T16:00:00",
+            "outfitId": "K22_outfit_02",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "Rare",
+            "type": "Weapon",
+            "unbreakable": false,
+            "version": {
+                "dmm": true,
+                "grdk": true,
+                "nintendo": true,
+                "ps4": true,
+                "ps5": true,
+                "psn": true,
+                "stadia": true,
+                "steam": true,
+                "switch": true,
+                "xbox": true,
+                "xsx": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 250
+            }
+        ],
+        "eventCostList": [],
+        "id": "K22_Head02_01",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "K22_Head02_01",
+            "character": "K22",
+            "kind": "Customization",
+            "newEndDate": "2020-12-15T15:59:59",
+            "newStartDate": "2020-12-01T16:00:00",
+            "outfitId": "K22_outfit_02_01",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "Rare",
+            "type": "Head",
+            "unbreakable": false,
+            "version": {
+                "dmm": true,
+                "grdk": true,
+                "nintendo": true,
+                "ps4": true,
+                "ps5": true,
+                "psn": true,
+                "stadia": true,
+                "steam": true,
+                "switch": true,
+                "xbox": true,
+                "xsx": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 250
+            }
+        ],
+        "eventCostList": [],
+        "id": "K22_Body02_01",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "K22_Body02_01",
+            "character": "K22",
+            "kind": "Customization",
+            "newEndDate": "2020-12-15T15:59:59",
+            "newStartDate": "2020-12-01T16:00:00",
+            "outfitId": "K22_outfit_02_01",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "Rare",
+            "type": "Torso",
+            "unbreakable": false,
+            "version": {
+                "dmm": true,
+                "grdk": true,
+                "nintendo": true,
+                "ps4": true,
+                "ps5": true,
+                "psn": true,
+                "stadia": true,
+                "steam": true,
+                "switch": true,
+                "xbox": true,
+                "xsx": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 250
+            }
+        ],
+        "eventCostList": [],
+        "id": "K22_W02_01",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "K22_W02_01",
+            "character": "K22",
+            "kind": "Customization",
+            "newEndDate": "2020-12-15T15:59:59",
+            "newStartDate": "2020-12-01T16:00:00",
+            "outfitId": "K22_outfit_02_01",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "Rare",
+            "type": "Weapon",
+            "unbreakable": false,
+            "version": {
+                "dmm": true,
+                "grdk": true,
+                "nintendo": true,
+                "ps4": true,
+                "ps5": true,
+                "psn": true,
+                "stadia": true,
+                "steam": true,
+                "switch": true,
+                "xbox": true,
+                "xsx": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 100
+            },
+            {
+                "currencyId": "Shards",
+                "price": 1800
+            }
+        ],
+        "eventCostList": [],
+        "id": "K22_Head01_01",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "K22_Head01_01",
+            "character": "K22",
+            "kind": "Customization",
+            "newEndDate": "2020-12-15T15:59:59",
+            "newStartDate": "2020-12-01T16:00:00",
+            "outfitId": "K22_outfit_01_01",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "Uncommon",
+            "type": "Head",
+            "unbreakable": false,
+            "version": {
+                "dmm": true,
+                "grdk": true,
+                "nintendo": true,
+                "ps4": true,
+                "ps5": true,
+                "psn": true,
+                "stadia": true,
+                "steam": true,
+                "switch": true,
+                "xbox": true,
+                "xsx": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 100
+            },
+            {
+                "currencyId": "Shards",
+                "price": 1800
+            }
+        ],
+        "eventCostList": [],
+        "id": "K22_Body01_01",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "K22_Body01_01",
+            "character": "K22",
+            "kind": "Customization",
+            "newEndDate": "2020-12-15T15:59:59",
+            "newStartDate": "2020-12-01T16:00:00",
+            "outfitId": "K22_outfit_01_01",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "Uncommon",
+            "type": "Torso",
+            "unbreakable": false,
+            "version": {
+                "dmm": true,
+                "grdk": true,
+                "nintendo": true,
+                "ps4": true,
+                "ps5": true,
+                "psn": true,
+                "stadia": true,
+                "steam": true,
+                "switch": true,
+                "xbox": true,
+                "xsx": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 100
+            },
+            {
+                "currencyId": "Shards",
+                "price": 1800
+            }
+        ],
+        "eventCostList": [],
+        "id": "K22_W01_01",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "K22_W01_01",
+            "character": "K22",
+            "kind": "Customization",
+            "newEndDate": "2020-12-15T15:59:59",
+            "newStartDate": "2020-12-01T16:00:00",
+            "outfitId": "K22_outfit_01_01",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "Uncommon",
+            "type": "Weapon",
+            "unbreakable": false,
+            "version": {
+                "dmm": true,
+                "grdk": true,
+                "nintendo": true,
+                "ps4": true,
+                "ps5": true,
+                "psn": true,
+                "stadia": true,
+                "steam": true,
+                "switch": true,
+                "xbox": true,
+                "xsx": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 100
+            },
+            {
+                "currencyId": "Shards",
+                "price": 1800
+            }
+        ],
+        "eventCostList": [],
+        "id": "K22_Head01_02",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "K22_Head01_02",
+            "character": "K22",
+            "kind": "Customization",
+            "newEndDate": "2020-12-15T15:59:59",
+            "newStartDate": "2020-12-01T16:00:00",
+            "outfitId": "K22_outfit_01_02",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "Uncommon",
+            "type": "Head",
+            "unbreakable": false,
+            "version": {
+                "dmm": true,
+                "grdk": true,
+                "nintendo": true,
+                "ps4": true,
+                "ps5": true,
+                "psn": true,
+                "stadia": true,
+                "steam": true,
+                "switch": true,
+                "xbox": true,
+                "xsx": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 100
+            },
+            {
+                "currencyId": "Shards",
+                "price": 1800
+            }
+        ],
+        "eventCostList": [],
+        "id": "K22_Body01_02",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "K22_Body01_02",
+            "character": "K22",
+            "kind": "Customization",
+            "newEndDate": "2020-12-15T15:59:59",
+            "newStartDate": "2020-12-01T16:00:00",
+            "outfitId": "K22_outfit_01_02",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "Uncommon",
+            "type": "Torso",
+            "unbreakable": false,
+            "version": {
+                "dmm": true,
+                "grdk": true,
+                "nintendo": true,
+                "ps4": true,
+                "ps5": true,
+                "psn": true,
+                "stadia": true,
+                "steam": true,
+                "switch": true,
+                "xbox": true,
+                "xsx": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 100
+            },
+            {
+                "currencyId": "Shards",
+                "price": 1800
+            }
+        ],
+        "eventCostList": [],
+        "id": "K22_W01_02",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "K22_W01_02",
+            "character": "K22",
+            "kind": "Customization",
+            "newEndDate": "2020-12-15T15:59:59",
+            "newStartDate": "2020-12-01T16:00:00",
+            "outfitId": "K22_outfit_01_02",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "Uncommon",
+            "type": "Weapon",
+            "unbreakable": false,
+            "version": {
+                "dmm": true,
+                "grdk": true,
+                "nintendo": true,
+                "ps4": true,
+                "ps5": true,
+                "psn": true,
+                "stadia": true,
+                "steam": true,
+                "switch": true,
+                "xbox": true,
+                "xsx": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 100
+            },
+            {
+                "currencyId": "Shards",
+                "price": 1800
+            }
+        ],
+        "eventCostList": [],
+        "id": "K22_Head01_03",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "K22_Head01_03",
+            "character": "K22",
+            "kind": "Customization",
+            "newEndDate": "2020-12-15T15:59:59",
+            "newStartDate": "2020-12-01T16:00:00",
+            "outfitId": "K22_outfit_01_03",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "Uncommon",
+            "type": "Head",
+            "unbreakable": false,
+            "version": {
+                "dmm": true,
+                "grdk": true,
+                "nintendo": true,
+                "ps4": true,
+                "ps5": true,
+                "psn": true,
+                "stadia": true,
+                "steam": true,
+                "switch": true,
+                "xbox": true,
+                "xsx": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 100
+            },
+            {
+                "currencyId": "Shards",
+                "price": 1800
+            }
+        ],
+        "eventCostList": [],
+        "id": "K22_Body01_03",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "K22_Body01_03",
+            "character": "K22",
+            "kind": "Customization",
+            "newEndDate": "2020-12-15T15:59:59",
+            "newStartDate": "2020-12-01T16:00:00",
+            "outfitId": "K22_outfit_01_03",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "Uncommon",
+            "type": "Torso",
+            "unbreakable": false,
+            "version": {
+                "dmm": true,
+                "grdk": true,
+                "nintendo": true,
+                "ps4": true,
+                "ps5": true,
+                "psn": true,
+                "stadia": true,
+                "steam": true,
+                "switch": true,
+                "xbox": true,
+                "xsx": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 100
+            },
+            {
+                "currencyId": "Shards",
+                "price": 1800
+            }
+        ],
+        "eventCostList": [],
+        "id": "K22_W01_03",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "K22_W01_03",
+            "character": "K22",
+            "kind": "Customization",
+            "newEndDate": "2020-12-15T15:59:59",
+            "newStartDate": "2020-12-01T16:00:00",
+            "outfitId": "K22_outfit_01_03",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "Uncommon",
+            "type": "Weapon",
+            "unbreakable": false,
+            "version": {
+                "dmm": true,
+                "grdk": true,
+                "nintendo": true,
+                "ps4": true,
+                "ps5": true,
+                "psn": true,
+                "stadia": true,
+                "steam": true,
+                "switch": true,
+                "xbox": true,
+                "xsx": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 50
+            },
+            {
+                "currencyId": "Shards",
+                "price": 900
+            }
+        ],
+        "eventCostList": [],
+        "id": "K22_Head01_CV01",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "K22_Head01_CV01",
+            "character": "K22",
+            "kind": "Customization",
+            "newEndDate": "2020-12-15T15:59:59",
+            "newStartDate": "2020-12-01T16:00:00",
+            "outfitId": "K22_outfit_01_CV01",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "Common",
+            "type": "Head",
+            "unbreakable": false,
+            "version": {
+                "dmm": true,
+                "grdk": true,
+                "nintendo": true,
+                "ps4": true,
+                "ps5": true,
+                "psn": true,
+                "stadia": true,
+                "steam": true,
+                "switch": true,
+                "xbox": true,
+                "xsx": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 50
+            },
+            {
+                "currencyId": "Shards",
+                "price": 900
+            }
+        ],
+        "eventCostList": [],
+        "id": "K22_Body01_CV01",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "K22_Body01_CV01",
+            "character": "K22",
+            "kind": "Customization",
+            "newEndDate": "2020-12-15T15:59:59",
+            "newStartDate": "2020-12-01T16:00:00",
+            "outfitId": "K22_outfit_01_CV01",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "Common",
+            "type": "Torso",
+            "unbreakable": false,
+            "version": {
+                "dmm": true,
+                "grdk": true,
+                "nintendo": true,
+                "ps4": true,
+                "ps5": true,
+                "psn": true,
+                "stadia": true,
+                "steam": true,
+                "switch": true,
+                "xbox": true,
+                "xsx": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 50
+            },
+            {
+                "currencyId": "Shards",
+                "price": 900
+            }
+        ],
+        "eventCostList": [],
+        "id": "K22_W01_CV01",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "K22_W01_CV01",
+            "character": "K22",
+            "kind": "Customization",
+            "newEndDate": "2020-12-15T15:59:59",
+            "newStartDate": "2020-12-01T16:00:00",
+            "outfitId": "K22_outfit_01_CV01",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "Common",
+            "type": "Weapon",
+            "unbreakable": false,
+            "version": {
+                "dmm": true,
+                "grdk": true,
+                "nintendo": true,
+                "ps4": true,
+                "ps5": true,
+                "psn": true,
+                "stadia": true,
+                "steam": true,
+                "switch": true,
+                "xbox": true,
+                "xsx": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 50
+            },
+            {
+                "currencyId": "Shards",
+                "price": 900
+            }
+        ],
+        "eventCostList": [],
+        "id": "K22_Head01_CV02",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "K22_Head01_CV02",
+            "character": "K22",
+            "kind": "Customization",
+            "newEndDate": "2020-12-15T15:59:59",
+            "newStartDate": "2020-12-01T16:00:00",
+            "outfitId": "K22_outfit_01_CV02",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "Common",
+            "type": "Head",
+            "unbreakable": false,
+            "version": {
+                "dmm": true,
+                "grdk": true,
+                "nintendo": true,
+                "ps4": true,
+                "ps5": true,
+                "psn": true,
+                "stadia": true,
+                "steam": true,
+                "switch": true,
+                "xbox": true,
+                "xsx": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 50
+            },
+            {
+                "currencyId": "Shards",
+                "price": 900
+            }
+        ],
+        "eventCostList": [],
+        "id": "K22_Body01_CV02",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "K22_Body01_CV02",
+            "character": "K22",
+            "kind": "Customization",
+            "newEndDate": "2020-12-15T15:59:59",
+            "newStartDate": "2020-12-01T16:00:00",
+            "outfitId": "K22_outfit_01_CV02",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "Common",
+            "type": "Torso",
+            "unbreakable": false,
+            "version": {
+                "dmm": true,
+                "grdk": true,
+                "nintendo": true,
+                "ps4": true,
+                "ps5": true,
+                "psn": true,
+                "stadia": true,
+                "steam": true,
+                "switch": true,
+                "xbox": true,
+                "xsx": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 50
+            },
+            {
+                "currencyId": "Shards",
+                "price": 900
+            }
+        ],
+        "eventCostList": [],
+        "id": "K22_W01_CV02",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "K22_W01_CV02",
+            "character": "K22",
+            "kind": "Customization",
+            "newEndDate": "2020-12-15T15:59:59",
+            "newStartDate": "2020-12-01T16:00:00",
+            "outfitId": "K22_outfit_01_CV02",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "Common",
+            "type": "Weapon",
+            "unbreakable": false,
+            "version": {
+                "dmm": true,
+                "grdk": true,
+                "nintendo": true,
+                "ps4": true,
+                "ps5": true,
+                "psn": true,
+                "stadia": true,
+                "steam": true,
+                "switch": true,
+                "xbox": true,
+                "xsx": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 50
+            },
+            {
+                "currencyId": "Shards",
+                "price": 900
+            }
+        ],
+        "eventCostList": [],
+        "id": "K22_Head01_CV03",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "K22_Head01_CV03",
+            "character": "K22",
+            "kind": "Customization",
+            "newEndDate": "2020-12-15T15:59:59",
+            "newStartDate": "2020-12-01T16:00:00",
+            "outfitId": "K22_outfit_01_CV03",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "Common",
+            "type": "Head",
+            "unbreakable": false,
+            "version": {
+                "dmm": true,
+                "grdk": true,
+                "nintendo": true,
+                "ps4": true,
+                "ps5": true,
+                "psn": true,
+                "stadia": true,
+                "steam": true,
+                "switch": true,
+                "xbox": true,
+                "xsx": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 50
+            },
+            {
+                "currencyId": "Shards",
+                "price": 900
+            }
+        ],
+        "eventCostList": [],
+        "id": "K22_Body01_CV03",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "K22_Body01_CV03",
+            "character": "K22",
+            "kind": "Customization",
+            "newEndDate": "2020-12-15T15:59:59",
+            "newStartDate": "2020-12-01T16:00:00",
+            "outfitId": "K22_outfit_01_CV03",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "Common",
+            "type": "Torso",
+            "unbreakable": false,
+            "version": {
+                "dmm": true,
+                "grdk": true,
+                "nintendo": true,
+                "ps4": true,
+                "ps5": true,
+                "psn": true,
+                "stadia": true,
+                "steam": true,
+                "switch": true,
+                "xbox": true,
+                "xsx": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 50
+            },
+            {
+                "currencyId": "Shards",
+                "price": 900
+            }
+        ],
+        "eventCostList": [],
+        "id": "K22_W01_CV03",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "K22_W01_CV03",
+            "character": "K22",
+            "kind": "Customization",
+            "newEndDate": "2020-12-15T15:59:59",
+            "newStartDate": "2020-12-01T16:00:00",
+            "outfitId": "K22_outfit_01_CV03",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "Common",
+            "type": "Weapon",
+            "unbreakable": false,
+            "version": {
+                "dmm": true,
+                "grdk": true,
+                "nintendo": true,
+                "ps4": true,
+                "ps5": true,
+                "psn": true,
+                "stadia": true,
+                "steam": true,
+                "switch": true,
+                "xbox": true,
+                "xsx": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 50
+            },
+            {
+                "currencyId": "Shards",
+                "price": 900
+            }
+        ],
+        "eventCostList": [],
+        "id": "K22_Head01_CV04",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "K22_Head01_CV04",
+            "character": "K22",
+            "kind": "Customization",
+            "newEndDate": "2020-12-15T15:59:59",
+            "newStartDate": "2020-12-01T16:00:00",
+            "outfitId": "K22_outfit_01_CV04",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "Common",
+            "type": "Head",
+            "unbreakable": false,
+            "version": {
+                "dmm": true,
+                "grdk": true,
+                "nintendo": true,
+                "ps4": true,
+                "ps5": true,
+                "psn": true,
+                "stadia": true,
+                "steam": true,
+                "switch": true,
+                "xbox": true,
+                "xsx": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 50
+            },
+            {
+                "currencyId": "Shards",
+                "price": 900
+            }
+        ],
+        "eventCostList": [],
+        "id": "K22_Body01_CV04",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "K22_Body01_CV04",
+            "character": "K22",
+            "kind": "Customization",
+            "newEndDate": "2020-12-15T15:59:59",
+            "newStartDate": "2020-12-01T16:00:00",
+            "outfitId": "K22_outfit_01_CV04",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "Common",
+            "type": "Torso",
+            "unbreakable": false,
+            "version": {
+                "dmm": true,
+                "grdk": true,
+                "nintendo": true,
+                "ps4": true,
+                "ps5": true,
+                "psn": true,
+                "stadia": true,
+                "steam": true,
+                "switch": true,
+                "xbox": true,
+                "xsx": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 50
+            },
+            {
+                "currencyId": "Shards",
+                "price": 900
+            }
+        ],
+        "eventCostList": [],
+        "id": "K22_W01_CV04",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "K22_W01_CV04",
+            "character": "K22",
+            "kind": "Customization",
+            "newEndDate": "2020-12-15T15:59:59",
+            "newStartDate": "2020-12-01T16:00:00",
+            "outfitId": "K22_outfit_01_CV04",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "Common",
+            "type": "Weapon",
+            "unbreakable": false,
+            "version": {
+                "dmm": true,
+                "grdk": true,
+                "nintendo": true,
+                "ps4": true,
+                "ps5": true,
+                "psn": true,
+                "stadia": true,
+                "steam": true,
+                "switch": true,
+                "xbox": true,
+                "xsx": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 400
+            }
+        ],
+        "eventCostList": [],
+        "id": "K22_Head006",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "K22_Head006",
+            "character": "K22",
+            "kind": "Customization",
+            "newEndDate": "2020-12-15T15:59:59",
+            "newStartDate": "2020-12-01T16:00:00",
+            "outfitId": "K22_outfit_006",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "VeryRare",
+            "type": "Head",
+            "unbreakable": true,
+            "version": {
+                "dmm": true,
+                "grdk": true,
+                "nintendo": true,
+                "ps4": true,
+                "ps5": true,
+                "psn": true,
+                "stadia": true,
+                "steam": true,
+                "switch": true,
+                "xbox": true,
+                "xsx": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 400
+            }
+        ],
+        "eventCostList": [],
+        "id": "K22_Body006",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "K22_Body006",
+            "character": "K22",
+            "kind": "Customization",
+            "newEndDate": "2020-12-15T15:59:59",
+            "newStartDate": "2020-12-01T16:00:00",
+            "outfitId": "K22_outfit_006",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "VeryRare",
+            "type": "Torso",
+            "unbreakable": true,
+            "version": {
+                "dmm": true,
+                "grdk": true,
+                "nintendo": true,
+                "ps4": true,
+                "ps5": true,
+                "psn": true,
+                "stadia": true,
+                "steam": true,
+                "switch": true,
+                "xbox": true,
+                "xsx": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 400
+            }
+        ],
+        "eventCostList": [],
+        "id": "K22_W006",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "K22_W006",
+            "character": "K22",
+            "kind": "Customization",
+            "newEndDate": "2020-12-15T15:59:59",
+            "newStartDate": "2020-12-01T16:00:00",
+            "outfitId": "K22_outfit_006",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "VeryRare",
+            "type": "Weapon",
+            "unbreakable": true,
+            "version": {
+                "dmm": true,
+                "grdk": true,
+                "nintendo": true,
+                "ps4": true,
+                "ps5": true,
+                "psn": true,
+                "stadia": true,
+                "steam": true,
+                "switch": true,
+                "xbox": true,
+                "xsx": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 400
+            }
+        ],
+        "eventCostList": [],
+        "id": "S24_Head006",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "S24_Head006",
+            "character": "S24",
+            "kind": "Customization",
+            "newEndDate": "2020-12-15T15:59:59",
+            "newStartDate": "2020-12-01T16:00:00",
+            "outfitId": "S24_outfit_006",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "VeryRare",
+            "type": "Head",
+            "unbreakable": true,
+            "version": {
+                "dmm": true,
+                "grdk": true,
+                "nintendo": true,
+                "ps4": true,
+                "ps5": true,
+                "psn": true,
+                "stadia": true,
+                "steam": true,
+                "switch": true,
+                "xbox": true,
+                "xsx": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 400
+            }
+        ],
+        "eventCostList": [],
+        "id": "S24_Torso006",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "S24_Torso006",
+            "character": "S24",
+            "kind": "Customization",
+            "newEndDate": "2020-12-15T15:59:59",
+            "newStartDate": "2020-12-01T16:00:00",
+            "outfitId": "S24_outfit_006",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "VeryRare",
+            "type": "Torso",
+            "unbreakable": true,
+            "version": {
+                "dmm": true,
+                "grdk": true,
+                "nintendo": true,
+                "ps4": true,
+                "ps5": true,
+                "psn": true,
+                "stadia": true,
+                "steam": true,
+                "switch": true,
+                "xbox": true,
+                "xsx": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 400
+            }
+        ],
+        "eventCostList": [],
+        "id": "S24_Legs006",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "S24_Legs006",
+            "character": "S24",
+            "kind": "Customization",
+            "newEndDate": "2020-12-15T15:59:59",
+            "newStartDate": "2020-12-01T16:00:00",
+            "outfitId": "S24_outfit_006",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "VeryRare",
+            "type": "Legs",
+            "unbreakable": true,
+            "version": {
+                "dmm": true,
+                "grdk": true,
+                "nintendo": true,
+                "ps4": true,
+                "ps5": true,
+                "psn": true,
+                "stadia": true,
+                "steam": true,
+                "switch": true,
+                "xbox": true,
+                "xsx": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 500
+            }
+        ],
+        "eventCostList": [],
+        "id": "TR_Mask012",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "TR_Mask012",
+            "character": "Chuckles",
+            "kind": "Customization",
+            "newEndDate": "2020-12-18T15:59:59",
+            "newStartDate": "2020-12-04T16:00:00",
+            "outfitId": "TR_outfit_012",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "Legendary",
+            "type": "Head",
+            "unbreakable": true,
+            "version": {
+                "dmm": true,
+                "grdk": true,
+                "nintendo": true,
+                "ps4": true,
+                "ps5": true,
+                "psn": true,
+                "stadia": true,
+                "steam": true,
+                "switch": true,
+                "xbox": true,
+                "xsx": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 500
+            }
+        ],
+        "eventCostList": [],
+        "id": "TR_Body012",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "TR_Body012",
+            "character": "Chuckles",
+            "kind": "Customization",
+            "newEndDate": "2020-12-18T15:59:59",
+            "newStartDate": "2020-12-04T16:00:00",
+            "outfitId": "TR_outfit_012",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "Legendary",
+            "type": "Torso",
+            "unbreakable": true,
+            "version": {
+                "dmm": true,
+                "grdk": true,
+                "nintendo": true,
+                "ps4": true,
+                "ps5": true,
+                "psn": true,
+                "stadia": true,
+                "steam": true,
+                "switch": true,
+                "xbox": true,
+                "xsx": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 500
+            }
+        ],
+        "eventCostList": [],
+        "id": "TR_W012",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "TR_W012",
+            "character": "Chuckles",
+            "kind": "Customization",
+            "newEndDate": "2020-12-18T15:59:59",
+            "newStartDate": "2020-12-04T16:00:00",
+            "outfitId": "TR_outfit_012",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "Legendary",
+            "type": "Weapon",
+            "unbreakable": true,
+            "version": {
+                "dmm": true,
+                "grdk": true,
+                "nintendo": true,
+                "ps4": true,
+                "ps5": true,
+                "psn": true,
+                "stadia": true,
+                "steam": true,
+                "switch": true,
+                "xbox": true,
+                "xsx": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 400
+            },
+            {
+                "currencyId": "Shards",
+                "price": 7200
+            }
+        ],
+        "eventCostList": [],
+        "id": "DF_Head013",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "DF_Head013",
+            "character": "Dwight",
+            "kind": "Customization",
+            "newEndDate": "2020-12-22T15:59:59",
+            "newStartDate": "2020-12-08T16:00:00",
+            "outfitId": "DF_outfit_013",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "VeryRare",
+            "type": "Head",
+            "unbreakable": false,
+            "version": {
+                "dmm": true,
+                "grdk": true,
+                "nintendo": true,
+                "ps4": true,
+                "ps5": true,
+                "psn": true,
+                "stadia": true,
+                "steam": true,
+                "switch": true,
+                "xbox": true,
+                "xsx": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 400
+            },
+            {
+                "currencyId": "Shards",
+                "price": 7200
+            }
+        ],
+        "eventCostList": [],
+        "id": "DF_Torso013",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "DF_Torso013",
+            "character": "Dwight",
+            "kind": "Customization",
+            "newEndDate": "2020-12-22T15:59:59",
+            "newStartDate": "2020-12-08T16:00:00",
+            "outfitId": "DF_outfit_013",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "VeryRare",
+            "type": "Torso",
+            "unbreakable": false,
+            "version": {
+                "dmm": true,
+                "grdk": true,
+                "nintendo": true,
+                "ps4": true,
+                "ps5": true,
+                "psn": true,
+                "stadia": true,
+                "steam": true,
+                "switch": true,
+                "xbox": true,
+                "xsx": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 400
+            },
+            {
+                "currencyId": "Shards",
+                "price": 7200
+            }
+        ],
+        "eventCostList": [],
+        "id": "DF_Legs013",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "DF_Legs013",
+            "character": "Dwight",
+            "kind": "Customization",
+            "newEndDate": "2020-12-22T15:59:59",
+            "newStartDate": "2020-12-08T16:00:00",
+            "outfitId": "DF_outfit_013",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "VeryRare",
+            "type": "Legs",
+            "unbreakable": false,
+            "version": {
+                "dmm": true,
+                "grdk": true,
+                "nintendo": true,
+                "ps4": true,
+                "ps5": true,
+                "psn": true,
+                "stadia": true,
+                "steam": true,
+                "switch": true,
+                "xbox": true,
+                "xsx": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 400
+            }
+        ],
+        "eventCostList": [],
+        "id": "AV_Head012",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "AV_Head012",
+            "character": "Ace",
+            "kind": "Customization",
+            "newEndDate": "2020-12-22T15:59:59",
+            "newStartDate": "2020-12-08T16:00:00",
+            "outfitId": "AV_outfit_012",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "VeryRare",
+            "type": "Head",
+            "unbreakable": false,
+            "version": {
+                "dmm": true,
+                "grdk": true,
+                "nintendo": true,
+                "ps4": true,
+                "ps5": true,
+                "psn": true,
+                "stadia": true,
+                "steam": true,
+                "switch": true,
+                "xbox": true,
+                "xsx": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 400
+            }
+        ],
+        "eventCostList": [],
+        "id": "AV_Torso012",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "AV_Torso012",
+            "character": "Ace",
+            "kind": "Customization",
+            "newEndDate": "2020-12-22T15:59:59",
+            "newStartDate": "2020-12-08T16:00:00",
+            "outfitId": "AV_outfit_012",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "VeryRare",
+            "type": "Torso",
+            "unbreakable": false,
+            "version": {
+                "dmm": true,
+                "grdk": true,
+                "nintendo": true,
+                "ps4": true,
+                "ps5": true,
+                "psn": true,
+                "stadia": true,
+                "steam": true,
+                "switch": true,
+                "xbox": true,
+                "xsx": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 400
+            }
+        ],
+        "eventCostList": [],
+        "id": "AV_Legs012",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "AV_Legs012",
+            "character": "Ace",
+            "kind": "Customization",
+            "newEndDate": "2020-12-22T15:59:59",
+            "newStartDate": "2020-12-08T16:00:00",
+            "outfitId": "AV_outfit_012",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "VeryRare",
+            "type": "Legs",
+            "unbreakable": false,
+            "version": {
+                "dmm": true,
+                "grdk": true,
+                "nintendo": true,
+                "ps4": true,
+                "ps5": true,
+                "psn": true,
+                "stadia": true,
+                "steam": true,
+                "switch": true,
+                "xbox": true,
+                "xsx": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 400
+            }
+        ],
+        "eventCostList": [],
+        "id": "US_Head010",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "US_Head010",
+            "character": "Zarina",
+            "kind": "Customization",
+            "newEndDate": "2020-12-22T15:59:59",
+            "newStartDate": "2020-12-08T16:00:00",
+            "outfitId": "US_outfit_010",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "VeryRare",
+            "type": "Head",
+            "unbreakable": true,
+            "version": {
+                "dmm": true,
+                "grdk": true,
+                "nintendo": true,
+                "ps4": true,
+                "ps5": true,
+                "psn": true,
+                "stadia": true,
+                "steam": true,
+                "switch": true,
+                "xbox": true,
+                "xsx": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 400
+            }
+        ],
+        "eventCostList": [],
+        "id": "US_Torso010",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "US_Torso010",
+            "character": "Zarina",
+            "kind": "Customization",
+            "newEndDate": "2020-12-22T15:59:59",
+            "newStartDate": "2020-12-08T16:00:00",
+            "outfitId": "US_outfit_010",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "VeryRare",
+            "type": "Torso",
+            "unbreakable": true,
+            "version": {
+                "dmm": true,
+                "grdk": true,
+                "nintendo": true,
+                "ps4": true,
+                "ps5": true,
+                "psn": true,
+                "stadia": true,
+                "steam": true,
+                "switch": true,
+                "xbox": true,
+                "xsx": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 400
+            }
+        ],
+        "eventCostList": [],
+        "id": "US_Legs010",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "US_Legs010",
+            "character": "Zarina",
+            "kind": "Customization",
+            "newEndDate": "2020-12-22T15:59:59",
+            "newStartDate": "2020-12-08T16:00:00",
+            "outfitId": "US_outfit_010",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "VeryRare",
+            "type": "Legs",
+            "unbreakable": true,
+            "version": {
+                "dmm": true,
+                "grdk": true,
+                "nintendo": true,
+                "ps4": true,
+                "ps5": true,
+                "psn": true,
+                "stadia": true,
+                "steam": true,
+                "switch": true,
+                "xbox": true,
+                "xsx": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 400
+            },
+            {
+                "currencyId": "Shards",
+                "price": 7200
+            }
+        ],
+        "eventCostList": [],
+        "id": "CM_Head016",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "CM_Head016",
+            "character": "Claudette",
+            "kind": "Customization",
+            "newEndDate": "2020-12-25T15:59:59",
+            "newStartDate": "2020-12-11T16:00:00",
+            "outfitId": "CM_outfit_016",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "VeryRare",
+            "type": "Head",
+            "unbreakable": false,
+            "version": {
+                "dmm": true,
+                "grdk": true,
+                "nintendo": true,
+                "ps4": true,
+                "ps5": true,
+                "psn": true,
+                "stadia": true,
+                "steam": true,
+                "switch": true,
+                "xbox": true,
+                "xsx": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 400
+            },
+            {
+                "currencyId": "Shards",
+                "price": 7200
+            }
+        ],
+        "eventCostList": [],
+        "id": "CM_Torso016",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "CM_Torso016",
+            "character": "Claudette",
+            "kind": "Customization",
+            "newEndDate": "2020-12-25T15:59:59",
+            "newStartDate": "2020-12-11T16:00:00",
+            "outfitId": "CM_outfit_016",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "VeryRare",
+            "type": "Torso",
+            "unbreakable": false,
+            "version": {
+                "dmm": true,
+                "grdk": true,
+                "nintendo": true,
+                "ps4": true,
+                "ps5": true,
+                "psn": true,
+                "stadia": true,
+                "steam": true,
+                "switch": true,
+                "xbox": true,
+                "xsx": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 400
+            },
+            {
+                "currencyId": "Shards",
+                "price": 7200
+            }
+        ],
+        "eventCostList": [],
+        "id": "CM_Legs016",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "CM_Legs016",
+            "character": "Claudette",
+            "kind": "Customization",
+            "newEndDate": "2020-12-25T15:59:59",
+            "newStartDate": "2020-12-11T16:00:00",
+            "outfitId": "CM_outfit_016",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "VeryRare",
+            "type": "Legs",
+            "unbreakable": false,
+            "version": {
+                "dmm": true,
+                "grdk": true,
+                "nintendo": true,
+                "ps4": true,
+                "ps5": true,
+                "psn": true,
+                "stadia": true,
+                "steam": true,
+                "switch": true,
+                "xbox": true,
+                "xsx": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 400
+            },
+            {
+                "currencyId": "Shards",
+                "price": 7200
+            }
+        ],
+        "eventCostList": [],
+        "id": "JP_Head014",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "JP_Head014",
+            "character": "Jake",
+            "kind": "Customization",
+            "newEndDate": "2020-12-25T15:59:59",
+            "newStartDate": "2020-12-11T16:00:00",
+            "outfitId": "JP_outfit_014",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "VeryRare",
+            "type": "Head",
+            "unbreakable": false,
+            "version": {
+                "dmm": true,
+                "grdk": true,
+                "nintendo": true,
+                "ps4": true,
+                "ps5": true,
+                "psn": true,
+                "stadia": true,
+                "steam": true,
+                "switch": true,
+                "xbox": true,
+                "xsx": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 400
+            },
+            {
+                "currencyId": "Shards",
+                "price": 7200
+            }
+        ],
+        "eventCostList": [],
+        "id": "JP_Torso014",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "JP_Torso014",
+            "character": "Jake",
+            "kind": "Customization",
+            "newEndDate": "2020-12-25T15:59:59",
+            "newStartDate": "2020-12-11T16:00:00",
+            "outfitId": "JP_outfit_014",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "VeryRare",
+            "type": "Torso",
+            "unbreakable": false,
+            "version": {
+                "dmm": true,
+                "grdk": true,
+                "nintendo": true,
+                "ps4": true,
+                "ps5": true,
+                "psn": true,
+                "stadia": true,
+                "steam": true,
+                "switch": true,
+                "xbox": true,
+                "xsx": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 400
+            },
+            {
+                "currencyId": "Shards",
+                "price": 7200
+            }
+        ],
+        "eventCostList": [],
+        "id": "JP_Legs014",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "JP_Legs014",
+            "character": "Jake",
+            "kind": "Customization",
+            "newEndDate": "2020-12-25T15:59:59",
+            "newStartDate": "2020-12-11T16:00:00",
+            "outfitId": "JP_outfit_014",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "VeryRare",
+            "type": "Legs",
+            "unbreakable": false,
+            "version": {
+                "dmm": true,
+                "grdk": true,
+                "nintendo": true,
+                "ps4": true,
+                "ps5": true,
+                "psn": true,
+                "stadia": true,
+                "steam": true,
+                "switch": true,
+                "xbox": true,
+                "xsx": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 100
+            }
+        ],
+        "eventCostList": [],
+        "id": "UK_Head01_WinterEvent2020",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "UK_Head01_WinterEvent2020",
+            "character": "Gunslinger",
+            "kind": "Customization",
+            "newEndDate": "2018-06-25T23:59:59",
+            "newStartDate": "2018-06-12T00:00:00",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "Uncommon",
+            "type": "Head",
+            "version": {
+                "dmm": true,
+                "grdk": true,
+                "nintendo": true,
+                "ps4": true,
+                "ps5": true,
+                "psn": true,
+                "stadia": true,
+                "steam": true,
+                "switch": true,
+                "xbox": true,
+                "xsx": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": false,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 100
+            }
+        ],
+        "eventCostList": [],
+        "id": "K21_Head01_WinterEvent2020",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "K21_Head01_WinterEvent2020",
+            "character": "K21",
+            "kind": "Customization",
+            "newEndDate": "2018-06-25T23:59:59",
+            "newStartDate": "2018-06-12T00:00:00",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "Uncommon",
+            "type": "Head",
+            "version": {
+                "dmm": true,
+                "grdk": true,
+                "nintendo": true,
+                "ps4": true,
+                "ps5": true,
+                "psn": true,
+                "stadia": true,
+                "steam": true,
+                "switch": true,
+                "xbox": true,
+                "xsx": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": false,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 100
+            }
+        ],
+        "eventCostList": [],
+        "id": "K22_Head01_WinterEvent2020",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "K22_Head01_WinterEvent2020",
+            "character": "K22",
+            "kind": "Customization",
+            "newEndDate": "2018-06-25T23:59:59",
+            "newStartDate": "2018-06-12T00:00:00",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "Uncommon",
+            "type": "Head",
+            "version": {
+                "dmm": true,
+                "grdk": true,
+                "nintendo": true,
+                "ps4": true,
+                "ps5": true,
+                "psn": true,
+                "stadia": true,
+                "steam": true,
+                "switch": true,
+                "xbox": true,
+                "xsx": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": false,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 250
+            }
+        ],
+        "eventCostList": [],
+        "id": "S23_Torso009",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "S23_Torso009",
+            "character": "S23",
+            "kind": "Customization",
+            "newEndDate": "2018-06-25T23:59:59",
+            "newStartDate": "2018-06-12T00:00:00",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "Rare",
+            "type": "Torso",
+            "version": {
+                "dmm": true,
+                "grdk": true,
+                "nintendo": true,
+                "ps4": true,
+                "ps5": true,
+                "psn": true,
+                "stadia": true,
+                "steam": true,
+                "switch": true,
+                "xbox": true,
+                "xsx": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": false,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 250
+            }
+        ],
+        "eventCostList": [],
+        "id": "S24_Torso007",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "S24_Torso007",
+            "character": "S24",
+            "kind": "Customization",
+            "newEndDate": "2018-06-25T23:59:59",
+            "newStartDate": "2018-06-12T00:00:00",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "Rare",
+            "type": "Torso",
+            "version": {
+                "dmm": true,
+                "grdk": true,
+                "nintendo": true,
+                "ps4": true,
+                "ps5": true,
+                "psn": true,
+                "stadia": true,
+                "steam": true,
+                "switch": true,
+                "xbox": true,
+                "xsx": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": false,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 250
+            }
+        ],
+        "eventCostList": [],
+        "id": "US_Torso011",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "US_Torso011",
+            "character": "Zarina",
+            "kind": "Customization",
+            "newEndDate": "2018-06-25T23:59:59",
+            "newStartDate": "2018-06-12T00:00:00",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "Rare",
+            "type": "Torso",
+            "version": {
+                "dmm": true,
+                "grdk": true,
+                "nintendo": true,
+                "ps4": true,
+                "ps5": true,
+                "psn": true,
+                "stadia": true,
+                "steam": true,
+                "switch": true,
+                "xbox": true,
+                "xsx": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": false,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 250
+            }
+        ],
+        "eventCostList": [],
+        "id": "S22_Torso009",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "S22_Torso009",
+            "character": "S22",
+            "kind": "Customization",
+            "newEndDate": "2018-06-25T23:59:59",
+            "newStartDate": "2018-06-12T00:00:00",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "Rare",
+            "type": "Torso",
             "version": {
                 "dmm": true,
                 "grdk": true,
@@ -93671,12 +97697,12 @@
                 "CM_Torso011",
                 "CM_Legs011"
             ],
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2021-01-29T15:59:59",
+            "newStartDate": "2021-01-15T16:00:00",
             "unbreakable": false
         },
         "nonSecure": false,
-        "purchasable": false,
+        "purchasable": true,
         "unique": true
     },
     {
@@ -94141,12 +98167,12 @@
                 "JP_Torso010",
                 "JP_Legs010"
             ],
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2021-02-05T15:59:59",
+            "newStartDate": "2021-01-22T16:00:00",
             "unbreakable": false
         },
         "nonSecure": false,
-        "purchasable": false,
+        "purchasable": true,
         "unique": true
     },
     {
@@ -95632,12 +99658,12 @@
                 "FM_Torso010",
                 "FM_Legs010"
             ],
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2020-12-28T15:59:59",
+            "newStartDate": "2020-12-14T16:00:00",
             "unbreakable": false
         },
         "nonSecure": false,
-        "purchasable": false,
+        "purchasable": true,
         "unique": true
     },
     {
@@ -98572,12 +102598,12 @@
                 "TR_Body009",
                 "TR_W009"
             ],
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2021-01-29T15:59:59",
+            "newStartDate": "2021-01-15T16:00:00",
             "unbreakable": false
         },
         "nonSecure": false,
-        "purchasable": false,
+        "purchasable": true,
         "unique": true
     },
     {
@@ -98939,12 +102965,12 @@
                 "TW_Body009",
                 "TW_W009"
             ],
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2021-02-05T15:59:59",
+            "newStartDate": "2021-01-22T16:00:00",
             "unbreakable": false
         },
         "nonSecure": false,
-        "purchasable": false,
+        "purchasable": true,
         "unique": true
     },
     {
@@ -100913,12 +104939,12 @@
                 "GK_Body010",
                 "GK_W010"
             ],
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2020-12-28T15:59:59",
+            "newStartDate": "2020-12-14T16:00:00",
             "unbreakable": false
         },
         "nonSecure": false,
-        "purchasable": false,
+        "purchasable": true,
         "unique": true
     },
     {
@@ -103518,8 +107544,8 @@
                 "CA_Body006",
                 "CA_W006"
             ],
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2020-11-27T15:59:59",
+            "newStartDate": "2020-11-13T16:00:00",
             "unbreakable": false
         },
         "nonSecure": false,
@@ -103854,6 +107880,574 @@
         },
         "nonSecure": false,
         "purchasable": false,
+        "unique": true
+    },
+    {
+        "categories": [
+            "outfit"
+        ],
+        "consumable": false,
+        "id": "S24_outfit_02",
+        "metaData": {
+            "character": "S24",
+            "discountPercentage": 0.1,
+            "items": [
+                "S24_Head02",
+                "S24_Torso02",
+                "S24_Legs02"
+            ],
+            "newEndDate": "2020-12-15T15:59:59",
+            "newStartDate": "2020-12-01T16:00:00",
+            "unbreakable": false
+        },
+        "nonSecure": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "outfit"
+        ],
+        "consumable": false,
+        "id": "S24_outfit_02_01",
+        "metaData": {
+            "character": "S24",
+            "discountPercentage": 0.1,
+            "items": [
+                "S24_Head02_01",
+                "S24_Torso02_01",
+                "S24_Legs02_01"
+            ],
+            "newEndDate": "2020-12-15T15:59:59",
+            "newStartDate": "2020-12-01T16:00:00",
+            "unbreakable": false
+        },
+        "nonSecure": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "outfit"
+        ],
+        "consumable": false,
+        "id": "S24_outfit_01_02",
+        "metaData": {
+            "character": "S24",
+            "discountPercentage": 0.1,
+            "items": [
+                "S24_Head01_02",
+                "S24_Torso01_02",
+                "S24_Legs01_02"
+            ],
+            "newEndDate": "2020-12-15T15:59:59",
+            "newStartDate": "2020-12-01T16:00:00",
+            "unbreakable": false
+        },
+        "nonSecure": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "outfit"
+        ],
+        "consumable": false,
+        "id": "S24_outfit_01_03",
+        "metaData": {
+            "character": "S24",
+            "discountPercentage": 0.1,
+            "items": [
+                "S24_Head01_03",
+                "S24_Torso01_03",
+                "S24_Legs01_03"
+            ],
+            "newEndDate": "2020-12-15T15:59:59",
+            "newStartDate": "2020-12-01T16:00:00",
+            "unbreakable": false
+        },
+        "nonSecure": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "outfit"
+        ],
+        "consumable": false,
+        "id": "S24_outfit_01_04",
+        "metaData": {
+            "character": "S24",
+            "discountPercentage": 0.1,
+            "items": [
+                "S24_Head01_04",
+                "S24_Torso01_04",
+                "S24_Legs01_04"
+            ],
+            "newEndDate": "2020-12-15T15:59:59",
+            "newStartDate": "2020-12-01T16:00:00",
+            "unbreakable": false
+        },
+        "nonSecure": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "outfit"
+        ],
+        "consumable": false,
+        "id": "S24_outfit_01_CV01",
+        "metaData": {
+            "character": "S24",
+            "discountPercentage": 0.1,
+            "items": [
+                "S24_Torso01_CV01",
+                "S24_Legs01_CV01"
+            ],
+            "newEndDate": "2020-12-15T15:59:59",
+            "newStartDate": "2020-12-01T16:00:00",
+            "unbreakable": false
+        },
+        "nonSecure": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "outfit"
+        ],
+        "consumable": false,
+        "id": "S24_outfit_01_CV02",
+        "metaData": {
+            "character": "S24",
+            "discountPercentage": 0.1,
+            "items": [
+                "S24_Torso01_CV02",
+                "S24_Legs01_CV02"
+            ],
+            "newEndDate": "2020-12-15T15:59:59",
+            "newStartDate": "2020-12-01T16:00:00",
+            "unbreakable": false
+        },
+        "nonSecure": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "outfit"
+        ],
+        "consumable": false,
+        "id": "S24_outfit_01_CV03",
+        "metaData": {
+            "character": "S24",
+            "discountPercentage": 0.1,
+            "items": [
+                "S24_Torso01_CV03",
+                "S24_Legs01_CV03"
+            ],
+            "newEndDate": "2020-12-15T15:59:59",
+            "newStartDate": "2020-12-01T16:00:00",
+            "unbreakable": false
+        },
+        "nonSecure": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "outfit"
+        ],
+        "consumable": false,
+        "id": "S24_outfit_01_CV04",
+        "metaData": {
+            "character": "S24",
+            "discountPercentage": 0.1,
+            "items": [
+                "S24_Torso01_CV04",
+                "S24_Legs01_CV04"
+            ],
+            "newEndDate": "2020-12-15T15:59:59",
+            "newStartDate": "2020-12-01T16:00:00",
+            "unbreakable": false
+        },
+        "nonSecure": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "outfit"
+        ],
+        "consumable": false,
+        "id": "K22_outfit_02",
+        "metaData": {
+            "character": "K22",
+            "discountPercentage": 0.1,
+            "items": [
+                "K22_Head02",
+                "K22_Body02",
+                "K22_W02"
+            ],
+            "newEndDate": "2020-12-15T15:59:59",
+            "newStartDate": "2020-12-01T16:00:00",
+            "unbreakable": false
+        },
+        "nonSecure": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "outfit"
+        ],
+        "consumable": false,
+        "id": "K22_outfit_02_01",
+        "metaData": {
+            "character": "K22",
+            "discountPercentage": 0.1,
+            "items": [
+                "K22_Head02_01",
+                "K22_Body02_01",
+                "K22_W02_01"
+            ],
+            "newEndDate": "2020-12-15T15:59:59",
+            "newStartDate": "2020-12-01T16:00:00",
+            "unbreakable": false
+        },
+        "nonSecure": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "outfit"
+        ],
+        "consumable": false,
+        "id": "K22_outfit_01_01",
+        "metaData": {
+            "character": "K22",
+            "discountPercentage": 0.1,
+            "items": [
+                "K22_Head01_01",
+                "K22_Body01_01",
+                "K22_W01_01"
+            ],
+            "newEndDate": "2020-12-15T15:59:59",
+            "newStartDate": "2020-12-01T16:00:00",
+            "unbreakable": false
+        },
+        "nonSecure": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "outfit"
+        ],
+        "consumable": false,
+        "id": "K22_outfit_01_02",
+        "metaData": {
+            "character": "K22",
+            "discountPercentage": 0.1,
+            "items": [
+                "K22_Head01_02",
+                "K22_Body01_02",
+                "K22_W01_02"
+            ],
+            "newEndDate": "2020-12-15T15:59:59",
+            "newStartDate": "2020-12-01T16:00:00",
+            "unbreakable": false
+        },
+        "nonSecure": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "outfit"
+        ],
+        "consumable": false,
+        "id": "K22_outfit_01_03",
+        "metaData": {
+            "character": "K22",
+            "discountPercentage": 0.1,
+            "items": [
+                "K22_Head01_03",
+                "K22_Body01_03",
+                "K22_W01_03"
+            ],
+            "newEndDate": "2020-12-15T15:59:59",
+            "newStartDate": "2020-12-01T16:00:00",
+            "unbreakable": false
+        },
+        "nonSecure": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "outfit"
+        ],
+        "consumable": false,
+        "id": "K22_outfit_01_CV01",
+        "metaData": {
+            "character": "K22",
+            "discountPercentage": 0.1,
+            "items": [
+                "K22_Head01_CV01",
+                "K22_Body01_CV01",
+                "K22_W01_CV01"
+            ],
+            "newEndDate": "2020-12-15T15:59:59",
+            "newStartDate": "2020-12-01T16:00:00",
+            "unbreakable": false
+        },
+        "nonSecure": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "outfit"
+        ],
+        "consumable": false,
+        "id": "K22_outfit_01_CV02",
+        "metaData": {
+            "character": "K22",
+            "discountPercentage": 0.1,
+            "items": [
+                "K22_Head01_CV02",
+                "K22_Body01_CV02",
+                "K22_W01_CV02"
+            ],
+            "newEndDate": "2020-12-15T15:59:59",
+            "newStartDate": "2020-12-01T16:00:00",
+            "unbreakable": false
+        },
+        "nonSecure": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "outfit"
+        ],
+        "consumable": false,
+        "id": "K22_outfit_01_CV03",
+        "metaData": {
+            "character": "K22",
+            "discountPercentage": 0.1,
+            "items": [
+                "K22_Head01_CV03",
+                "K22_Body01_CV03",
+                "K22_W01_CV03"
+            ],
+            "newEndDate": "2020-12-15T15:59:59",
+            "newStartDate": "2020-12-01T16:00:00",
+            "unbreakable": false
+        },
+        "nonSecure": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "outfit"
+        ],
+        "consumable": false,
+        "id": "K22_outfit_01_CV04",
+        "metaData": {
+            "character": "K22",
+            "discountPercentage": 0.1,
+            "items": [
+                "K22_Head01_CV04",
+                "K22_Body01_CV04",
+                "K22_W01_CV04"
+            ],
+            "newEndDate": "2020-12-15T15:59:59",
+            "newStartDate": "2020-12-01T16:00:00",
+            "unbreakable": false
+        },
+        "nonSecure": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "outfit"
+        ],
+        "consumable": false,
+        "id": "K22_outfit_006",
+        "metaData": {
+            "character": "K22",
+            "discountPercentage": 0.1,
+            "items": [
+                "K22_Head006",
+                "K22_Body006",
+                "K22_W006"
+            ],
+            "newEndDate": "2020-12-15T15:59:59",
+            "newStartDate": "2020-12-01T16:00:00",
+            "unbreakable": true
+        },
+        "nonSecure": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "outfit"
+        ],
+        "consumable": false,
+        "id": "S24_outfit_006",
+        "metaData": {
+            "character": "S24",
+            "discountPercentage": 0.1,
+            "items": [
+                "S24_Head006",
+                "S24_Torso006",
+                "S24_Legs006"
+            ],
+            "newEndDate": "2020-12-15T15:59:59",
+            "newStartDate": "2020-12-01T16:00:00",
+            "unbreakable": true
+        },
+        "nonSecure": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "outfit"
+        ],
+        "consumable": false,
+        "id": "TR_outfit_012",
+        "metaData": {
+            "character": "Chuckles",
+            "discountPercentage": 0.1,
+            "items": [
+                "TR_Mask012",
+                "TR_Body012",
+                "TR_W012"
+            ],
+            "newEndDate": "2020-12-18T15:59:59",
+            "newStartDate": "2020-12-04T16:00:00",
+            "unbreakable": true
+        },
+        "nonSecure": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "outfit"
+        ],
+        "consumable": false,
+        "id": "DF_outfit_013",
+        "metaData": {
+            "character": "Dwight",
+            "discountPercentage": 0.1,
+            "items": [
+                "DF_Head013",
+                "DF_Torso013",
+                "DF_Legs013"
+            ],
+            "newEndDate": "2020-12-22T15:59:59",
+            "newStartDate": "2020-12-08T16:00:00",
+            "unbreakable": false
+        },
+        "nonSecure": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "outfit"
+        ],
+        "consumable": false,
+        "id": "AV_outfit_012",
+        "metaData": {
+            "character": "Ace",
+            "discountPercentage": 0.1,
+            "items": [
+                "AV_Head012",
+                "AV_Torso012",
+                "AV_Legs012"
+            ],
+            "newEndDate": "2020-12-22T15:59:59",
+            "newStartDate": "2020-12-08T16:00:00",
+            "unbreakable": false
+        },
+        "nonSecure": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "outfit"
+        ],
+        "consumable": false,
+        "id": "US_outfit_010",
+        "metaData": {
+            "character": "Zarina",
+            "discountPercentage": 0.1,
+            "items": [
+                "US_Head010",
+                "US_Torso010",
+                "US_Legs010"
+            ],
+            "newEndDate": "2020-12-22T15:59:59",
+            "newStartDate": "2020-12-08T16:00:00",
+            "unbreakable": true
+        },
+        "nonSecure": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "outfit"
+        ],
+        "consumable": false,
+        "id": "CM_outfit_016",
+        "metaData": {
+            "character": "Claudette",
+            "discountPercentage": 0.1,
+            "items": [
+                "CM_Head016",
+                "CM_Torso016",
+                "CM_Legs016"
+            ],
+            "newEndDate": "2020-12-25T15:59:59",
+            "newStartDate": "2020-12-11T16:00:00",
+            "unbreakable": false
+        },
+        "nonSecure": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "outfit"
+        ],
+        "consumable": false,
+        "id": "JP_outfit_014",
+        "metaData": {
+            "character": "Jake",
+            "discountPercentage": 0.1,
+            "items": [
+                "JP_Head014",
+                "JP_Torso014",
+                "JP_Legs014"
+            ],
+            "newEndDate": "2020-12-25T15:59:59",
+            "newStartDate": "2020-12-11T16:00:00",
+            "unbreakable": false
+        },
+        "nonSecure": false,
+        "purchasable": true,
         "unique": true
     }
 ]

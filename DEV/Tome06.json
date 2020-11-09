@@ -121,8 +121,8 @@
                         },
                         "neighbors": [
                             "node_T6L1_14",
-                            "node_T6L1_Start02",
-                            "node_T6L1_16"
+                            "node_T6L1_20",
+                            "node_T6L1_Start02"
                         ],
                         "nodeType": "quest:task",
                         "objectives": {
@@ -264,9 +264,8 @@
                             "y": 155
                         },
                         "neighbors": [
-                            "node_T6L1_Start01",
                             "node_T6L1_10",
-                            "node_T6L1_16"
+                            "node_T6L1_Start01"
                         ],
                         "nodeType": "quest:task",
                         "objectives": {
@@ -650,9 +649,7 @@
                             "y": 305
                         },
                         "neighbors": [
-                            "node_T6L1_20",
-                            "node_T6L1_03",
-                            "node_T6L1_07"
+                            "node_T6L1_20"
                         ],
                         "nodeType": "quest:challenge",
                         "objectives": {
@@ -730,9 +727,9 @@
                                 "questEvent": [
                                     {
                                         "operation": ">=",
-                                        "parameters": "instigator:me",
+                                        "parameters": "instigator:me;Time:10",
                                         "questEventId": "QuestEvent.ChaseStartCrow",
-                                        "repetition": 3
+                                        "repetition": 2
                                     }
                                 ]
                             }
@@ -864,6 +861,7 @@
                             "y": 305
                         },
                         "neighbors": [
+                            "node_T6L1_03",
                             "node_T6L1_18",
                             "node_T6L1_16"
                         ],
@@ -1135,11 +1133,11 @@
                         "clientInfoId": "CleanseFinish",
                         "coordinates": {
                             "x": 365,
-                            "y": 155
+                            "y": 305
                         },
                         "neighbors": [
-                            "node_T6L2_01",
-                            "node_T6L2_03"
+                            "node_T6L2_06",
+                            "node_T6L2_04"
                         ],
                         "nodeType": "quest:task",
                         "objectives": {
@@ -1185,9 +1183,8 @@
                             "y": 155
                         },
                         "neighbors": [
-                            "node_T6L2_03",
-                            "node_T6L2_Start02",
-                            "node"
+                            "node_T6L2_07",
+                            "node_T6L2_Start02"
                         ],
                         "nodeType": "quest:task",
                         "objectives": {
@@ -1280,11 +1277,10 @@
                             "y": 155
                         },
                         "neighbors": [
+                            "node_T6L2_07",
                             "node_T6L2_17",
                             "node_T6L2_09",
-                            "node_T6L2_08",
-                            "node_T6L2_01",
-                            "node"
+                            "node_T6L2_08"
                         ],
                         "nodeType": "quest:task",
                         "objectives": {
@@ -1330,9 +1326,9 @@
                             "y": 455
                         },
                         "neighbors": [
-                            "node_T6L2_07",
                             "node_T6L2_Start01",
-                            "node_T6L2_13"
+                            "node_T6L2_13",
+                            "node"
                         ],
                         "nodeType": "quest:task",
                         "objectives": {
@@ -1425,10 +1421,10 @@
                             "y": 455
                         },
                         "neighbors": [
-                            "node_T6L2_07",
                             "node_T6L2_08",
+                            "node_T6L2_13",
                             "node_T6L2_Glyph",
-                            "node_T6L2_13"
+                            "node"
                         ],
                         "nodeType": "quest:task",
                         "objectives": {
@@ -1471,11 +1467,11 @@
                         "clientInfoId": "ConsumeMedkit",
                         "coordinates": {
                             "x": 365,
-                            "y": 305
+                            "y": 155
                         },
                         "neighbors": [
-                            "node_T6L2_06",
-                            "node_T6L2_04"
+                            "node_T6L2_01",
+                            "node_T6L2_03"
                         ],
                         "nodeType": "quest:task",
                         "objectives": {
@@ -1689,6 +1685,7 @@
                                 "questEvent": [
                                     {
                                         "operation": ">=",
+                                        "parameters": "instigator:me",
                                         "questEventId": "QuestEvent.StatusHasted",
                                         "repetition": 60
                                     }
@@ -1742,6 +1739,7 @@
                                 "questEvent": [
                                     {
                                         "operation": ">=",
+                                        "parameters": "instigator:me,ItemName:Medkit",
                                         "questEventId": "QuestEvent.ConsumeItemCharges",
                                         "repetition": 24
                                     }
@@ -1958,7 +1956,7 @@
                                         "operation": ">=",
                                         "parameters": "instigator:other",
                                         "questEventId": "QuestEvent.InjuredDyingHookedMultiple",
-                                        "repetition": 3
+                                        "repetition": 4
                                     }
                                 ]
                             }
@@ -4382,6 +4380,6 @@
             }
         ],
         "rewardData": "Tome06",
-        "version": 81
+        "version": 83
     }
 }
