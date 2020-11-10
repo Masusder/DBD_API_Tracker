@@ -4,31 +4,46 @@
             "contentTags": [
                 "steam"
             ],
-            "description": "Welcome to the Public Test Build for Mid&#45;Chapter 17&#33; Please read the below for a quick summary of the new content you&#39;ll find during this PTB. <br/><br/>For a full list of patch notes&#44; <a href=\"event:https://forum.deadbydaylight.com/en/kb/patchnotes\"><font color=\"#ff0000\"><u>click HERE</u></font></a>.<br/><br/><span class=\"Heading2\">FEATURES &#38; CONTENT</span><br/><b>Updated Visuals</b><li>Visual updates &#38; breakable walls added to The MacMillan Estate Realm &#40;5 maps&#41;. Appearance rate of this Realm is increased for the first week of PTB.</li><li>Visual updates for Lockers&#44; plus various other VFX.</li><li>4K UI icons added for Character portraits and customization icons.</li><br/><b>Balance Changes</b><li>The Executioner &#45; Updates to Power and Perks</li><li>Perk Updates&#58; Any Means Necessary&#44; For the People&#44; Thanataphobia&#44; Mindbreaker&#44; Cruel Limit&#44; Slippery Meat&#44; Hex&#58; Huntress Lullaby&#44; Technician&#44; Pop Goes the Weasel&#44; We&#39;re Gonna Live Forever </li><li>Perk Rarities&#58; All Perks of a Tier now have the same rarity &#40;Tier 1 &#61; Uncommon&#44; etc.&#41; </li><br/><br/><span class=\"Heading2\">KNOWN ISSUES</span><li>An invisible collision blocks the Coal Tower&#39;s basement.</li><li>Cars in The Macmillan Realm &#40;specifically&#58; Coal Tower and Ironworks of Misery&#41; have placeholder textures.</li><li>Entity does not display on Hooks or Generators on Medium to Ultra Graphics settings.</li><li>The Autohaven Wreckers Realm has been disabled from map rotation due to current Killer Shack issues.</li>",
+            "description": "The Dead by Daylight team would like your feedback in a PTB Feedback survey.<br/><br/>We encourage you to be as honest as possible in letting us know how you feel about the build. The information and answers provided are anonymous&#44; not shared with any third&#45;party&#44; and will not be used for purposes other than survey analysis.<br/><br/>Access the survey <a href=\"event:https://www.surveymonkey.com/r/DbD-PTB18\"><font color=\"#ff0000\"><u>HERE&#33;</u></font></a>",
             "dwnImagePath": "",
             "imageHeight": "",
             "imagePath": "",
             "isHidden": false,
-            "startDate": "2020-09-29T15:00:00",
-            "title": "CHAPTER 17 PTB",
-            "type": 2,
-            "version": "4.3.0",
-            "weight": 830.0
+            "startDate": "2020-11-10T18:00:00",
+            "title": "PTB FEEDBACK SURVEY",
+            "type": 4,
+            "version": "4.4.0",
+            "weight": 860.0
         },
         {
             "contentTags": [
                 "steam"
             ],
-            "description": "People of The Fog&#44; <br/><br/>Thank you for participating in the Player Test Build&#33;<br/><br/>Here\u2019s a few things to know about your save data &#38; progress in the Player Test Build&#58;<li>Your personal profile (save data&#44; inventory&#44; currencies) has been copied from the Live servers to the PTB servers on <b>September 24th&#44; 2020 at 4:15:56 AM UTC</b>. Any progress or purchases made on the Live servers after this date will not be reflected on the PTB.</li><li>All progress made during the PTB <b>will not</b> be transferred over to the Live servers.</li><br/>You can leave feedback of your experience here&#58; <br/><a href=\"event:https://forum.deadbydaylight.com/en/categories/4-3-0-ptb-feedback\"><font color=\"#ff0000\">forum.deadbydaylight.com/en/categories/4-3-0-ptb-feedback</font></a><br/>See you in The Fog.<br/><br/>&#45;The Dead by Daylight team",
+            "description": "Welcome to the Public Test Build for Mid&#45;Chapter 18&#33; Please read the below for a quick summary of the new content you&#39;ll find during this PTB.<br/><br/>For a full list of patch notes&#44; <a href=\"event:https://forum.deadbydaylight.com/en/kb/patchnotes\"><font color=\"#ff0000\"><u>click HERE</u></font></a>.<br/><br/><span class=\"Heading2\">FEATURES &#38; CONTENT</span><br/><b>New Characters</b><li>Added A New Killer &#45; The Twins</li><li>Added a New Survivor &#45; &#201;lodie Rakoto</li><br/><br/><b>Visual Update</b><li>Visual updates to maps in Ormond and Junkyard. &#40;Appearance rate increased for these maps&#41;</li><li>Visual update to the Hatch and Totem.</li><li>Visual update on the Twins Lobby.</li><br/><br/><span class=\"Heading2\">BUG FIXES</span><br/><li>Fixed an issue that caused the player Cloud ID to be missing from the ban message.</li><li>Fixed an issue that caused daily rituals to be consumed even if the claim of bloodpoints for a completed daily ritual failed.</li><li>Fixed an issue that caused unavailable Archives cosmetics to appear on the Feature Store section if all the cosmetics were already purchased.</li><li>Fixed an issue that caused a short freeze when opening a chest.</li><br/><br/><span class=\"Heading2\">KNOWN ISSUES</span><br/><b>General</b><li>When Victor is not controlled&#44; the animation and sounds are work in progress.</li><li>During End Game Collapse&#44; when Victor is on a Survivor&#39;s back&#44; the Exit Gate Spikes effect are not properly blocking the Survivor.</li><li>Victor should not receive Bloodlust movement speed increase.</li><li>If a Survivor gets pounced on by Victor during the entering Locker animation&#44; the animation is not cancelled and he still enters the locker with Victor.</li><br/><br/><b>Perks</b><li>Coup de Grace: Missing visual feedback when performing a modified lunge attack</li><li>Hoarder&#58; The perk currently does not spawn extra chests</li><li>Hoarder&#58; The perk currently does not reduce the rarity of items found in chests.</li><li>Oppression&#58; The cooldown isn&#39;t properly being applied</li><li>Appraisal&#58; The rummage action is affected by perks that increase unlocking speed</li><li>Appraisal&#58; The score event granted upon completing the rummage action is missing its name</li><li>Deception&#58; There is no audio playing when the locker door opens/closes</li><li>Deception&#58; The UI does not function as intended</li><li>Power Struggle&#58; The perk can&#39;t be used while actively wiggling</li>",
             "dwnImagePath": "",
             "imageHeight": "",
             "imagePath": "",
             "isHidden": false,
-            "startDate": "2020-09-29T15:00:00",
+            "startDate": "2020-11-10T16:00:00",
+            "title": "CHAPTER 18 PTB",
+            "type": 2,
+            "version": "4.4.0",
+            "weight": 850.0
+        },
+        {
+            "contentTags": [
+                "steam"
+            ],
+            "description": "People of The Fog&#44; <br/><br/>Thank you for participating in the Player Test Build&#33;<br/><br/>Here&#39;s a few things to know about your save data &#38; progress in the Player Test Build&#58;<li>Your personal profile (save data&#44; inventory&#44; currencies) has been copied from the Live servers to the PTB servers on <b>November 6th&#44; 2020 at 11:43 AM EST</b>. Any progress or purchases made on the Live servers after this date will not be reflected on the PTB.</li><li>All progress made during the PTB <b>will not</b> be transferred over to the Live servers.</li><br/>You can leave feedback of your experience here&#58; <br/><a href=\"event:https://forum.deadbydaylight.com/en/categories/4-4-0-ptb-feedback\"><font color=\"#ff0000\">forum.deadbydaylight.com/en/categories/4-4-0-ptb-feedback</font></a><br/>See you in The Fog.<br/><br/>&#45;The Dead by Daylight team",
+            "dwnImagePath": "",
+            "imageHeight": "",
+            "imagePath": "",
+            "isHidden": false,
+            "startDate": "2020-11-10T16:00:00",
             "title": "PTB - Save Game &#38; Progress",
             "type": 4,
-            "version": "4.3.0",
-            "weight": 825.0
+            "version": "4.4.0",
+            "weight": 840.0
         }
     ]
 }
