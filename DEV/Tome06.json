@@ -33,7 +33,7 @@
                         },
                         "neighbors": [
                             "node_T6L1_13",
-                            "node_T6L1_12"
+                            "node_T6L1_21"
                         ],
                         "nodeType": "quest:task",
                         "objectives": {
@@ -76,12 +76,13 @@
                         "clientInfoId": "EarnBloodpoints",
                         "coordinates": {
                             "x": 815,
-                            "y": 155
+                            "y": 305
                         },
                         "neighbors": [
-                            "node_T6L1_05",
+                            "node_T6L1_Glyph",
                             "node_T6L1_12",
-                            "node_T6L1_19"
+                            "node_T6L1_10",
+                            "node_T6L1_09"
                         ],
                         "nodeType": "quest:task",
                         "objectives": {
@@ -114,19 +115,19 @@
                         ]
                     },
                     "node_T6L1_03": {
-                        "clientInfoId": "Scream",
+                        "clientInfoId": "BreakPalletsGens",
                         "coordinates": {
                             "x": 365,
                             "y": 455
                         },
                         "neighbors": [
-                            "node_T6L1_14",
                             "node_T6L1_20",
-                            "node_T6L1_Start02"
+                            "node_T6L1_Start02",
+                            "node_T6L1_22"
                         ],
                         "nodeType": "quest:task",
                         "objectives": {
-                            "Scream": {
+                            "BreakPalletsGens": {
                                 "conditions": [
                                     {
                                         "key": "role",
@@ -136,13 +137,13 @@
                                     }
                                 ],
                                 "incrementWithEventRepetitions": true,
-                                "neededProgression": 12,
-                                "objectiveId": "Scream",
+                                "neededProgression": 10,
+                                "objectiveId": "BreakPalletsGens",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
                                         "parameters": "instigator:me",
-                                        "questEventId": "QuestEvent.Scream",
+                                        "questEventId": "QuestEvent.BreakPalletsGens",
                                         "repetition": 1
                                     }
                                 ]
@@ -211,14 +212,13 @@
                     "node_T6L1_05": {
                         "clientInfoId": "ChasedByKiller",
                         "coordinates": {
-                            "x": 815,
-                            "y": 305
+                            "x": 635,
+                            "y": 155
                         },
                         "neighbors": [
-                            "node_T6L1_02",
-                            "node_T6L1_Glyph",
-                            "node_T6L1_18",
-                            "node_T6L1_09"
+                            "node_T6L1_21",
+                            "node_T6L1_12",
+                            "node_T6L1_07"
                         ],
                         "nodeType": "quest:task",
                         "objectives": {
@@ -264,7 +264,7 @@
                             "y": 155
                         },
                         "neighbors": [
-                            "node_T6L1_10",
+                            "node_T6L1_05",
                             "node_T6L1_Start01"
                         ],
                         "nodeType": "quest:task",
@@ -359,7 +359,7 @@
                             "y": 305
                         },
                         "neighbors": [
-                            "node_T6L1_05",
+                            "node_T6L1_02",
                             "node_T6L1_08"
                         ],
                         "nodeType": "quest:task",
@@ -402,13 +402,13 @@
                     "node_T6L1_10": {
                         "clientInfoId": "SearchFinish",
                         "coordinates": {
-                            "x": 545,
+                            "x": 815,
                             "y": 155
                         },
                         "neighbors": [
-                            "node_T6L1_12",
-                            "node_T6L1_18",
-                            "node_T6L1_07"
+                            "node_T6L1_02",
+                            "node_T6L1_21",
+                            "node_T6L1_18"
                         ],
                         "nodeType": "quest:task",
                         "objectives": {
@@ -451,12 +451,12 @@
                         "clientInfoId": "HideInLockerInOrAfterChaseInTrial",
                         "coordinates": {
                             "x": 635,
-                            "y": 5
+                            "y": 305
                         },
                         "neighbors": [
+                            "node_T6L1_05",
                             "node_T6L1_02",
-                            "node_T6L1_01",
-                            "node_T6L1_10"
+                            "node_T6L1_20"
                         ],
                         "nodeType": "quest:challenge",
                         "objectives": {
@@ -545,12 +545,12 @@
                     "node_T6L1_14": {
                         "clientInfoId": "Sacrifice",
                         "coordinates": {
-                            "x": 545,
+                            "x": 1085,
                             "y": 455
                         },
                         "neighbors": [
-                            "node_T6L1_Glyph",
-                            "node_T6L1_03"
+                            "node_T6L1_15",
+                            "node_T6L1_End01"
                         ],
                         "nodeType": "quest:task",
                         "objectives": {
@@ -592,12 +592,12 @@
                     "node_T6L1_15": {
                         "clientInfoId": "DownWithStridorInTrial",
                         "coordinates": {
-                            "x": 995,
+                            "x": 905,
                             "y": 605
                         },
                         "neighbors": [
-                            "node_T6L1_Glyph",
-                            "node_T6L1_22"
+                            "node_T6L1_14",
+                            "node_T6L1_Glyph"
                         ],
                         "nodeType": "quest:challenge",
                         "objectives": {
@@ -645,7 +645,7 @@
                     "node_T6L1_16": {
                         "clientInfoId": "HookDifferentWithNurseCallingInTrial",
                         "coordinates": {
-                            "x": 275,
+                            "x": 185,
                             "y": 305
                         },
                         "neighbors": [
@@ -697,7 +697,7 @@
                     "node_T6L1_17": {
                         "clientInfoId": "ChaseStartCrowInTrial",
                         "coordinates": {
-                            "x": 635,
+                            "x": 725,
                             "y": 605
                         },
                         "neighbors": [
@@ -729,7 +729,7 @@
                                         "operation": ">=",
                                         "parameters": "instigator:me;Time:10",
                                         "questEventId": "QuestEvent.ChaseStartCrow",
-                                        "repetition": 2
+                                        "repetition": 1
                                     }
                                 ]
                             }
@@ -748,19 +748,18 @@
                         ]
                     },
                     "node_T6L1_18": {
-                        "clientInfoId": "EmotePointAtKillerWithPremonitionInTrial",
+                        "clientInfoId": "StunBlindAsYuiInTrial",
                         "coordinates": {
-                            "x": 635,
-                            "y": 305
+                            "x": 905,
+                            "y": 5
                         },
                         "neighbors": [
-                            "node_T6L1_05",
-                            "node_T6L1_20",
+                            "node_T6L1_19",
                             "node_T6L1_10"
                         ],
                         "nodeType": "quest:challenge",
                         "objectives": {
-                            "EmotePointAtKillerWithPerkInTrial": {
+                            "StunBlindAsCharacterInTrial": {
                                 "conditions": [
                                     {
                                         "key": "role",
@@ -769,20 +768,20 @@
                                         ]
                                     },
                                     {
-                                        "key": "perk",
+                                        "key": "character",
                                         "value": [
-                                            "Premonition"
+                                            "Yui"
                                         ]
                                     }
                                 ],
                                 "incrementWithEventRepetitions": false,
                                 "neededProgression": 1,
-                                "objectiveId": "EmotePointAtKillerWithPerkInTrial",
+                                "objectiveId": "StunBlindAsCharacterInTrial",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
                                         "parameters": "instigator:me",
-                                        "questEventId": "QuestEvent.EmotePointAtKiller",
+                                        "questEventId": "QuestEvent.StunBlind",
                                         "repetition": 2
                                     }
                                 ]
@@ -804,12 +803,12 @@
                     "node_T6L1_19": {
                         "clientInfoId": "EscapeChaseInjuredWithLuckyBreakInTrial",
                         "coordinates": {
-                            "x": 995,
+                            "x": 1175,
                             "y": 5
                         },
                         "neighbors": [
-                            "node_T6L1_02",
-                            "node_T6L1_21"
+                            "node_T6L1_End02",
+                            "node_T6L1_18"
                         ],
                         "nodeType": "quest:challenge",
                         "objectives": {
@@ -855,19 +854,19 @@
                         ]
                     },
                     "node_T6L1_20": {
-                        "clientInfoId": "NurseBlinkPreciseInTrial",
+                        "clientInfoId": "NurseBlinkHitInTrial",
                         "coordinates": {
-                            "x": 455,
+                            "x": 365,
                             "y": 305
                         },
                         "neighbors": [
                             "node_T6L1_03",
-                            "node_T6L1_18",
+                            "node_T6L1_12",
                             "node_T6L1_16"
                         ],
                         "nodeType": "quest:challenge",
                         "objectives": {
-                            "NurseBlinkPreciseInTrial": {
+                            "NurseBlinkHitInTrial": {
                                 "conditions": [
                                     {
                                         "key": "role",
@@ -884,13 +883,13 @@
                                 ],
                                 "incrementWithEventRepetitions": false,
                                 "neededProgression": 1,
-                                "objectiveId": "NurseBlinkPreciseInTrial",
+                                "objectiveId": "NurseBlinkHitInTrial",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
                                         "parameters": "instigator:me",
                                         "questEventId": "QuestEvent.NurseBlinkPrecise",
-                                        "repetition": 3
+                                        "repetition": 2
                                     }
                                 ]
                             }
@@ -911,12 +910,13 @@
                     "node_T6L1_21": {
                         "clientInfoId": "PalletResetNearKillerWithAnyMeansNecessaryInTrial",
                         "coordinates": {
-                            "x": 1175,
+                            "x": 725,
                             "y": 5
                         },
                         "neighbors": [
-                            "node_T6L1_End02",
-                            "node_T6L1_19"
+                            "node_T6L1_05",
+                            "node_T6L1_10",
+                            "node_T6L1_01"
                         ],
                         "nodeType": "quest:challenge",
                         "objectives": {
@@ -943,7 +943,7 @@
                                         "operation": ">=",
                                         "parameters": "instigator:me",
                                         "questEventId": "QuestEvent.PalletResetNearKiller",
-                                        "repetition": 2
+                                        "repetition": 1
                                     }
                                 ]
                             }
@@ -964,12 +964,12 @@
                     "node_T6L1_22": {
                         "clientInfoId": "EarnEmblemsKillerSilver",
                         "coordinates": {
-                            "x": 1085,
+                            "x": 545,
                             "y": 455
                         },
                         "neighbors": [
-                            "node_T6L1_15",
-                            "node_T6L1_End01"
+                            "node_T6L1_Glyph",
+                            "node_T6L1_03"
                         ],
                         "nodeType": "quest:task",
                         "objectives": {
@@ -1015,7 +1015,7 @@
                             "y": 455
                         },
                         "neighbors": [
-                            "node_T6L1_22",
+                            "node_T6L1_14",
                             "node_T6L1_08"
                         ],
                         "nodeType": "narrative"
@@ -1027,7 +1027,7 @@
                             "y": 155
                         },
                         "neighbors": [
-                            "node_T6L1_21",
+                            "node_T6L1_19",
                             "node_T6L1_08"
                         ],
                         "nodeType": "narrative"
@@ -1040,8 +1040,8 @@
                         },
                         "neighbors": [
                             "node_T6L1_15",
-                            "node_T6L1_14",
-                            "node_T6L1_05",
+                            "node_T6L1_02",
+                            "node_T6L1_22",
                             "node_T6L1_17"
                         ],
                         "nodeType": "quest:contextual",
@@ -1245,7 +1245,7 @@
                                     }
                                 ],
                                 "incrementWithEventRepetitions": true,
-                                "neededProgression": 6,
+                                "neededProgression": 4,
                                 "objectiveId": "HookBasement",
                                 "questEvent": [
                                     {
@@ -1322,13 +1322,15 @@
                     "node_T6L2_04": {
                         "clientInfoId": "CoopAction",
                         "coordinates": {
-                            "x": 185,
+                            "x": 545,
                             "y": 455
                         },
                         "neighbors": [
-                            "node_T6L2_Start01",
+                            "node",
+                            "node_T6L2_08",
                             "node_T6L2_13",
-                            "node"
+                            "node_T6L2_Glyph",
+                            "node_T6L2_15"
                         ],
                         "nodeType": "quest:task",
                         "objectives": {
@@ -1417,13 +1419,12 @@
                     "node_T6L2_06": {
                         "clientInfoId": "RepairFinishTeam",
                         "coordinates": {
-                            "x": 545,
+                            "x": 185,
                             "y": 455
                         },
                         "neighbors": [
-                            "node_T6L2_08",
+                            "node_T6L2_Start01",
                             "node_T6L2_13",
-                            "node_T6L2_Glyph",
                             "node"
                         ],
                         "nodeType": "quest:task",
@@ -1517,8 +1518,8 @@
                             "y": 305
                         },
                         "neighbors": [
-                            "node_T6L2_06",
-                            "node_T6L2_03"
+                            "node_T6L2_03",
+                            "node_T6L2_04"
                         ],
                         "nodeType": "quest:task",
                         "objectives": {
@@ -1557,7 +1558,6 @@
                             "y": 155
                         },
                         "neighbors": [
-                            "node_T6L2_11",
                             "node_T6L2_03",
                             "node_T6L2_02",
                             "node_T6L2_14"
@@ -1600,41 +1600,32 @@
                         ]
                     },
                     "node_T6L2_11": {
-                        "clientInfoId": "BreakGensWithSpiesFromTheShadowsInTrial",
+                        "clientInfoId": "BreakPalletsGensInTrial",
                         "coordinates": {
-                            "x": 815,
-                            "y": 305
+                            "x": 5,
+                            "y": 155
                         },
-                        "neighbors": [
-                            "node_T6L2_09",
-                            "node_T6L2_Glyph"
-                        ],
+                        "neighbors": [],
                         "nodeType": "quest:challenge",
                         "objectives": {
-                            "BreakGensWithPerkInTrial": {
+                            "BreakPalletsGensInTrial": {
                                 "conditions": [
                                     {
                                         "key": "role",
                                         "value": [
                                             "killer"
                                         ]
-                                    },
-                                    {
-                                        "key": "perk",
-                                        "value": [
-                                            "Spies_From_The_Shadows"
-                                        ]
                                     }
                                 ],
                                 "incrementWithEventRepetitions": false,
                                 "neededProgression": 1,
-                                "objectiveId": "BreakGensWithPerkInTrial",
+                                "objectiveId": "BreakPalletsGensInTrial",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
                                         "parameters": "instigator:me",
-                                        "questEventId": "QuestEvent.BreakGens",
-                                        "repetition": 6
+                                        "questEventId": "QuestEvent.BreakPalletsGens",
+                                        "repetition": 10
                                     }
                                 ]
                             }
@@ -1653,41 +1644,32 @@
                         ]
                     },
                     "node_T6L2_12": {
-                        "clientInfoId": "StatusHastedWithBreakoutInTrial",
+                        "clientInfoId": "EscapeHatchInTrial",
                         "coordinates": {
-                            "x": 680,
+                            "x": 725,
                             "y": 5
                         },
-                        "neighbors": [
-                            "node_T6L2_17",
-                            "node_T6L2_14"
-                        ],
+                        "neighbors": [],
                         "nodeType": "quest:challenge",
                         "objectives": {
-                            "StatusHastedWithPerkInTrial": {
+                            "EscapeHatchInTrial": {
                                 "conditions": [
                                     {
                                         "key": "role",
                                         "value": [
                                             "survivor"
                                         ]
-                                    },
-                                    {
-                                        "key": "perk",
-                                        "value": [
-                                            "Breakout"
-                                        ]
                                     }
                                 ],
                                 "incrementWithEventRepetitions": false,
                                 "neededProgression": 1,
-                                "objectiveId": "StatusHastedWithPerkInTrial",
+                                "objectiveId": "EscapeHatchInTrial",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
                                         "parameters": "instigator:me",
-                                        "questEventId": "QuestEvent.StatusHasted",
-                                        "repetition": 60
+                                        "questEventId": "QuestEvent.EscapeHatch",
+                                        "repetition": 1
                                     }
                                 ]
                             }
@@ -1712,9 +1694,9 @@
                             "y": 605
                         },
                         "neighbors": [
-                            "node_T6L2_04",
+                            "node_T6L2_15",
                             "node_T6L2_06",
-                            "node_T6L2_15"
+                            "node_T6L2_04"
                         ],
                         "nodeType": "quest:challenge",
                         "objectives": {
@@ -1739,7 +1721,7 @@
                                 "questEvent": [
                                     {
                                         "operation": ">=",
-                                        "parameters": "instigator:me,ItemName:Medkit",
+                                        "parameters": "instigator:me;ItemName:Medkit",
                                         "questEventId": "QuestEvent.ConsumeItemCharges",
                                         "repetition": 24
                                     }
@@ -1767,7 +1749,6 @@
                         },
                         "neighbors": [
                             "node_T6L2_09",
-                            "node_T6L2_12",
                             "node_T6L2_End02"
                         ],
                         "nodeType": "quest:challenge",
@@ -1816,12 +1797,13 @@
                     "node_T6L2_15": {
                         "clientInfoId": "NurseBlinkChainMultipleHitInTrial",
                         "coordinates": {
-                            "x": 680,
+                            "x": 725,
                             "y": 605
                         },
                         "neighbors": [
                             "node_T6L2_16",
-                            "node_T6L2_13"
+                            "node_T6L2_13",
+                            "node_T6L2_04"
                         ],
                         "nodeType": "quest:challenge",
                         "objectives": {
@@ -1928,8 +1910,7 @@
                         },
                         "neighbors": [
                             "node_T6L2_03",
-                            "node_T6L2_Start02",
-                            "node_T6L2_12"
+                            "node_T6L2_Start02"
                         ],
                         "nodeType": "quest:challenge",
                         "objectives": {
@@ -2053,9 +2034,8 @@
                         },
                         "neighbors": [
                             "node_T6L2_16",
-                            "node_T6L2_06",
-                            "node_T6L2_11",
-                            "node_T6L2_05"
+                            "node_T6L2_05",
+                            "node_T6L2_04"
                         ],
                         "nodeType": "quest:contextual",
                         "objectives": {
@@ -2087,7 +2067,7 @@
                             "y": 455
                         },
                         "neighbors": [
-                            "node_T6L2_04"
+                            "node_T6L2_06"
                         ],
                         "nodeType": "narrative"
                     },
@@ -4380,6 +4360,6 @@
             }
         ],
         "rewardData": "Tome06",
-        "version": 83
+        "version": 87
     }
 }

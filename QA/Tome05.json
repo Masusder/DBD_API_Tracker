@@ -1585,12 +1585,12 @@
                         },
                         "reward": [
                             {
-                                "amount": 3,
+                                "amount": 5,
                                 "id": "star",
                                 "type": "progressionDbD"
                             },
                             {
-                                "amount": 25000,
+                                "amount": 35000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
                             }
@@ -1634,7 +1634,7 @@
                                 "type": "progressionDbD"
                             },
                             {
-                                "amount": 25000,
+                                "amount": 35000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
                             }
@@ -2690,12 +2690,12 @@
                         },
                         "reward": [
                             {
-                                "amount": 3,
+                                "amount": 5,
                                 "id": "star",
                                 "type": "progressionDbD"
                             },
                             {
-                                "amount": 30000,
+                                "amount": 50000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
                             }
