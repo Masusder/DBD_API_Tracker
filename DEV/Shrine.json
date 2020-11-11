@@ -1,7 +1,7 @@
 {
     "items": [
         {
-            "id": "Balanced_Landing",
+            "id": "Lightborn",
             "bloodpointValue": 150000,
             "experienceValue": 150000,
             "unique": false,
@@ -15,7 +15,7 @@
             ]
         },
         {
-            "id": "CorruptIntervention",
+            "id": "Save_The_Best_For_Last",
             "bloodpointValue": 150000,
             "experienceValue": 150000,
             "unique": false,
@@ -29,7 +29,7 @@
             ]
         },
         {
-            "id": "Enduring",
+            "id": "Urban_Evasion",
             "bloodpointValue": 150000,
             "experienceValue": 150000,
             "unique": false,
@@ -43,21 +43,21 @@
             ]
         },
         {
-            "id": "RedHerring",
-            "bloodpointValue": 250000,
-            "experienceValue": 250000,
+            "id": "Vigil",
+            "bloodpointValue": 150000,
+            "experienceValue": 150000,
             "unique": false,
             "purchased": false,
             "version": "steam",
             "cost": [
                 {
                     "currencyId": "Shards",
-                    "price": 2700
+                    "price": 2000
                 }
             ]
         }
     ],
-    "startDate": "2020-11-04T00:00:00",
-    "endDate": "2020-11-10T23:59:59",
-    "week": 212
+    "startDate": "2020-11-11T00:00:00",
+    "endDate": "2020-11-17T23:59:59",
+    "week": 213
 }

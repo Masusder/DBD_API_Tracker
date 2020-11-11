@@ -126,11 +126,31 @@
                         "data": "Consoles",
                         "children": [
                             {
-                                "data": "ps4",
+                                "data": "PlayStation",
+                                "children": [
+                                    {
+                                        "data": "ps4",
+                                        "label": "PlayStation 4"
+                                    },
+                                    {
+                                        "data": "ps5",
+                                        "label": "PlayStation 5"
+                                    }
+                                ],
                                 "label": "PlayStation"
                             },
                             {
                                 "data": "xbox",
+                                "children": [
+                                    {
+                                        "data": "xbox",
+                                        "label": "XBOX old generation"
+                                    },
+                                    {
+                                        "data": "xsx",
+                                        "label": "Xbox Series X"
+                                    }
+                                ],
                                 "label": "XBOX"
                             },
                             {
@@ -315,20 +335,20 @@
     },
     {
         "value": {
-            "retentionRewardId": "4.3.0_359166qa",
-            "referralId": "4.3.0_359166qa",
-            "achievementId": "4.3.0_359166qa",
-            "leaderboardId": "4.3.0_359166qa",
-            "gameContentId": "4.3.0_359166qa",
-            "statesPermissionsId": "4.3.0_359166qa",
-            "lootTableId": "4.3.0_359166qa",
-            "consentId": "4.3.0_359166qa",
-            "catalogId": "4.3.0_359166qa",
-            "actionId": "4.3.0_359166qa",
-            "subscriptionId": "4.3.0_359166qa",
-            "currencyId": "4.3.0_359166qa",
-            "actionQueueId": "4.3.0_359166qa",
-            "scenarioId": "4.3.0_359166qa"
+            "retentionRewardId": "4.4.0_365726qa",
+            "referralId": "4.4.0_365726qa",
+            "achievementId": "4.4.0_365726qa",
+            "leaderboardId": "4.4.0_365726qa",
+            "gameContentId": "4.4.0_365726qa",
+            "statesPermissionsId": "4.4.0_365726qa",
+            "lootTableId": "4.4.0_365726qa",
+            "consentId": "4.4.0_365726qa",
+            "catalogId": "4.4.0_365726qa",
+            "actionId": "4.4.0_365726qa",
+            "subscriptionId": "4.4.0_365726qa",
+            "currencyId": "4.4.0_365726qa",
+            "actionQueueId": "4.4.0_365726qa",
+            "scenarioId": "4.4.0_365726qa"
         },
         "keyName": "clientData"
     },
