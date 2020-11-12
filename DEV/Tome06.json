@@ -217,7 +217,7 @@
                         },
                         "neighbors": [
                             "node_T6L1_21",
-                            "node_T6L1_12",
+                            "node_T6L1_10",
                             "node_T6L1_07"
                         ],
                         "nodeType": "quest:task",
@@ -402,13 +402,13 @@
                     "node_T6L1_10": {
                         "clientInfoId": "SearchFinish",
                         "coordinates": {
-                            "x": 815,
-                            "y": 155
+                            "x": 635,
+                            "y": 305
                         },
                         "neighbors": [
+                            "node_T6L1_05",
                             "node_T6L1_02",
-                            "node_T6L1_21",
-                            "node_T6L1_18"
+                            "node_T6L1_20"
                         ],
                         "nodeType": "quest:task",
                         "objectives": {
@@ -450,16 +450,16 @@
                     "node_T6L1_12": {
                         "clientInfoId": "HideInLockerInOrAfterChaseInTrial",
                         "coordinates": {
-                            "x": 635,
-                            "y": 305
+                            "x": 815,
+                            "y": 155
                         },
                         "journal": [
                             "Tome06_Yui"
                         ],
                         "neighbors": [
-                            "node_T6L1_05",
                             "node_T6L1_02",
-                            "node_T6L1_20"
+                            "node_T6L1_21",
+                            "node_T6L1_18"
                         ],
                         "nodeType": "quest:challenge",
                         "objectives": {
@@ -570,7 +570,7 @@
                                     }
                                 ],
                                 "incrementWithEventRepetitions": false,
-                                "neededProgression": 3,
+                                "neededProgression": 4,
                                 "objectiveId": "Sacrifice",
                                 "questEvent": [
                                     {
@@ -772,8 +772,8 @@
                             "Tome06_Yui"
                         ],
                         "neighbors": [
-                            "node_T6L1_19",
-                            "node_T6L1_10"
+                            "node_T6L1_12",
+                            "node_T6L1_19"
                         ],
                         "nodeType": "quest:challenge",
                         "objectives": {
@@ -885,7 +885,7 @@
                         ],
                         "neighbors": [
                             "node_T6L1_03",
-                            "node_T6L1_12",
+                            "node_T6L1_10",
                             "node_T6L1_16"
                         ],
                         "nodeType": "quest:challenge",
@@ -942,7 +942,7 @@
                         ],
                         "neighbors": [
                             "node_T6L1_05",
-                            "node_T6L1_10",
+                            "node_T6L1_12",
                             "node_T6L1_01"
                         ],
                         "nodeType": "quest:challenge",
@@ -2344,7 +2344,7 @@
                                     }
                                 ],
                                 "incrementWithEventRepetitions": true,
-                                "neededProgression": 10,
+                                "neededProgression": 12,
                                 "objectiveId": "Sacrifice",
                                 "questEvent": [
                                     {
@@ -2486,7 +2486,7 @@
                                     }
                                 ],
                                 "incrementWithEventRepetitions": true,
-                                "neededProgression": 1000,
+                                "neededProgression": 1500,
                                 "objectiveId": "RepairPerc",
                                 "questEvent": [
                                     {
@@ -2629,7 +2629,7 @@
                                     }
                                 ],
                                 "incrementWithEventRepetitions": true,
-                                "neededProgression": 8,
+                                "neededProgression": 10,
                                 "objectiveId": "EscapeChase",
                                 "questEvent": [
                                     {
@@ -3858,59 +3858,6 @@
                             }
                         ]
                     },
-                    "node_T6L4_02": {
-                        "clientInfoId": "HealDifferentWithEmpathyInTrial",
-                        "coordinates": {
-                            "x": 5,
-                            "y": 5
-                        },
-                        "journal": [
-                            "Tome06_Observer"
-                        ],
-                        "neighbors": [],
-                        "nodeType": "quest:challenge",
-                        "objectives": {
-                            "HealDifferentWithPerkInTrial": {
-                                "conditions": [
-                                    {
-                                        "key": "role",
-                                        "value": [
-                                            "survivor"
-                                        ]
-                                    },
-                                    {
-                                        "key": "perk",
-                                        "value": [
-                                            "Empathy"
-                                        ]
-                                    }
-                                ],
-                                "incrementWithEventRepetitions": false,
-                                "neededProgression": 1,
-                                "objectiveId": "HealDifferentWithPerkInTrial",
-                                "questEvent": [
-                                    {
-                                        "operation": ">=",
-                                        "parameters": "instigator:me",
-                                        "questEventId": "QuestEvent.HealDifferent",
-                                        "repetition": 3
-                                    }
-                                ]
-                            }
-                        },
-                        "reward": [
-                            {
-                                "amount": 5,
-                                "id": "star",
-                                "type": "progressionDbD"
-                            },
-                            {
-                                "amount": 60000,
-                                "id": "bloodpoints",
-                                "type": "currency"
-                            }
-                        ]
-                    },
                     "node_T6L4_06": {
                         "clientInfoId": "HealFinishAfterGate",
                         "coordinates": {
@@ -4289,6 +4236,6 @@
             }
         ],
         "rewardData": "Tome06",
-        "version": 98
+        "version": 99
     }
 }
