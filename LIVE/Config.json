@@ -122,11 +122,31 @@
                         "data": "Consoles",
                         "children": [
                             {
-                                "data": "ps4",
+                                "data": "PlayStation",
+                                "children": [
+                                    {
+                                        "data": "ps4",
+                                        "label": "PlayStation 4"
+                                    },
+                                    {
+                                        "data": "ps5",
+                                        "label": "PlayStation 5"
+                                    }
+                                ],
                                 "label": "PlayStation"
                             },
                             {
                                 "data": "xbox",
+                                "children": [
+                                    {
+                                        "data": "xbox",
+                                        "label": "XBOX old generation"
+                                    },
+                                    {
+                                        "data": "xsx",
+                                        "label": "Xbox Series X"
+                                    }
+                                ],
                                 "label": "XBOX"
                             },
                             {
@@ -733,7 +753,8 @@
             "m_4.2.1_361974live": "m_4.2.1_361974live-1604003883",
             "m_4.2.1_364505live": "m_4.2.1_364505live-1604592098",
             "m_4.2.1_365081live": "m_4.2.1_365081live-1604694394",
-            "m_4.2.1_366269live": "m_4.2.1_366269live-1605043997"
+            "m_4.2.1_366269live": "m_4.2.1_366269live-1605043997",
+            "m_4.2.1_366527live": "m_4.2.1_366527live-1605112843"
         },
         "keyName": "VER_CLIENT_DATA"
     },
