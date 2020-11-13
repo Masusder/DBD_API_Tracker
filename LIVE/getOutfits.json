@@ -11185,6 +11185,24 @@
             ],
             "newStartDate": "2018-06-12T00:00:00",
             "newEndDate": "2018-06-25T23:59:59"
+        },
+        {
+            "id": "CA_outfit_006",
+            "defaultCost": [
+                {
+                    "currencyId": "Cells",
+                    "price": 1080,
+                    "discountPercentage": 0.1
+                }
+            ],
+            "character": "Cannibal",
+            "storeItems": [
+                "CA_Head006",
+                "CA_Body006",
+                "CA_W006"
+            ],
+            "newStartDate": "2020-11-13T16:00:00",
+            "newEndDate": "2020-11-27T15:59:59"
         }
     ]
 }

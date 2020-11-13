@@ -519,7 +519,7 @@
                 "startDate": "2020-10-26T15:00:00"
             },
             {
-                "endDate": "2020-11-09T15:59:59",
+                "endDate": "2020-11-13T15:59:59",
                 "ids": [
                     "Banner_ZSH",
                     "Banner_ZKH",
@@ -527,6 +527,16 @@
                     "Banner_YOC"
                 ],
                 "startDate": "2020-11-02T16:00:00"
+            },
+            {
+                "endDate": "2020-11-27T15:59:59",
+                "ids": [
+                    "Banner_ZL",
+                    "Banner_ZSH",
+                    "Banner_ZKH",
+                    "Banner_YC"
+                ],
+                "startDate": "2020-11-13T16:00:00"
             }
         ],
         "right": [
@@ -632,8 +642,50 @@
                     ]
                 }
             ],
-            "endDate": "2020-11-15T23:59:59",
+            "endDate": "2020-11-13T15:59:59",
             "startDate": "2020-11-09T00:00:00"
+        },
+        {
+            "data": [
+                {
+                    "category": "outfit",
+                    "ids": [
+                        "CA_outfit_006",
+                        "Dwight_outfit_006",
+                        "Claudette_outfit_002",
+                        "Meg_outfit_005",
+                        "Smoke_outfit_009",
+                        "Bob_outfit_002",
+                        "S23_outfit_02",
+                        "DO_outfit_011",
+                        "Chuckles_outfit_003",
+                        "FK_outfit_007"
+                    ]
+                }
+            ],
+            "endDate": "2020-11-15T23:59:59",
+            "startDate": "2020-11-13T16:00:00"
+        },
+        {
+            "data": [
+                {
+                    "category": "outfit",
+                    "ids": [
+                        "CA_outfit_006",
+                        "K21_outfit_01_01",
+                        "Legion_Outfit_006",
+                        "Plague_outfit_02",
+                        "OK_outfit_006",
+                        "FM_outfit_011",
+                        "JP_outfit_013",
+                        "UK_outfit_01_02",
+                        "AV_outfit_009",
+                        "Legion_outfit_007"
+                    ]
+                }
+            ],
+            "endDate": "2020-11-22T23:59:59",
+            "startDate": "2020-11-16T00:00:00"
         }
     ]
 }

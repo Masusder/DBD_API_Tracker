@@ -410,7 +410,7 @@
             },
             {
                 "currencyId": "Cells",
-                "price": 250
+                "price": 500
             }
         ],
         "eventCostList": [
@@ -418,7 +418,7 @@
                 "cost": [
                     {
                         "currencyId": "Cells",
-                        "price": 200
+                        "price": 400
                     }
                 ],
                 "endDate": "2020-10-14T18:00:00",
@@ -452,7 +452,7 @@
             },
             {
                 "currencyId": "Cells",
-                "price": 250
+                "price": 500
             }
         ],
         "id": "Adam",
@@ -80486,6 +80486,144 @@
         "defaultCost": [
             {
                 "currencyId": "Cells",
+                "price": 400
+            }
+        ],
+        "eventCostList": [],
+        "id": "CA_Head006",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "CA_Head006",
+            "character": "Cannibal",
+            "kind": "Customization",
+            "newEndDate": "2020-11-27T15:59:59",
+            "newStartDate": "2020-11-13T16:00:00",
+            "outfitId": "CA_outfit_006",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "VeryRare",
+            "type": "Head",
+            "unbreakable": true,
+            "version": {
+                "grdk": true,
+                "nintendo": true,
+                "ps4": true,
+                "ps5": true,
+                "psn": true,
+                "stadia": true,
+                "steam": true,
+                "switch": true,
+                "xbox": true,
+                "xsx": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 400
+            }
+        ],
+        "eventCostList": [],
+        "id": "CA_Body006",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "CA_Body006",
+            "character": "Cannibal",
+            "kind": "Customization",
+            "newEndDate": "2020-11-27T15:59:59",
+            "newStartDate": "2020-11-13T16:00:00",
+            "outfitId": "CA_outfit_006",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "VeryRare",
+            "type": "Torso",
+            "unbreakable": true,
+            "version": {
+                "grdk": true,
+                "nintendo": true,
+                "ps4": true,
+                "ps5": true,
+                "psn": true,
+                "stadia": true,
+                "steam": true,
+                "switch": true,
+                "xbox": true,
+                "xsx": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 400
+            }
+        ],
+        "eventCostList": [],
+        "id": "CA_W006",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "CA_W006",
+            "character": "Cannibal",
+            "kind": "Customization",
+            "newEndDate": "2020-11-27T15:59:59",
+            "newStartDate": "2020-11-13T16:00:00",
+            "outfitId": "CA_outfit_006",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "VeryRare",
+            "type": "Weapon",
+            "unbreakable": true,
+            "version": {
+                "grdk": true,
+                "nintendo": true,
+                "ps4": true,
+                "ps5": true,
+                "psn": true,
+                "stadia": true,
+                "steam": true,
+                "switch": true,
+                "xbox": true,
+                "xsx": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
                 "price": 0
             }
         ],
@@ -99621,6 +99759,28 @@
         },
         "nonSecure": false,
         "purchasable": false,
+        "unique": true
+    },
+    {
+        "categories": [
+            "outfit"
+        ],
+        "consumable": false,
+        "id": "CA_outfit_006",
+        "metaData": {
+            "character": "Cannibal",
+            "discountPercentage": 0.1,
+            "items": [
+                "CA_Head006",
+                "CA_Body006",
+                "CA_W006"
+            ],
+            "newEndDate": "2020-11-27T15:59:59",
+            "newStartDate": "2020-11-13T16:00:00",
+            "unbreakable": true
+        },
+        "nonSecure": false,
+        "purchasable": true,
         "unique": true
     }
 ]
