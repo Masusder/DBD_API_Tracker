@@ -80503,7 +80503,7 @@
             "qualityName": "quality1",
             "rarity": "VeryRare",
             "type": "Head",
-            "unbreakable": true,
+            "unbreakable": false,
             "version": {
                 "grdk": true,
                 "nintendo": true,
@@ -80549,7 +80549,7 @@
             "qualityName": "quality1",
             "rarity": "VeryRare",
             "type": "Torso",
-            "unbreakable": true,
+            "unbreakable": false,
             "version": {
                 "grdk": true,
                 "nintendo": true,
@@ -80595,7 +80595,7 @@
             "qualityName": "quality1",
             "rarity": "VeryRare",
             "type": "Weapon",
-            "unbreakable": true,
+            "unbreakable": false,
             "version": {
                 "grdk": true,
                 "nintendo": true,
@@ -99777,7 +99777,7 @@
             ],
             "newEndDate": "2020-11-27T15:59:59",
             "newStartDate": "2020-11-13T16:00:00",
-            "unbreakable": true
+            "unbreakable": false
         },
         "nonSecure": false,
         "purchasable": true,
