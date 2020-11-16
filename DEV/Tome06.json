@@ -1629,13 +1629,13 @@
                         ]
                     },
                     "node_T6L2_11": {
-                        "clientInfoId": "ConsumeItemChargesWithBotanyKnowledgeInTrial",
+                        "clientInfoId": "GrabInTrial",
                         "coordinates": {
                             "x": 365,
                             "y": 605
                         },
                         "journal": [
-                            "Tome06_Observer"
+                            "Tome06_Nurse"
                         ],
                         "neighbors": [
                             "node_T6L2_02",
@@ -1643,30 +1643,24 @@
                         ],
                         "nodeType": "quest:challenge",
                         "objectives": {
-                            "ConsumeItemChargesWithPerkInTrial": {
+                            "GrabInTrial": {
                                 "conditions": [
                                     {
                                         "key": "role",
                                         "value": [
-                                            "survivor"
-                                        ]
-                                    },
-                                    {
-                                        "key": "perk",
-                                        "value": [
-                                            "Botany_Knowledge"
+                                            "killer"
                                         ]
                                     }
                                 ],
                                 "incrementWithEventRepetitions": false,
                                 "neededProgression": 1,
-                                "objectiveId": "ConsumeItemChargesWithPerkInTrial",
+                                "objectiveId": "GrabInTrial",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
                                         "parameters": "instigator:me;ItemName:Medkit",
                                         "questEventId": "QuestEvent.ConsumeItemCharges",
-                                        "repetition": 24
+                                        "repetition": 1
                                     }
                                 ]
                             }
@@ -3715,21 +3709,18 @@
                         ]
                     },
                     "node_T6L4_12": {
-                        "clientInfoId": "SkillCheckConsecutiveInTrial",
+                        "clientInfoId": "SkillCheckGreatSuccess",
                         "coordinates": {
                             "x": 545,
                             "y": 155
                         },
-                        "journal": [
-                            "Tome06_Observer"
-                        ],
                         "neighbors": [
                             "node_T6L4_05",
                             "node_T6L4_03"
                         ],
-                        "nodeType": "quest:challenge",
+                        "nodeType": "quest:task",
                         "objectives": {
-                            "SkillCheckConsecutiveInTrial": {
+                            "SkillCheckGreatSuccess": {
                                 "conditions": [
                                     {
                                         "key": "role",
@@ -3739,26 +3730,26 @@
                                     }
                                 ],
                                 "incrementWithEventRepetitions": true,
-                                "neededProgression": 1,
-                                "objectiveId": "SkillCheckConsecutiveInTrial",
+                                "neededProgression": 10,
+                                "objectiveId": "SkillCheckGreatSuccess",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
                                         "parameters": "instigator:me",
-                                        "questEventId": "QuestEvent.SkillCheckConsecutive",
-                                        "repetition": 3
+                                        "questEventId": "QuestEvent.SkillCheckGreatSuccess",
+                                        "repetition": 1
                                     }
                                 ]
                             }
                         },
                         "reward": [
                             {
-                                "amount": 5,
+                                "amount": 3,
                                 "id": "star",
                                 "type": "progressionDbD"
                             },
                             {
-                                "amount": 60000,
+                                "amount": 45000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
                             }
@@ -4252,6 +4243,6 @@
             }
         ],
         "rewardData": "Tome06",
-        "version": 104
+        "version": 105
     }
 }
