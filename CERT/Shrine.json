@@ -1,7 +1,7 @@
 {
     "items": [
         {
-            "id": "Bond",
+            "id": "Lightborn",
             "bloodpointValue": 150000,
             "experienceValue": 150000,
             "unique": false,
@@ -15,7 +15,7 @@
             ]
         },
         {
-            "id": "Enduring",
+            "id": "Save_The_Best_For_Last",
             "bloodpointValue": 150000,
             "experienceValue": 150000,
             "unique": false,
@@ -29,7 +29,7 @@
             ]
         },
         {
-            "id": "Lithe",
+            "id": "Urban_Evasion",
             "bloodpointValue": 150000,
             "experienceValue": 150000,
             "unique": false,
@@ -43,7 +43,7 @@
             ]
         },
         {
-            "id": "Thanatophobia",
+            "id": "Vigil",
             "bloodpointValue": 150000,
             "experienceValue": 150000,
             "unique": false,
@@ -57,7 +57,7 @@
             ]
         }
     ],
-    "startDate": "2020-10-28T00:00:00",
-    "endDate": "2020-11-03T23:59:59",
-    "week": 211
+    "startDate": "2020-11-11T00:00:00",
+    "endDate": "2020-11-17T23:59:59",
+    "week": 213
 }

@@ -423,6 +423,7 @@
                 "MatchmakingJoinSessionAnalytics",
                 "MatchmakingSearchCompleteAnalytics",
                 "MatchmakingSessionSpotReservationAnalytics",
+                "PartyJoinFailureAnalytics",
                 "S3CommandErrorAnalytics",
                 "SaveGameErrorAnalytics",
                 "SaveGameLoadResultAnalytics",
@@ -649,6 +650,7 @@
             "4.4.0_365482qa": "4.4.0_365482qa-1604947572",
             "4.4.0_365539qa": "4.4.0_365539qa-1604951803",
             "4.4.0_365726qa": "4.4.0_365726qa-1604963129",
+            "4.4.0_368334qa": "4.4.0_368334qa-1605561893",
             "edule_3.4.0_0qa": "edule_3.4.0_0qa-1576698389",
             "m_3.0.2_220683qa": "m_3.0.2_220683qa-1566333505",
             "m_3.0.3_240244qa": "m_3.0.3_240244qa-1572275329",
@@ -797,7 +799,8 @@
             "m_3.7.3_365155qa": "m_3.7.3_365155qa-1604705467",
             "m_3.7.3_365482qa": "m_3.7.3_365482qa-1604950260",
             "m_3.7.3_365564qa": "m_3.7.3_365564qa-1604953859",
-            "m_3.7.3_365726qa": "m_3.7.3_365726qa-1604964660"
+            "m_3.7.3_365726qa": "m_3.7.3_365726qa-1604964660",
+            "m_3.7.3_368334qa": "m_3.7.3_368334qa-1605562262"
         },
         "keyName": "VER_CLIENT_DATA"
     },

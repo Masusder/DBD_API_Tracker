@@ -31,7 +31,7 @@
         "keyName": "SOCIAL_PLATFORM_FRIENDLIST_QUERY_RATE"
     },
     {
-        "value": "true",
+        "value": "false",
         "keyName": "DDOS_DETECTION"
     },
     {
@@ -122,11 +122,31 @@
                         "data": "Consoles",
                         "children": [
                             {
-                                "data": "ps4",
+                                "data": "PlayStation",
+                                "children": [
+                                    {
+                                        "data": "ps4",
+                                        "label": "PlayStation 4"
+                                    },
+                                    {
+                                        "data": "ps5",
+                                        "label": "PlayStation 5"
+                                    }
+                                ],
                                 "label": "PlayStation"
                             },
                             {
                                 "data": "xbox",
+                                "children": [
+                                    {
+                                        "data": "xbox",
+                                        "label": "XBOX old generation"
+                                    },
+                                    {
+                                        "data": "xsx",
+                                        "label": "Xbox Series X"
+                                    }
+                                ],
                                 "label": "XBOX"
                             },
                             {
@@ -162,6 +182,9 @@
     },
     {
         "value": {
+            "DD": [
+                "AtlantaPartyGameAnalytics"
+            ],
             "KL": [
                 "CustomerSupportAnalytics",
                 "DDoSDetectionAnalytics",
@@ -172,7 +195,6 @@
                 "EACClientViolationAnalytics",
                 "EACServerValidateAnalytics",
                 "FallOutOfWorldAnalytics",
-                "FrameHikeAnalytics",
                 "GameEventLogAnalytics",
                 "GameInitAnalytics",
                 "InteractionAnalytics",
@@ -181,10 +203,12 @@
                 "LogMirrorsAnalytics",
                 "S3CommandErrorAnalytics",
                 "SaveGameErrorAnalytics",
+                "ShopAnalytics",
                 "SpecialEventAnalytics",
                 "SpecialEventBaseAnalytics"
             ],
             "BL": [
+                "AtlantaControlsSettingsAnalytics",
                 "CannibalAnalytics",
                 "HillbillyAnalytics",
                 "MatchmakingApproveLoginAnalytics",
@@ -219,6 +243,7 @@
             "KAL": [
                 "DedicatedServerStatusAnalytics",
                 "DisconnectionDetailsAnalytics",
+                "FrameHikeAnalytics",
                 "LevelLoadingStepAnalytics",
                 "LevelLoadingTimeoutAnalytics",
                 "PerformanceAnalytics",
@@ -359,7 +384,6 @@
                 "EntitlementAnalytics",
                 "ErrorAnalytics",
                 "FallOutOfWorldAnalytics",
-                "FrameHikeAnalytics",
                 "FrameTravelTimeAnalytics",
                 "GameEventLogAnalytics",
                 "GameInitAnalytics",
@@ -388,6 +412,7 @@
                 "SyncLoadAnalytics"
             ],
             "BL": [
+                "AtlantaControlsSettingsAnalytics",
                 "MatchmakingHostSettingAnalytics",
                 "MatchmakingSearchParamAnalytics",
                 "MatchmakingSearchResultAnalytics",
@@ -464,6 +489,7 @@
                 "CurrencyBalanceAnalytics",
                 "CustomizationAnalytics",
                 "EnvironmentAnalytics",
+                "FrameHikeAnalytics",
                 "LevelLoadingStepAnalytics",
                 "LevelLoadingTimeoutAnalytics",
                 "LoadOutAnalytics",
@@ -507,7 +533,8 @@
             "4.3.0_355295cert": "4.3.0_355295cert-1602628183",
             "4.3.0_356160cert": "4.3.0_356160cert-1602784444",
             "4.3.0_360488cert": "4.3.0_360488cert-1603813829",
-            "4.3.0_361770cert": "4.3.0_361770cert-1603991547"
+            "4.3.0_361770cert": "4.3.0_361770cert-1603991547",
+            "4.4.0_368433cert": "4.4.0_368433cert-1605568249"
         },
         "keyName": "VER_CLIENT_DATA"
     },

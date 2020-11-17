@@ -311,18 +311,21 @@
                         ]
                     },
                     "node_T6L1_07": {
-                        "clientInfoId": "Hook",
+                        "clientInfoId": "HookInTrial",
                         "coordinates": {
                             "x": 185,
                             "y": 605
                         },
+                        "journal": [
+                            "Tome06_Nurse"
+                        ],
                         "neighbors": [
                             "node_T6L1_Start02",
                             "node_T6L1_19"
                         ],
-                        "nodeType": "quest:task",
+                        "nodeType": "quest:challenge",
                         "objectives": {
-                            "Hook": {
+                            "HookInTrial": {
                                 "conditions": [
                                     {
                                         "key": "role",
@@ -331,27 +334,27 @@
                                         ]
                                     }
                                 ],
-                                "incrementWithEventRepetitions": true,
-                                "neededProgression": 8,
-                                "objectiveId": "Hook",
+                                "incrementWithEventRepetitions": false,
+                                "neededProgression": 1,
+                                "objectiveId": "HookInTrial",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
                                         "parameters": "instigator:me",
                                         "questEventId": "QuestEvent.Hook",
-                                        "repetition": 1
+                                        "repetition": 5
                                     }
                                 ]
                             }
                         },
                         "reward": [
                             {
-                                "amount": 3,
+                                "amount": 5,
                                 "id": "star",
                                 "type": "progressionDbD"
                             },
                             {
-                                "amount": 15000,
+                                "amount": 25000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
                             }
@@ -650,21 +653,18 @@
                         ]
                     },
                     "node_T6L1_14": {
-                        "clientInfoId": "VaultInChaseInTrial",
+                        "clientInfoId": "VaultInChase",
                         "coordinates": {
                             "x": 275,
                             "y": 5
                         },
-                        "journal": [
-                            "Tome06_Yui"
-                        ],
                         "neighbors": [
                             "node_T6L1_01",
                             "node_T6L1_Start01"
                         ],
-                        "nodeType": "quest:challenge",
+                        "nodeType": "quest:task",
                         "objectives": {
-                            "VaultInChaseInTrial": {
+                            "VaultInChaseIn": {
                                 "conditions": [
                                     {
                                         "key": "role",
@@ -673,27 +673,27 @@
                                         ]
                                     }
                                 ],
-                                "incrementWithEventRepetitions": false,
-                                "neededProgression": 1,
-                                "objectiveId": "VaultInChaseInTrial",
+                                "incrementWithEventRepetitions": true,
+                                "neededProgression": 6,
+                                "objectiveId": "VaultInChaseIn",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
                                         "parameters": "instigator:me",
                                         "questEventId": "QuestEvent.VaultInChase",
-                                        "repetition": 2
+                                        "repetition": 1
                                     }
                                 ]
                             }
                         },
                         "reward": [
                             {
-                                "amount": 5,
+                                "amount": 3,
                                 "id": "star",
                                 "type": "progressionDbD"
                             },
                             {
-                                "amount": 25000,
+                                "amount": 15000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
                             }
@@ -1212,8 +1212,8 @@
                         },
                         "neighbors": [
                             "node_T6L2_01",
-                            "node_T6L2_11",
-                            "node_T6L2_Glyph"
+                            "node_T6L2_Glyph",
+                            "node_T6L2_05"
                         ],
                         "nodeType": "quest:task",
                         "objectives": {
@@ -1306,9 +1306,9 @@
                             "y": 455
                         },
                         "neighbors": [
+                            "node_T6L2_Start01",
                             "node_T6L2_01",
-                            "node_T6L2_11",
-                            "node_T6L2_Start01"
+                            "node_T6L2_05"
                         ],
                         "nodeType": "quest:task",
                         "objectives": {
@@ -1350,13 +1350,12 @@
                     "node_T6L2_05": {
                         "clientInfoId": "ConsumeMedkit",
                         "coordinates": {
-                            "x": 635,
-                            "y": 5
+                            "x": 365,
+                            "y": 605
                         },
                         "neighbors": [
-                            "node_T6L2_16",
-                            "node_T6L2_18",
-                            "node_T6L2_09"
+                            "node_T6L2_02",
+                            "node_T6L2_04"
                         ],
                         "nodeType": "quest:task",
                         "objectives": {
@@ -1451,8 +1450,8 @@
                         },
                         "neighbors": [
                             "node_T6L2_09",
-                            "node_T6L2_Start02",
-                            "node_T6L2_15"
+                            "node_T6L2_11",
+                            "node_T6L2_Start02"
                         ],
                         "nodeType": "quest:task",
                         "objectives": {
@@ -1547,8 +1546,7 @@
                         "neighbors": [
                             "node_T6L2_07",
                             "node_T6L2_10",
-                            "node_T6L2_18",
-                            "node_T6L2_05"
+                            "node_T6L2_15"
                         ],
                         "nodeType": "quest:task",
                         "objectives": {
@@ -1629,21 +1627,21 @@
                         ]
                     },
                     "node_T6L2_11": {
-                        "clientInfoId": "GrabInTrial",
+                        "clientInfoId": "HookObsessionInTrial",
                         "coordinates": {
-                            "x": 365,
-                            "y": 605
+                            "x": 275,
+                            "y": 305
                         },
                         "journal": [
                             "Tome06_Nurse"
                         ],
                         "neighbors": [
-                            "node_T6L2_02",
-                            "node_T6L2_04"
+                            "node_T6L2_07",
+                            "node_T6L2_17"
                         ],
                         "nodeType": "quest:challenge",
                         "objectives": {
-                            "GrabInTrial": {
+                            "HookObsessionInTrial": {
                                 "conditions": [
                                     {
                                         "key": "role",
@@ -1654,13 +1652,13 @@
                                 ],
                                 "incrementWithEventRepetitions": false,
                                 "neededProgression": 1,
-                                "objectiveId": "GrabInTrial",
+                                "objectiveId": "HookObsessionInTrial",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
-                                        "parameters": "instigator:me;ItemName:Medkit",
-                                        "questEventId": "QuestEvent.ConsumeItemCharges",
-                                        "repetition": 1
+                                        "parameters": "instigator:me",
+                                        "questEventId": "QuestEvent.HookObsession",
+                                        "repetition": 2
                                     }
                                 ]
                             }
@@ -1685,7 +1683,7 @@
                             "y": 155
                         },
                         "journal": [
-                            "Tome06_Nurse"
+                            "Tome06_Yui"
                         ],
                         "neighbors": [
                             "node_T6L2_16",
@@ -1844,15 +1842,16 @@
                     "node_T6L2_15": {
                         "clientInfoId": "BreakPalletsGensInTrial",
                         "coordinates": {
-                            "x": 275,
-                            "y": 305
+                            "x": 635,
+                            "y": 5
                         },
                         "journal": [
                             "Tome06_Nurse"
                         ],
                         "neighbors": [
-                            "node_T6L2_07",
-                            "node_T6L2_17"
+                            "node_T6L2_16",
+                            "node_T6L2_09",
+                            "node_T6L2_18"
                         ],
                         "nodeType": "quest:challenge",
                         "objectives": {
@@ -1902,7 +1901,7 @@
                         ],
                         "neighbors": [
                             "node_T6L2_12",
-                            "node_T6L2_05"
+                            "node_T6L2_15"
                         ],
                         "nodeType": "quest:challenge",
                         "objectives": {
@@ -1951,7 +1950,7 @@
                             "Tome06_Nurse"
                         ],
                         "neighbors": [
-                            "node_T6L2_15"
+                            "node_T6L2_11"
                         ],
                         "nodeType": "quest:challenge",
                         "objectives": {
@@ -2006,9 +2005,8 @@
                             "Tome06_Nurse"
                         ],
                         "neighbors": [
-                            "node_T6L2_09",
                             "node_T6L2_Start02",
-                            "node_T6L2_05"
+                            "node_T6L2_15"
                         ],
                         "nodeType": "quest:challenge",
                         "objectives": {
@@ -4243,6 +4241,6 @@
             }
         ],
         "rewardData": "Tome06",
-        "version": 105
+        "version": 109
     }
 }

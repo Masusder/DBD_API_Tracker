@@ -9,7 +9,7 @@
     },
     "hitValidation": {
         "enable": true,
-        "enableCollisionCheck": false,
+        "enableCollisionCheck": true,
         "recorder": {
             "cacheTimespan": 0.25
         },
@@ -36,7 +36,7 @@
             },
             {
                 "capsuleInflation": 50.0,
-                "maximumDistance": 250.0,
+                "maximumDistance": 350.0,
                 "name": "oni"
             }
         ]
