@@ -237,7 +237,7 @@
                                     }
                                 ],
                                 "incrementWithEventRepetitions": true,
-                                "neededProgression": 7,
+                                "neededProgression": 6,
                                 "objectiveId": "SearchFinish",
                                 "questEvent": [
                                     {
@@ -429,7 +429,7 @@
                                         ]
                                     }
                                 ],
-                                "incrementWithEventRepetitions": false,
+                                "incrementWithEventRepetitions": true,
                                 "neededProgression": 6,
                                 "objectiveId": "Sacrifice",
                                 "questEvent": [
@@ -664,7 +664,7 @@
                         ],
                         "nodeType": "quest:task",
                         "objectives": {
-                            "VaultInChaseIn": {
+                            "VaultInChase": {
                                 "conditions": [
                                     {
                                         "key": "role",
@@ -675,7 +675,7 @@
                                 ],
                                 "incrementWithEventRepetitions": true,
                                 "neededProgression": 6,
-                                "objectiveId": "VaultInChaseIn",
+                                "objectiveId": "VaultInChase",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -3972,7 +3972,7 @@
                         ]
                     },
                     "node_T6L4_17": {
-                        "clientInfoId": "OniDashDistanceHitInTrial",
+                        "clientInfoId": "OniDashTimeHitInTrial",
                         "coordinates": {
                             "x": 1175,
                             "y": 5
@@ -3985,7 +3985,7 @@
                         ],
                         "nodeType": "quest:challenge",
                         "objectives": {
-                            "OniDashDistanceHitInTrial": {
+                            "OniDashTimeHitInTrial": {
                                 "conditions": [
                                     {
                                         "key": "role",
@@ -4002,13 +4002,13 @@
                                 ],
                                 "incrementWithEventRepetitions": false,
                                 "neededProgression": 1,
-                                "objectiveId": "OniDashDistanceHitInTrial",
+                                "objectiveId": "OniDashTimeHitInTrial",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
-                                        "parameters": "instigator:me",
-                                        "questEventId": "QuestEvent.OniDashDistanceHit",
-                                        "repetition": 30
+                                        "parameters": "instigator:me;Time:10",
+                                        "questEventId": "QuestEvent.OniDashTimeHit",
+                                        "repetition": 10
                                     }
                                 ]
                             }
@@ -4241,6 +4241,6 @@
             }
         ],
         "rewardData": "Tome06",
-        "version": 109
+        "version": 110
     }
 }
