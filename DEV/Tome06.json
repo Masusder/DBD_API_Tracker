@@ -1397,7 +1397,7 @@
                     "node_T6L2_06": {
                         "clientInfoId": "ChaseStartDifferent",
                         "coordinates": {
-                            "x": 815,
+                            "x": 905,
                             "y": 305
                         },
                         "neighbors": [
@@ -1493,7 +1493,7 @@
                     "node_T6L2_08": {
                         "clientInfoId": "HookBasement",
                         "coordinates": {
-                            "x": 1085,
+                            "x": 1175,
                             "y": 305
                         },
                         "neighbors": [
@@ -1540,7 +1540,7 @@
                     "node_T6L2_09": {
                         "clientInfoId": "Kill",
                         "coordinates": {
-                            "x": 545,
+                            "x": 635,
                             "y": 155
                         },
                         "neighbors": [
@@ -1588,13 +1588,13 @@
                     "node_T6L2_10": {
                         "clientInfoId": "EarnEmblemsGold",
                         "coordinates": {
-                            "x": 635,
+                            "x": 725,
                             "y": 305
                         },
                         "neighbors": [
                             "node_T6L2_06",
-                            "node_T6L2_01",
-                            "node_T6L2_09"
+                            "node_T6L2_09",
+                            "node_T6L2_01"
                         ],
                         "nodeType": "quest:task",
                         "objectives": {
@@ -1679,7 +1679,7 @@
                     "node_T6L2_12": {
                         "clientInfoId": "HealDyingWithEmpathyInTrial",
                         "coordinates": {
-                            "x": 905,
+                            "x": 995,
                             "y": 155
                         },
                         "journal": [
@@ -1842,7 +1842,7 @@
                     "node_T6L2_15": {
                         "clientInfoId": "BreakPalletsGensInTrial",
                         "coordinates": {
-                            "x": 635,
+                            "x": 725,
                             "y": 5
                         },
                         "journal": [
@@ -1850,8 +1850,8 @@
                         ],
                         "neighbors": [
                             "node_T6L2_16",
-                            "node_T6L2_09",
-                            "node_T6L2_18"
+                            "node_T6L2_18",
+                            "node_T6L2_09"
                         ],
                         "nodeType": "quest:challenge",
                         "objectives": {
@@ -1893,7 +1893,7 @@
                     "node_T6L2_16": {
                         "clientInfoId": "CloseHatchInTrial",
                         "coordinates": {
-                            "x": 815,
+                            "x": 905,
                             "y": 5
                         },
                         "journal": [
@@ -1943,7 +1943,7 @@
                     "node_T6L2_17": {
                         "clientInfoId": "NurseBlinkChainMultipleHitInTrial",
                         "coordinates": {
-                            "x": 455,
+                            "x": 545,
                             "y": 305
                         },
                         "journal": [
@@ -2066,7 +2066,7 @@
                     "node_T6L2_End02": {
                         "clientInfoId": "End",
                         "coordinates": {
-                            "x": 1175,
+                            "x": 1265,
                             "y": 155
                         },
                         "neighbors": [
@@ -2221,7 +2221,7 @@
                     "node_T6L3_02": {
                         "clientInfoId": "Repair",
                         "coordinates": {
-                            "x": 275,
+                            "x": 185,
                             "y": 155
                         },
                         "neighbors": [
@@ -2460,7 +2460,7 @@
                     "node_T6L3_07": {
                         "clientInfoId": "EarnEmblemsDevout",
                         "coordinates": {
-                            "x": 365,
+                            "x": 275,
                             "y": 605
                         },
                         "neighbors": [
@@ -2602,7 +2602,7 @@
                     "node_T6L3_10": {
                         "clientInfoId": "Chase",
                         "coordinates": {
-                            "x": 275,
+                            "x": 185,
                             "y": 455
                         },
                         "neighbors": [
@@ -2747,7 +2747,7 @@
                     "node_T6L3_13": {
                         "clientInfoId": "HealFinishNearKillerWithSelfCareInTrial",
                         "coordinates": {
-                            "x": 365,
+                            "x": 275,
                             "y": 5
                         },
                         "journal": [
@@ -3141,13 +3141,13 @@
                     "node_T6L3_Start01": {
                         "clientInfoId": "Start",
                         "coordinates": {
-                            "x": 185,
+                            "x": 95,
                             "y": 305
                         },
                         "neighbors": [
                             "node_T6L3_10",
-                            "node_T6L3_Glyph",
-                            "node_T6L3_02"
+                            "node_T6L3_02",
+                            "node_T6L3_Glyph"
                         ],
                         "nodeType": "narrative"
                     }
@@ -3335,7 +3335,7 @@
                     "node_T6L4_04": {
                         "clientInfoId": "EscapeHatch",
                         "coordinates": {
-                            "x": 1265,
+                            "x": 1085,
                             "y": 455
                         },
                         "neighbors": [
@@ -3573,7 +3573,7 @@
                         "clientInfoId": "Kill",
                         "coordinates": {
                             "x": 545,
-                            "y": 455
+                            "y": 605
                         },
                         "neighbors": [
                             "node_T6L4_10",
@@ -3620,11 +3620,10 @@
                         "clientInfoId": "EarnEmblemsMalicious",
                         "coordinates": {
                             "x": 365,
-                            "y": 455
+                            "y": 605
                         },
                         "neighbors": [
                             "node_T6L4_09",
-                            "node_T6L4_16",
                             "node_T6L4_07"
                         ],
                         "nodeType": "quest:task",
@@ -3864,13 +3863,14 @@
                         "clientInfoId": "HitGrabNearPalletsVaultsWallsWithZanshinTacticsInTrial",
                         "coordinates": {
                             "x": 455,
-                            "y": 605
+                            "y": 455
                         },
                         "journal": [
                             "Tome06_Observer"
                         ],
                         "neighbors": [
                             "node_T6L4_11",
+                            "node_T6L4_16",
                             "node_T6L4_07"
                         ],
                         "nodeType": "quest:challenge",
@@ -3926,7 +3926,7 @@
                             "Tome06_Observer"
                         ],
                         "neighbors": [
-                            "node_T6L4_10"
+                            "node_T6L4_15"
                         ],
                         "nodeType": "quest:challenge",
                         "objectives": {
@@ -3974,7 +3974,7 @@
                     "node_T6L4_17": {
                         "clientInfoId": "OniDashTimeHitInTrial",
                         "coordinates": {
-                            "x": 1175,
+                            "x": 1265,
                             "y": 5
                         },
                         "journal": [
@@ -4079,7 +4079,7 @@
                     "node_T6L4_End01": {
                         "clientInfoId": "End",
                         "coordinates": {
-                            "x": 995,
+                            "x": 1265,
                             "y": 455
                         },
                         "neighbors": [
@@ -4241,6 +4241,6 @@
             }
         ],
         "rewardData": "Tome06",
-        "version": 110
+        "version": 111
     }
 }
