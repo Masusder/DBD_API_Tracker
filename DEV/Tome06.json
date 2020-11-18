@@ -1445,7 +1445,7 @@
                     "node_T6L2_07": {
                         "clientInfoId": "Hit",
                         "coordinates": {
-                            "x": 185,
+                            "x": 275,
                             "y": 155
                         },
                         "neighbors": [
@@ -1627,7 +1627,7 @@
                         ]
                     },
                     "node_T6L2_11": {
-                        "clientInfoId": "HookObsessionInTrial",
+                        "clientInfoId": "SacrificeEndgameInTrial",
                         "coordinates": {
                             "x": 275,
                             "y": 305
@@ -1641,7 +1641,7 @@
                         ],
                         "nodeType": "quest:challenge",
                         "objectives": {
-                            "HookObsessionInTrial": {
+                            "SacrificeEndgameInTrial": {
                                 "conditions": [
                                     {
                                         "key": "role",
@@ -1652,13 +1652,13 @@
                                 ],
                                 "incrementWithEventRepetitions": false,
                                 "neededProgression": 1,
-                                "objectiveId": "HookObsessionInTrial",
+                                "objectiveId": "SacrificeEndgameInTrial",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
                                         "parameters": "instigator:me",
-                                        "questEventId": "QuestEvent.HookObsession",
-                                        "repetition": 2
+                                        "questEventId": "QuestEvent.SacrificeEndgame",
+                                        "repetition": 1
                                     }
                                 ]
                             }
@@ -1943,7 +1943,7 @@
                     "node_T6L2_17": {
                         "clientInfoId": "NurseBlinkChainMultipleHitInTrial",
                         "coordinates": {
-                            "x": 545,
+                            "x": 455,
                             "y": 305
                         },
                         "journal": [
@@ -2123,7 +2123,7 @@
                     "node_T6L2_Start02": {
                         "clientInfoId": "Start",
                         "coordinates": {
-                            "x": 95,
+                            "x": 185,
                             "y": 5
                         },
                         "neighbors": [
@@ -3953,7 +3953,7 @@
                                         "operation": ">=",
                                         "parameters": "instigator:me",
                                         "questEventId": "QuestEvent.HitHemorrhage",
-                                        "repetition": 12
+                                        "repetition": 10
                                     }
                                 ]
                             }
@@ -4008,7 +4008,7 @@
                                         "operation": ">=",
                                         "parameters": "instigator:me;Time:10",
                                         "questEventId": "QuestEvent.OniDashTimeHit",
-                                        "repetition": 10
+                                        "repetition": 1
                                     }
                                 ]
                             }
@@ -4241,6 +4241,6 @@
             }
         ],
         "rewardData": "Tome06",
-        "version": 111
+        "version": 112
     }
 }
