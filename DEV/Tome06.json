@@ -1715,7 +1715,7 @@
                                         "operation": ">=",
                                         "parameters": "instigator:me",
                                         "questEventId": "QuestEvent.HealDying",
-                                        "repetition": 2
+                                        "repetition": 1
                                     }
                                 ]
                             }
@@ -1771,7 +1771,7 @@
                                         "operation": ">=",
                                         "parameters": "instigator:me",
                                         "questEventId": "QuestEvent.StunBlind",
-                                        "repetition": 2
+                                        "repetition": 3
                                     }
                                 ]
                             }
