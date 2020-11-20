@@ -456,7 +456,7 @@
                         ]
                     },
                     "node_T6L1_10": {
-                        "clientInfoId": "EarnEmblemsChaser",
+                        "clientInfoId": "HitDifferent",
                         "coordinates": {
                             "x": 545,
                             "y": 455
@@ -467,7 +467,7 @@
                         ],
                         "nodeType": "quest:task",
                         "objectives": {
-                            "EarnEmblemsChaserSilver": {
+                            "HitDifferent": {
                                 "conditions": [
                                     {
                                         "key": "role",
@@ -477,13 +477,13 @@
                                     }
                                 ],
                                 "incrementWithEventRepetitions": true,
-                                "neededProgression": 3,
-                                "objectiveId": "EarnEmblemsChaserSilver",
+                                "neededProgression": 10,
+                                "objectiveId": "HitDifferent",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
-                                        "parameters": "EmblemName:Emblem_Killer_Chaser;tEmblemQuality:Silver",
-                                        "questEventId": "QuestEvent.EarnEmblemsQuality",
+                                        "parameters": "instigator:me",
+                                        "questEventId": "QuestEvent.HitDifferent",
                                         "repetition": 1
                                     }
                                 ]
@@ -3475,7 +3475,7 @@
                         ]
                     },
                     "node_T6L4_07": {
-                        "clientInfoId": "ChaseStartDifferent",
+                        "clientInfoId": "BreakPalletsGens",
                         "coordinates": {
                             "x": 185,
                             "y": 455
@@ -3487,7 +3487,7 @@
                         ],
                         "nodeType": "quest:task",
                         "objectives": {
-                            "ChaseStartDifferent": {
+                            "BreakPalletsGens": {
                                 "conditions": [
                                     {
                                         "key": "role",
@@ -3497,13 +3497,13 @@
                                     }
                                 ],
                                 "incrementWithEventRepetitions": true,
-                                "neededProgression": 16,
-                                "objectiveId": "ChaseStartDifferent",
+                                "neededProgression": 35,
+                                "objectiveId": "BreakPalletsGens",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
                                         "parameters": "instigator:me",
-                                        "questEventId": "QuestEvent.ChaseStartDifferent",
+                                        "questEventId": "QuestEvent.BreakPalletsGens",
                                         "repetition": 1
                                     }
                                 ]
@@ -4241,6 +4241,6 @@
             }
         ],
         "rewardData": "Tome06",
-        "version": 112
+        "version": 114
     }
 }
