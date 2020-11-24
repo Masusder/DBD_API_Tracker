@@ -686,6 +686,27 @@
             ],
             "endDate": "2020-11-22T23:59:59",
             "startDate": "2020-11-16T00:00:00"
+        },
+        {
+            "data": [
+                {
+                    "category": "outfit",
+                    "ids": [
+                        "CA_outfit_006",
+                        "NK_outfit_012",
+                        "GS_outfit_010",
+                        "FM_outfit_012",
+                        "KK_outfit_018",
+                        "SwedenSurvivor_outfit_006",
+                        "Meg_outfit_013",
+                        "OK_outfit_02",
+                        "Bob_outfit_010",
+                        "Smoke_outfit_001"
+                    ]
+                }
+            ],
+            "endDate": "2020-11-29T23:59:59",
+            "startDate": "2020-11-23T00:00:00"
         }
     ]
 }
