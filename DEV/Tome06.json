@@ -10,7 +10,8 @@
                     }
                 ],
                 "end": [
-                    "node_T6L1_End01"
+                    "node_T6L1_End01",
+                    "node_T6L1_End02"
                 ],
                 "endNodeRewards": [
                     {
@@ -1141,7 +1142,8 @@
                     }
                 ],
                 "end": [
-                    "node_T6L2_End01"
+                    "node_T6L2_End01",
+                    "node_T6L2_End02"
                 ],
                 "endNodeRewards": [
                     {
@@ -2155,7 +2157,8 @@
                     }
                 ],
                 "end": [
-                    "node_T6L3_End01"
+                    "node_T6L3_End01",
+                    "node_T6L3_End02"
                 ],
                 "endNodeRewards": [
                     {
@@ -4241,6 +4244,6 @@
             }
         ],
         "rewardData": "Tome06",
-        "version": 114
+        "version": 115
     }
 }

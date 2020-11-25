@@ -2,32 +2,482 @@
     "news": [
         {
             "contentTags": [
-                "steam"
+                "steam",
+                "xbox",
+                "ps4",
+                "switch",
+                "grdk",
+                "stadia",
+                "xsx",
+                "ps5"
             ],
-            "description": "The Dead by Daylight team would like your feedback in a PTB survey.<br/><br/>We encourage you to be as honest as possible in letting us know how you feel about the build. The information and answers provided are anonymous&#44; not shared with any third&#45;party&#44; and will not be used for purposes other than survey analysis.<br/><br/><a href=\"event:https://store.steampowered.com/dlc/381210/\"><font color=\"#ff0000\"><u>Access the survey HERE&#33;</u></font></a>",
+            "description": "The Rift closes in less than 24h! Today is your last chance to get Tome IV rewards.",
+            "dwnImagePath": "",
+            "imageHeight": "",
+            "imagePath": "UI/Icons/NewContentSplash/splashBanner_ARC2.png",
+            "isHidden": false,
+            "startDate": "2020-10-06T15:00:00",
+            "title": "Archives &#124; 24h left to Tome IV",
+            "type": 4,
+            "version": "4.1.0",
+            "weight": 795.0
+        },
+        {
+            "contentTags": [
+                "steam",
+                "xbox",
+                "ps4",
+                "switch",
+                "grdk",
+                "stadia",
+                "xsx",
+                "ps5"
+            ],
+            "description": "<u><b>The Rift for Tome IV will close on October 7th!</b></u><br/><br/>For those without a Rift Pass&#44; this will be the last chance to unlock it and claim any rewards you&#39;ve earned on the Premium track.<br/><br/>Once the Rift closes the below will come into effect:<br/><li>Challenges&#44; Entries&#44; and Bloodpoints from Tome IV will remain available permanently after this date but no longer award Rift Fragments. Once the next Tome begins&#44; Tome IV will be available in the Compendium section.</li><li>Player Level XP will stop awarding Rift Fragments.</li><li>Unclaimed rewards from the Rift will be automatically claimed on your next launch of the game or tally screen&#44; whichever comes first.</li><br/><br/>Stay tuned for Tome V to arrive with Mid-Chapter 17.5!",
+            "dwnImagePath": "",
+            "imageHeight": "",
+            "imagePath": "UI/Icons/NewContentSplash/splashBanner_ARC2.png",
+            "isHidden": false,
+            "startDate": "2020-09-30T15:00:00",
+            "title": "<b><u>RIFT CLOSES IN 1 WEEK</b></u>",
+            "type": 4,
+            "version": "4.1.0",
+            "weight": 790.0
+        },
+        {
+            "contentTags": [
+                "steam",
+                "xbox",
+                "ps4",
+                "switch",
+                "grdk",
+                "stadia",
+                "xsx",
+                "ps5"
+            ],
+            "description": "Level IV of Tome IV is now available! With it comes the below&#58;<br/><li>20 Challenges (incl. 8 Master Challenges)</li><li>8 Memory and Log Entries (including the <b>final entry for The Wraith&#39;s &#34;The Algebra of Infinite Night&#34;</b>)</li><li>More Bloodpoints</li><br/><br/>To access Level IV&#44; you must have reached the Epilogue node of Level III with either role.",
+            "dwnImagePath": "",
+            "imageHeight": "",
+            "imagePath": "UI/Icons/NewContentSplash/splashBanner_ARC2.png",
+            "isHidden": false,
+            "startDate": "2020-09-16T15:00:00",
+            "title": "<b>WRAITH&#39;S &#34;ALGEBRA OF INFINITE NIGHT&#34;</b>",
+            "type": 2,
+            "version": "4.1.0",
+            "weight": 785.0
+        },
+        {
+            "contentTags": [
+                "steam",
+                "xbox",
+                "ps4",
+                "switch",
+                "grdk",
+                "stadia",
+                "xsx",
+                "ps5"
+            ],
+            "description": "Level III of Tome IV is now available! With it comes the below&#58;<br/><li>20 Challenges (incl. 8 Master Challenges)</li><li>8 Memory and Log Entries (including the <b>final entry for Meg Thomas&#39; &#34;Eat Dust&#34;</b>)</li><li>More Bloodpoints</li><br/><br/>To access Level III&#44; you must have reached the Epilogue node of Level II with either role.",
+            "dwnImagePath": "",
+            "imageHeight": "",
+            "imagePath": "UI/Icons/NewContentSplash/splashBanner_ARC2.png",
+            "isHidden": false,
+            "startDate": "2020-08-26T15:00:00",
+            "title": "<b>MEG'S &#34;EAT DUST&#34;</b>",
+            "type": 2,
+            "version": "4.1.0",
+            "weight": 780.0
+        },
+        {
+            "contentTags": [
+                "steam",
+                "xbox",
+                "ps4",
+                "switch",
+                "grdk",
+                "stadia",
+                "xsx",
+                "ps5"
+            ],
+            "description": "The Executioner knows your mind well. He does not hide in the shadows. He hides closer than you know. <br/><br/>Available now:<li><b>The Executioner</b> &#45; Forge Born Set</li>",
+            "dwnImagePath": "",
+            "imageHeight": "",
+            "imagePath": "UI/Icons/NewContentSplash/splashBanner_ XE.png",
+            "isHidden": false,
+            "startDate": "2020-08-21T15:00:00",
+            "title": "IMMOLATION COLLECTION",
+            "type": 2,
+            "version": "4.1.0",
+            "weight": 775.0
+        },
+        {
+            "contentTags": [
+                "steam",
+                "xbox",
+                "ps4",
+                "grdk"
+            ],
+            "description": "Join us today live on Twitch for our first Into The Fog Event featuring three teams of five Fog Whisperers&#44; competing against each other and taking turns as Killers and Survivors.<br/><br/>Watch it live <a href=\"event:https://www.twitch.tv/deadbydaylight\"><font color=\"#ff0000\"><u>HERE</u></font></a> starting 12PM ET&#47;9AM PT&#33;",
+            "dwnImagePath": "",
+            "imageHeight": "",
+            "imagePath": "UI/Icons/NewContentSplash/splashbanner_ITF.png",
+            "isHidden": false,
+            "startDate": "2020-08-20T04:00:00",
+            "title": "INTO THE FOG",
+            "type": 5,
+            "version": "4.1.2",
+            "weight": 774.0
+        },
+        {
+            "contentTags": [
+                "steam",
+                "xbox",
+                "ps4",
+                "switch",
+                "grdk",
+                "stadia",
+                "xsx",
+                "ps5"
+            ],
+            "description": "<b>Cross&#45;Play and Cross&#45;Friends</b> have now arrived in Dead by Daylight&#33;<br/><br/>With both of these active&#44; you can now add friends from across Steam&#44; Windows Store&#44; Xbox One&#44; PS4&#44; and Switch platforms. Players from all these platforms can now appear in your Trials...you never know who will show up when you&#39;re surviving together &#40;or killing&#41; online in the Fog!<br/><br/>Players who wish to keep matchmaking locked to their own platform will be able to opt&#45;out of Cross&#45;Play.",
+            "dwnImagePath": "",
+            "imageHeight": "",
+            "imagePath": "UI/Icons/NewContentSplash/splashBanner_updates_news.png",
+            "isHidden": false,
+            "startDate": "2020-08-13T15:00:00",
+            "title": "CROSS-PLAY & CROSS-FRIENDS",
+            "type": 2,
+            "version": "4.1.2",
+            "weight": 773.0
+        },
+        {
+            "contentTags": [
+                "steam",
+                "xbox",
+                "ps4",
+                "switch",
+                "grdk",
+                "stadia",
+                "xsx",
+                "ps5"
+            ],
+            "description": "With regards to Error 111&#47;112&#44; we apologize that this error is still affecting our players and can assure you it is receiving our attention.<br/><br/>The team is working on finding a solution as a matter of urgency. We have tried to implement a quick fix with our most recent patch&#44; but this didn&#39;t pan out as we had hoped.<br/><br/>Unfortunately&#44; this does mean we won&#39;t be able to fix this for you today. We do not yet have an ETA to share as to when this issue will be resolved.<br/><br/>We know these errors are incredibly frustrating&#44; but rest assured the team are putting all their effort into finding a solution.<br/><br/>Apologies for the situation&#44; and thank you for your patience.",
             "dwnImagePath": "",
             "imageHeight": "",
             "imagePath": "",
             "isHidden": false,
-            "startDate": "2020-08-18T18:00:00",
-            "title": "PTB SURVEY",
+            "startDate": "2020-08-12T15:00:00",
+            "title": "ERROR 111&#47;112 INFORMATION",
             "type": 4,
-            "version": "4.2.0",
-            "weight": 750.0
+            "version": "4.1.2",
+            "weight": 771.0
+        },
+        {
+            "contentTags": [
+                "steam",
+                "xbox",
+                "ps4",
+                "switch",
+                "grdk",
+                "stadia",
+                "xsx",
+                "ps5"
+            ],
+            "description": "Level II of Tome IV is now available! With it comes the below&#58;<br/><li>20 Challenges (incl. 9 Master Challenges)</li><li>9 Memory and Log Entries (including the <b>final entry for Ace Visconti&#39;s &#34;Go For Broke&#34;</b>)</li><li>More Bloodpoints</li><br/><br/>To access Level II&#44; you must have reached the Epilogue node of Level I with either role.",
+            "dwnImagePath": "",
+            "imageHeight": "",
+            "imagePath": "UI/Icons/NewContentSplash/splashBanner_ARC2.png",
+            "isHidden": false,
+            "startDate": "2020-08-12T15:00:00",
+            "title": "ACE&#39;S &#34;GO FOR BROKE&#34;",
+            "type": 2,
+            "version": "4.1.0",
+            "weight": 770.0
+        },
+        {
+            "contentTags": [
+                "switch"
+            ],
+            "description": "The game client has been updated to the 4.1.2 hotfix.<br/><br/><span class=\"Heading2\">KEY CHANGES:</span><li>Further tweaks to The Hillbilly&#39;s Chainsaw heat meter.</li><li>Fixed a save game issue which caused the message &#34;Save Game Error 111&#34; to appear.</li><li>Tweaks for add&#45;ons for The Hillbilly &#38; The Cannibal</li><li>Updated the Aura system</li><li>Fixed an issue causing some items to be depleted just before they ran out of charges</li><br/><br/>Please see <a href=\"event:https://forum.deadbydaylight.com/en/kb/patchnotes\"><font color=\"#ff0000\"><u>HERE</u></font></a> for detailed patch notes.",
+            "dwnImagePath": "",
+            "imageHeight": "",
+            "imagePath": "",
+            "isHidden": false,
+            "startDate": "2020-08-12T15:00:00",
+            "title": "4.1.2 HOTFIX",
+            "type": 4,
+            "version": "4.1.2",
+            "weight": 768.0
+        },
+        {
+            "contentTags": [
+                "steam",
+                "xbox",
+                "ps4",
+                "switch",
+                "grdk",
+                "stadia"
+            ],
+            "description": "Based on reports&#44; data gathered and player feedback&#44; the matchmaking rating system will be disabled at 10AM ET today.<br/><br/>Please stay tuned for further updates.",
+            "dwnImagePath": "",
+            "imageHeight": "",
+            "imagePath": "",
+            "isHidden": false,
+            "startDate": "2020-08-12T14:00:00",
+            "title": "MATCHMAKING UPDATE",
+            "type": 4,
+            "version": "4.1.2",
+            "weight": 767.0
+        },
+        {
+            "contentTags": [
+                "steam",
+                "xbox",
+                "ps4",
+                "grdk"
+            ],
+            "description": "The game client has been updated to the 4.1.2 hotfix.<br/><br/><span class=\"Heading2\">KEY CHANGES:</span><li>Further tweaks to The Hillbilly&#39;s Chainsaw heat meter.</li><li>Fixed a save game issue which caused the message &#34;Save Game Error 111&#34; to appear.</li><br/><br/>Please see <a href=\"event:https://forum.deadbydaylight.com/en/kb/patchnotes\"><font color=\"#ff0000\"><u>HERE</u></font></a> for detailed patch notes.",
+            "dwnImagePath": "",
+            "imageHeight": "",
+            "imagePath": "",
+            "isHidden": false,
+            "startDate": "2020-08-11T15:00:00",
+            "title": "4.1.2 HOTFIX",
+            "type": 4,
+            "version": "4.1.2",
+            "weight": 766.0
+        },
+        {
+            "contentTags": [
+                "steam",
+                "xbox",
+                "ps4",
+                "switch",
+                "grdk",
+                "stadia"
+            ],
+            "description": "Touched by the powerful influence of the Gods, Feng Min and Jane Romero begin their transformations.<br/><br/>Now available:<li><b>Feng Min</b> &#45; Goddess of Warfare Outfit</li><li><b>Jane Romero</b> &#45; The Goddess Muse Set</li>",
+            "dwnImagePath": "",
+            "imageHeight": "",
+            "imagePath": "UI/Icons/NewContentSplash/splashBanner_ XFJ.png",
+            "isHidden": false,
+            "startDate": "2020-08-07T15:00:00",
+            "title": "GREEK LEGENDS COLLECTION",
+            "type": 2,
+            "version": "4.1.0",
+            "weight": 765.0
+        },
+        {
+            "contentTags": [
+                "steam",
+                "xbox",
+                "ps4",
+                "grdk"
+            ],
+            "description": "The game client has been updated to the 4.1.1 hotfix.<br/><br/><span class=\"Heading2\">KEY CHANGES</span><br/><li>Tweaks for add&#45;ons for The Hillbilly &#38; The Cannibal</li><li>Updated the Aura system</li><li>Fixed an issue causing some items to be depleted just before they ran out of charges</li><br/><br/>Please see <a href=\"event:https://forum.deadbydaylight.com/en/kb/patchnotes\"><font color=\"#ff0000\"><u>forum.deadbydaylight.com</u></font></a> for detailed patch notes.",
+            "dwnImagePath": "",
+            "imageHeight": "",
+            "imagePath": "",
+            "isHidden": false,
+            "startDate": "2020-08-05T15:00:00",
+            "title": "4.1.1 HOTFIX",
+            "type": 4,
+            "version": "4.1.1",
+            "weight": 761.0
+        },
+        {
+            "contentTags": [
+                "steam",
+                "xbox",
+                "ps4",
+                "switch",
+                "grdk",
+                "stadia"
+            ],
+            "description": "For The Spirit and Adam Francis, ancient nightmares manifest in the flesh, both eternal and torturous. <br/><br/>Now available:<li><b>The Spirit</b> &#45; Furious Nyx Outfit</li><li><b>Adam Francis</b> &#45; Herald of the Gods Outfit</li><br/>Watch the <a href=\"event:https://youtu.be/gg5Ubv1roQc\"><font color=\"#ff0000\"><u>Collection Trailer</u></font></a> to discover the upcoming store releases.",
+            "dwnImagePath": "",
+            "imageHeight": "",
+            "imagePath": "UI/Icons/NewContentSplash/splashBanner_ XSA.png",
+            "isHidden": false,
+            "startDate": "2020-08-04T15:00:00",
+            "title": "GREEK LEGENDS COLLECTION",
+            "type": 2,
+            "version": "4.1.0",
+            "weight": 760.0
+        },
+        {
+            "contentTags": [
+                "steam",
+                "xbox",
+                "ps4",
+                "switch",
+                "grdk",
+                "stadia"
+            ],
+            "description": "The new matchmaking system is now activated on PC and Consoles.<br/><br/><a href=\"event:https://forum.deadbydaylight.com/en/discussion/173606/\"><font color=\"#ff0000\"><u>Click here</u></font></a> for more information.",
+            "dwnImagePath": "",
+            "imageHeight": "",
+            "imagePath": "",
+            "isHidden": false,
+            "startDate": "2020-08-03T15:00:00",
+            "title": "MATCHMAKING UPDATE",
+            "type": 4,
+            "version": "4.1.0",
+            "weight": 758.0
+        },
+        {
+            "contentTags": [
+                "steam",
+                "xbox",
+                "ps4",
+                "switch",
+                "grdk",
+                "stadia"
+            ],
+            "description": "The new forms given to The Oni and David King emerged from the labyrinthian Fog, forged in the most primordial of the elements: pain.<br/><br/>Now available:<li><b>The Oni</b> &#45; The Minotaur Set</li><li><b>David King</b> &#45; Champion of Olympus Outfit</li><br/>Watch the <a href=\"event:https://youtu.be/gg5Ubv1roQc\"><font color=\"#ff0000\"><u>Collection Trailer</u></font></a> to discover the upcoming store releases.",
+            "dwnImagePath": "",
+            "imageHeight": "",
+            "imagePath": "UI/Icons/NewContentSplash/splashBanner_ XOD.png",
+            "isHidden": false,
+            "startDate": "2020-07-31T15:00:00",
+            "title": "GREEK LEGENDS COLLECTION",
+            "type": 2,
+            "version": "4.1.0",
+            "weight": 757.0
         },
         {
             "contentTags": [
                 "steam"
             ],
-            "description": "Welcome to the Public Test Build for Chapter 17&#33; Please read the below for a quick summary of the new content you&#39;ll find during this PTB.<br/><br/>For a full list of patch notes&#44; <a href=\"event:https://forum.deadbydaylight.com/en/kb/patchnotes\"><font color=\"#ff0000\"><u>click HERE</u></font></a>.<br/><br/><span class=\"Heading2\">NEW CHAPTER</span><li><b>Added new characters&#58;</b> The Blight (Killer) and Felix Richter &#40;Survivor&#41;</li><br/><br/><span class=\"Heading2\">FEATURES &#38; CONTENT</span><li>Visual updates of common in&#45;game objects&#58; Generators&#44; Pallets&#44; Lockers&#44; and Chests</li><li>Visual updates &#38; breakable walls added to some realms&#58; Springwood &#38; Yamaoka Estate</li><ul><li>Appearance rate of these realms is increased for the first week of PTB</li></ul><li>Added new Offerings affecting Realm&#44; Basement&#44; and Hatch spawns</li><br/><br/><span class=\"Heading2\">KNOWN ISSUES</span><li>Disturbed Ward map &#45; Disabled on PTB due to an existing bug.</li><li>The Nightmare &#45; Issue with lighting in the Yamaoka Estate and Springwood realms when using The Nightmare as the killer. Please refrain from using him during the PTB to avoid this.</li>",
+            "description": "Take advantage of our DLC discounts on Steam!<li>Up to <b>40% off</b> Select DLCs</li><br/><a href=\"event:https://store.steampowered.com/dlc/381210/\"><font color=\"#ff0000\"><u>Click here to see our DLC SALE</u></font></a><br/><br/>Ends August 6th.",
+            "dwnImagePath": "",
+            "imageHeight": "",
+            "imagePath": "UI/Icons/NewContentSplash/splashBanner_summersale.png",
+            "isHidden": false,
+            "startDate": "2020-07-31T15:00:00",
+            "title": "DLC SUMMER SALE",
+            "type": 2,
+            "version": "4.1.0",
+            "weight": 756.0
+        },
+        {
+            "contentTags": [
+                "steam",
+                "xbox",
+                "ps4",
+                "switch",
+                "grdk",
+                "stadia"
+            ],
+            "description": "The Archives returns with a new Tome&#44; CONVICTION&#44; containing new Challenges&#44; new stories&#44; and new rewards. Explore the memories of The Wraith&#44; Meg Thomas&#44; The Hag&#44; and Ace Visconti while earning memorable outfits and cosmetics.<br/><br/>Dive deeper into Tome IV&#39;s characters with the <a href=\"event:https://www.youtube.com/watch?v=x64KNX-_Hwg\"><font color=\"#ff0000\"><u><b>Tome Trailer</b></u></font></a> & <a href=\"event:https://www.youtube.com/watch?v=oLlMpXv5i4o\"><font color=\"#ff0000\"><b><u>Rift Trailer</u></b></font></a>.<br/><br/><span class=\"Heading2\">Level Release Schedule</span><br/><li>Level I&#58; July 29th 2020</li><li>Level II&#58; August 12th 2020</li><li>Level III&#58; August 26th 2020</li><li>Level IV&#58; September 16th 2020</li><br/><br/><i>Please note these release dates are subject to change. All Previously unlocked levels will remain available once released but will stop providing Rift Fragments once the relevant Rift has expired.</i><br/><br/><span class=\"Heading2\"><font color=\"#FFD700\">LIMITED TIME SALE</font></span><br/>30% off the below featured characters for Tome IV<br/><li>Ace Visconti &#45; <font color=\"#FFD700\">350 AC</font> (was 500)</li><li>The Hag &#45; <font color=\"#FFD700\">350 AC</font> (was 500)</li><br/><br/>Discount ends August 5th",
+            "dwnImagePath": "",
+            "imageHeight": "",
+            "imagePath": "UI/Icons/NewContentSplash/splashBanner_CVN4.png",
+            "isHidden": false,
+            "startDate": "2020-07-29T15:00:00",
+            "title": "Archive Tome IV &#45; CONVICTION",
+            "type": 2,
+            "version": "4.1.0",
+            "weight": 750.0
+        },
+        {
+            "contentTags": [
+                "steam",
+                "xbox",
+                "ps4",
+                "switch",
+                "grdk",
+                "stadia"
+            ],
+            "description": "The Disconnection Penalties have now been re-activated on all platforms.",
             "dwnImagePath": "",
             "imageHeight": "",
             "imagePath": "",
             "isHidden": false,
-            "startDate": "2020-08-18T15:00:00",
-            "title": "CHAPTER 17 PTB",
+            "startDate": "2020-07-29T15:00:00",
+            "title": "Disconnection Penalties Reactivated",
             "type": 4,
-            "version": "4.2.0",
+            "version": "4.1.0",
+            "weight": 746.0
+        },
+        {
+            "contentTags": [
+                "steam",
+                "xbox",
+                "ps4",
+                "switch",
+                "grdk",
+                "stadia"
+            ],
+            "description": "As if summoned from the worlds of old, The Clown and Yui Kimura find themselves remade in the image of the Gods.<br/><br/>Watch the <a href=\"event:https://youtu.be/gg5Ubv1roQc\"><font color=\"#ff0000\"><u>Collection Trailer</u></font></a> and discover the power of the Gods.<br/><br/>Now available:<li><b>The Clown</b> &#45; Lord of the Underworld Set</li><li><b>Yui Kimura</b> &#45; Goddess of Victory Outfit</li>",
+            "dwnImagePath": "",
+            "imageHeight": "",
+            "imagePath": "UI/Icons/NewContentSplash/splashBanner_ XCY.png",
+            "isHidden": false,
+            "startDate": "2020-07-28T15:00:00",
+            "title": "GREEK LEGENDS COLLECTION",
+            "type": 2,
+            "version": "4.1.0",
+            "weight": 745.0
+        },
+        {
+            "contentTags": [
+                "steam",
+                "xbox",
+                "ps4",
+                "switch",
+                "grdk",
+                "stadia"
+            ],
+            "description": "For complete list of changes and bug fixes please visit <a href=\"event:https://forum.deadbydaylight.com/en/kb/patchnotes\"><font color=\"#ff0000\"><u>forum.deadbydaylight.com/en/kb/patchnotes</u></font></a><br/><br/><span class=\"Heading2\">FEATURES</span><li>Added a Promo Code System to the Store</li><br/><span class=\"Heading2\">BALANCE</span><br/><b>The Cannibal:</b><br/><b>Power Changes</b><br/>Added Chainsaw Sweep charges. Using the Chainsaw will consume a charge and trigger a Chainsaw Sweep. During this time&#44; The Cannibal can extend the Chainsaw Sweep by pressing the power button before the power bar fully depletes. The more charges are used&#44; the longer the miss cooldown / tantrum (if colliding with obstacles). <br/><br/>Furthermore&#44; if The Cannibal revs the chainsaw for too long&#44; a tantrum is automatically triggered for the base duration of 5 seconds.<br/><br/>When a tantrum is triggered&#44; all remaining charges are consumed. The tantrum meter will pause as soon as the power button is released and will start going down when the chainsaw is put away.<br/><br/><b>Add&#45;ons:</b> Updated most of his add&#45;ons.<br/><br/><b>The Hillbilly:</b><br/><b>Power Changes</b><br/>Added the overheat mechanic. Using the chainsaw will now build up heat. When reaching the maximum amount of heat&#44; the chainsaw overheats and cannot be used until it has cooled off. If the heat meter fills up&#44; the chainsaw overheats.  If the chainsaw overheats during a chainsaw sprint: <li>The sprint is not interrupted</li><li>The chainsaw goes through the cooldown phase after the sprint has ended</li><br/><br/>The heat meter will pause as soon as the power button is released and will start going down when the chainsaw is put away. Furthermore&#44; the heat meter does not progress during The Hillbilly&#39;s various cooldown phases. This includes a chainsaw miss&#44; a chainsaw hit and colliding with an obstacle. <br/><b>Add&#45;ons:</b> Updated most of his add&#45;ons.<br/><br/><b>Perk Updates</b><li>Franklin&#39;s Demise: Instead of the item losing charges when dropped&#44; the Entity will consume the item after <b>150/120/90</b> seconds if it is not picked up. Additionally&#44; Franklin&#39;s Demise will reveal the aura of items on the ground within <b>32/32/32</b> meters</li><li>Knock Out: Now triggers on basic attacks only. Additionally&#44; Survivors put in the dying state by your basic attacks will crawl <b>50/50/50&#37;</b> slower for <b>15/15/15</b> seconds. During this time&#44; they are affected by the Blindness status effect.</li><li>Lightborn: Grants immunity to blindness caused by flashlights and firecrackers. Survivors that attempt blinding you have their aura revealed for <b>6/8/10</b> seconds.</li><li>Tinkerer: Now triggers at <b>70/70/70&#37;</b> (down from 85&#37;) and grants the Undetectable status effect for <b>12/14/16</b> seconds (up from 8/10/12) </li><br/><span class=\"Heading2\">BUG FIXES</span><br/>Various bug fixes. For complete list please visit <a href=\"event:https://forum.deadbydaylight.com/en/kb/patchnotes\"><font color=\"#ff0000\"><u>forum.deadbydaylight.com/en/kb/patchnotes</u></font></a>",
+            "dwnImagePath": "",
+            "imageHeight": "",
+            "imagePath": "",
+            "isHidden": false,
+            "startDate": "2020-07-28T15:00:00",
+            "title": "4.1.0 Patch Notes",
+            "type": 3,
+            "version": "4.1.0",
+            "weight": 743.0
+        },
+        {
+            "contentTags": [
+                "steam",
+                "xbox",
+                "ps4",
+                "switch",
+                "grdk",
+                "stadia"
+            ],
+            "description": "There are two kinds of art therapy: one is expensive and the other is free.<br/><br/>Now available in the store:<li><b>Nea Karlsson:</b> Graff-Crafter</li>",
+            "dwnImagePath": "",
+            "imageHeight": "",
+            "imagePath": "UI/Icons/NewContentSplash/splashBanner_WNK.png",
+            "isHidden": false,
+            "startDate": "2020-07-24T15:00:00",
+            "title": "NEON SWIRL COLLECTION",
+            "type": 2,
+            "version": "4.0.2",
+            "weight": 742.0
+        },
+        {
+            "contentTags": [
+                "steam",
+                "xbox",
+                "ps4",
+                "switch",
+                "grdk",
+                "stadia"
+            ],
+            "description": "The Dead by Daylight team would like your feedback in a Gaming Habits survey.<br/><br/>We encourage you to be as honest as possible. The information and answers provided are anonymous, not shared with any third-party, and will not be used for purposes other than survey analysis.<br/><br/><a href=\"event:https://www.surveymonkey.com/r/VZX58N8\"><font color=\"#ff0000\"><u>Access the survey HERE!</u></font></a>",
+            "dwnImagePath": "",
+            "imageHeight": "",
+            "imagePath": "",
+            "isHidden": false,
+            "startDate": "2020-07-20T18:00:00",
+            "title": "GAMING HABITS SURVEY",
+            "type": 4,
+            "version": "4.0.2",
             "weight": 740.0
         },
         {
@@ -39,46 +489,16 @@
                 "grdk",
                 "stadia"
             ],
-            "description": "Stay out of the heat and enjoy these refreshing discounts: for <b><font color=\"#FFD700\">two weeks</font></b>&#44; save <b><font color=\"#FFD700\">up to 75&#37;</font></b> on a selection of outfits!<br/><br/><b><font color=\"#FFD700\">20&#37; OFF</font></b><br/><b>960</b> Auric Cells<li>Nancy\u2019s <b>Justice Seeker</b></li><li>Yui\u2019s <b>Wild Card</b></li><li>Meg\u2019s <b>Fortune Teller</b></li><li>The Legion\u2019s <b>Devil&#45;May&#45;Care &#45; Joey</b></li><li>The Ghostface\u2019s <b>Viper Ghost</b></li><br/><br/><b><font color=\"#FFD700\">30&#37; OFF</font></b><br/><b>840</b> Auric Cells <li>Steve\u2019s <b>This&#45;is&#45;not&#45;Happening</b></li><li>Zarina\u2019s <b>Guerilla Filmmaker</b></li><li>Ash\u2019s <b>Water Trash</b></li><li>Kate\u2019s <b>Main Headliner</b></li><li>Laurie\u2019s <b>Wolf in Sheep\u2019s Clothing</b></li><li>The Deathslinger\u2019s <b>Double&#45;Crossed</b></li><br/><br/><b><font color=\"#FFD700\">40&#37; OFF</font></b><br/><b>720</b> Auric Cells <li>Jane\u2019s <b>Photoshoot Ready</b></li><li>The Trapper\u2019s <b>Seaside Psycho</b></li><li>Claudette\u2019s <b>Spring Break</b></li><li>The Doctor\u2019s <b>Lord Chloroform</b></li><br/><br/><b><font color=\"#FFD700\">50&#37; OFF</font></b><br/><b>600</b> Auric Cells <li>The Wraith\u2019s <b>The Angel of Music</b></li><li>Dwight\u2019s <b>The Great Gas Jockey</b></li><li>Nea\u2019s <b>Northern Lights</b></li><li>The Plague\u2019s <b>Sea&#45;Goat Worshiper</b></li><li>The Hillbilly\u2019s <b>Buoy on the Beach</b></li><br/><br/><b><font color=\"#FFD700\">75&#37; OFF</font></b><br/><b>300</b> Auric Cells <li>Jeff\u2019s <b>Gallery Opening Gala</b></li><li>Ace\u2019s <b>The High Roller</b></li><li>The Nurse\u2019s <b>Kampo Trainee</b></li><li>Adam\u2019s <b>Freshman</b></li><li>The Hag\u2019s <b>Queen of the Mire</b></li><br/><br/>Offer ends <font color=\"#FFD700\">July 22nd 11AM ET</font><br/><br/>Discount limited to outfits purchased with Auric Cells",
+            "description": "With nothing holding him back, the open road became more of a home than the West Coast ever had.<br/><br/>Now available in the store:<li><b>Jeff Johansen:</b> Unhinged Rider</li>",
             "dwnImagePath": "",
             "imageHeight": "",
-            "imagePath": "UI/Icons/NewContentSplash/splashBanner_summersale.png",
+            "imagePath": "UI/Icons/NewContentSplash/splashBanner_WKS.png",
             "isHidden": false,
-            "startDate": "2020-07-08T15:00:00",
-            "title": "UP TO <font color=\"#FFD700\">75% OFF</font> SELECT OUTFITS",
-            "type": 5,
+            "startDate": "2020-07-17T15:00:00",
+            "title": "MAD ROAD COLLECTION",
+            "type": 2,
             "version": "4.0.2",
-            "weight": 730.0
-        },
-        {
-            "contentTags": [
-                "steam"
-            ],
-            "description": "People of The Fog&#44; <br/><br/>Thank you for participating in the Player Test Build! <br/><br/>Here\u2019s a few things to know about your save data & progress in the Player Test Build:<li>Your personal profile (save data&#44; inventory&#44; currencies) has been copied from the Live servers to the PTB servers on <b>July 2nd&#44; 2020 at 4:15 AM UTC</b>. Any progress or purchases made on the Live servers after this date will not be reflected on the PTB.</li><li>All progress made during the PTB <b>will not</b> be transferred over to the Live servers.</li><br/>You can leave feedback of your experience here: <br/><a href=\"event:forum.deadbydaylight.com/en/categories/4-1-0-ptb\"><font color=\"#ff0000\">https://forum.deadbydaylight.com/en/categories/4-1-0-ptb</font></a><br/>See you in The Fog.<br/><br/>-The Dead by Daylight team",
-            "dwnImagePath": "",
-            "imageHeight": "",
-            "imagePath": "",
-            "isHidden": false,
-            "startDate": "2020-07-08T15:00:00",
-            "title": "PTB - SAVE GAME & PROGRESS",
-            "type": 4,
-            "version": "4.1.0",
-            "weight": 725.0
-        },
-        {
-            "contentTags": [
-                "steam"
-            ],
-            "description": "<span class=\"Heading2\">BALANCE</span><br/><b>The Cannibal:</b><br/>Added the Chainsaw Sweep charges. Using the Chainsaw will consume a charge and trigger a Chainsaw Sweep. During this time&#44; The Cannibal can extend the Chainsaw Sweep by pressing the power button before the power bar fully depletes. The more charges are used&#44; the longer the missed cooldown / tantrum (if colliding with obstacles). <br/><br/>In numbers: <br/><li>The Cannibal starts with <b>3</b> charges</li><li>Triggering the chainsaw will start a Chainsaw Sweep that lasts <b>2</b> seconds</li><li>During this&#44; each charge used after that will reset the Chainsaw Sweep timer back to <b>2</b> seconds</li><li>Each additional charge used increases the missed chainsaw attack cooldown / tantrum duration by <b>1</b> second</li><li>Charges refill at a rate of <b>1</b> every <b>4</b> seconds when the chainsaw is not being used.</li><li>The Cannibal\u2019s maximum speed during a Chainsaw Sweep has increased to <b>5.29</b> m/s from <b>5.06</b> m/s</li> <br/><br/>Furthermore&#44; if The Cannibal revs the chainsaw for too long&#44; a tantrum is automatically triggered for the base duration of 5 seconds. <br/><br/>When a tantrum is triggered&#44; all remaining charges are consumed. <br/><br/><b>The Cannibal:</b> Updated most of his add-ons. <br/><br/><b>The Hillbilly:</b><br/>Added the overheat mechanic. Using the chainsaw will now build up heat. When reaching the maximum amount of heat&#44; the chainsaw overheats and cannot be used until it has cooled off. <br/><br/>In numbers: <br/><li>The chainsaw heat meter starts at <b>0</b>.</li><li>Starting a rev adds <b>5</b> charges.</li><li>Actively revving adds <b>10</b> charges per second</li><li>Actively sprinting adds <b>2</b> charges per second</li><li>When not using the chainsaw&#44; the heat meter dissipates at a rate of <b>-3.5</b> charges per second</li><li>When the chainsaw overheats&#44; the heat meter dissipates at a rate of <b>-6.6</b> charges per second</li><br/>If the heat meter reaches <b>100</b> charges&#44; the chainsaw overheats.<br/><br/>If the chainsaw overheats during a chainsaw sprint: <br/><li>The sprint is not interrupted</li><li>The chainsaw goes through the cooldown phase after the sprint has ended</li><br/><b>The Hillbilly:</b> Updated most of his add-ons. <br/><br/><b>Perk updates: </b><br/><li>Franklin\u2019s Demise: Instead of the item losing charges when dropped&#44; the Entity will consume the item after <b>150/120/90</b> seconds if it is not picked up. Additionally&#44; Franklin\u2019s Demise will reveal the aura of items on the ground within <b>32/32/32</b> meters.</li> <li>Knock Out: Now triggers on basic attacks only. Additionally&#44; Survivors put in the dying state by your basic attacks will crawl <b>50/50/50%</b> slower for <b>15/15/15</b> seconds. During this time&#44; they are affected by the <b>Blindness</b> status effect.</li><li>Lightborn: Grants immunity to blindness caused by flashlights and firecrackers. Survivors that attempt blinding you have their aura revealed for <b>6/8/10</b> seconds.</li><li>Tinkerer: Now triggers at <b>70/70/70%</b> (down from 85%) and grants the <b>Undetectable</b> status effect for <b>12/14/16</b> seconds (up from 8/10/12)</li><br/><br/><span class=\"Heading2\">BUG FIXES</span><br/><li>The Oni: Fixed an issue that caused Survivors to drop twice the amount of Blood Orbs when performing actions while injured.</li><li>Fixed an issue that caused injured Survivors to sometimes make no sound after certain actions.</li><li>Sanctum of Wrath: Fixed an issue that prevented blinking on the stone steps with the Nurse.</li><li>Fixed an issue that allowed loading into a Public Match while in Custom Games.</li><li>The Doctor: Fixed an issue that caused Survivors outside of the Terror Radius to not hear the audio cue when charging the Static Blast ability.</li><li>Fixed an issue that caused Survivors to get stuck together after healing a downed Survivor while against a wall in several locations.</li><li>Sole Survivor: Fixed an issue that caused the perk to not always receive a token when other Survivors are sacrificed.</li><li>The Cannibal: Fixed an issue that caused the chainsaw SFX to continue playing when stunned while performing a chainsaw run.</li><li>Devour Hope: Fixed an issue that displayed the speed buff as active for a duration of 10 seconds when hooking a Survivor instead of starting 10 seconds after having hooked a Survivor. The effect remains unchanged.</li><li>Mount Ormond Resort: Fixed an invisible collision outside the cottage.</li><li>The Oni: Fixed an issue that prevented entering Blood Fury if the power meter was filled while carrying a Survivor.</li><li>Grim Pantry: Fixed an issue that allowed a tree to spawn at the Exit Gate.</li><li>Reverted the UI Scale back to the pre-4.0.0 size. We were a bit too overzealous with the scale value and have set it back to the original size as this was adversely effecting players in 1440p. However&#44; this means that players in 4k will temporarily have the smaller UI scale for the duration of the PTB. Our intention for release is to implement an increased UI scale only for players using 4k resolutions. Players playing in 1440p and below will continue to remain at the pre-4.0.0 size.</li><li>Haddonfield: Fixed a visible gap under exterior windows.</li><li>Badham Preschool: Fixed a visible seam next to the killer shack.</li><li>Fixed an issue that caused Jane Romero's hand to clip trough her chest after the Nurse Mori.</li><li>(Steam) Fixed an issue that caused skillchecks in a Cage of Atonement to not work while using a controller.</li><li>Dead Dawg Saloon: Fixed an issue that caused tumbleweeds to appear abruptly and disappear by passing through the floor.</li><li>Fixed an issue that allowed climbing on chests that spawn on dirt mounds.</li><li>Fixed an issue that caused the Plague to briefly stagger and not return smoothly to her idle animation after falling from high ground.</li><li>Midwich Elementary School: Fixed an issue that caused Crows to be seen going through ceilings once triggered.</li><li>Midwich Elementary School: Fixed multiple book piles where the Survivors could clip trough.</li><li>Midwich Elementary School: Fixed very bright textures on desks in the reception area.</li><li>Backwater Swamp: fixed an invisible collision that can be walked on in Maze tiles.</li><li>Fixed an issue that caused Survivors' screams to be muffled and low volume when found in a locker.</li><li>Make Your Choice: Now mentions in the perk description that the Survivor screams when unhooking another Survivor.</li><li>Mother's Dwelling: Fixed a superfluous texture displayed on a Hay Pile in Mother's Dwelling map.</li><li>Father Campbell's Chapel: Fixed the horse's legs which were clipping through the ground.</li><li>Fixed missing texture when pulling David King from a locker.</li><li>Ironworks of Misery: Fixed missing collision on one of the foundry's entrances.</li><li>The Underground Complex: Fixed an issue that allowed climbing on a specific box.</li><li>Family Residence: Fixed a visible seam on the floor.</li><li>The Plague: Fixed an issue that activated Corruption mode instantly after a Survivor cleanses with the last Pool of Devotion instead of 5 seconds after a Survivor cleanses with the last Pool of Devotion.</li><li>Fixed an issue that caused the camera to not focus on the Survivor when being rescued from a Deathbed.</li><li>Haddonfield: Fixed placeholder textures on the ceilings in certain houses.</li><li>Plunderer's Instinct: Fixed the aura outline to remain displayed on chests even if there are no obstacles.</li><li>Kindred: Fixed an issue that displayed the Killer's aura outline even if there are no obstacles.</li><li>Wake Up: Fixed the aura outline which remained displayed on the Exit Gates even if there are no obstacles.</li><li>The Hillbilly: Fixed an issue that caused the Hillbilly to not go into stun animation when letting go of the chainsaw sprint button at the same time as hitting a wall.</li><li>Fixed an issue that sometimes caused survivors to stand up and puke when being interrupted when cleansing themselves at a Pool of Devotion.</li><li>Badham Preschool II: Fixed a Generator that couldn't be accessed from its right side.</li><li>Fixed an issue that could cause a Survivor to get stuck after interacting with a Pool of Devotion that spawned on dirt mounds.</li><br/><br/><span class=\"Heading2\">DEV NOTES</span><br/><li>Added a Promo Code System</li>",
-            "dwnImagePath": "",
-            "imageHeight": "",
-            "imagePath": "",
-            "isHidden": false,
-            "startDate": "2020-07-08T15:00:00",
-            "title": "PTB - PATCH NOTES",
-            "type": 3,
-            "version": "4.1.0",
-            "weight": 720.0
+            "weight": 736.0
         },
         {
             "contentTags": [
@@ -99,62 +519,6 @@
             "type": 4,
             "version": "4.0.2",
             "weight": 715.0
-        },
-        {
-            "contentTags": [
-                "steam",
-                "xbox",
-                "ps4",
-                "switch",
-                "grdk",
-                "stadia"
-            ],
-            "description": "The Anniversary Event has been extended an extra week until July 14th 11AM ET!<br/><br/><u><b><a href=\"event:https://deadbydaylight.com/en/news/dead-by-daylight-4th-anniversary-announcement\"><font color=\"#ff0000\"><u>Click HERE for more information about the event.</u></font></a></b></u><br/><br/>To help keep the 4th anniversary party going&#44; any player logging in before the above date will receive 444,444 Bloodpoints for FREE!",
-            "dwnImagePath": "",
-            "imageHeight": "",
-            "imagePath": "UI/Icons/NewContentSplash/splashBanner_WK25.png",
-            "isHidden": false,
-            "startDate": "2020-07-07T15:00:00",
-            "title": "ANNIVERSARY EVENT EXTENSION + GIFT",
-            "type": 5,
-            "version": "4.0.2",
-            "weight": 707.0
-        },
-        {
-            "contentTags": [
-                "steam",
-                "xbox",
-                "ps4",
-                "switch",
-                "grdk",
-                "stadia"
-            ],
-            "description": "The Dead by Daylight team would like your feedback in a Player Satisfaction survey.<br/><br/>We encourage you to be as honest as possible in letting us know how you feel about the game. The information and answers provided are anonymous, not shared with any third-party, and will not be used for purposes other than survey analysis.<br/><br/>Access the survey <a href=\"event:https://www.surveymonkey.com/r/DbD-PSAT\"><font color=\"#ff0000\"><u>HERE!</u></font></a>",
-            "dwnImagePath": "",
-            "imageHeight": "",
-            "imagePath": "UI/Icons/NewContentSplash/splashBanner_events_news.png",
-            "isHidden": false,
-            "startDate": "2020-07-06T17:00:00",
-            "title": "PLAYER SATISFACTION SURVEY",
-            "type": 4,
-            "version": "4.0.2",
-            "weight": 706.0
-        },
-        {
-            "contentTags": [
-                "steam",
-                "grdk"
-            ],
-            "description": "Cross-Friends is now activated for Windows Store and Steam!<br/><br/>Click <a href=\"event:https://forum.deadbydaylight.com/en/discussion/167841\"><font color=\"#ff0000\"><u>HERE</u></font></a> for more information.",
-            "dwnImagePath": "",
-            "imageHeight": "",
-            "imagePath": "UI/Icons/NewContentSplash/splashBanner_news.png",
-            "isHidden": false,
-            "startDate": "2020-07-06T15:00:00",
-            "title": "CROSS-FRIENDS BETA ACTIVE ON PC",
-            "type": 4,
-            "version": "4.0.2",
-            "weight": 695.0
         },
         {
             "contentTags": [
@@ -523,206 +887,6 @@
             "type": 2,
             "version": "3.7.2",
             "weight": 641.0
-        },
-        {
-            "contentTags": [
-                "steam",
-                "xbox",
-                "ps4",
-                "switch",
-                "grdk",
-                "stadia"
-            ],
-            "description": "In a restless anger&#44; The Oni and The Spirit have risen up once again from the darkness to terrorize the living.<br/><br/>Now available in the store:<li>The Oni: Cursed Fate</li><li>The Spirit: Awakened Origin</li>",
-            "dwnImagePath": "",
-            "imageHeight": "",
-            "imagePath": "UI/Icons/NewContentSplash/splashBanner_VFC.png",
-            "isHidden": false,
-            "startDate": "2020-05-15T15:00:00",
-            "title": "YAMAOKA CURSE COLLECTION",
-            "type": 2,
-            "version": "3.7.2",
-            "weight": 635.0
-        },
-        {
-            "contentTags": [
-                "steam",
-                "xbox",
-                "ps4",
-                "switch",
-                "grdk",
-                "stadia"
-            ],
-            "description": "Level II of Tome III is now available! With it comes the below:<li>23 Challenges (incl. 10 Master Challenges)</li><li>10 Memory and Log Entries (including the final entry for The Huntress\u2019 A Lovely War)</li><li>More Bloodpoints.</li><br>To access Level II&#44; you must have reached the Epilogue node of Level I with either role.",
-            "dwnImagePath": "",
-            "imageHeight": "",
-            "imagePath": "",
-            "isHidden": false,
-            "startDate": "2020-05-13T15:00:00",
-            "title": "THE HUNTRESS: A LOVELY WAR",
-            "type": 2,
-            "version": "3.7.2",
-            "weight": 632.0
-        },
-        {
-            "contentTags": [
-                "steam",
-                "xbox",
-                "ps4",
-                "switch",
-                "grdk",
-                "stadia"
-            ],
-            "description": "<span class=\"Heading2\">BUG FIXES</span><br/><br/><li>Fixed an issue that caused Killers or Survivors to be stuck in a dropped pallet location.</li><li>Fixed an issue that caused the user to be stuck when hooking or unhooking a Survivor.</li><li>Fixed an issue that caused Meg to fly off the hook after being hooked a second time in the Tutorial.</li><li>The Cannibal: Fixed an issue that caused the chainsaw SFX to stay active after destroying a pallet.</li><li>Fixed an issue that caused the Entity Blockers to be invisible and have no smoke VFX after vaulting through a window 3 times.</li><li>The Nurse: Fixed an issue that caused the Nurse to be unable to blink in most of the Chapel.</li><li>Fixed an issue that caused the animation of the Hillbilly \u2019s chainsaw attack to display incorrectly when hitting a wall.</li><li>Fixed an issue that caused Stalking as Ghost Face and revealing Ghost Face as a Survivor to be difficult when hiding in tall grass.</li><li>Fixed an issue that caused the Undetectable status to trigger as soon as the Killer stopped moving when using the perk Insidious.</li><li>Fixed an issue that caused the Offerings on the offering screen to be displayed smaller.</li><li>Fixed an issue that caused some generators to be unable to be damaged by the Killer from certain angles.</li><li>The Nightmare: Fixed an issue that caused Pallet remains to not be cleared when the Nightmare puts down a Dream Pallet.</li><li>Fixed an issue that caused the perk Head-On to deactivate if another Survivor is grabbed from a locker.</li><li>Fixed an issue that caused the Huntress\u2019 hatchets\u2019 addon on-hit effects to not work.",
-            "dwnImagePath": "",
-            "imageHeight": "",
-            "imagePath": "",
-            "isHidden": false,
-            "startDate": "2020-05-12T15:00:00",
-            "title": "3.7.2  Patch Notes",
-            "type": 3,
-            "version": "3.7.2",
-            "weight": 630.0
-        },
-        {
-            "contentTags": [
-                "steam",
-                "xbox",
-                "ps4",
-                "switch",
-                "grdk",
-                "stadia"
-            ],
-            "description": "Zarina&#44; David and Meg are hitting the streets once again. It\u2019s their way or the highway!<br/><br/>Now available in the store:<br/><li>Meg: Furious</li><li>Zarina: Revolutionary Road</li><li>David: Debt Collector</li>",
-            "dwnImagePath": "",
-            "imageHeight": "",
-            "imagePath": "UI/Icons/NewContentSplash/splashBanner_VMS.png",
-            "isHidden": false,
-            "startDate": "2020-05-08T15:00:00",
-            "title": "MEAN STREETS COLLECTION",
-            "type": 2,
-            "version": "3.7.1",
-            "weight": 625.0
-        },
-        {
-            "contentTags": [
-                "steam",
-                "xbox",
-                "ps4",
-                "switch",
-                "grdk",
-                "stadia"
-            ],
-            "description": "<span class=\"Heading2\">BUG FIXES</span><br/><br/><li>Fixed an issue that could cause Survivors to fall out of world when escaping a trial and transitioning to the match result screen.</li><li>Fixed an issue that allowed Survivors to vault while staggered after falling.</li><li>The Oni: Fixed an issue that caused the grab animation to trigger twice when picking up a survivor in Blood Fury mode.</li><li>The Huntress: Fixed an issue that caused the camera to reset incorrectly when putting away a hatchet.</li><li>The Huntress: Fixed an issue that failed to award bonus Deviousness points when hitting a Survivor with a hatchet.</li><li>The Oni: Fixed an issue that caused the Oni\u2019s Kanobo to float briefly when he transitions to Demon Mode.</li><li>Fixed an issue that could cause the Killer to hang when the match start timer reaches zero.</li><li>Fixed an animation issue that caused the Killer to be offset when performing a Mori on a Survivor that is quickly spinning.</li><li>Thompson House: Fixed invisible collisions in the Farmhouse.</li><li>Fixed an issue that caused the Insidious perk icon to not be dimmed when the effect is inactive.</li><li>Fixed an issue that could cause a Survivor to crash when being sacrificed while using the perk Sole Survivor.</li><li>Fixed an issue that failed to display the EULA website after confirming that the user is older than 18.</li><li>Coldwind Farm: Fixed an issue that caused the Killer stain to be blocked by the corn&#44; causing odd geometrical shapes to appear.</li><li>Fixed an issue that caused the Trapper\u2019s Neptune Failure body customization to clip through the camera while the trap collecting animation is playing.</li><li>Fixed an issue that caused Auras to be visible through certain Survivor\u2019s hair or outfits.</li><li>Fixed an issue that caused the Background music to stop playing for the Killer once all generators have been powered up.</li><li>Fixed an issue that caused the offering description to be displayed in the bottom right of the screen when hovering the cursor over this area just before they are flipped over in the middle of the screen.</li><li>The Shape: Fixed some issues that could cause the Stalking powers to either not give any stalk progress or cause the stalking to continue once the Survivor walks past the field of view.</li><li>The Spirit\u2019s Prayer Beads add-on: Fixed an issue that caused the phase shifting SFX to be silent outside the Spirit\u2019s terror radius if she starts phase shifting while inside the terror radius and then move farther away.</li><li>Dead Dawg Saloon: Fixed an issue that caused the lantern\u2019s lights to flicker.</li><li>Lampkin Lane: Fixed a one sided texture wall and floating grass above the stairs of the basement.</li><li>The Hag: Fixed an issue that caused the Red Stain of the Hag to change when teleporting to a triggered trap.</li><li>Fixed an issue that could sometimes kick a user from a party lobby back to the main menu with an unknown error.",
-            "dwnImagePath": "",
-            "imageHeight": "",
-            "imagePath": "",
-            "isHidden": false,
-            "startDate": "2020-05-05T15:00:00",
-            "title": "3.7.1  Patch Notes",
-            "type": 3,
-            "version": "3.7.1",
-            "weight": 622.0
-        },
-        {
-            "contentTags": [
-                "steam",
-                "xbox",
-                "ps4",
-                "switch",
-                "grdk",
-                "stadia"
-            ],
-            "description": "UP TO 75% OFF OUTFITS AND CHARACTERS.<br/><br/>To celebrate the Golden Week&#44; all characters released before Chapter XV: Chains of Hate are available at 50% OFF and the below outfits are up to 75% OFF!<br/><br/>Offer Ends May 8th 11AM ET!<br/>Discount limited to outfits and characters purchased with Auric Cells.<br/><br/>30% OFF<br/>840 Auric Cells<br/><li>Nea\u2019s Harajuku Graffiti Artist</li><li>Kate\u2019s Midnight Rider</li><li>Steve\u2019s Scoops Ahoy</li><li>Feng\u2019s Tokyo Subway</li><li>Yui\u2019s Kumi-Daiko Performer</li><li>The Ghost Face\u2019s Raining Blood</li><li>The Oni\u2019s Demonic Force</li><li>Jane\u2019s Photoshoot Ready</li><br/><br/>40% OFF<br/>720 Auric Cells<li>Nancy\u2019s Business \u201985</li><li>Claudette\u2019s Winter Gala</li><li>Meg\u2019s Tempo Runner</li><li>David\u2019s Mechanic</li><li>The Doctor\u2019s Surgeon of Slaugter</li><li>Adam\u2019s Sightseer</li><li>The Demogorgon\u2019s Escaped Specimen</li><br/><br/>50% OFF<br/>600 Auric Cells<li>Ace\u2019s Flying Ace</li><li>The Huntress\u2019 Cold Wasteland Survivor</li><li>The Trapper\u2019s MacMillan Miner</li><li>The Nurse\u2019s Lady Lunatic</li><li>Dwight\u2019s Snake Oil Merchant</li><li>Jeff\u2019s Into the Sunset</li><li>Jake\u2019s Prospector</li><li>The Clown\u2019s Children\u2019s Parties</li><br/><br/> 75% OFF<br/>300 Auric Cells<br/><li>The Wraith\u2019s Wax Warlock</li><li>Ash\u2019s Value Stop Stockboy</li><li>The Hillbilly\u2019s Auto-Repair Reaper</li><li>The Hag\u2019s Sapling Siren</li><li>The Plague\u2019s Priestess of the Damned</li>",
-            "dwnImagePath": "",
-            "imageHeight": "",
-            "imagePath": "UI/Icons/NewContentSplash/splashBanner_VGW.png",
-            "isHidden": false,
-            "startDate": "2020-05-01T15:00:00",
-            "title": "Golden Week Sale",
-            "type": 2,
-            "version": "3.7.0",
-            "weight": 620.0
-        },
-        {
-            "contentTags": [
-                "steam",
-                "xbox",
-                "ps4",
-                "switch",
-                "grdk",
-                "stadia"
-            ],
-            "description": "As a thank you for helping Dead by Daylight Mobile reach 1&#44;000&#44;000 pre-registrations&#44; the Unlimited Entity-Wide charm will be available via a login reward for a limited time on PC and console.<br/><br/>This offer ends on May 12th&#44; 2020",
-            "dwnImagePath": "",
-            "imageHeight": "",
-            "imagePath": "UI/Icons/NewContentSplash/splashBanner_VMB.png",
-            "isHidden": false,
-            "startDate": "2020-04-28T15:00:00",
-            "title": "New Unlimited Entity-Wide Charm",
-            "type": 2,
-            "version": "3.7.0",
-            "weight": 616.0
-        },
-        {
-            "contentTags": [
-                "steam",
-                "xbox",
-                "ps4",
-                "switch",
-                "grdk",
-                "stadia"
-            ],
-            "description": "You can read the full patch notes on our official forums  <a href=\"event:https://forum.deadbydaylight.com/en/kb/patchnotes\"><font color=\"#ff0000\"><u>HERE!</u></font></a> <br/><br/>-The Dead by Daylight Team",
-            "dwnImagePath": "",
-            "imageHeight": "",
-            "imagePath": "",
-            "isHidden": false,
-            "startDate": "2020-04-28T15:00:00",
-            "title": "3.7.0 Mid-Chapter Forum",
-            "type": 3,
-            "version": "3.7.0",
-            "weight": 614.0
-        },
-        {
-            "contentTags": [
-                "steam",
-                "xbox",
-                "ps4",
-                "switch",
-                "grdk",
-                "stadia"
-            ],
-            "description": "<span class=\"Heading2\">FEATURES & CONTENT</span><li>When all remaining Survivors in a trial hit the Struggle phase on the hook&#44; the Entity will instantly drain their remaining life bar.</li><li>The repair speed Efficiency Debuff for each Survivor working on a generator has been increased to 15% (up from 10%).</li><li>Great Skill Checks while repairing now give 1% bonus progression (down from 2%).</li><li>Great skill Checks  while repairing now give to 300 Bloodpoints (up from 150).</li><li>Memento Mori interaction adjustment: Mori animations only begin playing at the end of the interaction charge.</li><li>The Legion Feral Frenzy adjustment: Restored The Legion\u2019s ability to see scratch marks and pools of blood at the beginning of the fatigue (when Feral Frenzy expires).</li><li>The Emblem System: Adjusted the Benevolent Emblem progression thresholds.</li><li>Added additional player feedback when Survivors attempt to escape a hook by themselves.</li><li>Improved the Controller sensitivity range in Options.</li><li>Added score events for interrupting Survivors that are sabotaging a hook&#44; cleansing a totem or digging around in a Jigsaw box for a key.</li><li>Updated the Party Management visuals (silhouette)</li><li>The Archives New Content: Tome 03</li><li>Added a Details Screen to provide a full list of content available in the current Rift (Free + Premium tracks).</li><li>On the offering screen&#44; the description of the offerings now appear at the same time as the offering is revealed.</li><br/><br/><span class=\"Heading2\">BALANCE</span><br/><br/><span class=\"Heading3\">COLDWIND FARM</span><li>Torment Creek: Reduced the safety of the window in the silo</li><li>Rancid Abattoir: Reduced the safety of the window in the slaughterhouse.</li><li>Fractured Cowshed: Reduced the safety of the window in the cowshed.</li><li>Thompson House: Added a drop down from the second floor and added a window vault.</li><li>Added safety to the combine harvesters vault preventing a strong alternative path.</li><br/><br/><span class=\"Heading3\">MACMILLAN ESTATE</span><li>Coal Tower: Removed the window on the first floor of the tower.</li><li>Groaning Storehouse: Removed the window in the storehouse.</li><li>Ironworks of Misery: Reduced the safety of the window in the foundry.</li><br/><br/><span class=\"Heading3\">AUTOHAVEN WRECKERS</span><li>Wretched Shop: Removed the RNG window spawn logic in the garage and reduced window safety.</li><br/><br/><span class=\"Heading3\">BACKWATER SWAMP</span><li>Grim Pantry: Reduced the safety of the window under the shack.</li><br/><br/><span class=\"Heading2\">Layout Tweaks</span><li>Rotten Fields Reduced the size of the map and added more distance between Maze tiles.</li><li>Wretched Shop: Added more distance between Maze tiles.</li><li>Fractured Cowshed: Reduced the size of the map and added more distance between Maze tiles.</li><li>Thompson House: Reduced the size of the map and added more distance between  Maze tiles.</li><li>Wrecker\u2019s Yard: Reduced the size of the map and added more distance between Maze tiles.</li<li>The Temple of Purgation: Reduced the size of the map and added more distance between Maze tiles.</li><li>Mount Ormond Resort: Added more distance between Maze tiles.<br/><br/><span class=\"Heading2\">PERKS</span><li>Head-On: added visual feedback to clearly indicate how soon the perk will be ready for use.</li><li>Prove Thyself: Now addds 15% repair speed for each Survivor working on the same generator (up from 10%)</li><li>Stake Out: Now adds an additional 1% bonus progression for Great skill checks.</li><li>Play with your food: rewrote the description of the Perk. The effect remains unchanged.</li><li>Sole Survivor: now lights up as soon as 1 token is acquired.</li><li> You can read the full patch notes on our official forums  <a href=\"event:https://forum.deadbydaylight.com/en/kb/patchnotes\"><font color=\"#ff0000\"><u>HERE!</u></font></a> <br/><br/>-The Dead by Daylight Team",
-            "dwnImagePath": "",
-            "imageHeight": "",
-            "imagePath": "",
-            "isHidden": false,
-            "startDate": "2020-04-28T15:00:00",
-            "title": "3.7.0 Mid-Chapter Release",
-            "type": 3,
-            "version": "3.7.0",
-            "weight": 615.0
-        },
-        {
-            "contentTags": [
-                "steam",
-                "xbox",
-                "ps4",
-                "switch",
-                "grdk",
-                "stadia"
-            ],
-            "description": "The Archives returns with a new Tome&#44; ESCALATION containing new Challenges&#44; new stories and new rewards. Explore the memories of The Huntress&#44; Kate Denson&#44; The Legion (Julie)&#44; Dwight Fairfield while earning memorable outfits and cosmetics.<br/><br/>Level 1: April 29th<br/>Level II: May 13th<br/>Level III: May 27th<br/>Level IV: June 17th<br/><br/>Please note these release dates are subject to change. All Previously unlocked levels will remain available once released but will stop providing Rift Fragments once the relevant Rift has expired.<br/><br/>LIMITED TIME SALE<br/>50% off the below featured characters for Tome III<br/><li>Kate Denson: 250 AC (was 500)</li><li>The Legion: 250 AC (was 500)</li><br/><br/> Discount ends May 8th",
-            "dwnImagePath": "",
-            "imageHeight": "",
-            "imagePath": "UI/Icons/NewContentSplash/splashBanner_VARC.png",
-            "isHidden": false,
-            "startDate": "2020-04-28T15:00:00",
-            "title": "Archives Tome III - ESCALATION",
-            "type": 2,
-            "version": "3.7.0",
-            "weight": 618.0
         }
     ]
 }
