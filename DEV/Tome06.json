@@ -1309,8 +1309,7 @@
                         },
                         "neighbors": [
                             "node_T6L2_Start01",
-                            "node_T6L2_01",
-                            "node_T6L2_05"
+                            "node_T6L2_01"
                         ],
                         "nodeType": "quest:task",
                         "objectives": {
@@ -1356,8 +1355,8 @@
                             "y": 605
                         },
                         "neighbors": [
-                            "node_T6L2_02",
-                            "node_T6L2_04"
+                            "node_T6L2_Start01",
+                            "node_T6L2_02"
                         ],
                         "nodeType": "quest:task",
                         "objectives": {
@@ -1451,8 +1450,8 @@
                             "y": 155
                         },
                         "neighbors": [
+                            "node_T6L2_17",
                             "node_T6L2_09",
-                            "node_T6L2_11",
                             "node_T6L2_Start02"
                         ],
                         "nodeType": "quest:task",
@@ -1631,14 +1630,13 @@
                     "node_T6L2_11": {
                         "clientInfoId": "SacrificeEndgameInTrial",
                         "coordinates": {
-                            "x": 275,
+                            "x": 185,
                             "y": 305
                         },
                         "journal": [
                             "Tome06_Nurse"
                         ],
                         "neighbors": [
-                            "node_T6L2_07",
                             "node_T6L2_17"
                         ],
                         "nodeType": "quest:challenge",
@@ -1945,13 +1943,14 @@
                     "node_T6L2_17": {
                         "clientInfoId": "NurseBlinkChainMultipleHitInTrial",
                         "coordinates": {
-                            "x": 455,
+                            "x": 365,
                             "y": 305
                         },
                         "journal": [
                             "Tome06_Nurse"
                         ],
                         "neighbors": [
+                            "node_T6L2_07",
                             "node_T6L2_11"
                         ],
                         "nodeType": "quest:challenge",
@@ -2114,10 +2113,11 @@
                     "node_T6L2_Start01": {
                         "clientInfoId": "Start",
                         "coordinates": {
-                            "x": 95,
-                            "y": 455
+                            "x": 185,
+                            "y": 605
                         },
                         "neighbors": [
+                            "node_T6L2_05",
                             "node_T6L2_04"
                         ],
                         "nodeType": "narrative"
@@ -2783,7 +2783,7 @@
                                 "questEvent": [
                                     {
                                         "operation": ">=",
-                                        "parameters": "instigator:me",
+                                        "parameters": "instigator:me;target:me",
                                         "questEventId": "QuestEvent.HealFinishNearKiller",
                                         "repetition": 1
                                     }
@@ -3336,7 +3336,7 @@
                         ]
                     },
                     "node_T6L4_04": {
-                        "clientInfoId": "EscapeHatch",
+                        "clientInfoId": "EscapeOther",
                         "coordinates": {
                             "x": 1085,
                             "y": 455
@@ -3347,7 +3347,7 @@
                         ],
                         "nodeType": "quest:task",
                         "objectives": {
-                            "EscapeHatch": {
+                            "EscapeOther": {
                                 "conditions": [
                                     {
                                         "key": "role",
@@ -3357,13 +3357,13 @@
                                     }
                                 ],
                                 "incrementWithEventRepetitions": true,
-                                "neededProgression": 2,
-                                "objectiveId": "EscapeHatch",
+                                "neededProgression": 6,
+                                "objectiveId": "EscapeOther",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
-                                        "parameters": "instigator:me",
-                                        "questEventId": "QuestEvent.EscapeHatch",
+                                        "parameters": "instigator:other",
+                                        "questEventId": "QuestEvent.EscapeOther",
                                         "repetition": 1
                                     }
                                 ]
@@ -3791,7 +3791,7 @@
                                 "questEvent": [
                                     {
                                         "operation": ">=",
-                                        "parameters": "instigator:me;ItemRarity:VeryRare",
+                                        "parameters": "instigator:me",
                                         "questEventId": "QuestEvent.EmotePointAtKiller",
                                         "repetition": 2
                                     }
@@ -3842,7 +3842,7 @@
                                 "questEvent": [
                                     {
                                         "operation": ">=",
-                                        "parameters": "instigator:me;ItemRarity:VeryRare",
+                                        "parameters": "instigator:me",
                                         "questEventId": "QuestEvent.RepairFinishInTerrorRadius",
                                         "repetition": 2
                                     }
@@ -4244,6 +4244,6 @@
             }
         ],
         "rewardData": "Tome06",
-        "version": 115
+        "version": 117
     }
 }
