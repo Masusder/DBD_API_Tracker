@@ -529,7 +529,7 @@
                 "startDate": "2020-11-02T16:00:00"
             },
             {
-                "endDate": "2020-11-27T15:59:59",
+                "endDate": "2020-11-26T15:59:59",
                 "ids": [
                     "Banner_ZL",
                     "Banner_ZSH",
@@ -537,6 +537,17 @@
                     "Banner_YC"
                 ],
                 "startDate": "2020-11-13T16:00:00"
+            },
+            {
+                "endDate": "2020-12-03T15:59:59",
+                "ids": [
+                    "Banner_RH2",
+                    "Banner_ZL",
+                    "Banner_ZSH",
+                    "Banner_ZKH",
+                    "Banner_YC"
+                ],
+                "startDate": "2020-11-26T16:00:00"
             }
         ],
         "right": [
@@ -578,7 +589,7 @@
                 "startDate": "2020-06-19T15:00:00"
             },
             {
-                "endDate": "2020-11-26T14:59:59",
+                "endDate": "2020-12-03T15:59:59",
                 "ids": [
                     "Banner_DLC_Chapter_17_Small"
                 ],
@@ -705,8 +716,148 @@
                     ]
                 }
             ],
-            "endDate": "2020-11-29T23:59:59",
+            "endDate": "2020-11-26T15:59:59",
             "startDate": "2020-11-23T00:00:00"
+        },
+        {
+            "data": [
+                {
+                    "category": "outfit",
+                    "ids": [
+                        "DF_outfit_011",
+                        "Clown_outfit_007",
+                        "DK_outfit_011",
+                        "MS_outfit_013",
+                        "Bob_outfit_010",
+                        "ML_outfit_006",
+                        "MM_outfit_02",
+                        "SwedenKiller_outfit_009",
+                        "TN_outfit_010"
+                    ]
+                }
+            ],
+            "endDate": "2020-11-26T23:59:59",
+            "startDate": "2020-11-26T16:00:00"
+        },
+        {
+            "data": [
+                {
+                    "category": "outfit",
+                    "ids": [
+                        "MT_outfit_011",
+                        "K20_outfit_006",
+                        "S22_outfit_006",
+                        "Killer07_outfit_013",
+                        "Ace_outfit_002",
+                        "KK_outfit_016_01",
+                        "KS_outfit_011",
+                        "Bear_outfit_008",
+                        "OK_outfit_007"
+                    ]
+                }
+            ],
+            "endDate": "2020-11-27T23:59:59",
+            "startDate": "2020-11-27T00:00:00"
+        },
+        {
+            "data": [
+                {
+                    "category": "outfit",
+                    "ids": [
+                        "Claudette_outfit_018",
+                        "FK_outfit_007",
+                        "NK_outfit_012",
+                        "QK_outfit_02",
+                        "FM_outfit_012",
+                        "Chuckles_outfit_010",
+                        "Jake_outfit_007_01",
+                        "HillBilly_outfit_010",
+                        "HK_outfit_010"
+                    ]
+                }
+            ],
+            "endDate": "2020-11-28T23:59:59",
+            "startDate": "2020-11-28T00:00:00"
+        },
+        {
+            "data": [
+                {
+                    "category": "outfit",
+                    "ids": [
+                        "DF_outfit_011",
+                        "Clown_outfit_007",
+                        "DK_outfit_011",
+                        "MS_outfit_013",
+                        "Bob_outfit_010",
+                        "ML_outfit_006",
+                        "MM_outfit_02",
+                        "SwedenKiller_outfit_009",
+                        "TN_outfit_010"
+                    ]
+                }
+            ],
+            "endDate": "2020-11-29T23:59:59",
+            "startDate": "2020-11-29T00:00:00"
+        },
+        {
+            "data": [
+                {
+                    "category": "outfit",
+                    "ids": [
+                        "MT_outfit_011",
+                        "K20_outfit_006",
+                        "S22_outfit_006",
+                        "Killer07_outfit_013",
+                        "Ace_outfit_002",
+                        "KK_outfit_016_01",
+                        "KS_outfit_011",
+                        "Bear_outfit_008",
+                        "OK_outfit_007"
+                    ]
+                }
+            ],
+            "endDate": "2020-11-30T23:59:59",
+            "startDate": "2020-11-30T00:00:00"
+        },
+        {
+            "data": [
+                {
+                    "category": "outfit",
+                    "ids": [
+                        "Claudette_outfit_018",
+                        "FK_outfit_007",
+                        "NK_outfit_012",
+                        "QK_outfit_02",
+                        "FM_outfit_012",
+                        "Chuckles_outfit_010",
+                        "Jake_outfit_007_01",
+                        "HillBilly_outfit_010",
+                        "HK_outfit_010"
+                    ]
+                }
+            ],
+            "endDate": "2020-12-01T23:59:59",
+            "startDate": "2020-12-01T00:00:00"
+        },
+        {
+            "data": [
+                {
+                    "category": "outfit",
+                    "ids": [
+                        "DF_outfit_011",
+                        "Clown_outfit_007",
+                        "DK_outfit_011",
+                        "MS_outfit_013",
+                        "Bob_outfit_010",
+                        "ML_outfit_006",
+                        "MM_outfit_02",
+                        "SwedenKiller_outfit_009",
+                        "TN_outfit_010"
+                    ]
+                }
+            ],
+            "endDate": "2020-12-03T16:00:00",
+            "startDate": "2020-12-02T00:00:00"
         }
     ]
 }
