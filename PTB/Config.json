@@ -60,6 +60,10 @@
         "keyName": "KRAKEN_RSA_PUBLIC_KEY"
     },
     {
+        "value": "86400",
+        "keyName": "GAMELIFT_IDLE_INSTANCE_SHUTDOWN_TIMER"
+    },
+    {
         "value": "true",
         "keyName": "CANCEL_MATCH_ON_DISCONNECT_DURING_LOADING"
     },
@@ -118,11 +122,31 @@
                         "data": "Consoles",
                         "children": [
                             {
-                                "data": "ps4",
+                                "data": "PlayStation",
+                                "children": [
+                                    {
+                                        "data": "ps4",
+                                        "label": "PlayStation 4"
+                                    },
+                                    {
+                                        "data": "ps5",
+                                        "label": "PlayStation 5"
+                                    }
+                                ],
                                 "label": "PlayStation"
                             },
                             {
                                 "data": "xbox",
+                                "children": [
+                                    {
+                                        "data": "xbox",
+                                        "label": "XBOX old generation"
+                                    },
+                                    {
+                                        "data": "xsx",
+                                        "label": "Xbox Series X"
+                                    }
+                                ],
                                 "label": "XBOX"
                             },
                             {
