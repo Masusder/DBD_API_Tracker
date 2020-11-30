@@ -320,7 +320,7 @@
             {
                 "endDate": "2020-06-19T14:59:59",
                 "ids": [
-                    "Banner_DLC_Chapter_17_Big"
+                    "Banner_DLC_Chapter_16_Big"
                 ],
                 "startDate": "2020-06-16T15:00:00"
             },
@@ -486,7 +486,7 @@
                 "startDate": "2020-09-25T15:00:00"
             },
             {
-                "endDate": "2020-10-22T14:59:59",
+                "endDate": "2020-10-24T14:59:59",
                 "ids": [
                     "Banner_ZKH",
                     "Banner_ZSH",
@@ -505,10 +505,10 @@
                     "Banner_YC",
                     "Banner_YOC"
                 ],
-                "startDate": "2020-10-23T15:00:00"
+                "startDate": "2020-10-24T15:00:00"
             },
             {
-                "endDate": "2020-11-26T14:59:59",
+                "endDate": "2020-11-02T15:59:59",
                 "ids": [
                     "Banner_ZSH",
                     "Banner_ZHS",
@@ -516,7 +516,101 @@
                     "Banner_YC",
                     "Banner_YOC"
                 ],
-                "startDate": "2020-10-27T15:00:00"
+                "startDate": "2020-10-26T15:00:00"
+            },
+            {
+                "endDate": "2020-11-13T15:59:59",
+                "ids": [
+                    "Banner_ZSH",
+                    "Banner_ZKH",
+                    "Banner_YC",
+                    "Banner_YOC"
+                ],
+                "startDate": "2020-11-02T16:00:00"
+            },
+            {
+                "endDate": "2020-11-26T15:59:59",
+                "ids": [
+                    "Banner_ZL",
+                    "Banner_ZSH",
+                    "Banner_ZKH",
+                    "Banner_YC"
+                ],
+                "startDate": "2020-11-13T16:00:00"
+            },
+            {
+                "endDate": "2020-12-01T15:59:59",
+                "ids": [
+                    "Banner_RH2",
+                    "Banner_ZL",
+                    "Banner_ZSH",
+                    "Banner_ZKH",
+                    "Banner_YC"
+                ],
+                "startDate": "2020-11-26T16:00:00"
+            },
+            {
+                "endDate": "2020-12-03T15:59:59",
+                "ids": [
+                    "Banner_DLC_Chapter_18_Big",
+                    "Banner_AS24",
+                    "Banner_AK22",
+                    "Banner_RH2"
+                ],
+                "startDate": "2020-12-01T16:00:00"
+            },
+            {
+                "endDate": "2020-12-04T15:59:59",
+                "ids": [
+                    "Banner_DLC_Chapter_18_Big",
+                    "Banner_AS24",
+                    "Banner_AK22",
+                    "Banner_ZL"
+                ],
+                "startDate": "2020-12-03T16:00:00"
+            },
+            {
+                "endDate": "2020-12-08T15:59:59",
+                "ids": [
+                    "Banner_AT",
+                    "Banner_AS24",
+                    "Banner_AK22",
+                    "Banner_ZL"
+                ],
+                "startDate": "2020-12-04T16:00:00"
+            },
+            {
+                "endDate": "2020-12-11T15:59:59",
+                "ids": [
+                    "Banner_ADAZ",
+                    "Banner_AT",
+                    "Banner_AS24",
+                    "Banner_AK22",
+                    "Banner_ZL"
+                ],
+                "startDate": "2020-12-08T16:00:00"
+            },
+            {
+                "endDate": "2020-12-14T15:59:59",
+                "ids": [
+                    "Banner_AJC",
+                    "Banner_ADAZ",
+                    "Banner_AT",
+                    "Banner_AS24",
+                    "Banner_AK22"
+                ],
+                "startDate": "2020-12-11T16:00:00"
+            },
+            {
+                "endDate": "2021-01-01T15:59:59",
+                "ids": [
+                    "Banner_ACF",
+                    "Banner_AJC",
+                    "Banner_ADAZ",
+                    "Banner_AT",
+                    "Banner_AS24"
+                ],
+                "startDate": "2020-12-14T16:00:00"
             }
         ],
         "right": [
@@ -553,16 +647,23 @@
             {
                 "endDate": "2020-09-08T14:59:59",
                 "ids": [
-                    "Banner_DLC_Chapter_17_Small"
+                    "Banner_DLC_Chapter_16_Small"
                 ],
                 "startDate": "2020-06-19T15:00:00"
             },
             {
-                "endDate": "2020-11-26T14:59:59",
+                "endDate": "2020-12-04T15:59:59",
                 "ids": [
                     "Banner_DLC_Chapter_17_Small"
                 ],
                 "startDate": "2020-09-08T15:00:00"
+            },
+            {
+                "endDate": "2021-05-04T15:59:59",
+                "ids": [
+                    "storeBanner_AURR_small"
+                ],
+                "startDate": "2020-12-04T16:00:00"
             }
         ]
     },
