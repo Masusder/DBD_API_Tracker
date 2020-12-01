@@ -15676,8 +15676,8 @@
             "base_itemId": "CM_Head011",
             "character": "Claudette",
             "kind": "Customization",
-            "newEndDate": "2021-01-29T15:59:59",
-            "newStartDate": "2021-01-15T16:00:00",
+            "newEndDate": "2018-06-25T23:59:59",
+            "newStartDate": "2018-06-12T00:00:00",
             "outfitId": "CM_outfit_011",
             "quality": "V0",
             "qualityName": "quality1",
@@ -15699,7 +15699,7 @@
         },
         "nonSecure": false,
         "premium": false,
-        "purchasable": true,
+        "purchasable": false,
         "unique": true
     },
     {
@@ -15722,8 +15722,8 @@
             "base_itemId": "CM_Torso011",
             "character": "Claudette",
             "kind": "Customization",
-            "newEndDate": "2021-01-29T15:59:59",
-            "newStartDate": "2021-01-15T16:00:00",
+            "newEndDate": "2018-06-25T23:59:59",
+            "newStartDate": "2018-06-12T00:00:00",
             "outfitId": "CM_outfit_011",
             "quality": "V0",
             "qualityName": "quality1",
@@ -15745,7 +15745,7 @@
         },
         "nonSecure": false,
         "premium": false,
-        "purchasable": true,
+        "purchasable": false,
         "unique": true
     },
     {
@@ -15768,8 +15768,8 @@
             "base_itemId": "CM_Legs011",
             "character": "Claudette",
             "kind": "Customization",
-            "newEndDate": "2021-01-29T15:59:59",
-            "newStartDate": "2021-01-15T16:00:00",
+            "newEndDate": "2018-06-25T23:59:59",
+            "newStartDate": "2018-06-12T00:00:00",
             "outfitId": "CM_outfit_011",
             "quality": "V0",
             "qualityName": "quality1",
@@ -15791,7 +15791,7 @@
         },
         "nonSecure": false,
         "premium": false,
-        "purchasable": true,
+        "purchasable": false,
         "unique": true
     },
     {
@@ -19937,8 +19937,8 @@
             "base_itemId": "JP_Head010",
             "character": "Jake",
             "kind": "Customization",
-            "newEndDate": "2021-02-05T15:59:59",
-            "newStartDate": "2021-01-22T16:00:00",
+            "newEndDate": "2018-06-25T23:59:59",
+            "newStartDate": "2018-06-12T00:00:00",
             "outfitId": "JP_outfit_010",
             "quality": "V0",
             "qualityName": "quality1",
@@ -19960,7 +19960,7 @@
         },
         "nonSecure": false,
         "premium": false,
-        "purchasable": true,
+        "purchasable": false,
         "unique": true
     },
     {
@@ -19983,8 +19983,8 @@
             "base_itemId": "JP_Torso010",
             "character": "Jake",
             "kind": "Customization",
-            "newEndDate": "2021-02-05T15:59:59",
-            "newStartDate": "2021-01-22T16:00:00",
+            "newEndDate": "2018-06-25T23:59:59",
+            "newStartDate": "2018-06-12T00:00:00",
             "outfitId": "JP_outfit_010",
             "quality": "V0",
             "qualityName": "quality1",
@@ -20006,7 +20006,7 @@
         },
         "nonSecure": false,
         "premium": false,
-        "purchasable": true,
+        "purchasable": false,
         "unique": true
     },
     {
@@ -20029,8 +20029,8 @@
             "base_itemId": "JP_Legs010",
             "character": "Jake",
             "kind": "Customization",
-            "newEndDate": "2021-02-05T15:59:59",
-            "newStartDate": "2021-01-22T16:00:00",
+            "newEndDate": "2018-06-25T23:59:59",
+            "newStartDate": "2018-06-12T00:00:00",
             "outfitId": "JP_outfit_010",
             "quality": "V0",
             "qualityName": "quality1",
@@ -20052,7 +20052,7 @@
         },
         "nonSecure": false,
         "premium": false,
-        "purchasable": true,
+        "purchasable": false,
         "unique": true
     },
     {
@@ -31884,6 +31884,10 @@
         "consumptionObjectList": [],
         "defaultCost": [
             {
+                "currencyId": "Cells",
+                "price": 400
+            },
+            {
                 "currencyId": "Shards",
                 "price": 7200
             }
@@ -31895,8 +31899,8 @@
             "base_itemId": "FM_Head010",
             "character": "Feng",
             "kind": "Customization",
-            "newEndDate": "2020-12-28T15:59:59",
-            "newStartDate": "2020-12-14T16:00:00",
+            "newEndDate": "2018-06-25T23:59:59",
+            "newStartDate": "2018-06-12T00:00:00",
             "outfitId": "FM_outfit_010",
             "quality": "V0",
             "qualityName": "quality1",
@@ -31918,7 +31922,7 @@
         },
         "nonSecure": false,
         "premium": false,
-        "purchasable": true,
+        "purchasable": false,
         "unique": true
     },
     {
@@ -31930,8 +31934,12 @@
         "consumptionObjectList": [],
         "defaultCost": [
             {
+                "currencyId": "Cells",
+                "price": 400
+            },
+            {
                 "currencyId": "Shards",
-                "price": 7150
+                "price": 7200
             }
         ],
         "eventCostList": [],
@@ -31941,8 +31949,8 @@
             "base_itemId": "FM_Torso010",
             "character": "Feng",
             "kind": "Customization",
-            "newEndDate": "2020-12-28T15:59:59",
-            "newStartDate": "2020-12-14T16:00:00",
+            "newEndDate": "2018-06-25T23:59:59",
+            "newStartDate": "2018-06-12T00:00:00",
             "outfitId": "FM_outfit_010",
             "quality": "V0",
             "qualityName": "quality1",
@@ -31964,7 +31972,7 @@
         },
         "nonSecure": false,
         "premium": false,
-        "purchasable": true,
+        "purchasable": false,
         "unique": true
     },
     {
@@ -31976,8 +31984,12 @@
         "consumptionObjectList": [],
         "defaultCost": [
             {
+                "currencyId": "Cells",
+                "price": 400
+            },
+            {
                 "currencyId": "Shards",
-                "price": 7150
+                "price": 7200
             }
         ],
         "eventCostList": [],
@@ -31987,8 +31999,8 @@
             "base_itemId": "FM_Legs010",
             "character": "Feng",
             "kind": "Customization",
-            "newEndDate": "2020-12-28T15:59:59",
-            "newStartDate": "2020-12-14T16:00:00",
+            "newEndDate": "2018-06-25T23:59:59",
+            "newStartDate": "2018-06-12T00:00:00",
             "outfitId": "FM_outfit_010",
             "quality": "V0",
             "qualityName": "quality1",
@@ -32010,7 +32022,7 @@
         },
         "nonSecure": false,
         "premium": false,
-        "purchasable": true,
+        "purchasable": false,
         "unique": true
     },
     {
@@ -58637,8 +58649,8 @@
             "base_itemId": "TR_Mask009",
             "character": "Chuckles",
             "kind": "Customization",
-            "newEndDate": "2021-01-29T15:59:59",
-            "newStartDate": "2021-01-15T16:00:00",
+            "newEndDate": "2018-06-25T23:59:59",
+            "newStartDate": "2018-06-12T00:00:00",
             "outfitId": "TR_outfit_009",
             "quality": "V0",
             "qualityName": "quality1",
@@ -58660,7 +58672,7 @@
         },
         "nonSecure": false,
         "premium": false,
-        "purchasable": true,
+        "purchasable": false,
         "unique": true
     },
     {
@@ -58683,8 +58695,8 @@
             "base_itemId": "TR_Body009",
             "character": "Chuckles",
             "kind": "Customization",
-            "newEndDate": "2021-01-29T15:59:59",
-            "newStartDate": "2021-01-15T16:00:00",
+            "newEndDate": "2018-06-25T23:59:59",
+            "newStartDate": "2018-06-12T00:00:00",
             "outfitId": "TR_outfit_009",
             "quality": "V0",
             "qualityName": "quality1",
@@ -58706,7 +58718,7 @@
         },
         "nonSecure": false,
         "premium": false,
-        "purchasable": true,
+        "purchasable": false,
         "unique": true
     },
     {
@@ -58729,8 +58741,8 @@
             "base_itemId": "TR_W009",
             "character": "Chuckles",
             "kind": "Customization",
-            "newEndDate": "2021-01-29T15:59:59",
-            "newStartDate": "2021-01-15T16:00:00",
+            "newEndDate": "2018-06-25T23:59:59",
+            "newStartDate": "2018-06-12T00:00:00",
             "outfitId": "TR_outfit_009",
             "quality": "V0",
             "qualityName": "quality1",
@@ -58752,7 +58764,7 @@
         },
         "nonSecure": false,
         "premium": false,
-        "purchasable": true,
+        "purchasable": false,
         "unique": true
     },
     {
@@ -61522,8 +61534,8 @@
             "base_itemId": "TW_Head009",
             "character": "Bob",
             "kind": "Customization",
-            "newEndDate": "2021-02-05T15:59:59",
-            "newStartDate": "2021-01-22T16:00:00",
+            "newEndDate": "2018-06-25T23:59:59",
+            "newStartDate": "2018-06-12T00:00:00",
             "outfitId": "TW_outfit_009",
             "quality": "V0",
             "qualityName": "quality1",
@@ -61545,7 +61557,7 @@
         },
         "nonSecure": false,
         "premium": false,
-        "purchasable": true,
+        "purchasable": false,
         "unique": true
     },
     {
@@ -61568,8 +61580,8 @@
             "base_itemId": "TW_Body009",
             "character": "Bob",
             "kind": "Customization",
-            "newEndDate": "2021-02-05T15:59:59",
-            "newStartDate": "2021-01-22T16:00:00",
+            "newEndDate": "2018-06-25T23:59:59",
+            "newStartDate": "2018-06-12T00:00:00",
             "outfitId": "TW_outfit_009",
             "quality": "V0",
             "qualityName": "quality1",
@@ -61591,7 +61603,7 @@
         },
         "nonSecure": false,
         "premium": false,
-        "purchasable": true,
+        "purchasable": false,
         "unique": true
     },
     {
@@ -61614,8 +61626,8 @@
             "base_itemId": "TW_W009",
             "character": "Bob",
             "kind": "Customization",
-            "newEndDate": "2021-02-05T15:59:59",
-            "newStartDate": "2021-01-22T16:00:00",
+            "newEndDate": "2018-06-25T23:59:59",
+            "newStartDate": "2018-06-12T00:00:00",
             "outfitId": "TW_outfit_009",
             "quality": "V0",
             "qualityName": "quality1",
@@ -61637,7 +61649,7 @@
         },
         "nonSecure": false,
         "premium": false,
-        "purchasable": true,
+        "purchasable": false,
         "unique": true
     },
     {
@@ -79931,6 +79943,10 @@
         "consumptionObjectList": [],
         "defaultCost": [
             {
+                "currencyId": "Cells",
+                "price": 400
+            },
+            {
                 "currencyId": "Shards",
                 "price": 7200
             }
@@ -79942,8 +79958,8 @@
             "base_itemId": "GK_Head010",
             "character": "Clown",
             "kind": "Customization",
-            "newEndDate": "2020-12-28T15:59:59",
-            "newStartDate": "2020-12-14T16:00:00",
+            "newEndDate": "2018-06-25T23:59:59",
+            "newStartDate": "2018-06-12T00:00:00",
             "outfitId": "GK_outfit_010",
             "quality": "V0",
             "qualityName": "quality1",
@@ -79965,7 +79981,7 @@
         },
         "nonSecure": false,
         "premium": false,
-        "purchasable": true,
+        "purchasable": false,
         "unique": true
     },
     {
@@ -79977,8 +79993,12 @@
         "consumptionObjectList": [],
         "defaultCost": [
             {
+                "currencyId": "Cells",
+                "price": 400
+            },
+            {
                 "currencyId": "Shards",
-                "price": 7150
+                "price": 7200
             }
         ],
         "eventCostList": [],
@@ -79988,8 +80008,8 @@
             "base_itemId": "GK_Body010",
             "character": "Clown",
             "kind": "Customization",
-            "newEndDate": "2020-12-28T15:59:59",
-            "newStartDate": "2020-12-14T16:00:00",
+            "newEndDate": "2018-06-25T23:59:59",
+            "newStartDate": "2018-06-12T00:00:00",
             "outfitId": "GK_outfit_010",
             "quality": "V0",
             "qualityName": "quality1",
@@ -80011,7 +80031,7 @@
         },
         "nonSecure": false,
         "premium": false,
-        "purchasable": true,
+        "purchasable": false,
         "unique": true
     },
     {
@@ -80023,8 +80043,12 @@
         "consumptionObjectList": [],
         "defaultCost": [
             {
+                "currencyId": "Cells",
+                "price": 400
+            },
+            {
                 "currencyId": "Shards",
-                "price": 7150
+                "price": 7200
             }
         ],
         "eventCostList": [],
@@ -80034,8 +80058,8 @@
             "base_itemId": "GK_W010",
             "character": "Clown",
             "kind": "Customization",
-            "newEndDate": "2020-12-28T15:59:59",
-            "newStartDate": "2020-12-14T16:00:00",
+            "newEndDate": "2018-06-25T23:59:59",
+            "newStartDate": "2018-06-12T00:00:00",
             "outfitId": "GK_outfit_010",
             "quality": "V0",
             "qualityName": "quality1",
@@ -80057,7 +80081,7 @@
         },
         "nonSecure": false,
         "premium": false,
-        "purchasable": true,
+        "purchasable": false,
         "unique": true
     },
     {
@@ -103526,144 +103550,6 @@
         "defaultCost": [
             {
                 "currencyId": "Cells",
-                "price": 550
-            }
-        ],
-        "eventCostList": [],
-        "id": "S22_Head008",
-        "initialQuantity": 0,
-        "metaData": {
-            "base_itemId": "S22_Head008",
-            "character": "S22",
-            "kind": "Customization",
-            "newEndDate": "2020-10-08T23:59:59",
-            "newStartDate": "2020-09-25T00:00:00",
-            "outfitId": "S22_outfit_008",
-            "quality": "V0",
-            "qualityName": "quality1",
-            "rarity": "Legendary",
-            "type": "Head",
-            "unbreakable": true,
-            "version": {
-                "grdk": true,
-                "nintendo": true,
-                "ps4": true,
-                "ps5": true,
-                "psn": true,
-                "stadia": true,
-                "steam": true,
-                "switch": true,
-                "xbox": true,
-                "xsx": true
-            }
-        },
-        "nonSecure": false,
-        "premium": false,
-        "purchasable": true,
-        "unique": true
-    },
-    {
-        "categories": [
-            "item"
-        ],
-        "consumable": false,
-        "consumptionCurrenciesList": [],
-        "consumptionObjectList": [],
-        "defaultCost": [
-            {
-                "currencyId": "Cells",
-                "price": 550
-            }
-        ],
-        "eventCostList": [],
-        "id": "S22_Torso008",
-        "initialQuantity": 0,
-        "metaData": {
-            "base_itemId": "S22_Torso008",
-            "character": "S22",
-            "kind": "Customization",
-            "newEndDate": "2020-10-08T23:59:59",
-            "newStartDate": "2020-09-25T00:00:00",
-            "outfitId": "S22_outfit_008",
-            "quality": "V0",
-            "qualityName": "quality1",
-            "rarity": "Legendary",
-            "type": "Torso",
-            "unbreakable": true,
-            "version": {
-                "grdk": true,
-                "nintendo": true,
-                "ps4": true,
-                "ps5": true,
-                "psn": true,
-                "stadia": true,
-                "steam": true,
-                "switch": true,
-                "xbox": true,
-                "xsx": true
-            }
-        },
-        "nonSecure": false,
-        "premium": false,
-        "purchasable": true,
-        "unique": true
-    },
-    {
-        "categories": [
-            "item"
-        ],
-        "consumable": false,
-        "consumptionCurrenciesList": [],
-        "consumptionObjectList": [],
-        "defaultCost": [
-            {
-                "currencyId": "Cells",
-                "price": 550
-            }
-        ],
-        "eventCostList": [],
-        "id": "S22_Legs008",
-        "initialQuantity": 0,
-        "metaData": {
-            "base_itemId": "S22_Legs008",
-            "character": "S22",
-            "kind": "Customization",
-            "newEndDate": "2020-10-08T23:59:59",
-            "newStartDate": "2020-09-25T00:00:00",
-            "outfitId": "S22_outfit_008",
-            "quality": "V0",
-            "qualityName": "quality1",
-            "rarity": "Legendary",
-            "type": "Legs",
-            "unbreakable": true,
-            "version": {
-                "grdk": true,
-                "nintendo": true,
-                "ps4": true,
-                "ps5": true,
-                "psn": true,
-                "stadia": true,
-                "steam": true,
-                "switch": true,
-                "xbox": true,
-                "xsx": true
-            }
-        },
-        "nonSecure": false,
-        "premium": false,
-        "purchasable": true,
-        "unique": true
-    },
-    {
-        "categories": [
-            "item"
-        ],
-        "consumable": false,
-        "consumptionCurrenciesList": [],
-        "consumptionObjectList": [],
-        "defaultCost": [
-            {
-                "currencyId": "Cells",
                 "price": 400
             }
         ],
@@ -106378,6 +106264,144 @@
         "defaultCost": [
             {
                 "currencyId": "Cells",
+                "price": 550
+            }
+        ],
+        "eventCostList": [],
+        "id": "S22_Head008",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "S22_Head008",
+            "character": "S22",
+            "kind": "Customization",
+            "newEndDate": "2020-10-09T14:59:59",
+            "newStartDate": "2020-09-25T15:00:00",
+            "outfitId": "S22_outfit_008",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "Legendary",
+            "type": "Head",
+            "unbreakable": true,
+            "version": {
+                "grdk": true,
+                "nintendo": true,
+                "ps4": true,
+                "ps5": true,
+                "psn": true,
+                "stadia": true,
+                "steam": true,
+                "switch": true,
+                "xbox": true,
+                "xsx": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 550
+            }
+        ],
+        "eventCostList": [],
+        "id": "S22_Torso008",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "S22_Torso008",
+            "character": "S22",
+            "kind": "Customization",
+            "newEndDate": "2020-10-09T14:59:59",
+            "newStartDate": "2020-09-25T15:00:00",
+            "outfitId": "S22_outfit_008",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "Legendary",
+            "type": "Torso",
+            "unbreakable": true,
+            "version": {
+                "grdk": true,
+                "nintendo": true,
+                "ps4": true,
+                "ps5": true,
+                "psn": true,
+                "stadia": true,
+                "steam": true,
+                "switch": true,
+                "xbox": true,
+                "xsx": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 550
+            }
+        ],
+        "eventCostList": [],
+        "id": "S22_Legs008",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "S22_Legs008",
+            "character": "S22",
+            "kind": "Customization",
+            "newEndDate": "2020-10-09T14:59:59",
+            "newStartDate": "2020-09-25T15:00:00",
+            "outfitId": "S22_outfit_008",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "Legendary",
+            "type": "Legs",
+            "unbreakable": true,
+            "version": {
+                "grdk": true,
+                "nintendo": true,
+                "ps4": true,
+                "ps5": true,
+                "psn": true,
+                "stadia": true,
+                "steam": true,
+                "switch": true,
+                "xbox": true,
+                "xsx": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
                 "price": 400
             }
         ],
@@ -106395,7 +106419,7 @@
             "qualityName": "quality1",
             "rarity": "VeryRare",
             "type": "Head",
-            "unbreakable": true,
+            "unbreakable": false,
             "version": {
                 "grdk": true,
                 "nintendo": true,
@@ -106441,7 +106465,7 @@
             "qualityName": "quality1",
             "rarity": "VeryRare",
             "type": "Torso",
-            "unbreakable": true,
+            "unbreakable": false,
             "version": {
                 "grdk": true,
                 "nintendo": true,
@@ -106487,7 +106511,7 @@
             "qualityName": "quality1",
             "rarity": "VeryRare",
             "type": "Weapon",
-            "unbreakable": true,
+            "unbreakable": false,
             "version": {
                 "grdk": true,
                 "nintendo": true,
@@ -106526,8 +106550,8 @@
             "base_itemId": "S24_Head02",
             "character": "S24",
             "kind": "Customization",
-            "newEndDate": "2020-12-15T15:59:59",
-            "newStartDate": "2020-12-01T16:00:00",
+            "newEndDate": "2019-12-15T15:59:59",
+            "newStartDate": "2019-12-01T16:00:00",
             "outfitId": "S24_outfit_02",
             "quality": "V0",
             "qualityName": "quality1",
@@ -106572,8 +106596,8 @@
             "base_itemId": "S24_Torso02",
             "character": "S24",
             "kind": "Customization",
-            "newEndDate": "2020-12-15T15:59:59",
-            "newStartDate": "2020-12-01T16:00:00",
+            "newEndDate": "2019-12-15T15:59:59",
+            "newStartDate": "2019-12-01T16:00:00",
             "outfitId": "S24_outfit_02",
             "quality": "V0",
             "qualityName": "quality1",
@@ -106618,8 +106642,8 @@
             "base_itemId": "S24_Legs02",
             "character": "S24",
             "kind": "Customization",
-            "newEndDate": "2020-12-15T15:59:59",
-            "newStartDate": "2020-12-01T16:00:00",
+            "newEndDate": "2019-12-15T15:59:59",
+            "newStartDate": "2019-12-01T16:00:00",
             "outfitId": "S24_outfit_02",
             "quality": "V0",
             "qualityName": "quality1",
@@ -107664,8 +107688,8 @@
             "base_itemId": "S24_Torso01_01",
             "character": "S24",
             "kind": "Customization",
-            "newEndDate": "2020-12-15T15:59:59",
-            "newStartDate": "2020-12-01T16:00:00",
+            "newEndDate": "2018-06-25T23:59:59",
+            "newStartDate": "2018-06-12T00:00:00",
             "quality": "V0",
             "qualityName": "quality1",
             "rarity": "Common",
@@ -118462,7 +118486,7 @@
         "id": "Dwight_outfit_001",
         "metaData": {
             "character": "Dwight",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "DF_Head001",
                 "DF_Torso001",
@@ -118492,7 +118516,7 @@
         "id": "Dwight_outfit_002",
         "metaData": {
             "character": "Dwight",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "DF_Head001_01",
                 "DF_Torso001_01",
@@ -118522,7 +118546,7 @@
         "id": "Dwight_outfit_003",
         "metaData": {
             "character": "Dwight",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "DF_Head001_02",
                 "DF_Torso001_02",
@@ -118552,7 +118576,7 @@
         "id": "Dwight_outfit_004",
         "metaData": {
             "character": "Dwight",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "DF_Head002",
                 "DF_Torso002",
@@ -118582,7 +118606,7 @@
         "id": "Dwight_outfit_005",
         "metaData": {
             "character": "Dwight",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "DF_Head002_01",
                 "DF_Torso002_01",
@@ -118612,7 +118636,7 @@
         "id": "Dwight_outfit_006",
         "metaData": {
             "character": "Dwight",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "DF_Head002_02",
                 "DF_Torso002_02",
@@ -118642,7 +118666,7 @@
         "id": "Dwight_outfit_007",
         "metaData": {
             "character": "Dwight",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "DF_Head003",
                 "DF_Torso003",
@@ -118672,7 +118696,7 @@
         "id": "Dwight_outfit_008",
         "metaData": {
             "character": "Dwight",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "DF_Head003_01",
                 "DF_Torso003_01",
@@ -118702,7 +118726,7 @@
         "id": "Dwight_outfit_009",
         "metaData": {
             "character": "Dwight",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "DF_Head003_02",
                 "DF_Torso003_02",
@@ -118732,7 +118756,7 @@
         "id": "Dwight_outfit_010",
         "metaData": {
             "character": "Dwight",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "DF_Head005",
                 "DF_Torso005",
@@ -118762,7 +118786,7 @@
         "id": "Dwight_outfit_011",
         "metaData": {
             "character": "Dwight",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "DF_Head01_CV01",
                 "DF_Torso01_CV01",
@@ -118792,7 +118816,7 @@
         "id": "Dwight_outfit_012",
         "metaData": {
             "character": "Dwight",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "DF_Head01_CV02",
                 "DF_Torso01_CV02",
@@ -118822,7 +118846,7 @@
         "id": "Dwight_outfit_013",
         "metaData": {
             "character": "Dwight",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "DF_Head01_CV03",
                 "DF_Torso01_CV03",
@@ -118852,7 +118876,7 @@
         "id": "Dwight_outfit_014",
         "metaData": {
             "character": "Dwight",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "DF_Head01_CV04",
                 "DF_Torso01_CV04",
@@ -118882,7 +118906,7 @@
         "id": "Dwight_outfit_018",
         "metaData": {
             "character": "Dwight",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "DF_Head01_CV08",
                 "DF_Torso01_CV08",
@@ -118912,7 +118936,7 @@
         "id": "Dwight_outfit_019",
         "metaData": {
             "character": "Dwight",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "DF_Head006",
                 "DF_Torso006",
@@ -118942,7 +118966,7 @@
         "id": "Dwight_outfit_008_01",
         "metaData": {
             "character": "Dwight",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "DF_Head008",
                 "DF_Torso008",
@@ -118972,7 +118996,7 @@
         "id": "DF_outfit_009",
         "metaData": {
             "character": "Dwight",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "DF_Head009",
                 "DF_Torso009",
@@ -119002,7 +119026,7 @@
         "id": "DF_outfit_010",
         "metaData": {
             "character": "Dwight",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "DF_Head010",
                 "DF_Torso010",
@@ -119054,7 +119078,7 @@
         "id": "DF_outfit_011",
         "metaData": {
             "character": "Dwight",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "DF_Head011",
                 "DF_Torso011",
@@ -119112,7 +119136,7 @@
         "id": "Meg_outfit_002",
         "metaData": {
             "character": "Meg",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "MT_Head001_01",
                 "MT_Torso001_01",
@@ -119142,7 +119166,7 @@
         "id": "Meg_outfit_003",
         "metaData": {
             "character": "Meg",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "MT_Head001",
                 "MT_Torso001_02",
@@ -119172,7 +119196,7 @@
         "id": "Meg_outfit_004",
         "metaData": {
             "character": "Meg",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "MT_Head002_01",
                 "MT_Torso002",
@@ -119202,7 +119226,7 @@
         "id": "Meg_outfit_005",
         "metaData": {
             "character": "Meg",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "MT_Head002",
                 "MT_Torso002_01",
@@ -119232,7 +119256,7 @@
         "id": "Meg_outfit_006",
         "metaData": {
             "character": "Meg",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "MT_Head002_02",
                 "MT_Torso002_02",
@@ -119262,7 +119286,7 @@
         "id": "Meg_outfit_010",
         "metaData": {
             "character": "Meg",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "MT_Head004_02",
                 "MT_Torso004",
@@ -119292,7 +119316,7 @@
         "id": "Meg_outfit_011",
         "metaData": {
             "character": "Meg",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "MT_Head004_01",
                 "MT_Torso004_01",
@@ -119322,7 +119346,7 @@
         "id": "Meg_outfit_012",
         "metaData": {
             "character": "Meg",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "MT_Head004",
                 "MT_Torso004_02",
@@ -119352,7 +119376,7 @@
         "id": "Meg_outfit_007",
         "metaData": {
             "character": "Meg",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "MT_Head003_01",
                 "MT_Torso003",
@@ -119382,7 +119406,7 @@
         "id": "Meg_outfit_009",
         "metaData": {
             "character": "Meg",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "MT_Head003",
                 "MT_Torso003_02",
@@ -119412,7 +119436,7 @@
         "id": "Meg_outfit_008",
         "metaData": {
             "character": "Meg",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "MT_Head003_02",
                 "MT_Torso003_01",
@@ -119442,7 +119466,7 @@
         "id": "Meg_outfit_013",
         "metaData": {
             "character": "Meg",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "MT_Head005",
                 "MT_Torso005",
@@ -119472,7 +119496,7 @@
         "id": "Meg_outfit_014",
         "metaData": {
             "character": "Meg",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "MT_Head01_CV01",
                 "MT_Torso01_CV01",
@@ -119502,7 +119526,7 @@
         "id": "Meg_outfit_015",
         "metaData": {
             "character": "Meg",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "MT_Head01_CV02",
                 "MT_Torso01_CV02",
@@ -119532,7 +119556,7 @@
         "id": "Meg_outfit_016",
         "metaData": {
             "character": "Meg",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "MT_Head01_CV03",
                 "MT_Torso01_CV03",
@@ -119562,7 +119586,7 @@
         "id": "Meg_outfit_021",
         "metaData": {
             "character": "Meg",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "MT_Head01_CV08",
                 "MT_Torso01_CV08",
@@ -119592,7 +119616,7 @@
         "id": "Meg_outfit_022",
         "metaData": {
             "character": "Meg",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "MT_Head01_CV09",
                 "MT_Torso01_CV09",
@@ -119622,7 +119646,7 @@
         "id": "Meg_outfit_023",
         "metaData": {
             "character": "Meg",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "MT_Head006",
                 "MT_Torso006",
@@ -119652,7 +119676,7 @@
         "id": "Meg_outfit_008_01",
         "metaData": {
             "character": "Meg",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "MT_Head008",
                 "MT_Torso008",
@@ -119682,7 +119706,7 @@
         "id": "Meg_outfit_009_01",
         "metaData": {
             "character": "Meg",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "MT_Head009",
                 "MT_Torso009",
@@ -119712,7 +119736,7 @@
         "id": "MT_outfit_010",
         "metaData": {
             "character": "Meg",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "MT_Head010",
                 "MT_Torso010",
@@ -119764,7 +119788,7 @@
         "id": "MT_outfit_011",
         "metaData": {
             "character": "Meg",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "MT_Head011",
                 "MT_Torso011",
@@ -119794,7 +119818,7 @@
         "id": "MT_outfit_012",
         "metaData": {
             "character": "Meg",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "MT_Head012",
                 "MT_Torso012",
@@ -119824,7 +119848,7 @@
         "id": "Claudette_outfit_001",
         "metaData": {
             "character": "Claudette",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "CM_Head001_01",
                 "CM_Torso001_01",
@@ -119854,7 +119878,7 @@
         "id": "Claudette_outfit_002",
         "metaData": {
             "character": "Claudette",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "CM_Head001_02",
                 "CM_Torso001_02",
@@ -119884,7 +119908,7 @@
         "id": "Claudette_outfit_003",
         "metaData": {
             "character": "Claudette",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "CM_Head001",
                 "CM_Torso001",
@@ -119914,7 +119938,7 @@
         "id": "Claudette_outfit_004",
         "metaData": {
             "character": "Claudette",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "CM_Head002",
                 "CM_Torso002",
@@ -119944,7 +119968,7 @@
         "id": "Claudette_outfit_006",
         "metaData": {
             "character": "Claudette",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "CM_Head002_01",
                 "CM_Torso002_02",
@@ -119974,7 +119998,7 @@
         "id": "Claudette_outfit_010",
         "metaData": {
             "character": "Claudette",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "CM_Head08",
                 "CM_Torso08",
@@ -120004,7 +120028,7 @@
         "id": "Claudette_outfit_011",
         "metaData": {
             "character": "Claudette",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "CM_Head01_CV01",
                 "CM_Torso01_CV01",
@@ -120034,7 +120058,7 @@
         "id": "Claudette_outfit_012",
         "metaData": {
             "character": "Claudette",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "CM_Head01_CV02",
                 "CM_Torso01_CV02",
@@ -120064,7 +120088,7 @@
         "id": "Claudette_outfit_013",
         "metaData": {
             "character": "Claudette",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "CM_Head01_CV03",
                 "CM_Torso01_CV03",
@@ -120094,7 +120118,7 @@
         "id": "Claudette_outfit_014",
         "metaData": {
             "character": "Claudette",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "CM_Head01_CV04",
                 "CM_Torso01_CV04",
@@ -120124,7 +120148,7 @@
         "id": "Claudette_outfit_016",
         "metaData": {
             "character": "Claudette",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "CM_Head01_CV06",
                 "CM_Torso01_CV06",
@@ -120154,7 +120178,7 @@
         "id": "Claudette_outfit_007",
         "metaData": {
             "character": "Claudette",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "CM_Head003",
                 "CM_Torso003",
@@ -120184,7 +120208,7 @@
         "id": "Claudette_outfit_008",
         "metaData": {
             "character": "Claudette",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "CM_Head003_01",
                 "CM_Torso003_01",
@@ -120214,7 +120238,7 @@
         "id": "Claudette_outfit_009",
         "metaData": {
             "character": "Claudette",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "CM_Head003_02",
                 "CM_Torso003_02",
@@ -120244,7 +120268,7 @@
         "id": "Claudette_outfit_018",
         "metaData": {
             "character": "Claudette",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "CM_Head006",
                 "CM_Torso006",
@@ -120274,7 +120298,7 @@
         "id": "Claudette_outfit_019",
         "metaData": {
             "character": "Claudette",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "CM_Head007",
                 "CM_Torso007",
@@ -120304,7 +120328,7 @@
         "id": "Claudette_outfit_009_01",
         "metaData": {
             "character": "Claudette",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "CM_Head009",
                 "CM_Torso009",
@@ -120334,7 +120358,7 @@
         "id": "Claudette_outfit_010_01",
         "metaData": {
             "character": "Claudette",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "CM_Head010",
                 "CM_Torso010",
@@ -120364,7 +120388,7 @@
         "id": "CM_outfit_012",
         "metaData": {
             "character": "Claudette",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "CM_Head012",
                 "CM_Torso012",
@@ -120400,8 +120424,8 @@
                 "CM_Torso011",
                 "CM_Legs011"
             ],
-            "newEndDate": "2021-01-29T15:59:59",
-            "newStartDate": "2021-01-15T16:00:00",
+            "newEndDate": "2018-06-25T23:59:59",
+            "newStartDate": "2018-06-12T00:00:00",
             "temporaryDiscounts": [
                 {
                     "currencyId": "Cells",
@@ -120413,7 +120437,7 @@
             "unbreakable": false
         },
         "nonSecure": false,
-        "purchasable": true,
+        "purchasable": false,
         "unique": true
     },
     {
@@ -120424,7 +120448,7 @@
         "id": "CM_outfit_013",
         "metaData": {
             "character": "Claudette",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "CM_Head013",
                 "CM_Torso013",
@@ -120454,7 +120478,7 @@
         "id": "CM_outfit_014",
         "metaData": {
             "character": "Claudette",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "CM_Head014",
                 "CM_Torso014",
@@ -120512,7 +120536,7 @@
         "id": "Jake_outfit_001",
         "metaData": {
             "character": "Jake",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "JP_Head002_01",
                 "JP_Torso002_01",
@@ -120542,7 +120566,7 @@
         "id": "Jake_outfit_002",
         "metaData": {
             "character": "Jake",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "JP_Head002_02",
                 "JP_Torso002_02",
@@ -120572,7 +120596,7 @@
         "id": "Jake_outfit_003",
         "metaData": {
             "character": "Jake",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "JP_Head002",
                 "JP_Torso002",
@@ -120602,7 +120626,7 @@
         "id": "Jake_outfit_004",
         "metaData": {
             "character": "Jake",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "JP_Head003_02",
                 "JP_Torso003",
@@ -120632,7 +120656,7 @@
         "id": "Jake_outfit_005",
         "metaData": {
             "character": "Jake",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "JP_Head003_01",
                 "JP_Torso003_01",
@@ -120662,7 +120686,7 @@
         "id": "Jake_outfit_006",
         "metaData": {
             "character": "Jake",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "JP_Head003",
                 "JP_Torso003_02",
@@ -120692,7 +120716,7 @@
         "id": "Jake_outfit_007",
         "metaData": {
             "character": "Jake",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "JP_Head001",
                 "JP_Torso001",
@@ -120722,7 +120746,7 @@
         "id": "Jake_outfit_008",
         "metaData": {
             "character": "Jake",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "JP_Head08",
                 "JP_Torso08",
@@ -120752,7 +120776,7 @@
         "id": "Jake_outfit_009",
         "metaData": {
             "character": "Jake",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "JP_Head01_CV01",
                 "JP_Torso01_CV01",
@@ -120782,7 +120806,7 @@
         "id": "Jake_outfit_010",
         "metaData": {
             "character": "Jake",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "JP_Head01_CV02",
                 "JP_Torso01_CV02",
@@ -120812,7 +120836,7 @@
         "id": "Jake_outfit_011",
         "metaData": {
             "character": "Jake",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "JP_Head01_CV03",
                 "JP_Torso01_CV03",
@@ -120842,7 +120866,7 @@
         "id": "Jake_outfit_012",
         "metaData": {
             "character": "Jake",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "JP_Head01_CV04",
                 "JP_Torso01_CV04",
@@ -120872,7 +120896,7 @@
         "id": "Jake_outfit_013",
         "metaData": {
             "character": "Jake",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "JP_Head01_CV05",
                 "JP_Torso01_CV05",
@@ -120902,7 +120926,7 @@
         "id": "Jake_outfit_017",
         "metaData": {
             "character": "Jake",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "JP_Head006",
                 "JP_Torso006",
@@ -120932,7 +120956,7 @@
         "id": "Jake_outfit_007_01",
         "metaData": {
             "character": "Jake",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "JP_Head007",
                 "JP_Torso007",
@@ -120962,7 +120986,7 @@
         "id": "Jake_outfit_009_01",
         "metaData": {
             "character": "Jake",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "JP_Head009",
                 "JP_Torso009",
@@ -120992,7 +121016,7 @@
         "id": "JP_outfit_011",
         "metaData": {
             "character": "Jake",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "JP_Head011",
                 "JP_Torso011",
@@ -121034,8 +121058,8 @@
                 "JP_Torso010",
                 "JP_Legs010"
             ],
-            "newEndDate": "2021-02-05T15:59:59",
-            "newStartDate": "2021-01-22T16:00:00",
+            "newEndDate": "2018-06-25T23:59:59",
+            "newStartDate": "2018-06-12T00:00:00",
             "temporaryDiscounts": [
                 {
                     "currencyId": "Cells",
@@ -121047,7 +121071,7 @@
             "unbreakable": false
         },
         "nonSecure": false,
-        "purchasable": true,
+        "purchasable": false,
         "unique": true
     },
     {
@@ -121080,7 +121104,7 @@
         "id": "JP_outfit_013",
         "metaData": {
             "character": "Jake",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "JP_Head013",
                 "JP_Torso013",
@@ -121110,7 +121134,7 @@
         "id": "Nea_outfit_001",
         "metaData": {
             "character": "Nea",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "NK_Head001_01",
                 "NK_Torso002_01",
@@ -121140,7 +121164,7 @@
         "id": "Nea_outfit_002",
         "metaData": {
             "character": "Nea",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "NK_Head001_02",
                 "NK_Torso002",
@@ -121170,7 +121194,7 @@
         "id": "Nea_outfit_003",
         "metaData": {
             "character": "Nea",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "NK_Head001",
                 "NK_Torso002_02",
@@ -121200,7 +121224,7 @@
         "id": "Nea_outfit_004",
         "metaData": {
             "character": "Nea",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "NK_Head003_02",
                 "NK_Torso003_02",
@@ -121230,7 +121254,7 @@
         "id": "Nea_outfit_005",
         "metaData": {
             "character": "Nea",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "NK_Head003_01",
                 "NK_Torso003_01",
@@ -121260,7 +121284,7 @@
         "id": "Nea_outfit_006",
         "metaData": {
             "character": "Nea",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "NK_Head003",
                 "NK_Torso003",
@@ -121290,7 +121314,7 @@
         "id": "Nea_outfit_007",
         "metaData": {
             "character": "Nea",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "NK_Head002_01",
                 "NK_Torso001_01",
@@ -121320,7 +121344,7 @@
         "id": "Nea_outfit_008",
         "metaData": {
             "character": "Nea",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "NK_Head002",
                 "NK_Torso001_02",
@@ -121350,7 +121374,7 @@
         "id": "Nea_outfit_009",
         "metaData": {
             "character": "Nea",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "NK_Head002_02",
                 "NK_Torso001",
@@ -121380,7 +121404,7 @@
         "id": "Nea_outfit_010",
         "metaData": {
             "character": "Nea",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "NK_Head006",
                 "NK_Torso006",
@@ -121410,7 +121434,7 @@
         "id": "Nea_outfit_011",
         "metaData": {
             "character": "Nea",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "NK_Torso02_CV01",
                 "NK_Legs02_CV01"
@@ -121439,7 +121463,7 @@
         "id": "Nea_outfit_012",
         "metaData": {
             "character": "Nea",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "NK_Torso02_CV02",
                 "NK_Legs02_CV02"
@@ -121468,7 +121492,7 @@
         "id": "Nea_outfit_013",
         "metaData": {
             "character": "Nea",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "NK_Torso02_CV03",
                 "NK_Legs02_CV03"
@@ -121497,7 +121521,7 @@
         "id": "Nea_outfit_014",
         "metaData": {
             "character": "Nea",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "NK_Torso02_CV04",
                 "NK_Legs02_CV04"
@@ -121526,7 +121550,7 @@
         "id": "Nea_outfit_015",
         "metaData": {
             "character": "Nea",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "NK_Torso02_CV05",
                 "NK_Legs02_CV05"
@@ -121555,7 +121579,7 @@
         "id": "Nea_outfit_008_01",
         "metaData": {
             "character": "Nea",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "NK_Head008",
                 "NK_Torso008",
@@ -121585,7 +121609,7 @@
         "id": "Nea_outfit_009_01",
         "metaData": {
             "character": "Nea",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "NK_Head009",
                 "NK_Torso009",
@@ -121615,7 +121639,7 @@
         "id": "NK_outfit_010",
         "metaData": {
             "character": "Nea",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "NK_Head010",
                 "NK_Torso010",
@@ -121645,7 +121669,7 @@
         "id": "NK_outfit_011",
         "metaData": {
             "character": "Nea",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "NK_Head011",
                 "NK_Torso011",
@@ -121675,7 +121699,7 @@
         "id": "NK_outfit_012",
         "metaData": {
             "character": "Nea",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "NK_Head012",
                 "NK_Torso012",
@@ -121711,7 +121735,7 @@
         "id": "LS_outfit_006",
         "metaData": {
             "character": "Laurie",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "LS_Head006",
                 "LS_Torso006",
@@ -121747,7 +121771,7 @@
         "id": "Smoke_outfit_001",
         "metaData": {
             "character": "Smoke",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "DK_Head001",
                 "DK_Torso001_01",
@@ -121777,7 +121801,7 @@
         "id": "Smoke_outfit_002",
         "metaData": {
             "character": "Smoke",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "DK_Head001_02",
                 "DK_Torso001_02",
@@ -121807,7 +121831,7 @@
         "id": "Smoke_outfit_003",
         "metaData": {
             "character": "Smoke",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "DK_Head001_01",
                 "DK_Torso001",
@@ -121837,7 +121861,7 @@
         "id": "Smoke_outfit_004",
         "metaData": {
             "character": "Smoke",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "DK_Head002_02",
                 "DK_Torso002_01",
@@ -121867,7 +121891,7 @@
         "id": "Smoke_outfit_005",
         "metaData": {
             "character": "Smoke",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "DK_Head002",
                 "DK_Torso002_02",
@@ -121897,7 +121921,7 @@
         "id": "Smoke_outfit_006",
         "metaData": {
             "character": "Smoke",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "DK_Head002_01",
                 "DK_Torso002",
@@ -121927,7 +121951,7 @@
         "id": "Smoke_outfit_007",
         "metaData": {
             "character": "Smoke",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "DK_Head003_01",
                 "DK_Torso003_01",
@@ -121957,7 +121981,7 @@
         "id": "Smoke_outfit_008",
         "metaData": {
             "character": "Smoke",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "DK_Head003_02",
                 "DK_Torso003_02",
@@ -121987,7 +122011,7 @@
         "id": "Smoke_outfit_009",
         "metaData": {
             "character": "Smoke",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "DK_Head003",
                 "DK_Torso003",
@@ -122017,7 +122041,7 @@
         "id": "Smoke_outfit_010",
         "metaData": {
             "character": "Smoke",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "DK_Torso01_CV01",
                 "DK_Legs01_CV01"
@@ -122046,7 +122070,7 @@
         "id": "Smoke_outfit_011",
         "metaData": {
             "character": "Smoke",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "DK_Torso01_CV02",
                 "DK_Legs01_CV02"
@@ -122075,7 +122099,7 @@
         "id": "Smoke_outfit_012",
         "metaData": {
             "character": "Smoke",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "DK_Torso01_CV03",
                 "DK_Legs01_CV03"
@@ -122104,7 +122128,7 @@
         "id": "Smoke_outfit_013",
         "metaData": {
             "character": "Smoke",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "DK_Torso01_CV04",
                 "DK_Legs01_CV04"
@@ -122133,7 +122157,7 @@
         "id": "Smoke_outfit_014",
         "metaData": {
             "character": "Smoke",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "DK_Torso01_CV05",
                 "DK_Legs01_CV05"
@@ -122162,7 +122186,7 @@
         "id": "Smoke_outfit_007_01",
         "metaData": {
             "character": "Smoke",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "DK_Head007",
                 "DK_Torso007",
@@ -122192,7 +122216,7 @@
         "id": "Smoke_outfit_008_01",
         "metaData": {
             "character": "Smoke",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "DK_Head008",
                 "DK_Torso008",
@@ -122222,7 +122246,7 @@
         "id": "DK_outfit_009",
         "metaData": {
             "character": "Smoke",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "DK_Head009",
                 "DK_Torso009",
@@ -122274,7 +122298,7 @@
         "id": "DK_outfit_011",
         "metaData": {
             "character": "Smoke",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "DK_Head011",
                 "DK_Torso011",
@@ -122304,7 +122328,7 @@
         "id": "Feng_outfit_001",
         "metaData": {
             "character": "Feng",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "FM_Head002_01",
                 "FM_Torso002_01",
@@ -122334,7 +122358,7 @@
         "id": "Feng_outfit_002",
         "metaData": {
             "character": "Feng",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "FM_Head002",
                 "FM_Torso002",
@@ -122364,7 +122388,7 @@
         "id": "Feng_outfit_003",
         "metaData": {
             "character": "Feng",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "FM_Head002_02",
                 "FM_Torso002_02",
@@ -122394,7 +122418,7 @@
         "id": "Feng_outfit_004",
         "metaData": {
             "character": "Feng",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "FM_Head003_02",
                 "FM_Torso003_02",
@@ -122424,7 +122448,7 @@
         "id": "Feng_outfit_005",
         "metaData": {
             "character": "Feng",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "FM_Head003_01",
                 "FM_Torso003_01",
@@ -122454,7 +122478,7 @@
         "id": "Feng_outfit_006",
         "metaData": {
             "character": "Feng",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "FM_Head003",
                 "FM_Torso003",
@@ -122484,7 +122508,7 @@
         "id": "Feng_outfit_007",
         "metaData": {
             "character": "Feng",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "FM_Head001",
                 "FM_Torso001",
@@ -122514,7 +122538,7 @@
         "id": "Feng_outfit_008",
         "metaData": {
             "character": "Feng",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "FM_Head001_02",
                 "FM_Torso001_02",
@@ -122544,7 +122568,7 @@
         "id": "Feng_outfit_009",
         "metaData": {
             "character": "Feng",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "FM_Head001_01",
                 "FM_Torso001_01",
@@ -122574,7 +122598,7 @@
         "id": "Feng_outfit_010",
         "metaData": {
             "character": "Feng",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "FM_Torso01_CV01",
                 "FM_Legs01_CV01"
@@ -122603,7 +122627,7 @@
         "id": "Feng_outfit_011",
         "metaData": {
             "character": "Feng",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "FM_Torso01_CV02",
                 "FM_Legs01_CV02"
@@ -122632,7 +122656,7 @@
         "id": "Feng_outfit_012",
         "metaData": {
             "character": "Feng",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "FM_Torso01_CV03",
                 "FM_Legs01_CV03"
@@ -122661,7 +122685,7 @@
         "id": "Feng_outfit_013",
         "metaData": {
             "character": "Feng",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "FM_Torso01_CV04",
                 "FM_Legs01_CV04"
@@ -122690,7 +122714,7 @@
         "id": "Feng_outfit_014",
         "metaData": {
             "character": "Feng",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "FM_Torso01_CV08",
                 "FM_Legs01_CV08"
@@ -122719,7 +122743,7 @@
         "id": "Feng_outfit_007_01",
         "metaData": {
             "character": "Feng",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "FM_Head007",
                 "FM_Torso007",
@@ -122749,7 +122773,7 @@
         "id": "FM_outfit_008",
         "metaData": {
             "character": "Feng",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "FM_Head008",
                 "FM_Torso008",
@@ -122779,7 +122803,7 @@
         "id": "FM_outfit_009",
         "metaData": {
             "character": "Feng",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "FM_Head009",
                 "FM_Torso009",
@@ -122815,8 +122839,8 @@
                 "FM_Torso010",
                 "FM_Legs010"
             ],
-            "newEndDate": "2020-12-28T15:59:59",
-            "newStartDate": "2020-12-14T16:00:00",
+            "newEndDate": "2018-06-25T23:59:59",
+            "newStartDate": "2018-06-12T00:00:00",
             "temporaryDiscounts": [
                 {
                     "currencyId": "Cells",
@@ -122828,7 +122852,7 @@
             "unbreakable": false
         },
         "nonSecure": false,
-        "purchasable": true,
+        "purchasable": false,
         "unique": true
     },
     {
@@ -122839,7 +122863,7 @@
         "id": "FM_outfit_011",
         "metaData": {
             "character": "Feng",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "FM_Head011",
                 "FM_Torso011",
@@ -122869,7 +122893,7 @@
         "id": "FM_outfit_011_01",
         "metaData": {
             "character": "Feng",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "FM_Head011_01",
                 "FM_Torso011_01",
@@ -122921,7 +122945,7 @@
         "id": "Ace_outfit_001",
         "metaData": {
             "character": "Ace",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "AV_Head001_01",
                 "AV_Torso001_01",
@@ -122951,7 +122975,7 @@
         "id": "Ace_outfit_002",
         "metaData": {
             "character": "Ace",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "AV_Head001_02",
                 "AV_Torso001_02",
@@ -122981,7 +123005,7 @@
         "id": "Ace_outfit_003",
         "metaData": {
             "character": "Ace",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "AV_Head001",
                 "AV_Torso001",
@@ -123011,7 +123035,7 @@
         "id": "Ace_outfit_004",
         "metaData": {
             "character": "Ace",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "AV_Head003_01",
                 "AV_Torso003_01",
@@ -123041,7 +123065,7 @@
         "id": "Ace_outfit_005",
         "metaData": {
             "character": "Ace",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "AV_Head003_02",
                 "AV_Torso003_02",
@@ -123071,7 +123095,7 @@
         "id": "Ace_outfit_006",
         "metaData": {
             "character": "Ace",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "AV_Head003",
                 "AV_Torso003",
@@ -123101,7 +123125,7 @@
         "id": "Ace_outfit_007",
         "metaData": {
             "character": "Ace",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "AV_Head002_01",
                 "AV_Torso002_01",
@@ -123131,7 +123155,7 @@
         "id": "Ace_outfit_008",
         "metaData": {
             "character": "Ace",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "AV_Head002_02",
                 "AV_Torso002_02",
@@ -123161,7 +123185,7 @@
         "id": "Ace_outfit_009",
         "metaData": {
             "character": "Ace",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "AV_Head002",
                 "AV_Torso002",
@@ -123191,7 +123215,7 @@
         "id": "Ace_outfit_010",
         "metaData": {
             "character": "Ace",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "AV_Head01_CV01",
                 "AV_Torso01_CV01",
@@ -123221,7 +123245,7 @@
         "id": "Ace_outfit_014",
         "metaData": {
             "character": "Ace",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "AV_Head01_CV05",
                 "AV_Torso01_CV05",
@@ -123251,7 +123275,7 @@
         "id": "Ace_outfit_015",
         "metaData": {
             "character": "Ace",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "AV_Head01_CV06",
                 "AV_Torso01_CV06",
@@ -123281,7 +123305,7 @@
         "id": "Ace_outfit_016",
         "metaData": {
             "character": "Ace",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "AV_Head01_CV07",
                 "AV_Torso01_CV07",
@@ -123311,7 +123335,7 @@
         "id": "Ace_outfit_017",
         "metaData": {
             "character": "Ace",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "AV_Head01_CV08",
                 "AV_Torso01_CV08",
@@ -123341,7 +123365,7 @@
         "id": "Ace_outfit_007_01",
         "metaData": {
             "character": "Ace",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "AV_Head007",
                 "AV_Torso007",
@@ -123371,7 +123395,7 @@
         "id": "Ace_outfit_008_01",
         "metaData": {
             "character": "Ace",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "AV_Head008",
                 "AV_Torso008",
@@ -123401,7 +123425,7 @@
         "id": "AV_outfit_009",
         "metaData": {
             "character": "Ace",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "AV_Head009",
                 "AV_Torso009",
@@ -123431,7 +123455,7 @@
         "id": "AV_outfit_010",
         "metaData": {
             "character": "Ace",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "AV_Head010",
                 "AV_Torso010",
@@ -123461,7 +123485,7 @@
         "id": "FS_outfit_006",
         "metaData": {
             "character": "Eric",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "FS_Head006",
                 "FS_Torso006",
@@ -123491,7 +123515,7 @@
         "id": "FS_outfit_007",
         "metaData": {
             "character": "Eric",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "FS_Head007",
                 "FS_Torso007",
@@ -123521,7 +123545,7 @@
         "id": "FS_outfit_008",
         "metaData": {
             "character": "Eric",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "FS_Head008",
                 "FS_Torso008",
@@ -123551,7 +123575,7 @@
         "id": "Kate_outfit_001",
         "metaData": {
             "character": "Kate",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "GS_Head02",
                 "GS_Torso02",
@@ -123581,7 +123605,7 @@
         "id": "Kate_outfit_002",
         "metaData": {
             "character": "Kate",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "GS_Head02_01",
                 "GS_Torso02_01",
@@ -123611,7 +123635,7 @@
         "id": "Kate_outfit_003",
         "metaData": {
             "character": "Kate",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "GS_Head01_02",
                 "GS_Torso01_02",
@@ -123641,7 +123665,7 @@
         "id": "Kate_outfit_004",
         "metaData": {
             "character": "Kate",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "GS_Head01_01",
                 "GS_Torso01_03",
@@ -123671,7 +123695,7 @@
         "id": "Kate_outfit_005",
         "metaData": {
             "character": "Kate",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "GS_Torso01_CV01",
                 "GS_Legs01_CV01"
@@ -123700,7 +123724,7 @@
         "id": "Kate_outfit_006",
         "metaData": {
             "character": "Kate",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "GS_Torso01_CV02",
                 "GS_Legs01_CV02"
@@ -123729,7 +123753,7 @@
         "id": "Kate_outfit_007",
         "metaData": {
             "character": "Kate",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "GS_Torso01_CV04",
                 "GS_Legs01_CV04"
@@ -123758,7 +123782,7 @@
         "id": "Kate_outfit_008",
         "metaData": {
             "character": "Kate",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "GS_Torso01_CV05",
                 "GS_Legs01_CV05"
@@ -123787,7 +123811,7 @@
         "id": "Kate_outfit_009",
         "metaData": {
             "character": "Kate",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "GS_Torso01_CV06",
                 "GS_Legs01_CV06"
@@ -123816,7 +123840,7 @@
         "id": "Kate_outfit_010",
         "metaData": {
             "character": "Kate",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "GS_Head006",
                 "GS_Torso006",
@@ -123846,7 +123870,7 @@
         "id": "Kate_outfit_011",
         "metaData": {
             "character": "Kate",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "GS_Head007",
                 "GS_Torso007",
@@ -123876,7 +123900,7 @@
         "id": "Kate_outfit_009_01",
         "metaData": {
             "character": "Kate",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "GS_Head009",
                 "GS_Torso009",
@@ -123906,7 +123930,7 @@
         "id": "GS_outfit_010",
         "metaData": {
             "character": "Kate",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "GS_Head010",
                 "GS_Torso010",
@@ -123958,7 +123982,7 @@
         "id": "GS_outfit_011",
         "metaData": {
             "character": "Kate",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "GS_Head011",
                 "GS_Torso011",
@@ -124010,7 +124034,7 @@
         "id": "Adam_outfit_001",
         "metaData": {
             "character": "Adam",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "HS_Head02",
                 "HS_Torso02",
@@ -124040,7 +124064,7 @@
         "id": "Adam_outfit_002",
         "metaData": {
             "character": "Adam",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "HS_Torso01_02",
                 "HS_Legs01_02"
@@ -124069,7 +124093,7 @@
         "id": "Adam_outfit_003",
         "metaData": {
             "character": "Adam",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "HS_Torso01_03",
                 "HS_Legs01_03"
@@ -124098,7 +124122,7 @@
         "id": "Adam_outfit_004",
         "metaData": {
             "character": "Adam",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "HS_Torso01_04",
                 "HS_Legs01_04"
@@ -124127,7 +124151,7 @@
         "id": "Adam_outfit_005",
         "metaData": {
             "character": "Adam",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "HS_Torso01_CV01",
                 "HS_Legs01_CV01"
@@ -124156,7 +124180,7 @@
         "id": "Adam_outfit_006",
         "metaData": {
             "character": "Adam",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "HS_Torso01_CV02",
                 "HS_Legs01_CV02"
@@ -124185,7 +124209,7 @@
         "id": "Adam_outfit_007",
         "metaData": {
             "character": "Adam",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "HS_Torso01_CV03",
                 "HS_Legs01_CV03"
@@ -124214,7 +124238,7 @@
         "id": "Adam_outfit_008",
         "metaData": {
             "character": "Adam",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "HS_Torso01_CV04",
                 "HS_Legs01_CV04"
@@ -124243,7 +124267,7 @@
         "id": "Adam_outfit_009",
         "metaData": {
             "character": "Adam",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "HS_Torso01_CV05",
                 "HS_Legs01_CV05"
@@ -124272,7 +124296,7 @@
         "id": "Adam_outfit_006_01",
         "metaData": {
             "character": "Adam",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "HS_Head006",
                 "HS_Torso006",
@@ -124302,7 +124326,7 @@
         "id": "Adam_outfit_008_01",
         "metaData": {
             "character": "Adam",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "HS_Head008",
                 "HS_Torso008",
@@ -124332,7 +124356,7 @@
         "id": "HS_outfit_009",
         "metaData": {
             "character": "Adam",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "HS_Head009",
                 "HS_Torso009",
@@ -124384,7 +124408,7 @@
         "id": "Jeff_outfit_CV01",
         "metaData": {
             "character": "Jeff",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "KS_Torso01_CV01",
                 "KS_Legs01_CV01"
@@ -124413,7 +124437,7 @@
         "id": "Jeff_outfit_CV02",
         "metaData": {
             "character": "Jeff",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "KS_Torso01_CV02",
                 "KS_Legs01_CV02"
@@ -124442,7 +124466,7 @@
         "id": "Jeff_outfit_CV03",
         "metaData": {
             "character": "Jeff",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "KS_Torso01_CV03",
                 "KS_Legs01_CV03"
@@ -124471,7 +124495,7 @@
         "id": "Jeff_outfit_CV04",
         "metaData": {
             "character": "Jeff",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "KS_Torso01_CV04",
                 "KS_Legs01_CV04"
@@ -124500,7 +124524,7 @@
         "id": "Jeff_outfit_01_02",
         "metaData": {
             "character": "Jeff",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "KS_Torso01_02",
                 "KS_Legs01_02"
@@ -124529,7 +124553,7 @@
         "id": "Jeff_outfit_01_03",
         "metaData": {
             "character": "Jeff",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "KS_Torso01_03",
                 "KS_Legs01_03"
@@ -124558,7 +124582,7 @@
         "id": "Jeff_outfit_01_04",
         "metaData": {
             "character": "Jeff",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "KS_Torso01_04",
                 "KS_Legs01_04"
@@ -124587,7 +124611,7 @@
         "id": "Jeff_outfit_02",
         "metaData": {
             "character": "Jeff",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "KS_Head02",
                 "KS_Torso02",
@@ -124617,7 +124641,7 @@
         "id": "Jeff_outfit_02_01",
         "metaData": {
             "character": "Jeff",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "KS_Head02_01",
                 "KS_Torso02_01",
@@ -124647,7 +124671,7 @@
         "id": "Jeff_Outfit_007",
         "metaData": {
             "character": "Jeff",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "KS_Head007",
                 "KS_Torso007",
@@ -124677,7 +124701,7 @@
         "id": "Jeff_outfit_008",
         "metaData": {
             "character": "Jeff",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "KS_Head008",
                 "KS_Torso008",
@@ -124707,7 +124731,7 @@
         "id": "KS_outfit_009",
         "metaData": {
             "character": "Jeff",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "KS_Head009",
                 "KS_Torso009",
@@ -124737,7 +124761,7 @@
         "id": "KS_outfit_010",
         "metaData": {
             "character": "Jeff",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "KS_Head010",
                 "KS_Torso010",
@@ -124767,7 +124791,7 @@
         "id": "KS_outfit_011",
         "metaData": {
             "character": "Jeff",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "KS_Head011",
                 "KS_Torso011",
@@ -124797,7 +124821,7 @@
         "id": "Jane_outfit_CV01",
         "metaData": {
             "character": "Jane",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "MS_Torso01_CV01",
                 "MS_Legs01_CV01"
@@ -124826,7 +124850,7 @@
         "id": "Jane_outfit_CV02",
         "metaData": {
             "character": "Jane",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "MS_Torso01_CV02",
                 "MS_Legs01_CV02"
@@ -124855,7 +124879,7 @@
         "id": "Jane_outfit_CV03",
         "metaData": {
             "character": "Jane",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "MS_Torso01_CV03",
                 "MS_Legs01_CV03"
@@ -124884,7 +124908,7 @@
         "id": "Jane_outfit_CV04",
         "metaData": {
             "character": "Jane",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "MS_Torso01_CV04",
                 "MS_Legs01_CV04"
@@ -124913,7 +124937,7 @@
         "id": "Jane_outfit_01_02",
         "metaData": {
             "character": "Jane",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "MS_Head01_02",
                 "MS_Torso01_02",
@@ -124943,7 +124967,7 @@
         "id": "Jane_outfit_01_03",
         "metaData": {
             "character": "Jane",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "MS_Head01_03",
                 "MS_Torso01_03",
@@ -124973,7 +124997,7 @@
         "id": "Jane_outfit_01_04",
         "metaData": {
             "character": "Jane",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "MS_Head01_04",
                 "MS_Torso01_04",
@@ -125003,7 +125027,7 @@
         "id": "Jane_outfit_02",
         "metaData": {
             "character": "Jane",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "MS_Head02",
                 "MS_Torso02",
@@ -125033,7 +125057,7 @@
         "id": "Jane_outfit_02_01",
         "metaData": {
             "character": "Jane",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "MS_Head02_01",
                 "MS_Torso02_01",
@@ -125063,7 +125087,7 @@
         "id": "Jane_outfit_006",
         "metaData": {
             "character": "Jane",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "MS_Head006",
                 "MS_Torso006",
@@ -125093,7 +125117,7 @@
         "id": "Jane_outfit_007",
         "metaData": {
             "character": "Jane",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "MS_Head007",
                 "MS_Torso007",
@@ -125123,7 +125147,7 @@
         "id": "MS_outfit_008",
         "metaData": {
             "character": "Jane",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "MS_Head008",
                 "MS_Torso008",
@@ -125153,7 +125177,7 @@
         "id": "MS_outfit_009",
         "metaData": {
             "character": "Jane",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "MS_Head009",
                 "MS_Torso009",
@@ -125205,7 +125229,7 @@
         "id": "MS_outfit_012",
         "metaData": {
             "character": "Jane",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "MS_Head012",
                 "MS_Torso012",
@@ -125235,7 +125259,7 @@
         "id": "ML_outfit_02",
         "metaData": {
             "character": "Ash",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "ML_Hand02",
                 "ML_Torso02",
@@ -125265,7 +125289,7 @@
         "id": "ML_outfit_006",
         "metaData": {
             "character": "Ash",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "ML_Hand006",
                 "ML_Torso006",
@@ -125295,7 +125319,7 @@
         "id": "ML_outfit_008",
         "metaData": {
             "character": "Ash",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "ML_Hand008",
                 "ML_Torso008",
@@ -125325,7 +125349,7 @@
         "id": "QM_outfit_02",
         "metaData": {
             "character": "Steve",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "QM_Head02",
                 "QM_Torso02",
@@ -125355,7 +125379,7 @@
         "id": "QM_outfit_006",
         "metaData": {
             "character": "Steve",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "QM_Head006",
                 "QM_Torso006",
@@ -125385,7 +125409,7 @@
         "id": "QM_outfit_008",
         "metaData": {
             "character": "Steve",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "QM_Head008",
                 "QM_Torso008",
@@ -125415,7 +125439,7 @@
         "id": "QF_outfit_02",
         "metaData": {
             "character": "Nancy",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "QF_Head02",
                 "QF_Torso02",
@@ -125445,7 +125469,7 @@
         "id": "QF_outfit_006",
         "metaData": {
             "character": "Nancy",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "QF_Head006",
                 "QF_Torso006",
@@ -125475,7 +125499,7 @@
         "id": "QF_outfit_008",
         "metaData": {
             "character": "Nancy",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "QF_Head008",
                 "QF_Torso008",
@@ -125505,7 +125529,7 @@
         "id": "SwedenSurvivor_outfit_01_CV01",
         "metaData": {
             "character": "Yui",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "SwedenSurvivor_Head01_CV01",
                 "SwedenSurvivor_Torso01_CV01",
@@ -125535,7 +125559,7 @@
         "id": "SwedenSurvivor_outfit_01_CV02",
         "metaData": {
             "character": "Yui",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "SwedenSurvivor_Head01_CV02",
                 "SwedenSurvivor_Torso01_CV02",
@@ -125565,7 +125589,7 @@
         "id": "SwedenSurvivor_outfit_01_CV03",
         "metaData": {
             "character": "Yui",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "SwedenSurvivor_Head01_CV03",
                 "SwedenSurvivor_Torso01_CV03",
@@ -125595,7 +125619,7 @@
         "id": "SwedenSurvivor_outfit_01_CV04",
         "metaData": {
             "character": "Yui",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "SwedenSurvivor_Head01_CV04",
                 "SwedenSurvivor_Torso01_CV04",
@@ -125625,7 +125649,7 @@
         "id": "SwedenSurvivor_outfit_01_02",
         "metaData": {
             "character": "Yui",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "SwedenSurvivor_Head01_02",
                 "SwedenSurvivor_Torso01_02",
@@ -125655,7 +125679,7 @@
         "id": "SwedenSurvivor_outfit_01_03",
         "metaData": {
             "character": "Yui",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "SwedenSurvivor_Head01_03",
                 "SwedenSurvivor_Torso01_03",
@@ -125685,7 +125709,7 @@
         "id": "SwedenSurvivor_outfit_01_04",
         "metaData": {
             "character": "Yui",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "SwedenSurvivor_Head01_04",
                 "SwedenSurvivor_Torso01_04",
@@ -125715,7 +125739,7 @@
         "id": "SwedenSurvivor_outfit_02",
         "metaData": {
             "character": "Yui",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "SwedenSurvivor_Head02",
                 "SwedenSurvivor_Torso02",
@@ -125745,7 +125769,7 @@
         "id": "SwedenSurvivor_outfit_02_01",
         "metaData": {
             "character": "Yui",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "SwedenSurvivor_Head02_01",
                 "SwedenSurvivor_Torso02_01",
@@ -125775,7 +125799,7 @@
         "id": "SwedenSurvivor_outfit_006",
         "metaData": {
             "character": "Yui",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "SwedenSurvivor_Head006",
                 "SwedenSurvivor_Torso006",
@@ -125805,7 +125829,7 @@
         "id": "SwedenSurvivor_outfit_007",
         "metaData": {
             "character": "Yui",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "SwedenSurvivor_Head007",
                 "SwedenSurvivor_Torso007",
@@ -125835,7 +125859,7 @@
         "id": "SwedenSurvivor_outfit_009",
         "metaData": {
             "character": "Yui",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "SwedenSurvivor_Head009",
                 "SwedenSurvivor_Torso009",
@@ -125887,7 +125911,7 @@
         "id": "US_outfit_01_CV01",
         "metaData": {
             "character": "Zarina",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "US_Torso01_CV01",
                 "US_Legs01_CV01"
@@ -125916,7 +125940,7 @@
         "id": "US_outfit_01_CV02",
         "metaData": {
             "character": "Zarina",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "US_Torso01_CV02",
                 "US_Legs01_CV02"
@@ -125945,7 +125969,7 @@
         "id": "US_outfit_01_CV03",
         "metaData": {
             "character": "Zarina",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "US_Torso01_CV03",
                 "US_Legs01_CV03"
@@ -125974,7 +125998,7 @@
         "id": "US_outfit_01_CV04",
         "metaData": {
             "character": "Zarina",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "US_Torso01_CV04",
                 "US_Legs01_CV04"
@@ -126003,7 +126027,7 @@
         "id": "US_outfit_01_02",
         "metaData": {
             "character": "Zarina",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "US_Head01_02",
                 "US_Torso01_02",
@@ -126033,7 +126057,7 @@
         "id": "US_outfit_01_03",
         "metaData": {
             "character": "Zarina",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "US_Head01_03",
                 "US_Torso01_03",
@@ -126063,7 +126087,7 @@
         "id": "US_outfit_01_04",
         "metaData": {
             "character": "Zarina",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "US_Head01_04",
                 "US_Torso01_04",
@@ -126093,7 +126117,7 @@
         "id": "US_outfit_02",
         "metaData": {
             "character": "Zarina",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "US_Head02",
                 "US_Torso02",
@@ -126123,7 +126147,7 @@
         "id": "US_outfit_02_01",
         "metaData": {
             "character": "Zarina",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "US_Head02_01",
                 "US_Torso02_01",
@@ -126153,7 +126177,7 @@
         "id": "US_outfit_006",
         "metaData": {
             "character": "Zarina",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "US_Head006",
                 "US_Torso006",
@@ -126183,7 +126207,7 @@
         "id": "US_outfit_007",
         "metaData": {
             "character": "Zarina",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "US_Head007",
                 "US_Torso007",
@@ -126213,7 +126237,7 @@
         "id": "US_outfit_008",
         "metaData": {
             "character": "Zarina",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "US_Head008",
                 "US_Torso008",
@@ -126243,7 +126267,7 @@
         "id": "S22_outfit_02",
         "metaData": {
             "character": "S22",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "S22_Head02",
                 "S22_Torso02",
@@ -126273,7 +126297,7 @@
         "id": "S22_outfit_02_01",
         "metaData": {
             "character": "S22",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "S22_Head02_01",
                 "S22_Torso02_01",
@@ -126303,7 +126327,7 @@
         "id": "S22_outfit_006",
         "metaData": {
             "character": "S22",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "S22_Head006",
                 "S22_Torso006",
@@ -126339,7 +126363,7 @@
         "id": "S22_outfit_007",
         "metaData": {
             "character": "S22",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "S22_Head007",
                 "S22_Torso007",
@@ -126369,7 +126393,7 @@
         "id": "Chuckles_outfit_001",
         "metaData": {
             "character": "Chuckles",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "TR_Mask06",
                 "TR_Body02",
@@ -126399,7 +126423,7 @@
         "id": "Chuckles_outfit_002",
         "metaData": {
             "character": "Chuckles",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "TR_Mask09",
                 "TR_Body09",
@@ -126429,7 +126453,7 @@
         "id": "Chuckles_outfit_003",
         "metaData": {
             "character": "Chuckles",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "TR_Mask06_01",
                 "TR_Body02_01",
@@ -126459,7 +126483,7 @@
         "id": "Chuckles_outfit_004",
         "metaData": {
             "character": "Chuckles",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "TR_Mask06_02",
                 "TR_Body02_02",
@@ -126489,7 +126513,7 @@
         "id": "Chuckles_outfit_005",
         "metaData": {
             "character": "Chuckles",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "TR_Mask01_01",
                 "TR_Body01_01"
@@ -126518,7 +126542,7 @@
         "id": "Chuckles_outfit_006",
         "metaData": {
             "character": "Chuckles",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "TR_Mask01_02",
                 "TR_Body01_02"
@@ -126547,7 +126571,7 @@
         "id": "Chuckles_outfit_007",
         "metaData": {
             "character": "Chuckles",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "TR_Mask07",
                 "TR_Body007",
@@ -126577,7 +126601,7 @@
         "id": "Chuckles_outfit_008",
         "metaData": {
             "character": "Chuckles",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "TR_Mask07_01",
                 "TR_Body007_01",
@@ -126607,7 +126631,7 @@
         "id": "Chuckles_outfit_009",
         "metaData": {
             "character": "Chuckles",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "TR_Mask07_02",
                 "TR_Body007_02",
@@ -126637,7 +126661,7 @@
         "id": "Chuckles_outfit_010",
         "metaData": {
             "character": "Chuckles",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "TR_Mask006",
                 "TR_Body006",
@@ -126667,7 +126691,7 @@
         "id": "Chuckles_outfit_008_01",
         "metaData": {
             "character": "Chuckles",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "TR_Mask008",
                 "TR_Body008",
@@ -126697,7 +126721,7 @@
         "id": "TR_outfit_010",
         "metaData": {
             "character": "Chuckles",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "TR_Mask010",
                 "TR_Body010",
@@ -126733,8 +126757,8 @@
                 "TR_Body009",
                 "TR_W009"
             ],
-            "newEndDate": "2021-01-29T15:59:59",
-            "newStartDate": "2021-01-15T16:00:00",
+            "newEndDate": "2018-06-25T23:59:59",
+            "newStartDate": "2018-06-12T00:00:00",
             "temporaryDiscounts": [
                 {
                     "currencyId": "Cells",
@@ -126746,7 +126770,7 @@
             "unbreakable": false
         },
         "nonSecure": false,
-        "purchasable": true,
+        "purchasable": false,
         "unique": true
     },
     {
@@ -126757,7 +126781,7 @@
         "id": "TR_outfit_011_01",
         "metaData": {
             "character": "Chuckles",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "TR_Mask011_01",
                 "TR_Body011_01",
@@ -126787,7 +126811,7 @@
         "id": "Bob_outfit_001",
         "metaData": {
             "character": "Bob",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "TW_Head02",
                 "TW_Body02",
@@ -126817,7 +126841,7 @@
         "id": "Bob_outfit_002",
         "metaData": {
             "character": "Bob",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "TW_Head03",
                 "TW_Body03",
@@ -126847,7 +126871,7 @@
         "id": "Bob_outfit_003",
         "metaData": {
             "character": "Bob",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "TW_Head01_CV01",
                 "TW_Body01_CV01"
@@ -126876,7 +126900,7 @@
         "id": "Bob_outfit_004",
         "metaData": {
             "character": "Bob",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "TW_Head01_CV02",
                 "TW_Body01_CV02"
@@ -126905,7 +126929,7 @@
         "id": "Bob_outfit_005",
         "metaData": {
             "character": "Bob",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "TW_Head01_CV03",
                 "TW_Body01_CV03"
@@ -126934,7 +126958,7 @@
         "id": "Bob_outfit_006",
         "metaData": {
             "character": "Bob",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "TW_Head01_CV04",
                 "TW_Body01_CV04"
@@ -126963,7 +126987,7 @@
         "id": "Bob_outfit_007",
         "metaData": {
             "character": "Bob",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "TW_Head01_CV05",
                 "TW_Body01_CV05"
@@ -126992,7 +127016,7 @@
         "id": "Bob_outfit_008",
         "metaData": {
             "character": "Bob",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "TW_Head01_01",
                 "TW_Body01_01"
@@ -127021,7 +127045,7 @@
         "id": "Bob_outfit_009",
         "metaData": {
             "character": "Bob",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "TW_Head01_02",
                 "TW_Body01_02"
@@ -127050,7 +127074,7 @@
         "id": "Bob_outfit_010",
         "metaData": {
             "character": "Bob",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "TW_Head006",
                 "TW_Body006",
@@ -127080,7 +127104,7 @@
         "id": "Bob_outfit_007_01",
         "metaData": {
             "character": "Bob",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "TW_Head007",
                 "TW_Body007",
@@ -127110,7 +127134,7 @@
         "id": "TW_outfit_008",
         "metaData": {
             "character": "Bob",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "TW_Head008",
                 "TW_Body008",
@@ -127140,7 +127164,7 @@
         "id": "TW_outfit_010",
         "metaData": {
             "character": "Bob",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "TW_Head010",
                 "TW_Body010",
@@ -127176,8 +127200,8 @@
                 "TW_Body009",
                 "TW_W009"
             ],
-            "newEndDate": "2021-02-05T15:59:59",
-            "newStartDate": "2021-01-22T16:00:00",
+            "newEndDate": "2018-06-25T23:59:59",
+            "newStartDate": "2018-06-12T00:00:00",
             "temporaryDiscounts": [
                 {
                     "currencyId": "Cells",
@@ -127189,7 +127213,7 @@
             "unbreakable": false
         },
         "nonSecure": false,
-        "purchasable": true,
+        "purchasable": false,
         "unique": true
     },
     {
@@ -127200,7 +127224,7 @@
         "id": "TW_outfit_011",
         "metaData": {
             "character": "Bob",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "TW_Head011",
                 "TW_Body011",
@@ -127230,7 +127254,7 @@
         "id": "HillBilly_outfit_001",
         "metaData": {
             "character": "HillBilly",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "TC_Torso04",
                 "TC_Legs04",
@@ -127260,7 +127284,7 @@
         "id": "HillBilly_outfit_002",
         "metaData": {
             "character": "HillBilly",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "TC_Torso05",
                 "TC_Legs05",
@@ -127290,7 +127314,7 @@
         "id": "HillBilly_outfit_003",
         "metaData": {
             "character": "HillBilly",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "TC_Torso01_CV01",
                 "TC_Legs01_CV01"
@@ -127319,7 +127343,7 @@
         "id": "HillBilly_outfit_004",
         "metaData": {
             "character": "HillBilly",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "TC_Torso01_CV02",
                 "TC_Legs01_CV02"
@@ -127348,7 +127372,7 @@
         "id": "HillBilly_outfit_005",
         "metaData": {
             "character": "HillBilly",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "TC_Torso01_CV03",
                 "TC_Legs01_CV03"
@@ -127377,7 +127401,7 @@
         "id": "HillBilly_outfit_006",
         "metaData": {
             "character": "HillBilly",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "TC_Torso01_CV04",
                 "TC_Legs01_CV04"
@@ -127406,7 +127430,7 @@
         "id": "HillBilly_outfit_007",
         "metaData": {
             "character": "HillBilly",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "TC_Torso01_CV05",
                 "TC_Legs01_CV05"
@@ -127435,7 +127459,7 @@
         "id": "HillBilly_outfit_008",
         "metaData": {
             "character": "HillBilly",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "TC_Torso01_01",
                 "TC_Legs01_01"
@@ -127464,7 +127488,7 @@
         "id": "HillBilly_outfit_009",
         "metaData": {
             "character": "HillBilly",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "TC_Torso01_02",
                 "TC_Legs01_02"
@@ -127493,7 +127517,7 @@
         "id": "HillBilly_outfit_010",
         "metaData": {
             "character": "HillBilly",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "TC_Torso006",
                 "TC_Legs006",
@@ -127523,7 +127547,7 @@
         "id": "Hillbilly_Outfit_007_01",
         "metaData": {
             "character": "HillBilly",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "TC_Torso007",
                 "TC_Legs007",
@@ -127553,7 +127577,7 @@
         "id": "HillBilly_outfit_008_01",
         "metaData": {
             "character": "HillBilly",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "TC_Torso008",
                 "TC_Legs008",
@@ -127583,7 +127607,7 @@
         "id": "TC_outfit_009",
         "metaData": {
             "character": "HillBilly",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "TC_Torso009",
                 "TC_Legs009",
@@ -127635,7 +127659,7 @@
         "id": "TC_outfit_010",
         "metaData": {
             "character": "HillBilly",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "TC_Torso010",
                 "TC_Legs010",
@@ -127665,7 +127689,7 @@
         "id": "Nurse_outfit_001",
         "metaData": {
             "character": "Nurse",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "TN_Head05",
                 "TN_Body05",
@@ -127695,7 +127719,7 @@
         "id": "Nurse_outfit_002",
         "metaData": {
             "character": "Nurse",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "TN_Head05_01",
                 "TN_Body05_01",
@@ -127725,7 +127749,7 @@
         "id": "Nurse_outfit_003",
         "metaData": {
             "character": "Nurse",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "TN_Head05_02",
                 "TN_Body05_02",
@@ -127755,7 +127779,7 @@
         "id": "Nurse_outfit_004",
         "metaData": {
             "character": "Nurse",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "TN_Head03",
                 "TN_Body03",
@@ -127785,7 +127809,7 @@
         "id": "Nurse_outfit_005",
         "metaData": {
             "character": "Nurse",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "TN_Head03_01",
                 "TN_Body03_01",
@@ -127815,7 +127839,7 @@
         "id": "Nurse_outfit_006",
         "metaData": {
             "character": "Nurse",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "TN_Head01_CV01",
                 "TN_Body01_CV01"
@@ -127844,7 +127868,7 @@
         "id": "Nurse_outfit_007",
         "metaData": {
             "character": "Nurse",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "TN_Head01_CV02",
                 "TN_Body01_CV02"
@@ -127873,7 +127897,7 @@
         "id": "Nurse_outfit_008",
         "metaData": {
             "character": "Nurse",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "TN_Head01_CV03",
                 "TN_Body01_CV03"
@@ -127902,7 +127926,7 @@
         "id": "Nurse_outfit_009",
         "metaData": {
             "character": "Nurse",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "TN_Head01_CV04",
                 "TN_Body01_CV04"
@@ -127931,7 +127955,7 @@
         "id": "Nurse_outfit_010",
         "metaData": {
             "character": "Nurse",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "TN_Head01_CV05",
                 "TN_Body01_CV05"
@@ -127960,7 +127984,7 @@
         "id": "Nurse_outfit_011",
         "metaData": {
             "character": "Nurse",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "TN_Head01_01",
                 "TN_Body01_01"
@@ -127989,7 +128013,7 @@
         "id": "Nurse_outfit_012",
         "metaData": {
             "character": "Nurse",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "TN_Head01_02",
                 "TN_Body01_02"
@@ -128018,7 +128042,7 @@
         "id": "Nurse_outfit_013",
         "metaData": {
             "character": "Nurse",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "TN_Head006",
                 "TN_Body006",
@@ -128048,7 +128072,7 @@
         "id": "Nurse_outfit_007_01",
         "metaData": {
             "character": "Nurse",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "TN_Head007",
                 "TN_Body007",
@@ -128078,7 +128102,7 @@
         "id": "TN_outfit_008",
         "metaData": {
             "character": "Nurse",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "TN_Head008",
                 "TN_Body008",
@@ -128108,7 +128132,7 @@
         "id": "TN_outfit_009",
         "metaData": {
             "character": "Nurse",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "TN_Head009",
                 "TN_Body009",
@@ -128138,7 +128162,7 @@
         "id": "TN_outfit_010",
         "metaData": {
             "character": "Nurse",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "TN_Head010",
                 "TN_Body010",
@@ -128168,7 +128192,7 @@
         "id": "MM_outfit_02",
         "metaData": {
             "character": "Shape",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "MM_Body02",
                 "MM_W02_01"
@@ -128197,7 +128221,7 @@
         "id": "Witch_outfit_001",
         "metaData": {
             "character": "Witch",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "WI_Hair04",
                 "WI_Body04",
@@ -128227,7 +128251,7 @@
         "id": "Witch_outfit_002",
         "metaData": {
             "character": "Witch",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "WI_Head02",
                 "WI_Body02",
@@ -128257,7 +128281,7 @@
         "id": "Witch_outfit_003",
         "metaData": {
             "character": "Witch",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "WI_Hair03",
                 "WI_Body03",
@@ -128287,7 +128311,7 @@
         "id": "Witch_outfit_004",
         "metaData": {
             "character": "Witch",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "WI_Hair01_CV01",
                 "WI_Body01_CV01",
@@ -128317,7 +128341,7 @@
         "id": "Witch_outfit_005",
         "metaData": {
             "character": "Witch",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "WI_Hair01_CV02",
                 "WI_Body01_CV02",
@@ -128347,7 +128371,7 @@
         "id": "Witch_outfit_006",
         "metaData": {
             "character": "Witch",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "WI_Hair01_CV03",
                 "WI_Body01_CV03",
@@ -128377,7 +128401,7 @@
         "id": "Witch_outfit_007",
         "metaData": {
             "character": "Witch",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "WI_Hair01_CV04",
                 "WI_Body01_CV04",
@@ -128407,7 +128431,7 @@
         "id": "Witch_outfit_008",
         "metaData": {
             "character": "Witch",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "WI_Hair01_CV05",
                 "WI_Body01_CV05",
@@ -128437,7 +128461,7 @@
         "id": "Witch_outfit_009",
         "metaData": {
             "character": "Witch",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "WI_Hair01_CV06",
                 "WI_Body01_CV06",
@@ -128467,7 +128491,7 @@
         "id": "Witch_outfit_010",
         "metaData": {
             "character": "Witch",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "WI_Hair01_01",
                 "WI_Body01_01"
@@ -128496,7 +128520,7 @@
         "id": "Witch_outfit_011",
         "metaData": {
             "character": "Witch",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "WI_Hair01_02",
                 "WI_Body01_02"
@@ -128525,7 +128549,7 @@
         "id": "Witch_outfit_006_01",
         "metaData": {
             "character": "Witch",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "WI_Hair006",
                 "WI_Body006",
@@ -128555,7 +128579,7 @@
         "id": "WI_outfit_007",
         "metaData": {
             "character": "Witch",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "WI_Hair007",
                 "WI_Body007",
@@ -128585,7 +128609,7 @@
         "id": "WI_outfit_008",
         "metaData": {
             "character": "Witch",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "WI_Hair008",
                 "WI_Body008",
@@ -128658,7 +128682,7 @@
         "id": "Killer07_outfit_001",
         "metaData": {
             "character": "Killer07",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "DO_Head02",
                 "DO_Body02",
@@ -128688,7 +128712,7 @@
         "id": "Killer07_outfit_002",
         "metaData": {
             "character": "Killer07",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "DO_Head03",
                 "DO_Body03",
@@ -128718,7 +128742,7 @@
         "id": "Killer07_outfit_003",
         "metaData": {
             "character": "Killer07",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "DO_Head03_01",
                 "DO_Body03_01",
@@ -128748,7 +128772,7 @@
         "id": "Killer07_outfit_004",
         "metaData": {
             "character": "Killer07",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "DO_Head03_02",
                 "DO_Body03_02",
@@ -128778,7 +128802,7 @@
         "id": "Killer07_outfit_005",
         "metaData": {
             "character": "Killer07",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "DO_Head01_CV01",
                 "DO_Body01_CV01"
@@ -128807,7 +128831,7 @@
         "id": "Killer07_outfit_006",
         "metaData": {
             "character": "Killer07",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "DO_Head01_CV02",
                 "DO_Body01_CV02"
@@ -128836,7 +128860,7 @@
         "id": "Killer07_outfit_007",
         "metaData": {
             "character": "Killer07",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "DO_Head01_CV03",
                 "DO_Body01_CV03"
@@ -128865,7 +128889,7 @@
         "id": "Killer07_outfit_008",
         "metaData": {
             "character": "Killer07",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "DO_Head01_CV04",
                 "DO_Body01_CV04"
@@ -128894,7 +128918,7 @@
         "id": "Killer07_outfit_009",
         "metaData": {
             "character": "Killer07",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "DO_Head01_CV05",
                 "DO_Body01_CV05"
@@ -128923,7 +128947,7 @@
         "id": "Killer07_outfit_010",
         "metaData": {
             "character": "Killer07",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "DO_Head01_CV06",
                 "DO_Body01_CV06"
@@ -128952,7 +128976,7 @@
         "id": "Killer07_outfit_011",
         "metaData": {
             "character": "Killer07",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "DO_Head01_03",
                 "DO_Body01_03"
@@ -128981,7 +129005,7 @@
         "id": "Killer07_outfit_012",
         "metaData": {
             "character": "Killer07",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "DO_Head01_02",
                 "DO_Body01_02"
@@ -129010,7 +129034,7 @@
         "id": "Killer07_outfit_013",
         "metaData": {
             "character": "Killer07",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "DO_Head006",
                 "DO_Body006",
@@ -129040,7 +129064,7 @@
         "id": "Killer07_outfit_014",
         "metaData": {
             "character": "Killer07",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "DO_Head007",
                 "DO_Body007",
@@ -129070,7 +129094,7 @@
         "id": "Killer07_outfit_008_01",
         "metaData": {
             "character": "Killer07",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "DO_Head008",
                 "DO_Body008",
@@ -129100,7 +129124,7 @@
         "id": "DO_outfit_009",
         "metaData": {
             "character": "Killer07",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "DO_Head009",
                 "DO_Body009",
@@ -129152,7 +129176,7 @@
         "id": "DO_outfit_011",
         "metaData": {
             "character": "Killer07",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "DO_Head011",
                 "DO_Body011",
@@ -129182,7 +129206,7 @@
         "id": "Bear_outfit_001",
         "metaData": {
             "character": "Bear",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "BE_Mask03",
                 "BE_Body03",
@@ -129212,7 +129236,7 @@
         "id": "Bear_outfit_002",
         "metaData": {
             "character": "Bear",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "BE_Mask04",
                 "BE_Body04",
@@ -129242,7 +129266,7 @@
         "id": "Bear_outfit_003",
         "metaData": {
             "character": "Bear",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "BE_Mask006",
                 "BE_Body006",
@@ -129272,7 +129296,7 @@
         "id": "Bear_outfit_004",
         "metaData": {
             "character": "Bear",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "BE_Mask01_03",
                 "BE_Body01_03"
@@ -129301,7 +129325,7 @@
         "id": "Bear_outfit_005",
         "metaData": {
             "character": "Bear",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "BE_Mask01_02",
                 "BE_Body01_02"
@@ -129330,7 +129354,7 @@
         "id": "Bear_outfit_006",
         "metaData": {
             "character": "Bear",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "BE_Mask007",
                 "BE_Body007",
@@ -129360,7 +129384,7 @@
         "id": "Bear_outfit_008",
         "metaData": {
             "character": "Bear",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "BE_Mask008",
                 "BE_Body008",
@@ -129390,7 +129414,7 @@
         "id": "BE_outfit_009",
         "metaData": {
             "character": "Bear",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "BE_Mask009",
                 "BE_Body009",
@@ -129420,7 +129444,7 @@
         "id": "BE_outfit_010",
         "metaData": {
             "character": "Bear",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "BE_Mask010",
                 "BE_Body010",
@@ -129472,7 +129496,7 @@
         "id": "FK_outfit_006",
         "metaData": {
             "character": "Pig",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "FK_Mask006",
                 "FK_Body006",
@@ -129502,7 +129526,7 @@
         "id": "FK_outfit_007",
         "metaData": {
             "character": "Pig",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "FK_Mask007",
                 "FK_Body007",
@@ -129532,7 +129556,7 @@
         "id": "FK_outfit_008",
         "metaData": {
             "character": "Pig",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "FK_Mask008",
                 "FK_Body008",
@@ -129562,7 +129586,7 @@
         "id": "Clown_outfit_001",
         "metaData": {
             "character": "Clown",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "GK_Head02",
                 "GK_Body02",
@@ -129592,7 +129616,7 @@
         "id": "Clown_outfit_002",
         "metaData": {
             "character": "Clown",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "GK_Head01_01",
                 "GK_Body01_01",
@@ -129622,7 +129646,7 @@
         "id": "Clown_outfit_003",
         "metaData": {
             "character": "Clown",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "GK_Head01_02",
                 "GK_Body01_02",
@@ -129652,7 +129676,7 @@
         "id": "Clown_outfit_004",
         "metaData": {
             "character": "Clown",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "GK_Head006",
                 "GK_Body006",
@@ -129682,7 +129706,7 @@
         "id": "Clown_outfit_007",
         "metaData": {
             "character": "Clown",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "GK_Head007",
                 "GK_Body007",
@@ -129712,7 +129736,7 @@
         "id": "Clown_outfit_008",
         "metaData": {
             "character": "Clown",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "GK_Head008",
                 "GK_Body008",
@@ -129742,7 +129766,7 @@
         "id": "GK_outfit_009",
         "metaData": {
             "character": "Clown",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "GK_Head009",
                 "GK_Body009",
@@ -129778,8 +129802,8 @@
                 "GK_Body010",
                 "GK_W010"
             ],
-            "newEndDate": "2020-12-28T15:59:59",
-            "newStartDate": "2020-12-14T16:00:00",
+            "newEndDate": "2018-06-25T23:59:59",
+            "newStartDate": "2018-06-12T00:00:00",
             "temporaryDiscounts": [
                 {
                     "currencyId": "Cells",
@@ -129791,7 +129815,7 @@
             "unbreakable": false
         },
         "nonSecure": false,
-        "purchasable": true,
+        "purchasable": false,
         "unique": true
     },
     {
@@ -129824,7 +129848,7 @@
         "id": "Spirit_outfit_001",
         "metaData": {
             "character": "Spirit",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "HK_Head02",
                 "HK_Body02",
@@ -129854,7 +129878,7 @@
         "id": "Spirit_outfit_002",
         "metaData": {
             "character": "Spirit",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "HK_Head01_01",
                 "HK_Body01_01",
@@ -129884,7 +129908,7 @@
         "id": "Spirit_outfit_003",
         "metaData": {
             "character": "Spirit",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "HK_Head01_02",
                 "HK_Body01_02",
@@ -129914,7 +129938,7 @@
         "id": "Spirit_outfit_004",
         "metaData": {
             "character": "Spirit",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "HK_Head01_03",
                 "HK_Body01_03",
@@ -129944,7 +129968,7 @@
         "id": "Spirit_outfit_005",
         "metaData": {
             "character": "Spirit",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "HK_Head01_CV01",
                 "HK_Body01_CV01",
@@ -129974,7 +129998,7 @@
         "id": "Spirit_outfit_006",
         "metaData": {
             "character": "Spirit",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "HK_Head01_CV02",
                 "HK_Body01_CV02",
@@ -130004,7 +130028,7 @@
         "id": "Spirit_outfit_007",
         "metaData": {
             "character": "Spirit",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "HK_Head01_CV03",
                 "HK_Body01_CV03",
@@ -130034,7 +130058,7 @@
         "id": "Spirit_outfit_008",
         "metaData": {
             "character": "Spirit",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "HK_Head01_CV04",
                 "HK_Body01_CV04",
@@ -130064,7 +130088,7 @@
         "id": "Spirit_outfit_009",
         "metaData": {
             "character": "Spirit",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "HK_Head01_CV05",
                 "HK_Body01_CV05",
@@ -130094,7 +130118,7 @@
         "id": "Spirit_outfit_006_01",
         "metaData": {
             "character": "Spirit",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "HK_Head006_01",
                 "HK_Body006_01",
@@ -130124,7 +130148,7 @@
         "id": "Spirit_outfit_006_02",
         "metaData": {
             "character": "Spirit",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "HK_Head006_02",
                 "HK_Body006_02",
@@ -130154,7 +130178,7 @@
         "id": "Spirit_outfit_006_03",
         "metaData": {
             "character": "Spirit",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "HK_Head006_03",
                 "HK_Body006_03",
@@ -130184,7 +130208,7 @@
         "id": "Spirit_outfit_007_01",
         "metaData": {
             "character": "Spirit",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "HK_Head007",
                 "HK_Body007",
@@ -130214,7 +130238,7 @@
         "id": "HK_outfit_008",
         "metaData": {
             "character": "Spirit",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "HK_Head008",
                 "HK_Body008",
@@ -130266,7 +130290,7 @@
         "id": "HK_outfit_010",
         "metaData": {
             "character": "Spirit",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "HK_Head010",
                 "HK_Body010",
@@ -130318,7 +130342,7 @@
         "id": "Legion_outfit_01_CV01",
         "metaData": {
             "character": "Legion",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "KK_Mask01_CV01",
                 "KK_body01_CV01",
@@ -130348,7 +130372,7 @@
         "id": "Legion_outfit_01_CV02",
         "metaData": {
             "character": "Legion",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "KK_Mask01_CV02",
                 "KK_Body01_CV02",
@@ -130378,7 +130402,7 @@
         "id": "Legion_outfit_02_CV01",
         "metaData": {
             "character": "Legion",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "KK_Mask02_CV01",
                 "KK_body02_CV01",
@@ -130408,7 +130432,7 @@
         "id": "Legion_outfit_02_CV02",
         "metaData": {
             "character": "Legion",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "KK_Mask02_CV02",
                 "KK_body02_CV02",
@@ -130438,7 +130462,7 @@
         "id": "Legion_outfit_01_01",
         "metaData": {
             "character": "Legion",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "KK_Mask01_01",
                 "KK_Body01_01",
@@ -130468,7 +130492,7 @@
         "id": "Legion_outfit_02_01",
         "metaData": {
             "character": "Legion",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "KK_Mask02_01",
                 "KK_Body02_01",
@@ -130498,7 +130522,7 @@
         "id": "Legion_outfit_007",
         "metaData": {
             "character": "Legion",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "KK_Mask007",
                 "KK_Body007",
@@ -130528,7 +130552,7 @@
         "id": "Legion_outfit_007_01",
         "metaData": {
             "character": "Legion",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "KK_Mask007_01",
                 "KK_Body007_01",
@@ -130558,7 +130582,7 @@
         "id": "Legion_Outfit_006",
         "metaData": {
             "character": "Legion",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "KK_Mask006",
                 "KK_Body006",
@@ -130588,7 +130612,7 @@
         "id": "Legion_outfit_009",
         "metaData": {
             "character": "Legion",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "KK_Mask009",
                 "KK_Body009",
@@ -130618,7 +130642,7 @@
         "id": "KK_outfit_010",
         "metaData": {
             "character": "Legion",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "KK_Mask010",
                 "KK_Body010",
@@ -130648,7 +130672,7 @@
         "id": "KK_outfit_011",
         "metaData": {
             "character": "Legion",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "KK_Mask011",
                 "KK_Body011",
@@ -130678,7 +130702,7 @@
         "id": "KK_outfit_014",
         "metaData": {
             "character": "Legion",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "KK_Mask014",
                 "KK_Body014",
@@ -130730,7 +130754,7 @@
         "id": "KK_outfit_016",
         "metaData": {
             "character": "Legion",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "KK_Head016",
                 "KK_Body016",
@@ -130760,7 +130784,7 @@
         "id": "KK_outfit_016_01",
         "metaData": {
             "character": "Legion",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "KK_Mask016_01",
                 "KK_Body016_01",
@@ -130790,7 +130814,7 @@
         "id": "KK_outfit_016_02",
         "metaData": {
             "character": "Legion",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "KK_Mask016_02",
                 "KK_Body016_02",
@@ -130820,7 +130844,7 @@
         "id": "KK_outfit_016_03",
         "metaData": {
             "character": "Legion",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "KK_Mask016_03",
                 "KK_Body016_03",
@@ -130850,7 +130874,7 @@
         "id": "Plague_outfit_01_CV01",
         "metaData": {
             "character": "Plague",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "MK_Mask01_CV01",
                 "MK_Body01_CV01",
@@ -130880,7 +130904,7 @@
         "id": "Plague_outfit_01_CV02",
         "metaData": {
             "character": "Plague",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "MK_Mask01_CV02",
                 "MK_Body01_CV02",
@@ -130910,7 +130934,7 @@
         "id": "Plague_outfit_01_CV03",
         "metaData": {
             "character": "Plague",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "MK_Mask01_CV03",
                 "MK_Body01_CV03",
@@ -130940,7 +130964,7 @@
         "id": "Plague_outfit_01_CV04",
         "metaData": {
             "character": "Plague",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "MK_Mask01_CV04",
                 "MK_Body01_CV04",
@@ -130970,7 +130994,7 @@
         "id": "Plague_outfit_01_01",
         "metaData": {
             "character": "Plague",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "MK_Mask01_01",
                 "MK_Body01_01",
@@ -131000,7 +131024,7 @@
         "id": "Plague_outfit_01_02",
         "metaData": {
             "character": "Plague",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "MK_Mask01_02",
                 "MK_Body01_02",
@@ -131030,7 +131054,7 @@
         "id": "Plague_outfit_01_03",
         "metaData": {
             "character": "Plague",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "MK_Mask01_03",
                 "MK_Body01_03",
@@ -131060,7 +131084,7 @@
         "id": "Plague_outfit_02",
         "metaData": {
             "character": "Plague",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "MK_Mask02",
                 "MK_Body02",
@@ -131090,7 +131114,7 @@
         "id": "Plague_outfit_02_01",
         "metaData": {
             "character": "Plague",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "MK_Mask02_01",
                 "MK_Body02_01",
@@ -131120,7 +131144,7 @@
         "id": "Plague_outfit_006",
         "metaData": {
             "character": "Plague",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "MK_Mask006",
                 "MK_Body006",
@@ -131150,7 +131174,7 @@
         "id": "MK_outfit_007",
         "metaData": {
             "character": "Plague",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "MK_Mask007",
                 "MK_Body007",
@@ -131180,7 +131204,7 @@
         "id": "MK_outfit_008",
         "metaData": {
             "character": "Plague",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "MK_Mask008",
                 "MK_Body008",
@@ -131210,7 +131234,7 @@
         "id": "MK_outfit_009",
         "metaData": {
             "character": "Plague",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "MK_Mask009",
                 "MK_Body009",
@@ -131262,7 +131286,7 @@
         "id": "OK_outfit_02",
         "metaData": {
             "character": "Ghostface",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "OK_Mask02",
                 "OK_Body02",
@@ -131292,7 +131316,7 @@
         "id": "OK_outfit_CV01",
         "metaData": {
             "character": "Ghostface",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "OK_Body01_CV01",
                 "OK_W01_CV01"
@@ -131321,7 +131345,7 @@
         "id": "OK_outfit_CV02",
         "metaData": {
             "character": "Ghostface",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "OK_Body01_CV02",
                 "OK_W01_CV02"
@@ -131350,7 +131374,7 @@
         "id": "OK_outfit_006",
         "metaData": {
             "character": "Ghostface",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "OK_Mask006",
                 "OK_Body006",
@@ -131380,7 +131404,7 @@
         "id": "OK_outfit_007",
         "metaData": {
             "character": "Ghostface",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "OK_Mask007",
                 "OK_Body007",
@@ -131410,7 +131434,7 @@
         "id": "OK_outfit_008",
         "metaData": {
             "character": "Ghostface",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "OK_Mask008",
                 "OK_Body008",
@@ -131440,7 +131464,7 @@
         "id": "QK_outfit_02",
         "metaData": {
             "character": "Demogorgon",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "QK_Head02",
                 "QK_Body02",
@@ -131470,7 +131494,7 @@
         "id": "QK_outfit_006",
         "metaData": {
             "character": "Demogorgon",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "QK_Head006",
                 "QK_Body006",
@@ -131500,7 +131524,7 @@
         "id": "SwedenKiller_outfit_01_CV01",
         "metaData": {
             "character": "Oni",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "SwedenKiller_Mask01_CV01",
                 "SwedenKiller_Body01_CV01",
@@ -131530,7 +131554,7 @@
         "id": "SwedenKiller_outfit_01_CV02",
         "metaData": {
             "character": "Oni",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "SwedenKiller_Mask01_CV02",
                 "SwedenKiller_Body01_CV02",
@@ -131560,7 +131584,7 @@
         "id": "SwedenKiller_outfit_01_CV03",
         "metaData": {
             "character": "Oni",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "SwedenKiller_Mask01_CV03",
                 "SwedenKiller_Body01_CV03",
@@ -131590,7 +131614,7 @@
         "id": "SwedenKiller_outfit_01_CV04",
         "metaData": {
             "character": "Oni",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "SwedenKiller_Mask01_CV04",
                 "SwedenKiller_Body01_CV04",
@@ -131620,7 +131644,7 @@
         "id": "SwedenKiller_outfit_01_01",
         "metaData": {
             "character": "Oni",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "SwedenKiller_Mask01_01",
                 "SwedenKiller_Body01_01",
@@ -131650,7 +131674,7 @@
         "id": "SwedenKiller_outfit_01_02",
         "metaData": {
             "character": "Oni",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "SwedenKiller_Mask01_02",
                 "SwedenKiller_Body01_02",
@@ -131680,7 +131704,7 @@
         "id": "SwedenKiller_outfit_01_03",
         "metaData": {
             "character": "Oni",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "SwedenKiller_Mask01_03",
                 "SwedenKiller_Body01_03",
@@ -131710,7 +131734,7 @@
         "id": "SwedenKiller_outfit_02",
         "metaData": {
             "character": "Oni",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "SwedenKiller_Mask02",
                 "SwedenKiller_Body02",
@@ -131740,7 +131764,7 @@
         "id": "SwedenKiller_outfit_02_01",
         "metaData": {
             "character": "Oni",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "SwedenKiller_Mask02_01",
                 "SwedenKiller_Body02_01",
@@ -131770,7 +131794,7 @@
         "id": "SwedenKiller_outfit_006",
         "metaData": {
             "character": "Oni",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "SwedenKiller_Mask006",
                 "SwedenKiller_Body006",
@@ -131800,7 +131824,7 @@
         "id": "SwedenKiller_outfit_007",
         "metaData": {
             "character": "Oni",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "SwedenKiller_Mask007",
                 "SwedenKiller_Body007",
@@ -131830,7 +131854,7 @@
         "id": "SwedenKiller_outfit_008",
         "metaData": {
             "character": "Oni",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "SwedenKiller_Mask008",
                 "SwedenKiller_Body008",
@@ -131860,7 +131884,7 @@
         "id": "UK_outfit_01_CV01",
         "metaData": {
             "character": "Gunslinger",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "UK_Body01_CV01",
                 "UK_W01_CV01"
@@ -131889,7 +131913,7 @@
         "id": "UK_outfit_01_CV02",
         "metaData": {
             "character": "Gunslinger",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "UK_Body01_CV02",
                 "UK_W01_CV02"
@@ -131918,7 +131942,7 @@
         "id": "UK_outfit_01_CV03",
         "metaData": {
             "character": "Gunslinger",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "UK_Body01_CV03",
                 "UK_W01_CV03"
@@ -131947,7 +131971,7 @@
         "id": "UK_outfit_01_CV04",
         "metaData": {
             "character": "Gunslinger",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "UK_Body01_CV04",
                 "UK_W01_CV04"
@@ -131976,7 +132000,7 @@
         "id": "UK_outfit_01_01",
         "metaData": {
             "character": "Gunslinger",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "UK_Head01_01",
                 "UK_Body01_01",
@@ -132006,7 +132030,7 @@
         "id": "UK_outfit_01_02",
         "metaData": {
             "character": "Gunslinger",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "UK_Head01_02",
                 "UK_Body01_02",
@@ -132036,7 +132060,7 @@
         "id": "UK_outfit_01_03",
         "metaData": {
             "character": "Gunslinger",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "UK_Head01_03",
                 "UK_Body01_03",
@@ -132066,7 +132090,7 @@
         "id": "UK_outfit_02",
         "metaData": {
             "character": "Gunslinger",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "UK_Head02",
                 "UK_Body02",
@@ -132096,7 +132120,7 @@
         "id": "UK_outfit_02_01",
         "metaData": {
             "character": "Gunslinger",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "UK_Head02_01",
                 "UK_Body02_01",
@@ -132126,7 +132150,7 @@
         "id": "UK_outfit_006",
         "metaData": {
             "character": "Gunslinger",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "UK_Head006",
                 "UK_Body006",
@@ -132156,7 +132180,7 @@
         "id": "UK_outfit_007",
         "metaData": {
             "character": "Gunslinger",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "UK_Head007",
                 "UK_Body007",
@@ -132186,7 +132210,7 @@
         "id": "K20_outfit_006",
         "metaData": {
             "character": "K20",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "K20_Head006",
                 "K20_Body006",
@@ -132216,7 +132240,7 @@
         "id": "GK_outfit_011",
         "metaData": {
             "character": "Clown",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "GK_Head011",
                 "GK_Body011",
@@ -132246,7 +132270,7 @@
         "id": "SwedenSurvivor_outfit_011",
         "metaData": {
             "character": "Yui",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "SwedenSurvivor_Head011",
                 "SwedenSurvivor_Torso011",
@@ -132276,7 +132300,7 @@
         "id": "DK_outfit_012",
         "metaData": {
             "character": "Smoke",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "DK_Head012",
                 "DK_Torso012",
@@ -132312,7 +132336,7 @@
         "id": "SwedenKiller_outfit_009",
         "metaData": {
             "character": "Oni",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "SwedenKiller_Mask009",
                 "SwedenKiller_Body009",
@@ -132342,7 +132366,7 @@
         "id": "HS_outfit_010",
         "metaData": {
             "character": "Adam",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "HS_Head010",
                 "HS_Torso010",
@@ -132372,7 +132396,7 @@
         "id": "HK_outfit_011",
         "metaData": {
             "character": "Spirit",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "HK_Head011",
                 "HK_Body011",
@@ -132402,7 +132426,7 @@
         "id": "FM_outfit_012",
         "metaData": {
             "character": "Feng",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "FM_Head012",
                 "FM_Torso012",
@@ -132432,7 +132456,7 @@
         "id": "MS_outfit_013",
         "metaData": {
             "character": "Jane",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "MS_Head013",
                 "MS_Torso013",
@@ -132462,7 +132486,7 @@
         "id": "K20_outfit_007",
         "metaData": {
             "character": "K20",
-            "discountPercentage": 0.1,
+            "discountPercentage": 0.0,
             "items": [
                 "K20_Head007",
                 "K20_Body007",
@@ -133225,8 +133249,8 @@
                 "S22_Torso008",
                 "S22_Legs008"
             ],
-            "newEndDate": "2020-10-08T23:59:59",
-            "newStartDate": "2020-09-25T00:00:00",
+            "newEndDate": "2020-10-09T14:59:59",
+            "newStartDate": "2020-09-25T15:00:00",
             "unbreakable": true
         },
         "nonSecure": false,
@@ -133667,7 +133691,7 @@
             ],
             "newEndDate": "2020-11-27T15:59:59",
             "newStartDate": "2020-11-13T16:00:00",
-            "unbreakable": true
+            "unbreakable": false
         },
         "nonSecure": false,
         "purchasable": true,
