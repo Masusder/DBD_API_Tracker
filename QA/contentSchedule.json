@@ -59,49 +59,166 @@
             "priority": "0"
         },
         {
-            "description": "Zambia",
-            "end_date": "2020-10-27T14:59:59",
+            "description": "Aurora",
+            "end_date": "2020-12-04T15:59:59",
             "maps_weight": {
-                "Ind_CoalTower": "20"
+                "Jnk_Garage": "18"
             },
             "priority": "101",
-            "start_date": "2020-10-20T15:00:00"
+            "start_date": "2020-12-01T16:00:00"
         },
         {
-            "description": "Zambia",
-            "end_date": "2020-10-27T14:59:59",
+            "description": "Aurora",
+            "end_date": "2020-12-04T15:59:59",
             "maps_weight": {
-                "Ind_Mine": "20"
+                "Jnk_GasStation": "18"
             },
             "priority": "102",
-            "start_date": "2020-10-20T15:00:00"
+            "start_date": "2020-12-01T16:00:00"
         },
         {
-            "description": "Zambia",
-            "end_date": "2020-10-27T14:59:59",
+            "description": "Aurora",
+            "end_date": "2020-12-04T15:59:59",
             "maps_weight": {
-                "Ind_Foundry": "20"
+                "Jnk_Lodge": "18"
             },
             "priority": "103",
-            "start_date": "2020-10-20T15:00:00"
+            "start_date": "2020-12-01T16:00:00"
         },
         {
-            "description": "Zambia",
-            "end_date": "2020-10-27T14:59:59",
+            "description": "Aurora",
+            "end_date": "2020-12-04T15:59:59",
             "maps_weight": {
-                "Ind_Forest": "20"
+                "Jnk_Office": "18"
             },
             "priority": "104",
-            "start_date": "2020-10-20T15:00:00"
+            "start_date": "2020-12-01T16:00:00"
         },
         {
-            "description": "Zambia",
-            "end_date": "2020-10-27T14:59:59",
+            "description": "Aurora",
+            "end_date": "2020-12-04T15:59:59",
             "maps_weight": {
-                "Ind_Storehouse": "20"
+                "Jnk_Scrapyard": "18"
             },
             "priority": "105",
-            "start_date": "2020-10-20T15:00:00"
+            "start_date": "2020-12-01T16:00:00"
+        },
+        {
+            "description": "Aurora",
+            "end_date": "2020-12-04T15:59:59",
+            "maps_weight": {
+                "Kny_Cottage": "42"
+            },
+            "priority": "106",
+            "start_date": "2020-12-01T16:00:00"
+        },
+        {
+            "description": "Aurora",
+            "end_date": "2020-12-07T15:59:59",
+            "maps_weight": {
+                "Jnk_Garage": "14"
+            },
+            "priority": "107",
+            "start_date": "2020-12-04T16:00:00"
+        },
+        {
+            "description": "Aurora",
+            "end_date": "2020-12-07T15:59:59",
+            "maps_weight": {
+                "Jnk_GasStation": "14"
+            },
+            "priority": "108",
+            "start_date": "2020-12-04T16:00:00"
+        },
+        {
+            "description": "Aurora",
+            "end_date": "2020-12-07T15:59:59",
+            "maps_weight": {
+                "Jnk_Lodge": "14"
+            },
+            "priority": "109",
+            "start_date": "2020-12-04T16:00:00"
+        },
+        {
+            "description": "Aurora",
+            "end_date": "2020-12-07T15:59:59",
+            "maps_weight": {
+                "Jnk_Office": "14"
+            },
+            "priority": "110",
+            "start_date": "2020-12-04T16:00:00"
+        },
+        {
+            "description": "Aurora",
+            "end_date": "2020-12-07T15:59:59",
+            "maps_weight": {
+                "Jnk_Scrapyard": "14"
+            },
+            "priority": "111",
+            "start_date": "2020-12-04T16:00:00"
+        },
+        {
+            "description": "Aurora",
+            "end_date": "2020-12-07T15:59:59",
+            "maps_weight": {
+                "Kny_Cottage": "40"
+            },
+            "priority": "112",
+            "start_date": "2020-12-04T16:00:00"
+        },
+        {
+            "description": "Aurora",
+            "end_date": "2020-12-09T15:59:59",
+            "maps_weight": {
+                "Jnk_Garage": "12"
+            },
+            "priority": "113",
+            "start_date": "2020-12-07T16:00:00"
+        },
+        {
+            "description": "Aurora",
+            "end_date": "2020-12-09T15:59:59",
+            "maps_weight": {
+                "Jnk_GasStation": "12"
+            },
+            "priority": "114",
+            "start_date": "2020-12-07T16:00:00"
+        },
+        {
+            "description": "Aurora",
+            "end_date": "2020-12-09T15:59:59",
+            "maps_weight": {
+                "Jnk_Lodge": "12"
+            },
+            "priority": "115",
+            "start_date": "2020-12-07T16:00:00"
+        },
+        {
+            "description": "Aurora",
+            "end_date": "2020-12-09T15:59:59",
+            "maps_weight": {
+                "Jnk_Office": "12"
+            },
+            "priority": "116",
+            "start_date": "2020-12-07T16:00:00"
+        },
+        {
+            "description": "Aurora",
+            "end_date": "2020-12-09T15:59:59",
+            "maps_weight": {
+                "Jnk_Scrapyard": "12"
+            },
+            "priority": "117",
+            "start_date": "2020-12-07T16:00:00"
+        },
+        {
+            "description": "Aurora",
+            "end_date": "2020-12-09T15:59:59",
+            "maps_weight": {
+                "Kny_Cottage": "39"
+            },
+            "priority": "118",
+            "start_date": "2020-12-07T16:00:00"
         }
     ]
 }
