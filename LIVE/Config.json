@@ -31,7 +31,7 @@
         "keyName": "SOCIAL_PLATFORM_FRIENDLIST_QUERY_RATE"
     },
     {
-        "value": "false",
+        "value": "true",
         "keyName": "DDOS_DETECTION"
     },
     {
@@ -191,7 +191,6 @@
             ],
             "KL": [
                 "CustomerSupportAnalytics",
-                "DDoSDetectionAnalytics",
                 "DisconnectionAnalytics",
                 "EACClientAuthChallengeAnalytics",
                 "EACClientAuthInitAnalytics",
@@ -201,12 +200,11 @@
                 "FallOutOfWorldAnalytics",
                 "GameEventLogAnalytics",
                 "GameInitAnalytics",
-                "InteractionAnalytics",
-                "KrakenRequestAnalytics",
+                "InvalidLoadoutAnalytics",
                 "LogMirrorsAnalytics",
+                "S3CommandAnalytics",
                 "S3CommandErrorAnalytics",
                 "SaveGameErrorAnalytics",
-                "ShopAnalytics",
                 "SpecialEventAnalytics",
                 "SpecialEventBaseAnalytics"
             ],
@@ -247,7 +245,6 @@
                 "DedicatedServerStatusAnalytics",
                 "DisconnectionDetailsAnalytics",
                 "FrameHikeAnalytics",
-                "InvalidLoadoutAnalytics",
                 "LevelLoadingStepAnalytics",
                 "LevelLoadingTimeoutAnalytics",
                 "PerformanceAnalytics",
@@ -377,17 +374,14 @@
     {
         "value": {
             "DD": [
-                "AtlantaDeepLinkAnalytics",
                 "AtlantaGraphicsSettingsAnalytics",
                 "AtlantaKillerTutorialAnalytics",
                 "AtlantaPartyGameAnalytics",
                 "AtlantaPerkSelectionAnalytics",
                 "AtlantaPlayerLevelAnalytics",
                 "AtlantaPurchasePopupAnalytics",
-                "AtlantaQuitGameAnalytics",
                 "AtlantaSessionStartAnalytics",
                 "AtlantaSurvivorTutorialAnalytics",
-                "BloodMarketAdsAnalytics",
                 "BloodMarketRefreshAnalytics",
                 "BloodMarketTransactionAnalytics",
                 "DailyCalendarRewardAnalytics",
@@ -402,7 +396,6 @@
             "KL": [
                 "CustomerSupportAnalytics",
                 "CustomerSupportClientLoginAnalytics",
-                "DDoSDetectionAnalytics",
                 "DisconnectionAnalytics",
                 "EACClientAuthChallengeAnalytics",
                 "EACClientAuthInitAnalytics",
@@ -412,11 +405,10 @@
                 "EntitlementAnalytics",
                 "ErrorAnalytics",
                 "FallOutOfWorldAnalytics",
-                "FrameTravelTimeAnalytics",
                 "GameEventLogAnalytics",
                 "GameInitAnalytics",
                 "HeartbeatPerfAnalytics",
-                "InteractionAnalytics",
+                "InvalidLoadoutAnalytics",
                 "KrakenRequestAnalytics",
                 "LogAnalytics",
                 "LogMirrorsAnalytics",
@@ -427,7 +419,8 @@
                 "MatchmakingJoinSessionAnalytics",
                 "MatchmakingSearchCompleteAnalytics",
                 "MatchmakingSessionSpotReservationAnalytics",
-                "PartyJoinFailureAnalytics",
+                "MatchmakingSurviveWithFriendsAnalytics",
+                "RecordRanksMigrateCheatAnalytics",
                 "S3CommandErrorAnalytics",
                 "SaveGameErrorAnalytics",
                 "SaveGameLoadResultAnalytics",
@@ -444,7 +437,6 @@
                 "MatchmakingHostSettingAnalytics",
                 "MatchmakingSearchParamAnalytics",
                 "MatchmakingSearchResultAnalytics",
-                "MatchmakingSurviveWithFriendsAnalytics",
                 "PerformanceChartingAnalytics",
                 "RTMAnalytics"
             ],
@@ -457,13 +449,7 @@
             "KA": [
                 "ArchiveVignetteEntryAnalytics",
                 "ArchiveVignetteVideoAnalytics",
-                "AtlantaCampaignEventAnalytics",
                 "CannibalAnalytics",
-                "CrowdChoiceOnGameRoundStartedAnalytics",
-                "CrowdChoiceSummaryResultAnalytics",
-                "CrowdChoiceVoteResultAnalytics",
-                "CrowdPlayLobbyEventsAnalytics",
-                "CrowdPlayLobbyResultsAnalytics",
                 "CustomizationLobbyAnalytics",
                 "DailyRitualAnalytics",
                 "DetailedHitAnalytics",
@@ -503,14 +489,13 @@
                 "ProceduralGenerationAnalytics",
                 "QueueAnalytics",
                 "ScoreAnalytics",
-                "StadiaLivestreamAnalytics",
-                "StadiaStreamAnalytics",
                 "StoreMenuFlowAnalytics",
                 "SurvivorTutorialAnalytics",
                 "TinkererUndetectableHitNearGeneratorAnalytics",
                 "TinkererUndetectableInterruptAnalytics",
                 "TransactionAnalytics",
-                "WaitTimeAnalytics"
+                "WaitTimeAnalytics",
+                "WalesCypherAnalytics"
             ],
             "KAL": [
                 "ChatAnalytics",
@@ -518,15 +503,13 @@
                 "CustomizationAnalytics",
                 "EnvironmentAnalytics",
                 "FrameHikeAnalytics",
-                "InvalidLoadoutAnalytics",
                 "LevelLoadingStepAnalytics",
                 "LevelLoadingTimeoutAnalytics",
                 "LoadOutAnalytics",
                 "MatchInfoAnalytics",
                 "PerformanceAnalytics",
                 "ReportAnalytics",
-                "S3CommandAnalytics",
-                "WalesCypherAnalytics"
+                "S3CommandAnalytics"
             ]
         },
         "keyName": "ANALYTICS_RULES"
@@ -681,7 +664,8 @@
             "m_4.2.1_369885live": "m_4.2.1_369885live-1605804406",
             "m_4.2.1_370018live": "m_4.2.1_370018live-1605816706",
             "m_4.2.1_371147live": "m_4.2.1_371147live-1606225851",
-            "m_4.2.1_371719live": "m_4.2.1_371719live-1606316836"
+            "m_4.2.1_371719live": "m_4.2.1_371719live-1606316836",
+            "m_4.3.2_374362live": "m_4.3.2_374362live-1606859352"
         },
         "keyName": "VER_CLIENT_DATA"
     },
