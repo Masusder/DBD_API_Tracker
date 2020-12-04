@@ -1093,7 +1093,19 @@
                                     }
                                 ]
                             }
-                        }
+                        },
+                        "reward": [
+                            {
+                                "amount": 5,
+                                "id": "star",
+                                "type": "progressionDbD"
+                            },
+                            {
+                                "amount": 25000,
+                                "id": "bloodpoints",
+                                "type": "currency"
+                            }
+                        ]
                     },
                     "node_T6L1_Start01": {
                         "clientInfoId": "Start",
@@ -1370,7 +1382,7 @@
                                     }
                                 ],
                                 "incrementWithEventRepetitions": true,
-                                "neededProgression": 5,
+                                "neededProgression": 4,
                                 "objectiveId": "ConsumeMedkit",
                                 "questEvent": [
                                     {
@@ -2139,7 +2151,7 @@
                             "DebugGlyph": {
                                 "conditions": [],
                                 "incrementWithEventRepetitions": true,
-                                "neededProgression": 6,
+                                "neededProgression": 4,
                                 "objectiveId": "DebugGlyph",
                                 "questEvent": [
                                     {
@@ -2155,7 +2167,19 @@
                                     }
                                 ]
                             }
-                        }
+                        },
+                        "reward": [
+                            {
+                                "amount": 5,
+                                "id": "star",
+                                "type": "progressionDbD"
+                            },
+                            {
+                                "amount": 35000,
+                                "id": "bloodpoints",
+                                "type": "currency"
+                            }
+                        ]
                     },
                     "node_T6L2_Start01": {
                         "clientInfoId": "Start",
@@ -2794,7 +2818,7 @@
                         ]
                     },
                     "node_T6L3_13": {
-                        "clientInfoId": "HealFinishNearKillerWithSelfCareInTrial",
+                        "clientInfoId": "HealFinishSelfNearKillerWithSelfCareInTrial",
                         "coordinates": {
                             "x": 545,
                             "y": 5
@@ -2808,7 +2832,7 @@
                         ],
                         "nodeType": "quest:challenge",
                         "objectives": {
-                            "HealFinishNearKillerWithPerkInTrial": {
+                            "HealFinishSelfNearKillerWithPerkInTrial": {
                                 "conditions": [
                                     {
                                         "key": "role",
@@ -2825,7 +2849,7 @@
                                 ],
                                 "incrementWithEventRepetitions": false,
                                 "neededProgression": 1,
-                                "objectiveId": "HealFinishNearKillerWithPerkInTrial",
+                                "objectiveId": "HealFinishSelfNearKillerWithPerkInTrial",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -3153,7 +3177,7 @@
                                     }
                                 ],
                                 "incrementWithEventRepetitions": true,
-                                "neededProgression": 5,
+                                "neededProgression": 6,
                                 "objectiveId": "ConsumeMedkit",
                                 "questEvent": [
                                     {
@@ -3217,7 +3241,7 @@
                             "DebugGlyph": {
                                 "conditions": [],
                                 "incrementWithEventRepetitions": true,
-                                "neededProgression": 9,
+                                "neededProgression": 5,
                                 "objectiveId": "DebugGlyph",
                                 "questEvent": [
                                     {
@@ -3233,7 +3257,19 @@
                                     }
                                 ]
                             }
-                        }
+                        },
+                        "reward": [
+                            {
+                                "amount": 5,
+                                "id": "star",
+                                "type": "progressionDbD"
+                            },
+                            {
+                                "amount": 50000,
+                                "id": "bloodpoints",
+                                "type": "currency"
+                            }
+                        ]
                     },
                     "node_T6L3_Start01": {
                         "clientInfoId": "Start",
@@ -3452,7 +3488,7 @@
                                     }
                                 ],
                                 "incrementWithEventRepetitions": true,
-                                "neededProgression": 6,
+                                "neededProgression": 9,
                                 "objectiveId": "EscapeOther",
                                 "questEvent": [
                                     {
@@ -3499,7 +3535,7 @@
                                     }
                                 ],
                                 "incrementWithEventRepetitions": false,
-                                "neededProgression": 20,
+                                "neededProgression": 25,
                                 "objectiveId": "UnhookProtectionHit",
                                 "questEvent": [
                                     {
@@ -3886,7 +3922,7 @@
                                 "questEvent": [
                                     {
                                         "operation": ">=",
-                                        "parameters": "instigator:me",
+                                        "parameters": "instigator:me;Distance:3600;ToleranceAngle:45;TimeLimit:5",
                                         "questEventId": "QuestEvent.EmotePointAtKiller",
                                         "repetition": 2
                                     }
@@ -4125,21 +4161,18 @@
                         ]
                     },
                     "node_T6L4_18": {
-                        "clientInfoId": "BreakGenSameInTrial",
+                        "clientInfoId": "Down",
                         "coordinates": {
                             "x": 815,
                             "y": 605
                         },
-                        "journal": [
-                            "Tome06_Observer"
-                        ],
                         "neighbors": [
                             "node_T6L4_11",
                             "node_T6L4_08"
                         ],
-                        "nodeType": "quest:challenge",
+                        "nodeType": "quest:task",
                         "objectives": {
-                            "BreakGenSameInTrial": {
+                            "Down": {
                                 "conditions": [
                                     {
                                         "key": "role",
@@ -4149,26 +4182,26 @@
                                     }
                                 ],
                                 "incrementWithEventRepetitions": false,
-                                "neededProgression": 1,
-                                "objectiveId": "BreakGenSameInTrial",
+                                "neededProgression": 25,
+                                "objectiveId": "Down",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
                                         "parameters": "instigator:me",
-                                        "questEventId": "QuestEvent.BreakGenSame",
-                                        "repetition": 4
+                                        "questEventId": "QuestEvent.Down",
+                                        "repetition": 1
                                     }
                                 ]
                             }
                         },
                         "reward": [
                             {
-                                "amount": 5,
+                                "amount": 3,
                                 "id": "star",
                                 "type": "progressionDbD"
                             },
                             {
-                                "amount": 60000,
+                                "amount": 45000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
                             }
@@ -4250,7 +4283,7 @@
                             "DebugGlyph": {
                                 "conditions": [],
                                 "incrementWithEventRepetitions": true,
-                                "neededProgression": 12,
+                                "neededProgression": 6,
                                 "objectiveId": "DebugGlyph",
                                 "questEvent": [
                                     {
@@ -4266,7 +4299,19 @@
                                     }
                                 ]
                             }
-                        }
+                        },
+                        "reward": [
+                            {
+                                "amount": 5,
+                                "id": "star",
+                                "type": "progressionDbD"
+                            },
+                            {
+                                "amount": 60000,
+                                "id": "bloodpoints",
+                                "type": "currency"
+                            }
+                        ]
                     },
                     "node_T6L4_Start01": {
                         "clientInfoId": "Start",
@@ -4295,6 +4340,6 @@
             }
         ],
         "rewardData": "Tome06",
-        "version": 1
+        "version": 4
     }
 }
