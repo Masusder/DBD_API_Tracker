@@ -251,6 +251,8 @@
                 "LevelLoadingStepAnalytics",
                 "LevelLoadingTimeoutAnalytics",
                 "PerformanceAnalytics",
+                "PostGame_KillerAnalytics",
+                "PostGame_SurvivorAnalytics",
                 "S3CommandAnalytics"
             ]
         },
@@ -498,8 +500,6 @@
                 "MenuFlowAnalytics",
                 "PerkAcquisitionAnalytics",
                 "PlagueSurvivorAnalytics",
-                "PostGame_KillerAnalytics",
-                "PostGame_SurvivorAnalytics",
                 "ProceduralGenerationAnalytics",
                 "QueueAnalytics",
                 "ScoreAnalytics",
@@ -524,6 +524,8 @@
                 "LoadOutAnalytics",
                 "MatchInfoAnalytics",
                 "PerformanceAnalytics",
+                "PostGame_KillerAnalytics",
+                "PostGame_SurvivorAnalytics",
                 "ReportAnalytics",
                 "S3CommandAnalytics",
                 "WalesCypherAnalytics"
@@ -675,6 +677,8 @@
             "4.4.0_374816live": "4.4.0_374816live-1606946913",
             "4.4.0_375002live": "4.4.0_375002live-1607011220",
             "4.4.0_375948live": "4.4.0_375948live-1607359689",
+            "4.4.0_376385live": "4.4.0_376385live-1607440420",
+            "4.4.0_376434live": "4.4.0_376434live-1607445296",
             "m_3.3.3_220000live": "m_3.3.3_220000live-1574880017",
             "m_3.3.3_249880live": "m_3.3.3_249880live-1574865740",
             "m_3.3.3_249941live": "m_3.3.3_249941live-1574867268",
@@ -688,7 +692,10 @@
             "m_4.2.1_371719live": "m_4.2.1_371719live-1606316836",
             "m_4.3.2_374362live": "m_4.3.2_374362live-1606859352",
             "m_4.3.2_374624live": "m_4.3.2_374624live-1606933488",
-            "m_4.3.2_375834live": "m_4.3.2_375834live-1607354046"
+            "m_4.3.2_375834live": "m_4.3.2_375834live-1607354046",
+            "m_4.3.2_376249live": "m_4.3.2_376249live-1607380245",
+            "m_4.3.2_376404live": "m_4.3.2_376404live-1607442283",
+            "m_4.3.2_376611live": "m_4.3.2_376611live-1607459270"
         },
         "keyName": "VER_CLIENT_DATA"
     },

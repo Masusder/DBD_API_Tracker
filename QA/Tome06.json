@@ -3583,7 +3583,7 @@
                                     }
                                 ],
                                 "incrementWithEventRepetitions": true,
-                                "neededProgression": 2,
+                                "neededProgression": 1,
                                 "objectiveId": "GrabFromGenerator",
                                 "questEvent": [
                                     {
@@ -4108,7 +4108,7 @@
                     "node_T6L4_17": {
                         "clientInfoId": "OniDashTimeHitInTrial",
                         "coordinates": {
-                            "x": 1265,
+                            "x": 1175,
                             "y": 5
                         },
                         "journal": [
@@ -4340,6 +4340,6 @@
             }
         ],
         "rewardData": "Tome06",
-        "version": 4
+        "version": 5
     }
 }
