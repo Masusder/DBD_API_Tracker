@@ -1061,7 +1061,7 @@
                         "nodeType": "narrative"
                     },
                     "node_T6L1_Glyph": {
-                        "clientInfoId": "DebugGlyph",
+                        "clientInfoId": "RedGlyph",
                         "coordinates": {
                             "x": 815,
                             "y": 455
@@ -1074,11 +1074,11 @@
                         ],
                         "nodeType": "quest:contextual",
                         "objectives": {
-                            "DebugGlyph": {
+                            "RedGlyph": {
                                 "conditions": [],
                                 "incrementWithEventRepetitions": true,
                                 "neededProgression": 3,
-                                "objectiveId": "DebugGlyph",
+                                "objectiveId": "RedGlyph",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -2136,7 +2136,7 @@
                         "nodeType": "narrative"
                     },
                     "node_T6L2_Glyph": {
-                        "clientInfoId": "DebugGlyph",
+                        "clientInfoId": "RedGlyph",
                         "coordinates": {
                             "x": 725,
                             "y": 455
@@ -2148,11 +2148,11 @@
                         ],
                         "nodeType": "quest:contextual",
                         "objectives": {
-                            "DebugGlyph": {
+                            "RedGlyph": {
                                 "conditions": [],
                                 "incrementWithEventRepetitions": true,
                                 "neededProgression": 4,
-                                "objectiveId": "DebugGlyph",
+                                "objectiveId": "RedGlyph",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -3227,7 +3227,7 @@
                         "nodeType": "narrative"
                     },
                     "node_T6L3_Glyph": {
-                        "clientInfoId": "DebugGlyph",
+                        "clientInfoId": "RedGlyoh",
                         "coordinates": {
                             "x": 365,
                             "y": 305
@@ -3238,11 +3238,11 @@
                         ],
                         "nodeType": "quest:contextual",
                         "objectives": {
-                            "DebugGlyph": {
+                            "RedGlyph": {
                                 "conditions": [],
                                 "incrementWithEventRepetitions": true,
                                 "neededProgression": 5,
-                                "objectiveId": "DebugGlyph",
+                                "objectiveId": "RedGlyph",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -4268,7 +4268,7 @@
                         "nodeType": "narrative"
                     },
                     "node_T6L4_Glyph": {
-                        "clientInfoId": "DebugGlyph",
+                        "clientInfoId": "RedGlyph",
                         "coordinates": {
                             "x": 725,
                             "y": 155
@@ -4280,11 +4280,11 @@
                         ],
                         "nodeType": "quest:contextual",
                         "objectives": {
-                            "DebugGlyph": {
+                            "RedGlyph": {
                                 "conditions": [],
                                 "incrementWithEventRepetitions": true,
                                 "neededProgression": 6,
-                                "objectiveId": "DebugGlyph",
+                                "objectiveId": "RedGlyph",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -4337,101 +4337,9 @@
                         "type": "progressionDbD"
                     }
                 ]
-            },
-            {
-                "challengeRewards": [
-                    {
-                        "amount": 0,
-                        "id": "star",
-                        "type": "progressionDbD"
-                    }
-                ],
-                "end": [
-                    "node_T6L5_End01"
-                ],
-                "endNodeRewards": [
-                    {
-                        "amount": 10,
-                        "id": "star",
-                        "type": "progressionDbD"
-                    },
-                    {
-                        "amount": 1,
-                        "id": "ZA_001",
-                        "type": "inventory"
-                    }
-                ],
-                "nodes": {
-                    "node_T6L5_End01": {
-                        "clientInfoId": "End",
-                        "coordinates": {
-                            "x": 1175,
-                            "y": 455
-                        },
-                        "neighbors": [
-                            "node_T6L5_Glyph"
-                        ],
-                        "nodeType": "narrative"
-                    },
-                    "node_T6L5_Glyph": {
-                        "clientInfoId": "DebugGlyph",
-                        "coordinates": {
-                            "x": 365,
-                            "y": 305
-                        },
-                        "neighbors": [
-                            "node_T6L5_Start01",
-                            "node_T6L5_End01"
-                        ],
-                        "nodeType": "quest:contextual",
-                        "objectives": {
-                            "DebugGlyph": {
-                                "conditions": [],
-                                "incrementWithEventRepetitions": true,
-                                "neededProgression": 5,
-                                "objectiveId": "DebugGlyph",
-                                "questEvent": [
-                                    {
-                                        "operation": ">=",
-                                        "parameters": "instigator:me",
-                                        "questEventId": "QuestEvent.RedGlyph",
-                                        "repetition": 1
-                                    }
-                                ],
-                                "specialBehaviours": [
-                                    {
-                                        "id": "RedGlyph"
-                                    }
-                                ]
-                            }
-                        }
-                    },
-                    "node_T6L5_Start01": {
-                        "clientInfoId": "Start",
-                        "coordinates": {
-                            "x": 95,
-                            "y": 305
-                        },
-                        "neighbors": [
-                            "node_T6L5_Glyph"
-                        ],
-                        "nodeType": "narrative"
-                    }
-                },
-                "start": [
-                    "node_T6L5_Start01"
-                ],
-                "startDate": "2020-10-05T00:00:00",
-                "taskRewards": [
-                    {
-                        "amount": 0,
-                        "id": "star",
-                        "type": "progressionDbD"
-                    }
-                ]
             }
         ],
         "rewardData": "Tome06",
-        "version": 125
+        "version": 126
     }
 }

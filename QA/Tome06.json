@@ -1061,7 +1061,7 @@
                         "nodeType": "narrative"
                     },
                     "node_T6L1_Glyph": {
-                        "clientInfoId": "DebugGlyph",
+                        "clientInfoId": "RedGlyph",
                         "coordinates": {
                             "x": 815,
                             "y": 455
@@ -1074,11 +1074,11 @@
                         ],
                         "nodeType": "quest:contextual",
                         "objectives": {
-                            "DebugGlyph": {
+                            "RedGlyph": {
                                 "conditions": [],
                                 "incrementWithEventRepetitions": true,
                                 "neededProgression": 3,
-                                "objectiveId": "DebugGlyph",
+                                "objectiveId": "RedGlyph",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -2136,7 +2136,7 @@
                         "nodeType": "narrative"
                     },
                     "node_T6L2_Glyph": {
-                        "clientInfoId": "DebugGlyph",
+                        "clientInfoId": "RedGlyph",
                         "coordinates": {
                             "x": 725,
                             "y": 455
@@ -2148,11 +2148,11 @@
                         ],
                         "nodeType": "quest:contextual",
                         "objectives": {
-                            "DebugGlyph": {
+                            "RedGlyph": {
                                 "conditions": [],
                                 "incrementWithEventRepetitions": true,
                                 "neededProgression": 4,
-                                "objectiveId": "DebugGlyph",
+                                "objectiveId": "RedGlyph",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -3227,7 +3227,7 @@
                         "nodeType": "narrative"
                     },
                     "node_T6L3_Glyph": {
-                        "clientInfoId": "DebugGlyph",
+                        "clientInfoId": "RedGlyoh",
                         "coordinates": {
                             "x": 365,
                             "y": 305
@@ -3238,11 +3238,11 @@
                         ],
                         "nodeType": "quest:contextual",
                         "objectives": {
-                            "DebugGlyph": {
+                            "RedGlyph": {
                                 "conditions": [],
                                 "incrementWithEventRepetitions": true,
                                 "neededProgression": 5,
-                                "objectiveId": "DebugGlyph",
+                                "objectiveId": "RedGlyph",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -4268,7 +4268,7 @@
                         "nodeType": "narrative"
                     },
                     "node_T6L4_Glyph": {
-                        "clientInfoId": "DebugGlyph",
+                        "clientInfoId": "RedGlyph",
                         "coordinates": {
                             "x": 725,
                             "y": 155
@@ -4280,11 +4280,11 @@
                         ],
                         "nodeType": "quest:contextual",
                         "objectives": {
-                            "DebugGlyph": {
+                            "RedGlyph": {
                                 "conditions": [],
                                 "incrementWithEventRepetitions": true,
                                 "neededProgression": 6,
-                                "objectiveId": "DebugGlyph",
+                                "objectiveId": "RedGlyph",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -4340,6 +4340,6 @@
             }
         ],
         "rewardData": "Tome06",
-        "version": 5
+        "version": 6
     }
 }
