@@ -3047,15 +3047,21 @@
         },
         {
             "id": "FM_outfit_010",
-            "defaultCost": [],
+            "defaultCost": [
+                {
+                    "currencyId": "Shards",
+                    "price": 21500,
+                    "discountPercentage": 0
+                }
+            ],
             "character": "Feng",
             "storeItems": [
                 "FM_Head010",
                 "FM_Torso010",
                 "FM_Legs010"
             ],
-            "newStartDate": "2018-06-12T00:00:00",
-            "newEndDate": "2018-06-25T23:59:59"
+            "newStartDate": "2020-12-14T16:00:00",
+            "newEndDate": "2020-12-28T15:59:59"
         },
         {
             "id": "FM_outfit_011",
@@ -7924,15 +7930,21 @@
         },
         {
             "id": "GK_outfit_010",
-            "defaultCost": [],
+            "defaultCost": [
+                {
+                    "currencyId": "Shards",
+                    "price": 21500,
+                    "discountPercentage": 0
+                }
+            ],
             "character": "Clown",
             "storeItems": [
                 "GK_Head010",
                 "GK_Body010",
                 "GK_W010"
             ],
-            "newStartDate": "2018-06-12T00:00:00",
-            "newEndDate": "2018-06-25T23:59:59"
+            "newStartDate": "2020-12-14T16:00:00",
+            "newEndDate": "2020-12-28T15:59:59"
         },
         {
             "id": "GK_outfit_02_03",

@@ -23374,10 +23374,6 @@
         "consumptionObjectList": [],
         "defaultCost": [
             {
-                "currencyId": "Cells",
-                "price": 400
-            },
-            {
                 "currencyId": "Shards",
                 "price": 7200
             }
@@ -23389,8 +23385,8 @@
             "base_itemId": "FM_Head010",
             "character": "Feng",
             "kind": "Customization",
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2020-12-28T15:59:59",
+            "newStartDate": "2020-12-14T16:00:00",
             "outfitId": "FM_outfit_010",
             "quality": "V0",
             "qualityName": "quality1",
@@ -23412,7 +23408,7 @@
         },
         "nonSecure": false,
         "premium": false,
-        "purchasable": false,
+        "purchasable": true,
         "unique": true
     },
     {
@@ -23424,12 +23420,8 @@
         "consumptionObjectList": [],
         "defaultCost": [
             {
-                "currencyId": "Cells",
-                "price": 400
-            },
-            {
                 "currencyId": "Shards",
-                "price": 7200
+                "price": 7150
             }
         ],
         "eventCostList": [],
@@ -23439,8 +23431,8 @@
             "base_itemId": "FM_Torso010",
             "character": "Feng",
             "kind": "Customization",
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2020-12-28T15:59:59",
+            "newStartDate": "2020-12-14T16:00:00",
             "outfitId": "FM_outfit_010",
             "quality": "V0",
             "qualityName": "quality1",
@@ -23462,7 +23454,7 @@
         },
         "nonSecure": false,
         "premium": false,
-        "purchasable": false,
+        "purchasable": true,
         "unique": true
     },
     {
@@ -23474,12 +23466,8 @@
         "consumptionObjectList": [],
         "defaultCost": [
             {
-                "currencyId": "Cells",
-                "price": 400
-            },
-            {
                 "currencyId": "Shards",
-                "price": 7200
+                "price": 7150
             }
         ],
         "eventCostList": [],
@@ -23489,8 +23477,8 @@
             "base_itemId": "FM_Legs010",
             "character": "Feng",
             "kind": "Customization",
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2020-12-28T15:59:59",
+            "newStartDate": "2020-12-14T16:00:00",
             "outfitId": "FM_outfit_010",
             "quality": "V0",
             "qualityName": "quality1",
@@ -23512,7 +23500,7 @@
         },
         "nonSecure": false,
         "premium": false,
-        "purchasable": false,
+        "purchasable": true,
         "unique": true
     },
     {
@@ -58927,10 +58915,6 @@
         "consumptionObjectList": [],
         "defaultCost": [
             {
-                "currencyId": "Cells",
-                "price": 400
-            },
-            {
                 "currencyId": "Shards",
                 "price": 7200
             }
@@ -58942,8 +58926,8 @@
             "base_itemId": "GK_Head010",
             "character": "Clown",
             "kind": "Customization",
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2020-12-28T15:59:59",
+            "newStartDate": "2020-12-14T16:00:00",
             "outfitId": "GK_outfit_010",
             "quality": "V0",
             "qualityName": "quality1",
@@ -58965,7 +58949,7 @@
         },
         "nonSecure": false,
         "premium": false,
-        "purchasable": false,
+        "purchasable": true,
         "unique": true
     },
     {
@@ -58977,12 +58961,8 @@
         "consumptionObjectList": [],
         "defaultCost": [
             {
-                "currencyId": "Cells",
-                "price": 400
-            },
-            {
                 "currencyId": "Shards",
-                "price": 7200
+                "price": 7150
             }
         ],
         "eventCostList": [],
@@ -58992,8 +58972,8 @@
             "base_itemId": "GK_Body010",
             "character": "Clown",
             "kind": "Customization",
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2020-12-28T15:59:59",
+            "newStartDate": "2020-12-14T16:00:00",
             "outfitId": "GK_outfit_010",
             "quality": "V0",
             "qualityName": "quality1",
@@ -59015,7 +58995,7 @@
         },
         "nonSecure": false,
         "premium": false,
-        "purchasable": false,
+        "purchasable": true,
         "unique": true
     },
     {
@@ -59027,12 +59007,8 @@
         "consumptionObjectList": [],
         "defaultCost": [
             {
-                "currencyId": "Cells",
-                "price": 400
-            },
-            {
                 "currencyId": "Shards",
-                "price": 7200
+                "price": 7150
             }
         ],
         "eventCostList": [],
@@ -59042,8 +59018,8 @@
             "base_itemId": "GK_W010",
             "character": "Clown",
             "kind": "Customization",
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2020-12-28T15:59:59",
+            "newStartDate": "2020-12-14T16:00:00",
             "outfitId": "GK_outfit_010",
             "quality": "V0",
             "qualityName": "quality1",
@@ -59065,7 +59041,7 @@
         },
         "nonSecure": false,
         "premium": false,
-        "purchasable": false,
+        "purchasable": true,
         "unique": true
     },
     {
@@ -96997,8 +96973,8 @@
                 "FM_Torso010",
                 "FM_Legs010"
             ],
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2020-12-28T15:59:59",
+            "newStartDate": "2020-12-14T16:00:00",
             "temporaryDiscounts": [
                 {
                     "currencyId": "Cells",
@@ -97010,7 +96986,7 @@
             "unbreakable": false
         },
         "nonSecure": false,
-        "purchasable": false,
+        "purchasable": true,
         "unique": true
     },
     {
@@ -103960,8 +103936,8 @@
                 "GK_Body010",
                 "GK_W010"
             ],
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2020-12-28T15:59:59",
+            "newStartDate": "2020-12-14T16:00:00",
             "temporaryDiscounts": [
                 {
                     "currencyId": "Cells",
@@ -103973,7 +103949,7 @@
             "unbreakable": false
         },
         "nonSecure": false,
-        "purchasable": false,
+        "purchasable": true,
         "unique": true
     },
     {
