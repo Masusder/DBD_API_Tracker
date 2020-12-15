@@ -1,7 +1,7 @@
 {
     "items": [
         {
-            "id": "Bamboozle",
+            "id": "SoleSurvivor",
             "bloodpointValue": 150000,
             "experienceValue": 150000,
             "unique": false,
@@ -15,7 +15,7 @@
             ]
         },
         {
-            "id": "Botany_Knowledge",
+            "id": "SpiritFury",
             "bloodpointValue": 150000,
             "experienceValue": 150000,
             "unique": false,
@@ -29,7 +29,7 @@
             ]
         },
         {
-            "id": "CruelConfinement",
+            "id": "Up_The_Ante",
             "bloodpointValue": 150000,
             "experienceValue": 150000,
             "unique": false,
@@ -43,7 +43,7 @@
             ]
         },
         {
-            "id": "Technician",
+            "id": "pop_goes_the_weasel",
             "bloodpointValue": 150000,
             "experienceValue": 150000,
             "unique": false,
@@ -57,7 +57,7 @@
             ]
         }
     ],
-    "startDate": "2020-11-25T00:00:00",
-    "endDate": "2020-12-01T23:59:59",
-    "week": 215
+    "startDate": "2020-12-09T00:00:00",
+    "endDate": "2020-12-15T23:59:59",
+    "week": 217
 }

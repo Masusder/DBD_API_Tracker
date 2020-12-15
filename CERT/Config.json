@@ -298,6 +298,7 @@
         "value": {
             "DeltaDnaEngageAddress": "https://engage14352dbdmb.deltadna.net/86609193614997436569595476515429",
             "DeltaDnaAnalytics": "https://collect14352dbdmb.deltadna.net/collect/api/86609193614997436569595476515429",
+            "KrakenAnalyticsV2": "https://latest.ptb.bhvrdbd.com/api/v1/gameDataAnalytics/v2/batch",
             "KrakenAnalytics": "https://latest.cert.bhvrdbd.com/api/v1/gameDataAnalytics/batch",
             "KrakenLogs": "https://latest.cert.bhvrdbd.com/api/v1/gameLogs/batch"
         },
