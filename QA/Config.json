@@ -305,6 +305,7 @@
         "value": {
             "DeltaDnaEngageAddress": "https://engage14352dbdmb.deltadna.net/86609193614997436569595476515429",
             "DeltaDnaAnalytics": "https://collect14352dbdmb.deltadna.net/collect/api/86609193614997436569595476515429",
+            "KrakenAnalyticsV2": "https://latest.qa.bhvrdbd.com/api/v1/gameDataAnalytics/v2/batch",
             "KrakenAnalytics": "https://latest.qa.bhvrdbd.com/api/v1/gameDataAnalytics/batch",
             "KrakenLogs": "https://latest.qa.bhvrdbd.com/api/v1/gameLogs/batch"
         },
@@ -647,6 +648,7 @@
             "4.4.0_378185qa": "4.4.0_378185qa-1607726624",
             "4.4.0_378316qa": "4.4.0_378316qa-1607957110",
             "4.4.0_378378qa": "4.4.0_378378qa-1607962214",
+            "4.4.0_379270qa": "4.4.0_379270qa-1608073015",
             "edule_3.4.0_0qa": "edule_3.4.0_0qa-1576698389",
             "m_3.0.2_220683qa": "m_3.0.2_220683qa-1566333505",
             "m_3.0.3_240244qa": "m_3.0.3_240244qa-1572275329",
@@ -824,7 +826,8 @@
             "m_3.7.3_377611qa": "m_3.7.3_377611qa-1607632260",
             "m_3.7.3_378185qa": "m_3.7.3_378185qa-1607729473",
             "m_3.7.3_378316qa": "m_3.7.3_378316qa-1607959934",
-            "m_3.7.3_378378qa": "m_3.7.3_378378qa-1607963501"
+            "m_3.7.3_378378qa": "m_3.7.3_378378qa-1607963501",
+            "m_3.7.3_379270qa": "m_3.7.3_379270qa-1608075087"
         },
         "keyName": "VER_CLIENT_DATA"
     },
