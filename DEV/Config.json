@@ -330,6 +330,7 @@
         "value": {
             "DeltaDnaEngageAddress": "https://engage14352dbdmb.deltadna.net/86609193614997436569595476515429",
             "DeltaDnaAnalytics": "https://collect14352dbdmb.deltadna.net/collect/api/86609193614997436569595476515429",
+            "KrakenAnalyticsV2": "https://latest.dev.bhvrdbd.com/api/v1/gameDataAnalytics/v2/batch",
             "KrakenAnalytics": "https://latest.dev.bhvrdbd.com/api/v1/gameDataAnalytics/batch",
             "KrakenLogs": "https://latest.dev.bhvrdbd.com/api/v1/gameLogs/batch"
         },
@@ -953,6 +954,9 @@
             "4.5.0_378108dev": "4.5.0_378108dev-1607718260",
             "4.5.0_378185dev": "4.5.0_378185dev-1607726278",
             "4.5.0_378378dev": "4.5.0_378378dev-1607962381",
+            "4.5.0_379270dev": "4.5.0_379270dev-1608072822",
+            "4.5.0_379532dev": "4.5.0_379532dev-1608136581",
+            "4.5.0_379704dev": "4.5.0_379704dev-1608146618",
             "build_dbd_3.6.0_0dev": "build_dbd_3.6.0_0dev-1582846204",
             "build_dbd_m_3.6.0_0dev": "build_dbd_m_3.6.0_0dev-1582905148",
             "cbessette_3.5.0_0dev": "cbessette_3.5.0_0dev-1581089605",
@@ -1163,6 +1167,9 @@
             "m_4.3.2_377394dev": "m_4.3.2_377394dev-1607615582",
             "m_4.3.2_378185dev": "m_4.3.2_378185dev-1607726442",
             "m_4.3.2_378411dev": "m_4.3.2_378411dev-1607964409",
+            "m_4.3.2_379270dev": "m_4.3.2_379270dev-1608075555",
+            "m_4.3.2_379532dev": "m_4.3.2_379532dev-1608136800",
+            "m_4.3.2_379704dev": "m_4.3.2_379704dev-1608146795",
             "mcharron_3.4.0_0dev": "mcharron_3.4.0_0dev-1575325513",
             "mcharron_3.6.0_0dev": "mcharron_3.6.0_0dev-1582911097",
             "ofilippelli_3.4.0_0dev": "ofilippelli_3.4.0_0dev-1576612449",
