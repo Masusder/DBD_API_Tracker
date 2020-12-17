@@ -436,7 +436,6 @@
                                 "questEvent": [
                                     {
                                         "operation": ">=",
-                                        "parameters": "instigator:me",
                                         "questEventId": "QuestEvent.Sacrifice",
                                         "repetition": 1
                                     }
@@ -633,9 +632,9 @@
                                 "questEvent": [
                                     {
                                         "operation": ">=",
-                                        "parameters": "instigator:me",
+                                        "parameters": "instigator:me;TimeLimit:5",
                                         "questEventId": "QuestEvent.HideInLockerInOrAfterChase",
-                                        "repetition": 2
+                                        "repetition": 1
                                     }
                                 ]
                             }
@@ -848,7 +847,6 @@
                                 "questEvent": [
                                     {
                                         "operation": ">=",
-                                        "parameters": "instigator:me",
                                         "questEventId": "QuestEvent.Down",
                                         "repetition": 6
                                     }
@@ -1293,8 +1291,8 @@
                                 "questEvent": [
                                     {
                                         "operation": ">=",
-                                        "parameters": "instigator:me",
-                                        "questEventId": "QuestEvent.HealDying",
+                                        "parameters": "instigator:me;target:other",
+                                        "questEventId": "QuestEvent.Heal",
                                         "repetition": 1
                                     }
                                 ]
@@ -1578,7 +1576,6 @@
                                 "questEvent": [
                                     {
                                         "operation": ">=",
-                                        "parameters": "instigator:me",
                                         "questEventId": "QuestEvent.Kill",
                                         "repetition": 1
                                     }
@@ -2605,7 +2602,6 @@
                                 "questEvent": [
                                     {
                                         "operation": ">=",
-                                        "parameters": "instigator:me",
                                         "questEventId": "QuestEvent.Sacrifice",
                                         "repetition": 1
                                     }
@@ -3441,13 +3437,13 @@
                                     }
                                 ],
                                 "incrementWithEventRepetitions": true,
-                                "neededProgression": 1200,
+                                "neededProgression": 1500,
                                 "objectiveId": "HealOtherPerc",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
-                                        "parameters": "instigator:me",
-                                        "questEventId": "QuestEvent.HealDying",
+                                        "parameters": "instigator:me;target:other",
+                                        "questEventId": "QuestEvent.Heal",
                                         "repetition": 1
                                     }
                                 ]
@@ -3730,7 +3726,6 @@
                                 "questEvent": [
                                     {
                                         "operation": ">=",
-                                        "parameters": "instigator:me",
                                         "questEventId": "QuestEvent.Kill",
                                         "repetition": 1
                                     }
@@ -4187,7 +4182,6 @@
                                 "questEvent": [
                                     {
                                         "operation": ">=",
-                                        "parameters": "instigator:me",
                                         "questEventId": "QuestEvent.Down",
                                         "repetition": 1
                                     }
@@ -4340,6 +4334,6 @@
             }
         ],
         "rewardData": "Tome06",
-        "version": 126
+        "version": 127
     }
 }
