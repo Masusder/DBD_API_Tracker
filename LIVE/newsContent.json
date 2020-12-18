@@ -12,6 +12,29 @@
                 "xsx",
                 "ps5"
             ],
+            "description": "Due to a bug found with the &#34;Buried Underground&#34; challenge in Tome 5 Level 4&#44; we have replaced it with &#34;Gruesome&#34; &#40;Hook 20 Survivors&#41;",
+            "dwnImagePath": "",
+            "imageHeight": "",
+            "imagePath": "",
+            "isHidden": false,
+            "startDate": "2020-12-18T15:00:00",
+            "title": "TOME 5 UPDATE",
+            "type": 4,
+            "version": "4.4.2",
+            "weight": 960.0
+        },
+        {
+            "": "",
+            "contentTags": [
+                "steam",
+                "xbox",
+                "ps4",
+                "switch",
+                "grdk",
+                "stadia",
+                "xsx",
+                "ps5"
+            ],
             "description": "The game client has been updated to the 4.4.2 bugfix.<br/><br/><span class=\"Heading2\">BUG FIXES</span><li>Fixed an issue on multiple maps&#44; where there are tiles with extremely bright lighting in various colors</li><li>Fixed an issue that caused the Flashlight to work inconsistently over pallets and other objects in the environment</li><li>Fixed an issue that caused Barbecue &#38; Chili&#39;s bonus bloodpoints not to be granted when controlling Victor when the game ends</li><li>Fixed an issue that caused the Twins not to recover their add&#45;ons when using the Black Ward offering and controlling Victor when the game ends</li><li>Fixed an issue that caused the cooldown animation to loop after returning to Charlotte</li><li>Fixed an issue that caused Victor to float off Charlotte&#39;s body after respawning</li><li>Fixed an issue that caused Victor and Charlotte to be able to block off exit gate by standing in front of it</li><br/><br/><span class=\"Heading2\">BALANCE</span><li>Victor can now be recalled after being detached from Charlotte for 30 seconds &#40;down from 45&#41;</li><br/><br/>Please click <a href=\"event:https://forum.deadbydaylight.com/en/kb/patchnotes\"><font color=\"#ff0000\"><u>HERE</u></font></a> for full patch notes.",
             "dwnImagePath": "",
             "imageHeight": "",
