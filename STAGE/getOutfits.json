@@ -414,13 +414,7 @@
         },
         {
             "id": "DF_outfit_001_03",
-            "defaultCost": [
-                {
-                    "currencyId": "Cells",
-                    "price": 675,
-                    "discountPercentage": 0.1
-                }
-            ],
+            "defaultCost": [],
             "character": "Dwight",
             "storeItems": [
                 "DF_Head001_03",
@@ -455,18 +449,7 @@
         },
         {
             "id": "DF_outfit_012",
-            "defaultCost": [
-                {
-                    "currencyId": "Cells",
-                    "price": 675,
-                    "discountPercentage": 0.1
-                },
-                {
-                    "currencyId": "Shards",
-                    "price": 13500,
-                    "discountPercentage": 0
-                }
-            ],
+            "defaultCost": [],
             "character": "Dwight",
             "storeItems": [
                 "DF_Head012",
@@ -926,13 +909,7 @@
         },
         {
             "id": "MT_outfit_004_03",
-            "defaultCost": [
-                {
-                    "currencyId": "Cells",
-                    "price": 675,
-                    "discountPercentage": 0.1
-                }
-            ],
+            "defaultCost": [],
             "character": "Meg",
             "storeItems": [
                 "MT_Head004_03",
@@ -1451,18 +1428,7 @@
         },
         {
             "id": "CM_outfit_010_01",
-            "defaultCost": [
-                {
-                    "currencyId": "Cells",
-                    "price": 1080,
-                    "discountPercentage": 0.1
-                },
-                {
-                    "currencyId": "Shards",
-                    "price": 21600,
-                    "discountPercentage": 0
-                }
-            ],
+            "defaultCost": [],
             "character": "Claudette",
             "storeItems": [
                 "CM_Head010_01",
@@ -1858,18 +1824,7 @@
         },
         {
             "id": "JP_outfit_012",
-            "defaultCost": [
-                {
-                    "currencyId": "Cells",
-                    "price": 1080,
-                    "discountPercentage": 0.1
-                },
-                {
-                    "currencyId": "Shards",
-                    "price": 21600,
-                    "discountPercentage": 0
-                }
-            ],
+            "defaultCost": [],
             "character": "Jake",
             "storeItems": [
                 "JP_Head012",
@@ -2708,18 +2663,7 @@
         },
         {
             "id": "DK_outfit_010",
-            "defaultCost": [
-                {
-                    "currencyId": "Cells",
-                    "price": 1080,
-                    "discountPercentage": 0.1
-                },
-                {
-                    "currencyId": "Shards",
-                    "price": 21600,
-                    "discountPercentage": 0
-                }
-            ],
+            "defaultCost": [],
             "character": "Smoke",
             "storeItems": [
                 "DK_Head010",
@@ -3174,18 +3118,7 @@
         },
         {
             "id": "FM_outfit_01_04",
-            "defaultCost": [
-                {
-                    "currencyId": "Cells",
-                    "price": 675,
-                    "discountPercentage": 0.1
-                },
-                {
-                    "currencyId": "Shards",
-                    "price": 13500,
-                    "discountPercentage": 0
-                }
-            ],
+            "defaultCost": [],
             "character": "Feng",
             "storeItems": [
                 "FM_Head01_04",
@@ -3919,18 +3852,7 @@
         },
         {
             "id": "GS_outfit_02_02",
-            "defaultCost": [
-                {
-                    "currencyId": "Cells",
-                    "price": 675,
-                    "discountPercentage": 0.1
-                },
-                {
-                    "currencyId": "Shards",
-                    "price": 13500,
-                    "discountPercentage": 0
-                }
-            ],
+            "defaultCost": [],
             "character": "Kate",
             "storeItems": [
                 "GS_Head02_02",
@@ -3965,18 +3887,7 @@
         },
         {
             "id": "GS_outfit_012",
-            "defaultCost": [
-                {
-                    "currencyId": "Cells",
-                    "price": 1080,
-                    "discountPercentage": 0.1
-                },
-                {
-                    "currencyId": "Shards",
-                    "price": 21600,
-                    "discountPercentage": 0
-                }
-            ],
+            "defaultCost": [],
             "character": "Kate",
             "storeItems": [
                 "GS_Head012",
@@ -4246,18 +4157,7 @@
         },
         {
             "id": "HS_outfit_02_01",
-            "defaultCost": [
-                {
-                    "currencyId": "Cells",
-                    "price": 675,
-                    "discountPercentage": 0.1
-                },
-                {
-                    "currencyId": "Shards",
-                    "price": 13500,
-                    "discountPercentage": 0
-                }
-            ],
+            "defaultCost": [],
             "character": "Adam",
             "storeItems": [
                 "HS_Head02_01",
@@ -4849,18 +4749,7 @@
         },
         {
             "id": "MS_outfit_011",
-            "defaultCost": [
-                {
-                    "currencyId": "Cells",
-                    "price": 675,
-                    "discountPercentage": 0.1
-                },
-                {
-                    "currencyId": "Shards",
-                    "price": 13500,
-                    "discountPercentage": 0
-                }
-            ],
+            "defaultCost": [],
             "character": "Jane",
             "storeItems": [
                 "MS_Head011",
@@ -5318,18 +5207,7 @@
         },
         {
             "id": "SwedenSurvivor_outfit_010",
-            "defaultCost": [
-                {
-                    "currencyId": "Cells",
-                    "price": 1080,
-                    "discountPercentage": 0.1
-                },
-                {
-                    "currencyId": "Shards",
-                    "price": 21600,
-                    "discountPercentage": 0
-                }
-            ],
+            "defaultCost": [],
             "character": "Yui",
             "storeItems": [
                 "SwedenSurvivor_Head010",
@@ -6565,13 +6443,7 @@
         },
         {
             "id": "TC_outfit_05_03",
-            "defaultCost": [
-                {
-                    "currencyId": "Cells",
-                    "price": 1080,
-                    "discountPercentage": 0.1
-                }
-            ],
+            "defaultCost": [],
             "character": "HillBilly",
             "storeItems": [
                 "TC_Torso05_03",
@@ -7282,13 +7154,7 @@
         },
         {
             "id": "WI_outfit_03_01",
-            "defaultCost": [
-                {
-                    "currencyId": "Cells",
-                    "price": 720,
-                    "discountPercentage": 0.1
-                }
-            ],
+            "defaultCost": [],
             "character": "Witch",
             "storeItems": [
                 "WI_Body03_01",
@@ -7299,18 +7165,7 @@
         },
         {
             "id": "WI_outfit_04_01",
-            "defaultCost": [
-                {
-                    "currencyId": "Cells",
-                    "price": 1080,
-                    "discountPercentage": 0.1
-                },
-                {
-                    "currencyId": "Shards",
-                    "price": 21600,
-                    "discountPercentage": 0
-                }
-            ],
+            "defaultCost": [],
             "character": "Witch",
             "storeItems": [
                 "WI_Head04_01",
@@ -7667,18 +7522,7 @@
         },
         {
             "id": "DO_outfit_010",
-            "defaultCost": [
-                {
-                    "currencyId": "Cells",
-                    "price": 675,
-                    "discountPercentage": 0.1
-                },
-                {
-                    "currencyId": "Shards",
-                    "price": 13500,
-                    "discountPercentage": 0
-                }
-            ],
+            "defaultCost": [],
             "character": "Killer07",
             "storeItems": [
                 "DO_Head010",
@@ -7898,18 +7742,7 @@
         },
         {
             "id": "BE_outfit_011",
-            "defaultCost": [
-                {
-                    "currencyId": "Cells",
-                    "price": 1080,
-                    "discountPercentage": 0.1
-                },
-                {
-                    "currencyId": "Shards",
-                    "price": 21600,
-                    "discountPercentage": 0
-                }
-            ],
+            "defaultCost": [],
             "character": "Bear",
             "storeItems": [
                 "BE_Mask011",
@@ -8139,18 +7972,7 @@
         },
         {
             "id": "GK_outfit_02_03",
-            "defaultCost": [
-                {
-                    "currencyId": "Cells",
-                    "price": 1080,
-                    "discountPercentage": 0.1
-                },
-                {
-                    "currencyId": "Shards",
-                    "price": 21600,
-                    "discountPercentage": 0
-                }
-            ],
+            "defaultCost": [],
             "character": "Clown",
             "storeItems": [
                 "GK_Head02_03",
@@ -8474,18 +8296,7 @@
         },
         {
             "id": "HK_outfit_009",
-            "defaultCost": [
-                {
-                    "currencyId": "Cells",
-                    "price": 1080,
-                    "discountPercentage": 0.1
-                },
-                {
-                    "currencyId": "Shards",
-                    "price": 21600,
-                    "discountPercentage": 0
-                }
-            ],
+            "defaultCost": [],
             "character": "Spirit",
             "storeItems": [
                 "HK_Head009",
@@ -8520,18 +8331,7 @@
         },
         {
             "id": "HK_outfit_01_05",
-            "defaultCost": [
-                {
-                    "currencyId": "Cells",
-                    "price": 675,
-                    "discountPercentage": 0.1
-                },
-                {
-                    "currencyId": "Shards",
-                    "price": 13500,
-                    "discountPercentage": 0
-                }
-            ],
+            "defaultCost": [],
             "character": "Spirit",
             "storeItems": [
                 "HK_Head01_05",
@@ -8822,18 +8622,7 @@
         },
         {
             "id": "KK_outfit_015",
-            "defaultCost": [
-                {
-                    "currencyId": "Cells",
-                    "price": 675,
-                    "discountPercentage": 0.1
-                },
-                {
-                    "currencyId": "Shards",
-                    "price": 13500,
-                    "discountPercentage": 0
-                }
-            ],
+            "defaultCost": [],
             "character": "Legion",
             "storeItems": [
                 "KK_Head015",
@@ -9206,18 +8995,7 @@
         },
         {
             "id": "MK_outfit_007_01",
-            "defaultCost": [
-                {
-                    "currencyId": "Cells",
-                    "price": 1080,
-                    "discountPercentage": 0.1
-                },
-                {
-                    "currencyId": "Shards",
-                    "price": 21600,
-                    "discountPercentage": 0
-                }
-            ],
+            "defaultCost": [],
             "character": "Plague",
             "storeItems": [
                 "MK_Mask007_01",
@@ -10071,18 +9849,7 @@
         },
         {
             "id": "SwedenKiller_outfit_02_02",
-            "defaultCost": [
-                {
-                    "currencyId": "Cells",
-                    "price": 675,
-                    "discountPercentage": 0.1
-                },
-                {
-                    "currencyId": "Shards",
-                    "price": 13500,
-                    "discountPercentage": 0
-                }
-            ],
+            "defaultCost": [],
             "character": "Oni",
             "storeItems": [
                 "SwedenKiller_Mask02_02",
@@ -10094,18 +9861,7 @@
         },
         {
             "id": "TR_outfit_09_02",
-            "defaultCost": [
-                {
-                    "currencyId": "Cells",
-                    "price": 1080,
-                    "discountPercentage": 0.1
-                },
-                {
-                    "currencyId": "Shards",
-                    "price": 21600,
-                    "discountPercentage": 0
-                }
-            ],
+            "defaultCost": [],
             "character": "Chuckles",
             "storeItems": [
                 "TR_Mask09_02",
@@ -10117,18 +9873,7 @@
         },
         {
             "id": "JP_outfit_001_01",
-            "defaultCost": [
-                {
-                    "currencyId": "Cells",
-                    "price": 675,
-                    "discountPercentage": 0.1
-                },
-                {
-                    "currencyId": "Shards",
-                    "price": 13500,
-                    "discountPercentage": 0
-                }
-            ],
+            "defaultCost": [],
             "character": "Jake",
             "storeItems": [
                 "JP_Head001_01",
@@ -10140,18 +9885,7 @@
         },
         {
             "id": "MT_outfit_013",
-            "defaultCost": [
-                {
-                    "currencyId": "Cells",
-                    "price": 1080,
-                    "discountPercentage": 0.1
-                },
-                {
-                    "currencyId": "Shards",
-                    "price": 21600,
-                    "discountPercentage": 0
-                }
-            ],
+            "defaultCost": [],
             "character": "Meg",
             "storeItems": [
                 "MT_Head013",
@@ -10163,18 +9897,7 @@
         },
         {
             "id": "AV_outfit_011",
-            "defaultCost": [
-                {
-                    "currencyId": "Cells",
-                    "price": 675,
-                    "discountPercentage": 0.1
-                },
-                {
-                    "currencyId": "Shards",
-                    "price": 13500,
-                    "discountPercentage": 0
-                }
-            ],
+            "defaultCost": [],
             "character": "Ace",
             "storeItems": [
                 "AV_Head011",
@@ -10186,18 +9909,7 @@
         },
         {
             "id": "TW_outfit_012",
-            "defaultCost": [
-                {
-                    "currencyId": "Cells",
-                    "price": 1080,
-                    "discountPercentage": 0.1
-                },
-                {
-                    "currencyId": "Shards",
-                    "price": 21600,
-                    "discountPercentage": 0
-                }
-            ],
+            "defaultCost": [],
             "character": "Bob",
             "storeItems": [
                 "TW_Head012",
@@ -10209,18 +9921,7 @@
         },
         {
             "id": "WI_outfit_009",
-            "defaultCost": [
-                {
-                    "currencyId": "Cells",
-                    "price": 675,
-                    "discountPercentage": 0.1
-                },
-                {
-                    "currencyId": "Shards",
-                    "price": 13500,
-                    "discountPercentage": 0
-                }
-            ],
+            "defaultCost": [],
             "character": "Witch",
             "storeItems": [
                 "WI_Hair009",
@@ -10232,18 +9933,7 @@
         },
         {
             "id": "US_outfit_009",
-            "defaultCost": [
-                {
-                    "currencyId": "Cells",
-                    "price": 1080,
-                    "discountPercentage": 0.1
-                },
-                {
-                    "currencyId": "Shards",
-                    "price": 21600,
-                    "discountPercentage": 0
-                }
-            ],
+            "defaultCost": [],
             "character": "Zarina",
             "storeItems": [
                 "US_Head009",
@@ -10255,18 +9945,7 @@
         },
         {
             "id": "DK_outfit_02_01",
-            "defaultCost": [
-                {
-                    "currencyId": "Cells",
-                    "price": 675,
-                    "discountPercentage": 0.1
-                },
-                {
-                    "currencyId": "Shards",
-                    "price": 13500,
-                    "discountPercentage": 0
-                }
-            ],
+            "defaultCost": [],
             "character": "Smoke",
             "storeItems": [
                 "DK_Head02_01",
@@ -10278,18 +9957,7 @@
         },
         {
             "id": "DO_outfit_01_04",
-            "defaultCost": [
-                {
-                    "currencyId": "Cells",
-                    "price": 270,
-                    "discountPercentage": 0.1
-                },
-                {
-                    "currencyId": "Shards",
-                    "price": 5400,
-                    "discountPercentage": 0
-                }
-            ],
+            "defaultCost": [],
             "character": "Killer07",
             "storeItems": [
                 "DO_Head01_04",
@@ -10944,13 +10612,7 @@
         },
         {
             "id": "MK_outfit_01_04",
-            "defaultCost": [
-                {
-                    "currencyId": "Cells",
-                    "price": 675,
-                    "discountPercentage": 0.1
-                }
-            ],
+            "defaultCost": [],
             "character": "Plague",
             "storeItems": [
                 "MK_Mask01_04",
@@ -10962,13 +10624,7 @@
         },
         {
             "id": "GS_outfit_01_06",
-            "defaultCost": [
-                {
-                    "currencyId": "Cells",
-                    "price": 270,
-                    "discountPercentage": 0.1
-                }
-            ],
+            "defaultCost": [],
             "character": "Kate",
             "storeItems": [
                 "GS_Head01_06",
@@ -10980,13 +10636,7 @@
         },
         {
             "id": "JP_outfit_01_02",
-            "defaultCost": [
-                {
-                    "currencyId": "Cells",
-                    "price": 675,
-                    "discountPercentage": 0.1
-                }
-            ],
+            "defaultCost": [],
             "character": "Jake",
             "storeItems": [
                 "JP_Head01_02",
@@ -10998,13 +10648,7 @@
         },
         {
             "id": "WI_outfit_01_03",
-            "defaultCost": [
-                {
-                    "currencyId": "Cells",
-                    "price": 270,
-                    "discountPercentage": 0.1
-                }
-            ],
+            "defaultCost": [],
             "character": "Witch",
             "storeItems": [
                 "WI_Hair01_03",
@@ -11016,13 +10660,7 @@
         },
         {
             "id": "MT_outfit_01_02",
-            "defaultCost": [
-                {
-                    "currencyId": "Cells",
-                    "price": 270,
-                    "discountPercentage": 0.1
-                }
-            ],
+            "defaultCost": [],
             "character": "Meg",
             "storeItems": [
                 "MT_Head01_02",
@@ -11034,13 +10672,7 @@
         },
         {
             "id": "TW_outfit_01_03",
-            "defaultCost": [
-                {
-                    "currencyId": "Cells",
-                    "price": 270,
-                    "discountPercentage": 0.1
-                }
-            ],
+            "defaultCost": [],
             "character": "Bob",
             "storeItems": [
                 "TW_Head01_03",
@@ -11052,13 +10684,7 @@
         },
         {
             "id": "NK_outfit_013",
-            "defaultCost": [
-                {
-                    "currencyId": "Cells",
-                    "price": 1080,
-                    "discountPercentage": 0.1
-                }
-            ],
+            "defaultCost": [],
             "character": "Nea",
             "storeItems": [
                 "NK_Head013",
@@ -11070,13 +10696,7 @@
         },
         {
             "id": "HS_outfit_011",
-            "defaultCost": [
-                {
-                    "currencyId": "Cells",
-                    "price": 675,
-                    "discountPercentage": 0.1
-                }
-            ],
+            "defaultCost": [],
             "character": "Adam",
             "storeItems": [
                 "HS_Head011",
@@ -11088,13 +10708,7 @@
         },
         {
             "id": "TC_outfit_011",
-            "defaultCost": [
-                {
-                    "currencyId": "Cells",
-                    "price": 1080,
-                    "discountPercentage": 0.1
-                }
-            ],
+            "defaultCost": [],
             "character": "Chuckles",
             "storeItems": [
                 "TC_Torso011",
@@ -11106,13 +10720,7 @@
         },
         {
             "id": "GK_outfit_012",
-            "defaultCost": [
-                {
-                    "currencyId": "Cells",
-                    "price": 675,
-                    "discountPercentage": 0.1
-                }
-            ],
+            "defaultCost": [],
             "character": "Clown",
             "storeItems": [
                 "GK_Head012",
@@ -11124,13 +10732,7 @@
         },
         {
             "id": "DK_outfit_013",
-            "defaultCost": [
-                {
-                    "currencyId": "Cells",
-                    "price": 1080,
-                    "discountPercentage": 0.1
-                }
-            ],
+            "defaultCost": [],
             "character": "Smoke",
             "storeItems": [
                 "DK_Head013",
@@ -11142,13 +10744,7 @@
         },
         {
             "id": "KK_outfit_017",
-            "defaultCost": [
-                {
-                    "currencyId": "Cells",
-                    "price": 1080,
-                    "discountPercentage": 0.1
-                }
-            ],
+            "defaultCost": [],
             "character": "Legion",
             "storeItems": [
                 "KK_Mask017",
@@ -11160,13 +10756,7 @@
         },
         {
             "id": "AV_outfit02_03",
-            "defaultCost": [
-                {
-                    "currencyId": "Cells",
-                    "price": 270,
-                    "discountPercentage": 0.1
-                }
-            ],
+            "defaultCost": [],
             "character": "Ace",
             "storeItems": [
                 "AV_Head02_03",
