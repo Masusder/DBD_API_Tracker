@@ -921,6 +921,19 @@
             ],
             "endDate": "2020-12-21T15:59:59",
             "startDate": "2020-12-01T16:00:00"
+        },
+        {
+            "data": [
+                {
+                    "category": "outfit",
+                    "ids": [
+                        "DF_outfit_011",
+                        "Clown_outfit_007"
+                    ]
+                }
+            ],
+            "endDate": "2020-12-31T15:59:59",
+            "startDate": "2020-12-21T16:00:00"
         }
     ]
 }
