@@ -1724,7 +1724,7 @@
                                         "operation": ">=",
                                         "parameters": "instigator:me",
                                         "questEventId": "QuestEvent.HealDying",
-                                        "repetition": 1
+                                        "repetition": 2
                                     }
                                 ]
                             }
@@ -3557,7 +3557,7 @@
                         ]
                     },
                     "node_T6L4_06": {
-                        "clientInfoId": "GrabFromGenerator",
+                        "clientInfoId": "Grab",
                         "coordinates": {
                             "x": 1085,
                             "y": 155
@@ -3569,7 +3569,7 @@
                         ],
                         "nodeType": "quest:task",
                         "objectives": {
-                            "GrabFromGenerator": {
+                            "Grab": {
                                 "conditions": [
                                     {
                                         "key": "role",
@@ -3579,8 +3579,8 @@
                                     }
                                 ],
                                 "incrementWithEventRepetitions": true,
-                                "neededProgression": 1,
-                                "objectiveId": "GrabFromGenerator",
+                                "neededProgression": 3,
+                                "objectiveId": "Grab",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -3655,12 +3655,12 @@
                     "node_T6L4_08": {
                         "clientInfoId": "HookBasement",
                         "coordinates": {
-                            "x": 1175,
+                            "x": 635,
                             "y": 605
                         },
                         "neighbors": [
-                            "node_T6L4_18",
-                            "node_T6L4_End01"
+                            "node_T6L4_10",
+                            "node_T6L4_11"
                         ],
                         "nodeType": "quest:task",
                         "objectives": {
@@ -3702,12 +3702,12 @@
                     "node_T6L4_09": {
                         "clientInfoId": "Kill",
                         "coordinates": {
-                            "x": 545,
+                            "x": 1175,
                             "y": 605
                         },
                         "neighbors": [
-                            "node_T6L4_10",
-                            "node_T6L4_11"
+                            "node_T6L4_18",
+                            "node_T6L4_End01"
                         ],
                         "nodeType": "quest:task",
                         "objectives": {
@@ -3748,11 +3748,11 @@
                     "node_T6L4_10": {
                         "clientInfoId": "EarnEmblemsMalicious",
                         "coordinates": {
-                            "x": 365,
+                            "x": 275,
                             "y": 605
                         },
                         "neighbors": [
-                            "node_T6L4_09",
+                            "node_T6L4_08",
                             "node_T6L4_07"
                         ],
                         "nodeType": "quest:task",
@@ -3800,7 +3800,7 @@
                         },
                         "neighbors": [
                             "node_T6L4_18",
-                            "node_T6L4_09",
+                            "node_T6L4_08",
                             "node_T6L4_15",
                             "node_T6L4_02"
                         ],
@@ -4162,8 +4162,8 @@
                             "y": 605
                         },
                         "neighbors": [
-                            "node_T6L4_11",
-                            "node_T6L4_08"
+                            "node_T6L4_09",
+                            "node_T6L4_11"
                         ],
                         "nodeType": "quest:task",
                         "objectives": {
@@ -4255,7 +4255,7 @@
                             "y": 455
                         },
                         "neighbors": [
-                            "node_T6L4_08",
+                            "node_T6L4_09",
                             "node_T6L4_14",
                             "node_T6L4_04"
                         ],
@@ -4334,6 +4334,6 @@
             }
         ],
         "rewardData": "Tome06",
-        "version": 7
+        "version": 8
     }
 }
