@@ -1,7 +1,7 @@
 {
     "items": [
         {
-            "id": "BuiltToLast",
+            "id": "Brutal_Strength",
             "bloodpointValue": 150000,
             "experienceValue": 150000,
             "unique": false,
@@ -15,7 +15,7 @@
             ]
         },
         {
-            "id": "Gearhead",
+            "id": "DetectivesHunch",
             "bloodpointValue": 150000,
             "experienceValue": 150000,
             "unique": false,
@@ -29,7 +29,7 @@
             ]
         },
         {
-            "id": "HexBloodFavor",
+            "id": "Nemesis",
             "bloodpointValue": 150000,
             "experienceValue": 150000,
             "unique": false,
@@ -43,7 +43,7 @@
             ]
         },
         {
-            "id": "Leader",
+            "id": "WindowsOfOpportunity",
             "bloodpointValue": 150000,
             "experienceValue": 150000,
             "unique": false,
@@ -57,7 +57,7 @@
             ]
         }
     ],
-    "startDate": "2020-12-16T00:00:00",
-    "endDate": "2020-12-22T23:59:59",
-    "week": 218
+    "startDate": "2020-12-30T00:00:00",
+    "endDate": "2021-01-05T23:59:59",
+    "week": 220
 }

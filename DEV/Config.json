@@ -37,7 +37,7 @@
         "keyName": "SOCIAL_PLATFORM_FRIENDLIST_QUERY_RATE"
     },
     {
-        "value": "true",
+        "value": "false",
         "keyName": "DDOS_DETECTION"
     },
     {
@@ -222,6 +222,7 @@
                 "GameEventLogAnalytics",
                 "GameInitAnalytics",
                 "InteractionAnalytics",
+                "InvalidLoadoutAnalytics",
                 "KrakenRequestAnalytics",
                 "LogMirrorsAnalytics",
                 "S3CommandErrorAnalytics",
@@ -253,7 +254,6 @@
                 "FranklinsDemiseConsumedItemAnalytics",
                 "FranklinsHitNearDroppedItemAnalytics",
                 "HookAnalytics",
-                "InvalidLoadoutAnalytics",
                 "KnockoutSurvivorFoundAnalytics",
                 "LevelLoadingStepAnalytics",
                 "LevelLoadingTimeoutAnalytics",
@@ -263,8 +263,6 @@
                 "MapCoordAnalytics",
                 "PerformanceAnalytics",
                 "PerformanceChartingAnalytics",
-                "PostGame_KillerAnalytics",
-                "PostGame_SurvivorAnalytics",
                 "ProceduralGenerationAnalytics",
                 "S3CommandAnalytics",
                 "ScoreAnalytics",
@@ -414,6 +412,7 @@
             "DD": [
                 "AtlantaDeepLinkAnalytics",
                 "AtlantaDuplicatesRefundAnalytics",
+                "AtlantaGachaDrawAnalytics",
                 "AtlantaGraphicsSettingsAnalytics",
                 "AtlantaKillerTutorialAnalytics",
                 "AtlantaPartyGameAnalytics",
@@ -452,6 +451,7 @@
                 "GameInitAnalytics",
                 "HeartbeatPerfAnalytics",
                 "InteractionAnalytics",
+                "InvalidLoadoutAnalytics",
                 "KrakenRequestAnalytics",
                 "LogAnalytics",
                 "LogMirrorsAnalytics",
@@ -512,7 +512,6 @@
                 "Gameplay_ChaseAnalytics",
                 "GhostKillerAnalytics",
                 "HillbillyAnalytics",
-                "InvalidLoadoutAnalytics",
                 "KnockoutSurvivorFoundAnalytics",
                 "LevelLoadingStepAnalytics",
                 "LevelLoadingTimeoutAnalytics",
@@ -526,8 +525,6 @@
                 "MenuFlowAnalytics",
                 "PerformanceAnalytics",
                 "PerformanceChartingAnalytics",
-                "PostGame_KillerAnalytics",
-                "PostGame_SurvivorAnalytics",
                 "ReportAnalytics",
                 "S3CommandAnalytics",
                 "ScoreAnalytics",
