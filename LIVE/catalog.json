@@ -93044,6 +93044,12 @@
                     "discountPercentage": 0.7,
                     "endDate": "2020-10-14T18:00:00",
                     "startDate": "2020-10-14T17:00:00"
+                },
+                {
+                    "currencyId": "Cells",
+                    "discountPercentage": 0.2,
+                    "endDate": "2021-01-11T16:00:00",
+                    "startDate": "2021-01-04T16:00:00"
                 }
             ],
             "unbreakable": false
@@ -93574,6 +93580,14 @@
             ],
             "newEndDate": "2020-01-01T15:59:59",
             "newStartDate": "2019-12-18T16:00:00",
+            "temporaryDiscounts": [
+                {
+                    "currencyId": "Cells",
+                    "discountPercentage": 0.2,
+                    "endDate": "2021-01-11T16:00:00",
+                    "startDate": "2021-01-04T16:00:00"
+                }
+            ],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -94086,6 +94100,12 @@
                     "discountPercentage": 0.9,
                     "endDate": "2020-10-14T18:00:00",
                     "startDate": "2020-10-14T17:00:00"
+                },
+                {
+                    "currencyId": "Cells",
+                    "discountPercentage": 0.35,
+                    "endDate": "2021-01-11T16:00:00",
+                    "startDate": "2021-01-04T16:00:00"
                 }
             ],
             "unbreakable": false
@@ -94558,6 +94578,14 @@
             ],
             "newEndDate": "2020-06-05T14:59:59",
             "newStartDate": "2020-05-22T15:00:00",
+            "temporaryDiscounts": [
+                {
+                    "currencyId": "Cells",
+                    "discountPercentage": 0.35,
+                    "endDate": "2021-01-11T16:00:00",
+                    "startDate": "2021-01-04T16:00:00"
+                }
+            ],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -94971,6 +94999,14 @@
             ],
             "newEndDate": "2020-01-06T15:59:59",
             "newStartDate": "2019-12-23T16:00:00",
+            "temporaryDiscounts": [
+                {
+                    "currencyId": "Cells",
+                    "discountPercentage": 0.5,
+                    "endDate": "2021-01-11T16:00:00",
+                    "startDate": "2021-01-04T16:00:00"
+                }
+            ],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -95053,6 +95089,14 @@
             ],
             "newEndDate": "2018-06-12T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [
+                {
+                    "currencyId": "Cells",
+                    "discountPercentage": 0.5,
+                    "endDate": "2021-01-11T16:00:00",
+                    "startDate": "2021-01-04T16:00:00"
+                }
+            ],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -95857,6 +95901,14 @@
             ],
             "newEndDate": "2020-04-22T14:59:59",
             "newStartDate": "2020-04-08T15:00:00",
+            "temporaryDiscounts": [
+                {
+                    "currencyId": "Cells",
+                    "discountPercentage": 0.2,
+                    "endDate": "2021-01-11T16:00:00",
+                    "startDate": "2021-01-04T16:00:00"
+                }
+            ],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -96644,6 +96696,14 @@
             ],
             "newEndDate": "2019-09-18T14:59:59",
             "newStartDate": "2019-09-04T15:00:00",
+            "temporaryDiscounts": [
+                {
+                    "currencyId": "Cells",
+                    "discountPercentage": 0.2,
+                    "endDate": "2021-01-11T16:00:00",
+                    "startDate": "2021-01-04T16:00:00"
+                }
+            ],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -98055,6 +98115,14 @@
             ],
             "newEndDate": "2020-01-06T15:59:59",
             "newStartDate": "2019-12-23T16:00:00",
+            "temporaryDiscounts": [
+                {
+                    "currencyId": "Cells",
+                    "discountPercentage": 0.75,
+                    "endDate": "2021-01-11T16:00:00",
+                    "startDate": "2021-01-04T16:00:00"
+                }
+            ],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -98337,6 +98405,14 @@
             ],
             "newEndDate": "2020-04-15T14:59:59",
             "newStartDate": "2020-04-01T15:00:00",
+            "temporaryDiscounts": [
+                {
+                    "currencyId": "Cells",
+                    "discountPercentage": 0.75,
+                    "endDate": "2021-01-11T16:00:00",
+                    "startDate": "2021-01-04T16:00:00"
+                }
+            ],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -98425,6 +98501,14 @@
             ],
             "newEndDate": "2020-06-30T14:59:59",
             "newStartDate": "2020-06-16T15:00:00",
+            "temporaryDiscounts": [
+                {
+                    "currencyId": "Cells",
+                    "discountPercentage": 0.2,
+                    "endDate": "2021-01-11T16:00:00",
+                    "startDate": "2021-01-04T16:00:00"
+                }
+            ],
             "unbreakable": true
         },
         "nonSecure": false,
@@ -98797,6 +98881,14 @@
             ],
             "newEndDate": "2018-06-12T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [
+                {
+                    "currencyId": "Cells",
+                    "discountPercentage": 0.75,
+                    "endDate": "2021-01-11T16:00:00",
+                    "startDate": "2021-01-04T16:00:00"
+                }
+            ],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -99399,6 +99491,14 @@
             ],
             "newEndDate": "2020-01-12T15:59:59",
             "newStartDate": "2019-12-29T16:00:00",
+            "temporaryDiscounts": [
+                {
+                    "currencyId": "Cells",
+                    "discountPercentage": 0.75,
+                    "endDate": "2021-01-11T16:00:00",
+                    "startDate": "2021-01-04T16:00:00"
+                }
+            ],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -100720,6 +100820,14 @@
             ],
             "newEndDate": "2020-01-01T15:59:59",
             "newStartDate": "2019-12-18T16:00:00",
+            "temporaryDiscounts": [
+                {
+                    "currencyId": "Cells",
+                    "discountPercentage": 0.5,
+                    "endDate": "2021-01-11T16:00:00",
+                    "startDate": "2021-01-04T16:00:00"
+                }
+            ],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -102500,6 +102608,14 @@
             ],
             "newEndDate": "2020-01-06T15:59:59",
             "newStartDate": "2019-12-23T16:00:00",
+            "temporaryDiscounts": [
+                {
+                    "currencyId": "Cells",
+                    "discountPercentage": 0.75,
+                    "endDate": "2021-01-11T16:00:00",
+                    "startDate": "2021-01-04T16:00:00"
+                }
+            ],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -102760,6 +102876,14 @@
             ],
             "newEndDate": "2020-04-15T14:59:59",
             "newStartDate": "2020-04-01T15:00:00",
+            "temporaryDiscounts": [
+                {
+                    "currencyId": "Cells",
+                    "discountPercentage": 0.5,
+                    "endDate": "2021-01-11T16:00:00",
+                    "startDate": "2021-01-04T16:00:00"
+                }
+            ],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -102922,6 +103046,14 @@
             ],
             "newEndDate": "2020-08-18T14:59:59",
             "newStartDate": "2020-08-04T15:00:00",
+            "temporaryDiscounts": [
+                {
+                    "currencyId": "Cells",
+                    "discountPercentage": 0.35,
+                    "endDate": "2021-01-11T16:00:00",
+                    "startDate": "2021-01-04T16:00:00"
+                }
+            ],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -102988,6 +103120,14 @@
             ],
             "newEndDate": "2020-09-04T14:59:59",
             "newStartDate": "2020-08-21T15:00:00",
+            "temporaryDiscounts": [
+                {
+                    "currencyId": "Cells",
+                    "discountPercentage": 0.2,
+                    "endDate": "2021-01-11T16:00:00",
+                    "startDate": "2021-01-04T16:00:00"
+                }
+            ],
             "unbreakable": true
         },
         "nonSecure": false,
@@ -103252,6 +103392,14 @@
             ],
             "newEndDate": "2020-09-21T23:59:59",
             "newStartDate": "2020-09-08T00:00:00",
+            "temporaryDiscounts": [
+                {
+                    "currencyId": "Cells",
+                    "discountPercentage": 0.35,
+                    "endDate": "2021-01-11T16:00:00",
+                    "startDate": "2021-01-04T16:00:00"
+                }
+            ],
             "unbreakable": false
         },
         "nonSecure": false,
