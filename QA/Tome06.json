@@ -2412,7 +2412,7 @@
                                 "questEvent": [
                                     {
                                         "operation": ">=",
-                                        "parameters": "instigator:me",
+                                        "parameters": "instigator:me;Distance:250",
                                         "questEventId": "QuestEvent.FallInChase",
                                         "repetition": 1
                                     }
@@ -2501,7 +2501,7 @@
                                         ]
                                     }
                                 ],
-                                "incrementWithEventRepetitions": false,
+                                "incrementWithEventRepetitions": true,
                                 "neededProgression": 24,
                                 "objectiveId": "BreakPalletsGens",
                                 "questEvent": [
@@ -2548,7 +2548,7 @@
                                         ]
                                     }
                                 ],
-                                "incrementWithEventRepetitions": false,
+                                "incrementWithEventRepetitions": true,
                                 "neededProgression": 3,
                                 "objectiveId": "EarnEmblemsDevoutGold",
                                 "questEvent": [
@@ -3180,7 +3180,7 @@
                                         "operation": ">=",
                                         "parameters": "instigator:me;ItemName:Medkit",
                                         "questEventId": "QuestEvent.ConsumeItem",
-                                        "repetition": 40
+                                        "repetition": 1
                                     }
                                 ]
                             }

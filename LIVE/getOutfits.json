@@ -2590,8 +2590,8 @@
             "defaultCost": [
                 {
                     "currencyId": "Cells",
-                    "price": 1080,
-                    "discountPercentage": 0.1
+                    "price": 300,
+                    "discountPercentage": 0.75
                 }
             ],
             "character": "Smoke",
@@ -4396,8 +4396,8 @@
             "defaultCost": [
                 {
                     "currencyId": "Cells",
-                    "price": 1080,
-                    "discountPercentage": 0.1
+                    "price": 780,
+                    "discountPercentage": 0.35
                 },
                 {
                     "currencyId": "Shards",
@@ -7869,8 +7869,8 @@
             "defaultCost": [
                 {
                     "currencyId": "Cells",
-                    "price": 1080,
-                    "discountPercentage": 0.1
+                    "price": 600,
+                    "discountPercentage": 0.5
                 },
                 {
                     "currencyId": "Shards",

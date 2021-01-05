@@ -405,7 +405,7 @@
             "xbox": false,
             "ios": false,
             "xsx": false,
-            "switch": false
+            "switch": true
         },
         "keyName": "SOCIAL_CROSSPROGRESSION_PLATFORMS"
     },
@@ -981,6 +981,14 @@
             "4.5.0_382688dev": "4.5.0_382688dev-1609774419",
             "4.5.0_382711dev": "4.5.0_382711dev-1609777117",
             "4.5.0_382721dev": "4.5.0_382721dev-1609777721",
+            "4.5.0_382845dev": "4.5.0_382845dev-1609789434",
+            "4.5.0_382907dev": "4.5.0_382907dev-1609793927",
+            "4.5.0_382918dev": "4.5.0_382918dev-1609794831",
+            "4.5.0_382922dev": "4.5.0_382922dev-1609795522",
+            "4.5.0_382930dev": "4.5.0_382930dev-1609795852",
+            "4.5.0_383096dev": "4.5.0_383096dev-1609858711",
+            "4.5.0_383147dev": "4.5.0_383147dev-1609864810",
+            "4.5.0_383198dev": "4.5.0_383198dev-1609871678",
             "build_dbd_3.6.0_0dev": "build_dbd_3.6.0_0dev-1582846204",
             "build_dbd_m_3.6.0_0dev": "build_dbd_m_3.6.0_0dev-1582905148",
             "cbessette_3.5.0_0dev": "cbessette_3.5.0_0dev-1581089605",
@@ -1199,6 +1207,7 @@
             "m_4.3.2_380812dev": "m_4.3.2_380812dev-1608310113",
             "m_4.3.2_380861dev": "m_4.3.2_380861dev-1608313065",
             "m_4.3.2_381750dev": "m_4.3.2_381750dev-1608653699",
+            "m_4.3.2_383096dev": "m_4.3.2_383096dev-1609858586",
             "m_4.4.0_380082dev": "m_4.4.0_380082dev-1608223091",
             "m_4.4.0_380159dev": "m_4.4.0_380159dev-1608226713",
             "m_4.4.0_380302dev": "m_4.4.0_380302dev-1608237502",
@@ -1217,6 +1226,11 @@
             "m_4.4.0_382180dev": "m_4.4.0_382180dev-1608755913",
             "m_4.4.0_382688dev": "m_4.4.0_382688dev-1609774720",
             "m_4.4.0_382711dev": "m_4.4.0_382711dev-1609776896",
+            "m_4.4.0_382721dev": "m_4.4.0_382721dev-1609778330",
+            "m_4.4.0_382845dev": "m_4.4.0_382845dev-1609792741",
+            "m_4.4.0_382930dev": "m_4.4.0_382930dev-1609796335",
+            "m_4.4.0_383147dev": "m_4.4.0_383147dev-1609864694",
+            "m_4.4.0_383198dev": "m_4.4.0_383198dev-1609871895",
             "mcharron_3.4.0_0dev": "mcharron_3.4.0_0dev-1575325513",
             "mcharron_3.6.0_0dev": "mcharron_3.6.0_0dev-1582911097",
             "ofilippelli_3.4.0_0dev": "ofilippelli_3.4.0_0dev-1576612449",
@@ -1257,7 +1271,7 @@
         "keyName": "MATCHMAKING_USE_QUEUE_API"
     },
     {
-        "value": "https://kibana-logs.live.dbd.bhvronline.com/app/kibana#/dashboard/f9722400-391e-11e9-b6e1-a7681f9f0f51?_a=%28query:%28query_string:%28analyze_wildcard:!t,query:'\"queueName\"'%29%29%29",
+        "value": "https://kibana-logs.live.dbd.bhvronline.com/app/kibana#/dashboard/f9722400-391e-11e9-b6e1-a7681f9f0f51?_a=(filters:!((meta:(type:custom,value:'%7B%22multi_match%22:%7B%22query%22:%22[[queueName]]%22,%22type%22:%22phrase_prefix%22,%22fields%22:%5B%22log.queueName%22,%22log.queue.category%22,%22log.user.category%22,%22log.matchData.category%22,%22log.queueFilter.bucket%22,%22log.matchmaking.matchData.category%22%5D%7D%7D'),query:(multi_match:(fields:!(log.queueName,log.queue.category,log.user.category,log.matchData.category,log.queueFilter.bucket,log.matchmaking.matchData.category),query:[[queueName]],type:phrase_prefix)))),query:(language:lucene,query:(query_string:(analyze_wildcard:!t,query:''))))",
         "keyName": "MATCHMAKING_QUEUE_DASHBOARD_URL"
     },
     {
