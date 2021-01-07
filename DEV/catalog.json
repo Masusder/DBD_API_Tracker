@@ -91117,6 +91117,141 @@
         "defaultCost": [
             {
                 "currencyId": "Cells",
+                "price": 400
+            }
+        ],
+        "eventCostList": [],
+        "id": "HS_Torso02_02",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "HS_Torso02_02",
+            "character": "Adam",
+            "kind": "Customization",
+            "newEndDate": "2018-06-25T23:59:59",
+            "newStartDate": "2018-06-12T00:00:00",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "SpecialEvent",
+            "type": "Torso",
+            "version": {
+                "dmm": true,
+                "grdk": true,
+                "nintendo": true,
+                "ps4": true,
+                "ps5": true,
+                "psn": true,
+                "stadia": true,
+                "steam": true,
+                "switch": true,
+                "xbox": true,
+                "xsx": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": false,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 400
+            }
+        ],
+        "eventCostList": [],
+        "id": "US_Head01_05",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "US_Head01_05",
+            "character": "Zarina",
+            "kind": "Customization",
+            "newEndDate": "2018-06-25T23:59:59",
+            "newStartDate": "2018-06-12T00:00:00",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "SpecialEvent",
+            "type": "Head",
+            "version": {
+                "dmm": true,
+                "grdk": true,
+                "nintendo": true,
+                "ps4": true,
+                "ps5": true,
+                "psn": true,
+                "stadia": true,
+                "steam": true,
+                "switch": true,
+                "xbox": true,
+                "xsx": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": false,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 400
+            }
+        ],
+        "eventCostList": [],
+        "id": "HK_W01_06",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "HK_W01_06",
+            "character": "Spirit",
+            "kind": "Customization",
+            "newEndDate": "2018-06-25T23:59:59",
+            "newStartDate": "2018-06-12T00:00:00",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "SpecialEvent",
+            "type": "Weapon",
+            "version": {
+                "dmm": true,
+                "grdk": true,
+                "nintendo": true,
+                "ps4": true,
+                "ps5": true,
+                "psn": true,
+                "stadia": true,
+                "steam": true,
+                "switch": true,
+                "xbox": true,
+                "xsx": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": false,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
                 "price": 0
             }
         ],
