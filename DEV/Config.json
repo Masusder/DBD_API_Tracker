@@ -990,6 +990,10 @@
             "4.5.0_383147dev": "4.5.0_383147dev-1609864810",
             "4.5.0_383198dev": "4.5.0_383198dev-1609871678",
             "4.5.0_383246dev": "4.5.0_383246dev-1609875189",
+            "4.5.0_383632dev": "4.5.0_383632dev-1609959578",
+            "4.5.0_383684dev": "4.5.0_383684dev-1609964017",
+            "4.5.0_383697dev": "4.5.0_383697dev-1609964918",
+            "4.5.0_383975dev": "4.5.0_383975dev-1610037061",
             "build_dbd_3.6.0_0dev": "build_dbd_3.6.0_0dev-1582846204",
             "build_dbd_m_3.6.0_0dev": "build_dbd_m_3.6.0_0dev-1582905148",
             "cbessette_3.5.0_0dev": "cbessette_3.5.0_0dev-1581089605",
@@ -1233,6 +1237,10 @@
             "m_4.4.0_383147dev": "m_4.4.0_383147dev-1609864694",
             "m_4.4.0_383198dev": "m_4.4.0_383198dev-1609871895",
             "m_4.4.0_383246dev": "m_4.4.0_383246dev-1609875494",
+            "m_4.4.0_383632dev": "m_4.4.0_383632dev-1609961925",
+            "m_4.4.0_383697dev": "m_4.4.0_383697dev-1609964719",
+            "m_4.4.0_383870dev": "m_4.4.0_383870dev-1610036340",
+            "m_4.4.0_383975dev": "m_4.4.0_383975dev-1610036883",
             "mcharron_3.4.0_0dev": "mcharron_3.4.0_0dev-1575325513",
             "mcharron_3.6.0_0dev": "mcharron_3.6.0_0dev-1582911097",
             "ofilippelli_3.4.0_0dev": "ofilippelli_3.4.0_0dev-1576612449",
@@ -1273,7 +1281,7 @@
         "keyName": "MATCHMAKING_USE_QUEUE_API"
     },
     {
-        "value": "https://kibana-logs.live.dbd.bhvronline.com/app/kibana#/dashboard/f9722400-391e-11e9-b6e1-a7681f9f0f51?_a=(filters:!((meta:(type:custom,value:'%7B%22multi_match%22:%7B%22query%22:%22[[queueName]]%22,%22type%22:%22phrase_prefix%22,%22fields%22:%5B%22log.queueName%22,%22log.queue.category%22,%22log.user.category%22,%22log.matchData.category%22,%22log.queueFilter.bucket%22,%22log.matchmaking.matchData.category%22%5D%7D%7D'),query:(multi_match:(fields:!(log.queueName,log.queue.category,log.user.category,log.matchData.category,log.queueFilter.bucket,log.matchmaking.matchData.category),query:[[queueName]],type:phrase_prefix)))),query:(language:lucene,query:(query_string:(analyze_wildcard:!t,query:''))))",
+        "value": "https://kibana-logs.live.dbd.bhvronline.com/app/kibana#/dashboard/f9722400-391e-11e9-b6e1-a7681f9f0f51?_a=(filters:!((meta:(type:custom,value:'%7B%22multi_match%22:%7B%22query%22:%22[[queueName]]%22,%22type%22:%22phrase_prefix%22,%22fields%22:%5B%22log.queueName%22,%22log.queue.category%22,%22log.user.category%22,%22log.matchData.category%22,%22log.queueFilter.bucket%22,%22log.matchmaking.matchData.category%22%5D%7D%7D'),query:(multi_match:(fields:!(log.queueName,log.queue.category,log.user.category,log.matchData.category,log.queueFilter.bucket,log.matchmaking.matchData.category),query:'[[queueName]]',type:phrase_prefix)))),query:(language:lucene,query:(query_string:(analyze_wildcard:!t,query:'*'))))",
         "keyName": "MATCHMAKING_QUEUE_DASHBOARD_URL"
     },
     {

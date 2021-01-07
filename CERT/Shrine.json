@@ -1,7 +1,7 @@
 {
     "items": [
         {
-            "id": "Brutal_Strength",
+            "id": "BeastOfPrey",
             "bloodpointValue": 150000,
             "experienceValue": 150000,
             "unique": false,
@@ -15,7 +15,7 @@
             ]
         },
         {
-            "id": "DetectivesHunch",
+            "id": "BuckleUp",
             "bloodpointValue": 150000,
             "experienceValue": 150000,
             "unique": false,
@@ -29,7 +29,7 @@
             ]
         },
         {
-            "id": "Nemesis",
+            "id": "HeadOn",
             "bloodpointValue": 150000,
             "experienceValue": 150000,
             "unique": false,
@@ -43,7 +43,7 @@
             ]
         },
         {
-            "id": "WindowsOfOpportunity",
+            "id": "ZanshinTactics",
             "bloodpointValue": 150000,
             "experienceValue": 150000,
             "unique": false,
@@ -57,7 +57,7 @@
             ]
         }
     ],
-    "startDate": "2020-12-30T00:00:00",
-    "endDate": "2021-01-05T23:59:59",
-    "week": 220
+    "startDate": "2021-01-06T00:00:00",
+    "endDate": "2021-01-12T23:59:59",
+    "week": 221
 }
