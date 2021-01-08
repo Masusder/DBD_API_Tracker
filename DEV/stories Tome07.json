@@ -1,3 +1,55 @@
 {
-    "message": "Invalid input: Story Tome07 is not part of the Stories"
+    "listOfNodes": [
+        {
+            "nodeTreeCoordinate": {
+                "storyId": "Tome07",
+                "level": 0,
+                "nodeId": "node_T6L1_02"
+            },
+            "status": "open"
+        },
+        {
+            "nodeTreeCoordinate": {
+                "storyId": "Tome07",
+                "level": 0,
+                "nodeId": "node_T6L1_06"
+            },
+            "status": "open"
+        },
+        {
+            "nodeTreeCoordinate": {
+                "storyId": "Tome07",
+                "level": 0,
+                "nodeId": "node_T6L1_07"
+            },
+            "status": "open"
+        },
+        {
+            "nodeTreeCoordinate": {
+                "storyId": "Tome07",
+                "level": 0,
+                "nodeId": "node_T6L1_14"
+            },
+            "status": "open"
+        },
+        {
+            "nodeTreeCoordinate": {
+                "storyId": "Tome07",
+                "level": 0,
+                "nodeId": "node_T6L1_Start01"
+            },
+            "status": "completed"
+        },
+        {
+            "nodeTreeCoordinate": {
+                "storyId": "Tome07",
+                "level": 0,
+                "nodeId": "node_T6L1_Start02"
+            },
+            "status": "completed"
+        }
+    ],
+    "highestLevelIsNewContent": true,
+    "activeNodes": [],
+    "hasUnreadJournal": false
 }

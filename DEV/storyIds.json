@@ -1,5 +1,6 @@
 {
     "openStories": [
+        "Tome07",
         "Tome06",
         "Tome05",
         "Tome04",
@@ -8,6 +9,24 @@
         "Tome01"
     ],
     "storiesStatus": [
+        {
+            "id": "Tome07",
+            "levelStatus": [
+                {
+                    "status": "open",
+                    "hasUnseenContent": true
+                },
+                {
+                    "status": "locked"
+                },
+                {
+                    "status": "locked"
+                },
+                {
+                    "status": "locked"
+                }
+            ]
+        },
         {
             "id": "Tome06",
             "levelStatus": [

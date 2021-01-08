@@ -3345,7 +3345,7 @@
                                 "questEvent": [
                                     {
                                         "operation": ">=",
-                                        "parameters": "instigator:me",
+                                        "parameters": "instigator:any",
                                         "questEventId": "QuestEvent.GeneratorRepairedByTeam",
                                         "repetition": 1
                                     }
@@ -3530,7 +3530,7 @@
                                         ]
                                     }
                                 ],
-                                "incrementWithEventRepetitions": false,
+                                "incrementWithEventRepetitions": true,
                                 "neededProgression": 25,
                                 "objectiveId": "UnhookProtectionHit",
                                 "questEvent": [
@@ -4176,7 +4176,7 @@
                                         ]
                                     }
                                 ],
-                                "incrementWithEventRepetitions": false,
+                                "incrementWithEventRepetitions": true,
                                 "neededProgression": 25,
                                 "objectiveId": "Down",
                                 "questEvent": [
