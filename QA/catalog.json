@@ -84834,6 +84834,1284 @@
         "defaultCost": [
             {
                 "currencyId": "Cells",
+                "price": 400
+            }
+        ],
+        "eventCostList": [],
+        "id": "QF_Head009",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "QF_Head009",
+            "character": "Nancy",
+            "kind": "Customization",
+            "newEndDate": "2021-02-16T15:59:59",
+            "newStartDate": "2021-02-02T16:00:00",
+            "outfitId": "QF_outfit_009",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "VeryRare",
+            "type": "Head",
+            "unbreakable": false,
+            "version": {
+                "grdk": true,
+                "nintendo": true,
+                "ps4": true,
+                "ps5": true,
+                "psn": true,
+                "stadia": true,
+                "steam": true,
+                "switch": true,
+                "xbox": true,
+                "xsx": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 400
+            }
+        ],
+        "eventCostList": [],
+        "id": "QF_Torso009",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "QF_Torso009",
+            "character": "Nancy",
+            "kind": "Customization",
+            "newEndDate": "2021-02-16T15:59:59",
+            "newStartDate": "2021-02-02T16:00:00",
+            "outfitId": "QF_outfit_009",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "VeryRare",
+            "type": "Torso",
+            "unbreakable": false,
+            "version": {
+                "grdk": true,
+                "nintendo": true,
+                "ps4": true,
+                "ps5": true,
+                "psn": true,
+                "stadia": true,
+                "steam": true,
+                "switch": true,
+                "xbox": true,
+                "xsx": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 400
+            }
+        ],
+        "eventCostList": [],
+        "id": "QF_Legs009",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "QF_Legs009",
+            "character": "Nancy",
+            "kind": "Customization",
+            "newEndDate": "2021-02-16T15:59:59",
+            "newStartDate": "2021-02-02T16:00:00",
+            "outfitId": "QF_outfit_009",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "VeryRare",
+            "type": "Legs",
+            "unbreakable": false,
+            "version": {
+                "grdk": true,
+                "nintendo": true,
+                "ps4": true,
+                "ps5": true,
+                "psn": true,
+                "stadia": true,
+                "steam": true,
+                "switch": true,
+                "xbox": true,
+                "xsx": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 400
+            }
+        ],
+        "eventCostList": [],
+        "id": "QM_Head009",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "QM_Head009",
+            "character": "Steve",
+            "kind": "Customization",
+            "newEndDate": "2021-02-16T15:59:59",
+            "newStartDate": "2021-02-02T16:00:00",
+            "outfitId": "QM_outfit_009",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "VeryRare",
+            "type": "Head",
+            "unbreakable": false,
+            "version": {
+                "grdk": true,
+                "nintendo": true,
+                "ps4": true,
+                "ps5": true,
+                "psn": true,
+                "stadia": true,
+                "steam": true,
+                "switch": true,
+                "xbox": true,
+                "xsx": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 400
+            }
+        ],
+        "eventCostList": [],
+        "id": "QM_Torso009",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "QM_Torso009",
+            "character": "Steve",
+            "kind": "Customization",
+            "newEndDate": "2021-02-16T15:59:59",
+            "newStartDate": "2021-02-02T16:00:00",
+            "outfitId": "QM_outfit_009",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "VeryRare",
+            "type": "Torso",
+            "unbreakable": false,
+            "version": {
+                "grdk": true,
+                "nintendo": true,
+                "ps4": true,
+                "ps5": true,
+                "psn": true,
+                "stadia": true,
+                "steam": true,
+                "switch": true,
+                "xbox": true,
+                "xsx": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 400
+            }
+        ],
+        "eventCostList": [],
+        "id": "QM_Legs009",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "QM_Legs009",
+            "character": "Steve",
+            "kind": "Customization",
+            "newEndDate": "2021-02-16T15:59:59",
+            "newStartDate": "2021-02-02T16:00:00",
+            "outfitId": "QM_outfit_009",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "VeryRare",
+            "type": "Legs",
+            "unbreakable": false,
+            "version": {
+                "grdk": true,
+                "nintendo": true,
+                "ps4": true,
+                "ps5": true,
+                "psn": true,
+                "stadia": true,
+                "steam": true,
+                "switch": true,
+                "xbox": true,
+                "xsx": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 400
+            }
+        ],
+        "eventCostList": [],
+        "id": "QK_Head007",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "QK_Head007",
+            "character": "Demogorgon",
+            "kind": "Customization",
+            "newEndDate": "2021-02-16T15:59:59",
+            "newStartDate": "2021-02-02T16:00:00",
+            "outfitId": "QK_Outfit007",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "VeryRare",
+            "type": "Head",
+            "unbreakable": false,
+            "version": {
+                "grdk": true,
+                "nintendo": true,
+                "ps4": true,
+                "ps5": true,
+                "psn": true,
+                "stadia": true,
+                "steam": true,
+                "switch": true,
+                "xbox": true,
+                "xsx": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 400
+            }
+        ],
+        "eventCostList": [],
+        "id": "QK_Body007",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "QK_Body007",
+            "character": "Demogorgon",
+            "kind": "Customization",
+            "newEndDate": "2021-02-16T15:59:59",
+            "newStartDate": "2021-02-02T16:00:00",
+            "outfitId": "QK_Outfit007",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "VeryRare",
+            "type": "Torso",
+            "unbreakable": false,
+            "version": {
+                "grdk": true,
+                "nintendo": true,
+                "ps4": true,
+                "ps5": true,
+                "psn": true,
+                "stadia": true,
+                "steam": true,
+                "switch": true,
+                "xbox": true,
+                "xsx": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 400
+            }
+        ],
+        "eventCostList": [],
+        "id": "QK_W007",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "QK_W007",
+            "character": "Demogorgon",
+            "kind": "Customization",
+            "newEndDate": "2021-02-16T15:59:59",
+            "newStartDate": "2021-02-02T16:00:00",
+            "outfitId": "QK_Outfit007",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "VeryRare",
+            "type": "Weapon",
+            "unbreakable": false,
+            "version": {
+                "grdk": true,
+                "nintendo": true,
+                "ps4": true,
+                "ps5": true,
+                "psn": true,
+                "stadia": true,
+                "steam": true,
+                "switch": true,
+                "xbox": true,
+                "xsx": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 400
+            },
+            {
+                "currencyId": "Shards",
+                "price": 7200
+            }
+        ],
+        "eventCostList": [],
+        "id": "TW_Head013",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "TW_Head013",
+            "character": "Bob",
+            "kind": "Customization",
+            "newEndDate": "2021-02-25T15:59:59",
+            "newStartDate": "2021-02-11T16:00:00",
+            "outfitId": "TW_Outfit013",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "VeryRare",
+            "type": "Head",
+            "unbreakable": false,
+            "version": {
+                "grdk": true,
+                "nintendo": true,
+                "ps4": true,
+                "ps5": true,
+                "psn": true,
+                "stadia": true,
+                "steam": true,
+                "switch": true,
+                "xbox": true,
+                "xsx": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 400
+            },
+            {
+                "currencyId": "Shards",
+                "price": 7200
+            }
+        ],
+        "eventCostList": [],
+        "id": "TW_Body013",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "TW_Body013",
+            "character": "Bob",
+            "kind": "Customization",
+            "newEndDate": "2021-02-25T15:59:59",
+            "newStartDate": "2021-02-11T16:00:00",
+            "outfitId": "TW_Outfit013",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "VeryRare",
+            "type": "Torso",
+            "unbreakable": false,
+            "version": {
+                "grdk": true,
+                "nintendo": true,
+                "ps4": true,
+                "ps5": true,
+                "psn": true,
+                "stadia": true,
+                "steam": true,
+                "switch": true,
+                "xbox": true,
+                "xsx": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 400
+            },
+            {
+                "currencyId": "Shards",
+                "price": 7200
+            }
+        ],
+        "eventCostList": [],
+        "id": "TW_W013",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "TW_W013",
+            "character": "Bob",
+            "kind": "Customization",
+            "newEndDate": "2021-02-25T15:59:59",
+            "newStartDate": "2021-02-11T16:00:00",
+            "outfitId": "TW_Outfit013",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "VeryRare",
+            "type": "Weapon",
+            "unbreakable": false,
+            "version": {
+                "grdk": true,
+                "nintendo": true,
+                "ps4": true,
+                "ps5": true,
+                "psn": true,
+                "stadia": true,
+                "steam": true,
+                "switch": true,
+                "xbox": true,
+                "xsx": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 400
+            }
+        ],
+        "eventCostList": [],
+        "id": "UK_Head008",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "UK_Head008",
+            "character": "Gunslinger",
+            "kind": "Customization",
+            "newEndDate": "2021-02-25T15:59:59",
+            "newStartDate": "2021-02-11T16:00:00",
+            "outfitId": "UK_Outfit008",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "VeryRare",
+            "type": "Head",
+            "unbreakable": false,
+            "version": {
+                "grdk": true,
+                "nintendo": true,
+                "ps4": true,
+                "ps5": true,
+                "psn": true,
+                "stadia": true,
+                "steam": true,
+                "switch": true,
+                "xbox": true,
+                "xsx": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 400
+            }
+        ],
+        "eventCostList": [],
+        "id": "UK_Body008",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "UK_Body008",
+            "character": "Gunslinger",
+            "kind": "Customization",
+            "newEndDate": "2021-02-25T15:59:59",
+            "newStartDate": "2021-02-11T16:00:00",
+            "outfitId": "UK_Outfit008",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "VeryRare",
+            "type": "Torso",
+            "unbreakable": false,
+            "version": {
+                "grdk": true,
+                "nintendo": true,
+                "ps4": true,
+                "ps5": true,
+                "psn": true,
+                "stadia": true,
+                "steam": true,
+                "switch": true,
+                "xbox": true,
+                "xsx": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 400
+            }
+        ],
+        "eventCostList": [],
+        "id": "UK_W008",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "UK_W008",
+            "character": "Gunslinger",
+            "kind": "Customization",
+            "newEndDate": "2021-02-25T15:59:59",
+            "newStartDate": "2021-02-11T16:00:00",
+            "outfitId": "UK_Outfit008",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "VeryRare",
+            "type": "Weapon",
+            "unbreakable": false,
+            "version": {
+                "grdk": true,
+                "nintendo": true,
+                "ps4": true,
+                "ps5": true,
+                "psn": true,
+                "stadia": true,
+                "steam": true,
+                "switch": true,
+                "xbox": true,
+                "xsx": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 400
+            },
+            {
+                "currencyId": "Shards",
+                "price": 7200
+            }
+        ],
+        "eventCostList": [],
+        "id": "MS_Head014",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "MS_Head014",
+            "character": "Jane",
+            "kind": "Customization",
+            "newEndDate": "2021-03-19T15:59:59",
+            "newStartDate": "2021-03-05T16:00:00",
+            "outfitId": "MS_Outfit_14",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "VeryRare",
+            "type": "Head",
+            "unbreakable": false,
+            "version": {
+                "grdk": true,
+                "nintendo": true,
+                "ps4": true,
+                "ps5": true,
+                "psn": true,
+                "stadia": true,
+                "steam": true,
+                "switch": true,
+                "xbox": true,
+                "xsx": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 400
+            },
+            {
+                "currencyId": "Shards",
+                "price": 7200
+            }
+        ],
+        "eventCostList": [],
+        "id": "MS_Torso014",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "MS_Torso014",
+            "character": "Jane",
+            "kind": "Customization",
+            "newEndDate": "2021-03-19T15:59:59",
+            "newStartDate": "2021-03-05T16:00:00",
+            "outfitId": "MS_Outfit_14",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "VeryRare",
+            "type": "Torso",
+            "unbreakable": false,
+            "version": {
+                "grdk": true,
+                "nintendo": true,
+                "ps4": true,
+                "ps5": true,
+                "psn": true,
+                "stadia": true,
+                "steam": true,
+                "switch": true,
+                "xbox": true,
+                "xsx": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 400
+            },
+            {
+                "currencyId": "Shards",
+                "price": 7200
+            }
+        ],
+        "eventCostList": [],
+        "id": "MS_Legs014",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "MS_Legs014",
+            "character": "Jane",
+            "kind": "Customization",
+            "newEndDate": "2021-03-19T15:59:59",
+            "newStartDate": "2021-03-05T16:00:00",
+            "outfitId": "MS_Outfit_14",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "VeryRare",
+            "type": "Legs",
+            "unbreakable": false,
+            "version": {
+                "grdk": true,
+                "nintendo": true,
+                "ps4": true,
+                "ps5": true,
+                "psn": true,
+                "stadia": true,
+                "steam": true,
+                "switch": true,
+                "xbox": true,
+                "xsx": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 400
+            }
+        ],
+        "eventCostList": [],
+        "id": "GS_Head014",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "GS_Head014",
+            "character": "Kate",
+            "kind": "Customization",
+            "newEndDate": "2021-03-19T15:59:59",
+            "newStartDate": "2021-03-05T16:00:00",
+            "outfitId": "GS_Outfit_14",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "VeryRare",
+            "type": "Head",
+            "unbreakable": false,
+            "version": {
+                "grdk": true,
+                "nintendo": true,
+                "ps4": true,
+                "ps5": true,
+                "psn": true,
+                "stadia": true,
+                "steam": true,
+                "switch": true,
+                "xbox": true,
+                "xsx": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 400
+            }
+        ],
+        "eventCostList": [],
+        "id": "GS_Torso014",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "GS_Torso014",
+            "character": "Kate",
+            "kind": "Customization",
+            "newEndDate": "2021-03-19T15:59:59",
+            "newStartDate": "2021-03-05T16:00:00",
+            "outfitId": "GS_Outfit_14",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "VeryRare",
+            "type": "Torso",
+            "unbreakable": false,
+            "version": {
+                "grdk": true,
+                "nintendo": true,
+                "ps4": true,
+                "ps5": true,
+                "psn": true,
+                "stadia": true,
+                "steam": true,
+                "switch": true,
+                "xbox": true,
+                "xsx": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 400
+            }
+        ],
+        "eventCostList": [],
+        "id": "GS_Legs014",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "GS_Legs014",
+            "character": "Kate",
+            "kind": "Customization",
+            "newEndDate": "2021-03-19T15:59:59",
+            "newStartDate": "2021-03-05T16:00:00",
+            "outfitId": "GS_Outfit_14",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "VeryRare",
+            "type": "Legs",
+            "unbreakable": false,
+            "version": {
+                "grdk": true,
+                "nintendo": true,
+                "ps4": true,
+                "ps5": true,
+                "psn": true,
+                "stadia": true,
+                "steam": true,
+                "switch": true,
+                "xbox": true,
+                "xsx": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 400
+            }
+        ],
+        "eventCostList": [],
+        "id": "MT_Head015",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "MT_Head015",
+            "character": "Meg",
+            "kind": "Customization",
+            "newEndDate": "2021-03-19T15:59:59",
+            "newStartDate": "2021-03-05T16:00:00",
+            "outfitId": "MT_Outfit_15",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "VeryRare",
+            "type": "Head",
+            "unbreakable": false,
+            "version": {
+                "grdk": true,
+                "nintendo": true,
+                "ps4": true,
+                "ps5": true,
+                "psn": true,
+                "stadia": true,
+                "steam": true,
+                "switch": true,
+                "xbox": true,
+                "xsx": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 400
+            }
+        ],
+        "eventCostList": [],
+        "id": "MT_Torso015",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "MT_Torso015",
+            "character": "Meg",
+            "kind": "Customization",
+            "newEndDate": "2021-03-19T15:59:59",
+            "newStartDate": "2021-03-05T16:00:00",
+            "outfitId": "MT_Outfit_15",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "VeryRare",
+            "type": "Torso",
+            "unbreakable": false,
+            "version": {
+                "grdk": true,
+                "nintendo": true,
+                "ps4": true,
+                "ps5": true,
+                "psn": true,
+                "stadia": true,
+                "steam": true,
+                "switch": true,
+                "xbox": true,
+                "xsx": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 400
+            }
+        ],
+        "eventCostList": [],
+        "id": "MT_Legs015",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "MT_Legs015",
+            "character": "Meg",
+            "kind": "Customization",
+            "newEndDate": "2021-03-19T15:59:59",
+            "newStartDate": "2021-03-05T16:00:00",
+            "outfitId": "MT_Outfit_15",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "VeryRare",
+            "type": "Legs",
+            "unbreakable": false,
+            "version": {
+                "grdk": true,
+                "nintendo": true,
+                "ps4": true,
+                "ps5": true,
+                "psn": true,
+                "stadia": true,
+                "steam": true,
+                "switch": true,
+                "xbox": true,
+                "xsx": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 400
+            },
+            {
+                "currencyId": "Shards",
+                "price": 7200
+            }
+        ],
+        "eventCostList": [],
+        "id": "NK_Head014",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "NK_Head014",
+            "character": "Nea",
+            "kind": "Customization",
+            "newEndDate": "2021-03-19T15:59:59",
+            "newStartDate": "2021-03-05T16:00:00",
+            "outfitId": "NK_Outfit_14",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "VeryRare",
+            "type": "Head",
+            "unbreakable": false,
+            "version": {
+                "grdk": true,
+                "nintendo": true,
+                "ps4": true,
+                "ps5": true,
+                "psn": true,
+                "stadia": true,
+                "steam": true,
+                "switch": true,
+                "xbox": true,
+                "xsx": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 400
+            },
+            {
+                "currencyId": "Shards",
+                "price": 7200
+            }
+        ],
+        "eventCostList": [],
+        "id": "NK_Torso014",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "NK_Torso014",
+            "character": "Nea",
+            "kind": "Customization",
+            "newEndDate": "2021-03-19T15:59:59",
+            "newStartDate": "2021-03-05T16:00:00",
+            "outfitId": "NK_Outfit_14",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "VeryRare",
+            "type": "Torso",
+            "unbreakable": false,
+            "version": {
+                "grdk": true,
+                "nintendo": true,
+                "ps4": true,
+                "ps5": true,
+                "psn": true,
+                "stadia": true,
+                "steam": true,
+                "switch": true,
+                "xbox": true,
+                "xsx": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 400
+            },
+            {
+                "currencyId": "Shards",
+                "price": 7200
+            }
+        ],
+        "eventCostList": [],
+        "id": "NK_Legs014",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "NK_Legs014",
+            "character": "Nea",
+            "kind": "Customization",
+            "newEndDate": "2021-03-19T15:59:59",
+            "newStartDate": "2021-03-05T16:00:00",
+            "outfitId": "NK_Outfit_14",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "VeryRare",
+            "type": "Legs",
+            "unbreakable": false,
+            "version": {
+                "grdk": true,
+                "nintendo": true,
+                "ps4": true,
+                "ps5": true,
+                "psn": true,
+                "stadia": true,
+                "steam": true,
+                "switch": true,
+                "xbox": true,
+                "xsx": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
                 "price": 250
             }
         ],
@@ -108213,6 +109491,204 @@
             ],
             "newEndDate": "2020-12-25T15:59:59",
             "newStartDate": "2020-12-11T16:00:00",
+            "unbreakable": false
+        },
+        "nonSecure": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "outfit"
+        ],
+        "consumable": false,
+        "id": "QF_outfit_009",
+        "metaData": {
+            "character": "Nancy",
+            "discountPercentage": 0.1,
+            "items": [
+                "QF_Head009",
+                "QF_Torso009",
+                "QF_Legs009"
+            ],
+            "newEndDate": "2021-02-16T15:59:59",
+            "newStartDate": "2021-02-02T16:00:00",
+            "unbreakable": false
+        },
+        "nonSecure": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "outfit"
+        ],
+        "consumable": false,
+        "id": "QM_outfit_009",
+        "metaData": {
+            "character": "Steve",
+            "discountPercentage": 0.1,
+            "items": [
+                "QM_Head009",
+                "QM_Torso009",
+                "QM_Legs009"
+            ],
+            "newEndDate": "2021-02-16T15:59:59",
+            "newStartDate": "2021-02-02T16:00:00",
+            "unbreakable": false
+        },
+        "nonSecure": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "outfit"
+        ],
+        "consumable": false,
+        "id": "QK_Outfit007",
+        "metaData": {
+            "character": "Demogorgon",
+            "discountPercentage": 0.1,
+            "items": [
+                "QK_Head007",
+                "QK_Body007",
+                "QK_W007"
+            ],
+            "newEndDate": "2021-02-16T15:59:59",
+            "newStartDate": "2021-02-02T16:00:00",
+            "unbreakable": false
+        },
+        "nonSecure": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "outfit"
+        ],
+        "consumable": false,
+        "id": "TW_Outfit013",
+        "metaData": {
+            "character": "Bob",
+            "discountPercentage": 0.1,
+            "items": [
+                "TW_Head013",
+                "TW_Body013",
+                "TW_W013"
+            ],
+            "newEndDate": "2021-02-25T15:59:59",
+            "newStartDate": "2021-02-11T16:00:00",
+            "unbreakable": false
+        },
+        "nonSecure": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "outfit"
+        ],
+        "consumable": false,
+        "id": "UK_Outfit008",
+        "metaData": {
+            "character": "Gunslinger",
+            "discountPercentage": 0.1,
+            "items": [
+                "UK_Head008",
+                "UK_Body008",
+                "UK_W008"
+            ],
+            "newEndDate": "2021-02-25T15:59:59",
+            "newStartDate": "2021-02-11T16:00:00",
+            "unbreakable": false
+        },
+        "nonSecure": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "outfit"
+        ],
+        "consumable": false,
+        "id": "MS_Outfit_14",
+        "metaData": {
+            "character": "Jane",
+            "discountPercentage": 0.1,
+            "items": [
+                "MS_Head014",
+                "MS_Torso014",
+                "MS_Legs014"
+            ],
+            "newEndDate": "2021-03-19T15:59:59",
+            "newStartDate": "2021-03-05T16:00:00",
+            "unbreakable": false
+        },
+        "nonSecure": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "outfit"
+        ],
+        "consumable": false,
+        "id": "GS_Outfit_14",
+        "metaData": {
+            "character": "Kate",
+            "discountPercentage": 0.1,
+            "items": [
+                "GS_Head014",
+                "GS_Torso014",
+                "GS_Legs014"
+            ],
+            "newEndDate": "2021-03-19T15:59:59",
+            "newStartDate": "2021-03-05T16:00:00",
+            "unbreakable": false
+        },
+        "nonSecure": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "outfit"
+        ],
+        "consumable": false,
+        "id": "MT_Outfit_15",
+        "metaData": {
+            "character": "Meg",
+            "discountPercentage": 0.1,
+            "items": [
+                "MT_Head015",
+                "MT_Torso015",
+                "MT_Legs015"
+            ],
+            "newEndDate": "2021-03-19T15:59:59",
+            "newStartDate": "2021-03-05T16:00:00",
+            "unbreakable": false
+        },
+        "nonSecure": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "outfit"
+        ],
+        "consumable": false,
+        "id": "NK_Outfit_14",
+        "metaData": {
+            "character": "Nea",
+            "discountPercentage": 0.1,
+            "items": [
+                "NK_Head014",
+                "NK_Torso014",
+                "NK_Legs014"
+            ],
+            "newEndDate": "2021-03-19T15:59:59",
+            "newStartDate": "2021-03-05T16:00:00",
             "unbreakable": false
         },
         "nonSecure": false,

@@ -31,7 +31,7 @@
         "keyName": "SOCIAL_PLATFORM_FRIENDLIST_QUERY_RATE"
     },
     {
-        "value": "false",
+        "value": "true",
         "keyName": "DDOS_DETECTION"
     },
     {
@@ -202,7 +202,6 @@
                 "GameEventLogAnalytics",
                 "GameInitAnalytics",
                 "InteractionAnalytics",
-                "InvalidLoadoutAnalytics",
                 "KrakenRequestAnalytics",
                 "LogMirrorsAnalytics",
                 "S3CommandErrorAnalytics",
@@ -248,9 +247,12 @@
                 "DedicatedServerStatusAnalytics",
                 "DisconnectionDetailsAnalytics",
                 "FrameHikeAnalytics",
+                "InvalidLoadoutAnalytics",
                 "LevelLoadingStepAnalytics",
                 "LevelLoadingTimeoutAnalytics",
                 "PerformanceAnalytics",
+                "PostGame_KillerAnalytics",
+                "PostGame_SurvivorAnalytics",
                 "S3CommandAnalytics"
             ]
         },
@@ -358,11 +360,11 @@
     {
         "value": {
             "ps4": false,
-            "stadia": true,
+            "stadia": false,
             "grdk": false,
             "ps5": false,
             "android": false,
-            "steam": true,
+            "steam": false,
             "xbox": false,
             "ios": false,
             "xsx": false,
@@ -380,6 +382,7 @@
                 "AtlantaPerkSelectionAnalytics",
                 "AtlantaPlayerLevelAnalytics",
                 "AtlantaPurchasePopupAnalytics",
+                "AtlantaQuitGameAnalytics",
                 "AtlantaSessionStartAnalytics",
                 "AtlantaSurvivorTutorialAnalytics",
                 "BloodMarketAdsAnalytics",
@@ -412,7 +415,6 @@
                 "GameInitAnalytics",
                 "HeartbeatPerfAnalytics",
                 "InteractionAnalytics",
-                "InvalidLoadoutAnalytics",
                 "KrakenRequestAnalytics",
                 "LogAnalytics",
                 "LogMirrorsAnalytics",
@@ -423,6 +425,7 @@
                 "MatchmakingJoinSessionAnalytics",
                 "MatchmakingSearchCompleteAnalytics",
                 "MatchmakingSessionSpotReservationAnalytics",
+                "PartyJoinFailureAnalytics",
                 "S3CommandErrorAnalytics",
                 "SaveGameErrorAnalytics",
                 "SaveGameLoadResultAnalytics",
@@ -493,8 +496,6 @@
                 "MenuFlowAnalytics",
                 "PerkAcquisitionAnalytics",
                 "PlagueSurvivorAnalytics",
-                "PostGame_KillerAnalytics",
-                "PostGame_SurvivorAnalytics",
                 "ProceduralGenerationAnalytics",
                 "QueueAnalytics",
                 "ScoreAnalytics",
@@ -513,11 +514,14 @@
                 "CustomizationAnalytics",
                 "EnvironmentAnalytics",
                 "FrameHikeAnalytics",
+                "InvalidLoadoutAnalytics",
                 "LevelLoadingStepAnalytics",
                 "LevelLoadingTimeoutAnalytics",
                 "LoadOutAnalytics",
                 "MatchInfoAnalytics",
                 "PerformanceAnalytics",
+                "PostGame_KillerAnalytics",
+                "PostGame_SurvivorAnalytics",
                 "ReportAnalytics",
                 "S3CommandAnalytics",
                 "WalesCypherAnalytics"
@@ -601,6 +605,7 @@
             "4.4.0_365838ptb": "4.4.0_365838ptb-1605018959",
             "4.4.0_366086ptb": "4.4.0_366086ptb-1605034196",
             "4.4.0_381746ptb": "4.4.0_381746ptb-1608653531",
+            "4.4.0_384414ptb": "4.4.0_384414ptb-1610124629",
             "m_3.3.5_260791ptb": "m_3.3.5_260791ptb-1578947417",
             "m_3.3.5_281807ptb": "m_3.3.5_281807ptb-1584119023",
             "m_3.6.0_282086ptb": "m_3.6.0_282086ptb-1585750969"
