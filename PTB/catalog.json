@@ -23355,8 +23355,8 @@
             "base_itemId": "FM_Head010",
             "character": "Feng",
             "kind": "Customization",
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2020-12-28T15:59:59",
+            "newStartDate": "2020-12-14T16:00:00",
             "outfitId": "FM_outfit_010",
             "quality": "V0",
             "qualityName": "quality1",
@@ -23378,7 +23378,7 @@
         },
         "nonSecure": false,
         "premium": false,
-        "purchasable": false,
+        "purchasable": true,
         "unique": true
     },
     {
@@ -23401,8 +23401,8 @@
             "base_itemId": "FM_Torso010",
             "character": "Feng",
             "kind": "Customization",
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2020-12-28T15:59:59",
+            "newStartDate": "2020-12-14T16:00:00",
             "outfitId": "FM_outfit_010",
             "quality": "V0",
             "qualityName": "quality1",
@@ -23424,7 +23424,7 @@
         },
         "nonSecure": false,
         "premium": false,
-        "purchasable": false,
+        "purchasable": true,
         "unique": true
     },
     {
@@ -23447,8 +23447,8 @@
             "base_itemId": "FM_Legs010",
             "character": "Feng",
             "kind": "Customization",
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2020-12-28T15:59:59",
+            "newStartDate": "2020-12-14T16:00:00",
             "outfitId": "FM_outfit_010",
             "quality": "V0",
             "qualityName": "quality1",
@@ -23470,7 +23470,7 @@
         },
         "nonSecure": false,
         "premium": false,
-        "purchasable": false,
+        "purchasable": true,
         "unique": true
     },
     {
@@ -58896,8 +58896,8 @@
             "base_itemId": "GK_Head010",
             "character": "Clown",
             "kind": "Customization",
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2020-12-28T15:59:59",
+            "newStartDate": "2020-12-14T16:00:00",
             "outfitId": "GK_outfit_010",
             "quality": "V0",
             "qualityName": "quality1",
@@ -58919,7 +58919,7 @@
         },
         "nonSecure": false,
         "premium": false,
-        "purchasable": false,
+        "purchasable": true,
         "unique": true
     },
     {
@@ -58942,8 +58942,8 @@
             "base_itemId": "GK_Body010",
             "character": "Clown",
             "kind": "Customization",
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2020-12-28T15:59:59",
+            "newStartDate": "2020-12-14T16:00:00",
             "outfitId": "GK_outfit_010",
             "quality": "V0",
             "qualityName": "quality1",
@@ -58965,7 +58965,7 @@
         },
         "nonSecure": false,
         "premium": false,
-        "purchasable": false,
+        "purchasable": true,
         "unique": true
     },
     {
@@ -58988,8 +58988,8 @@
             "base_itemId": "GK_W010",
             "character": "Clown",
             "kind": "Customization",
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2020-12-28T15:59:59",
+            "newStartDate": "2020-12-14T16:00:00",
             "outfitId": "GK_outfit_010",
             "quality": "V0",
             "qualityName": "quality1",
@@ -59011,7 +59011,7 @@
         },
         "nonSecure": false,
         "premium": false,
-        "purchasable": false,
+        "purchasable": true,
         "unique": true
     },
     {
@@ -77654,144 +77654,6 @@
         "defaultCost": [
             {
                 "currencyId": "Cells",
-                "price": 550
-            }
-        ],
-        "eventCostList": [],
-        "id": "S22_Head008",
-        "initialQuantity": 0,
-        "metaData": {
-            "base_itemId": "S22_Head008",
-            "character": "S22",
-            "kind": "Customization",
-            "newEndDate": "2020-10-08T23:59:59",
-            "newStartDate": "2020-09-25T00:00:00",
-            "outfitId": "S22_outfit_008",
-            "quality": "V0",
-            "qualityName": "quality1",
-            "rarity": "Legendary",
-            "type": "Head",
-            "unbreakable": true,
-            "version": {
-                "grdk": true,
-                "nintendo": true,
-                "ps4": true,
-                "ps5": true,
-                "psn": true,
-                "stadia": true,
-                "steam": true,
-                "switch": true,
-                "xbox": true,
-                "xsx": true
-            }
-        },
-        "nonSecure": false,
-        "premium": false,
-        "purchasable": true,
-        "unique": true
-    },
-    {
-        "categories": [
-            "item"
-        ],
-        "consumable": false,
-        "consumptionCurrenciesList": [],
-        "consumptionObjectList": [],
-        "defaultCost": [
-            {
-                "currencyId": "Cells",
-                "price": 550
-            }
-        ],
-        "eventCostList": [],
-        "id": "S22_Torso008",
-        "initialQuantity": 0,
-        "metaData": {
-            "base_itemId": "S22_Torso008",
-            "character": "S22",
-            "kind": "Customization",
-            "newEndDate": "2020-10-08T23:59:59",
-            "newStartDate": "2020-09-25T00:00:00",
-            "outfitId": "S22_outfit_008",
-            "quality": "V0",
-            "qualityName": "quality1",
-            "rarity": "Legendary",
-            "type": "Torso",
-            "unbreakable": true,
-            "version": {
-                "grdk": true,
-                "nintendo": true,
-                "ps4": true,
-                "ps5": true,
-                "psn": true,
-                "stadia": true,
-                "steam": true,
-                "switch": true,
-                "xbox": true,
-                "xsx": true
-            }
-        },
-        "nonSecure": false,
-        "premium": false,
-        "purchasable": true,
-        "unique": true
-    },
-    {
-        "categories": [
-            "item"
-        ],
-        "consumable": false,
-        "consumptionCurrenciesList": [],
-        "consumptionObjectList": [],
-        "defaultCost": [
-            {
-                "currencyId": "Cells",
-                "price": 550
-            }
-        ],
-        "eventCostList": [],
-        "id": "S22_Legs008",
-        "initialQuantity": 0,
-        "metaData": {
-            "base_itemId": "S22_Legs008",
-            "character": "S22",
-            "kind": "Customization",
-            "newEndDate": "2020-10-08T23:59:59",
-            "newStartDate": "2020-09-25T00:00:00",
-            "outfitId": "S22_outfit_008",
-            "quality": "V0",
-            "qualityName": "quality1",
-            "rarity": "Legendary",
-            "type": "Legs",
-            "unbreakable": true,
-            "version": {
-                "grdk": true,
-                "nintendo": true,
-                "ps4": true,
-                "ps5": true,
-                "psn": true,
-                "stadia": true,
-                "steam": true,
-                "switch": true,
-                "xbox": true,
-                "xsx": true
-            }
-        },
-        "nonSecure": false,
-        "premium": false,
-        "purchasable": true,
-        "unique": true
-    },
-    {
-        "categories": [
-            "item"
-        ],
-        "consumable": false,
-        "consumptionCurrenciesList": [],
-        "consumptionObjectList": [],
-        "defaultCost": [
-            {
-                "currencyId": "Cells",
                 "price": 400
             }
         ],
@@ -80506,6 +80368,144 @@
         "defaultCost": [
             {
                 "currencyId": "Cells",
+                "price": 550
+            }
+        ],
+        "eventCostList": [],
+        "id": "S22_Head008",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "S22_Head008",
+            "character": "S22",
+            "kind": "Customization",
+            "newEndDate": "2020-10-09T14:59:59",
+            "newStartDate": "2020-09-25T15:00:00",
+            "outfitId": "S22_outfit_008",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "Legendary",
+            "type": "Head",
+            "unbreakable": true,
+            "version": {
+                "grdk": true,
+                "nintendo": true,
+                "ps4": true,
+                "ps5": true,
+                "psn": true,
+                "stadia": true,
+                "steam": true,
+                "switch": true,
+                "xbox": true,
+                "xsx": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 550
+            }
+        ],
+        "eventCostList": [],
+        "id": "S22_Torso008",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "S22_Torso008",
+            "character": "S22",
+            "kind": "Customization",
+            "newEndDate": "2020-10-09T14:59:59",
+            "newStartDate": "2020-09-25T15:00:00",
+            "outfitId": "S22_outfit_008",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "Legendary",
+            "type": "Torso",
+            "unbreakable": true,
+            "version": {
+                "grdk": true,
+                "nintendo": true,
+                "ps4": true,
+                "ps5": true,
+                "psn": true,
+                "stadia": true,
+                "steam": true,
+                "switch": true,
+                "xbox": true,
+                "xsx": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 550
+            }
+        ],
+        "eventCostList": [],
+        "id": "S22_Legs008",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "S22_Legs008",
+            "character": "S22",
+            "kind": "Customization",
+            "newEndDate": "2020-10-09T14:59:59",
+            "newStartDate": "2020-09-25T15:00:00",
+            "outfitId": "S22_outfit_008",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "Legendary",
+            "type": "Legs",
+            "unbreakable": true,
+            "version": {
+                "grdk": true,
+                "nintendo": true,
+                "ps4": true,
+                "ps5": true,
+                "psn": true,
+                "stadia": true,
+                "steam": true,
+                "switch": true,
+                "xbox": true,
+                "xsx": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
                 "price": 400
             }
         ],
@@ -80523,7 +80523,7 @@
             "qualityName": "quality1",
             "rarity": "VeryRare",
             "type": "Head",
-            "unbreakable": true,
+            "unbreakable": false,
             "version": {
                 "grdk": true,
                 "nintendo": true,
@@ -80569,7 +80569,7 @@
             "qualityName": "quality1",
             "rarity": "VeryRare",
             "type": "Torso",
-            "unbreakable": true,
+            "unbreakable": false,
             "version": {
                 "grdk": true,
                 "nintendo": true,
@@ -80615,7 +80615,7 @@
             "qualityName": "quality1",
             "rarity": "VeryRare",
             "type": "Weapon",
-            "unbreakable": true,
+            "unbreakable": false,
             "version": {
                 "grdk": true,
                 "nintendo": true,
@@ -80654,8 +80654,8 @@
             "base_itemId": "S24_Head02",
             "character": "S24",
             "kind": "Customization",
-            "newEndDate": "2020-12-15T15:59:59",
-            "newStartDate": "2020-12-01T16:00:00",
+            "newEndDate": "2019-12-15T15:59:59",
+            "newStartDate": "2019-12-01T16:00:00",
             "outfitId": "S24_outfit_02",
             "quality": "V0",
             "qualityName": "quality1",
@@ -80700,8 +80700,8 @@
             "base_itemId": "S24_Torso02",
             "character": "S24",
             "kind": "Customization",
-            "newEndDate": "2020-12-15T15:59:59",
-            "newStartDate": "2020-12-01T16:00:00",
+            "newEndDate": "2019-12-15T15:59:59",
+            "newStartDate": "2019-12-01T16:00:00",
             "outfitId": "S24_outfit_02",
             "quality": "V0",
             "qualityName": "quality1",
@@ -80746,8 +80746,8 @@
             "base_itemId": "S24_Legs02",
             "character": "S24",
             "kind": "Customization",
-            "newEndDate": "2020-12-15T15:59:59",
-            "newStartDate": "2020-12-01T16:00:00",
+            "newEndDate": "2019-12-15T15:59:59",
+            "newStartDate": "2019-12-01T16:00:00",
             "outfitId": "S24_outfit_02",
             "quality": "V0",
             "qualityName": "quality1",
@@ -81792,8 +81792,8 @@
             "base_itemId": "S24_Torso01_01",
             "character": "S24",
             "kind": "Customization",
-            "newEndDate": "2020-12-15T15:59:59",
-            "newStartDate": "2020-12-01T16:00:00",
+            "newEndDate": "2018-06-25T23:59:59",
+            "newStartDate": "2018-06-12T00:00:00",
             "quality": "V0",
             "qualityName": "quality1",
             "rarity": "Common",
@@ -84584,6 +84584,198 @@
             "qualityName": "quality1",
             "rarity": "Rare",
             "type": "Torso",
+            "version": {
+                "grdk": true,
+                "nintendo": true,
+                "ps4": true,
+                "ps5": true,
+                "psn": true,
+                "stadia": true,
+                "steam": true,
+                "switch": true,
+                "xbox": true,
+                "xsx": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": false,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 400
+            },
+            {
+                "currencyId": "Shards",
+                "price": 7200
+            }
+        ],
+        "eventCostList": [],
+        "id": "S23_Head01_4A",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "S23_Head01_4A",
+            "character": "S23",
+            "kind": "Customization",
+            "newEndDate": "2019-12-15T15:59:59",
+            "newStartDate": "2019-12-01T16:00:00",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "SpecialEvent",
+            "type": "Head",
+            "version": {
+                "grdk": true,
+                "nintendo": true,
+                "ps4": true,
+                "ps5": true,
+                "psn": true,
+                "stadia": true,
+                "steam": true,
+                "switch": true,
+                "xbox": true,
+                "xsx": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": false,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 400
+            },
+            {
+                "currencyId": "Shards",
+                "price": 7200
+            }
+        ],
+        "eventCostList": [],
+        "id": "S24_Head01_4A",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "S24_Head01_4A",
+            "character": "S24",
+            "kind": "Customization",
+            "newEndDate": "2019-12-15T15:59:59",
+            "newStartDate": "2019-12-01T16:00:00",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "SpecialEvent",
+            "type": "Head",
+            "version": {
+                "grdk": true,
+                "nintendo": true,
+                "ps4": true,
+                "ps5": true,
+                "psn": true,
+                "stadia": true,
+                "steam": true,
+                "switch": true,
+                "xbox": true,
+                "xsx": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": false,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 400
+            },
+            {
+                "currencyId": "Shards",
+                "price": 7200
+            }
+        ],
+        "eventCostList": [],
+        "id": "K21_Head01_4A",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "K21_Head01_4A",
+            "character": "K21",
+            "kind": "Customization",
+            "newEndDate": "2019-12-15T15:59:59",
+            "newStartDate": "2019-12-01T16:00:00",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "SpecialEvent",
+            "type": "Head",
+            "version": {
+                "grdk": true,
+                "nintendo": true,
+                "ps4": true,
+                "ps5": true,
+                "psn": true,
+                "stadia": true,
+                "steam": true,
+                "switch": true,
+                "xbox": true,
+                "xsx": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": false,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 400
+            },
+            {
+                "currencyId": "Shards",
+                "price": 7200
+            }
+        ],
+        "eventCostList": [],
+        "id": "K22_Head01_4A",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "K22_Head01_4A",
+            "character": "K22",
+            "kind": "Customization",
+            "newEndDate": "2019-12-15T15:59:59",
+            "newStartDate": "2019-12-01T16:00:00",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "SpecialEvent",
+            "type": "Head",
             "version": {
                 "grdk": true,
                 "nintendo": true,
@@ -92852,6 +93044,12 @@
                     "discountPercentage": 0.7,
                     "endDate": "2020-10-14T18:00:00",
                     "startDate": "2020-10-14T17:00:00"
+                },
+                {
+                    "currencyId": "Cells",
+                    "discountPercentage": 0.2,
+                    "endDate": "2021-01-11T16:00:00",
+                    "startDate": "2021-01-04T16:00:00"
                 }
             ],
             "unbreakable": false
@@ -93382,6 +93580,14 @@
             ],
             "newEndDate": "2020-01-01T15:59:59",
             "newStartDate": "2019-12-18T16:00:00",
+            "temporaryDiscounts": [
+                {
+                    "currencyId": "Cells",
+                    "discountPercentage": 0.2,
+                    "endDate": "2021-01-11T16:00:00",
+                    "startDate": "2021-01-04T16:00:00"
+                }
+            ],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -93894,6 +94100,12 @@
                     "discountPercentage": 0.9,
                     "endDate": "2020-10-14T18:00:00",
                     "startDate": "2020-10-14T17:00:00"
+                },
+                {
+                    "currencyId": "Cells",
+                    "discountPercentage": 0.35,
+                    "endDate": "2021-01-11T16:00:00",
+                    "startDate": "2021-01-04T16:00:00"
                 }
             ],
             "unbreakable": false
@@ -94366,6 +94578,14 @@
             ],
             "newEndDate": "2020-06-05T14:59:59",
             "newStartDate": "2020-05-22T15:00:00",
+            "temporaryDiscounts": [
+                {
+                    "currencyId": "Cells",
+                    "discountPercentage": 0.35,
+                    "endDate": "2021-01-11T16:00:00",
+                    "startDate": "2021-01-04T16:00:00"
+                }
+            ],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -94779,6 +94999,14 @@
             ],
             "newEndDate": "2020-01-06T15:59:59",
             "newStartDate": "2019-12-23T16:00:00",
+            "temporaryDiscounts": [
+                {
+                    "currencyId": "Cells",
+                    "discountPercentage": 0.5,
+                    "endDate": "2021-01-11T16:00:00",
+                    "startDate": "2021-01-04T16:00:00"
+                }
+            ],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -94861,6 +95089,14 @@
             ],
             "newEndDate": "2018-06-12T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [
+                {
+                    "currencyId": "Cells",
+                    "discountPercentage": 0.5,
+                    "endDate": "2021-01-11T16:00:00",
+                    "startDate": "2021-01-04T16:00:00"
+                }
+            ],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -95641,12 +95877,12 @@
                 "FM_Torso010",
                 "FM_Legs010"
             ],
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2020-12-28T15:59:59",
+            "newStartDate": "2020-12-14T16:00:00",
             "unbreakable": false
         },
         "nonSecure": false,
-        "purchasable": false,
+        "purchasable": true,
         "unique": true
     },
     {
@@ -95665,6 +95901,14 @@
             ],
             "newEndDate": "2020-04-22T14:59:59",
             "newStartDate": "2020-04-08T15:00:00",
+            "temporaryDiscounts": [
+                {
+                    "currencyId": "Cells",
+                    "discountPercentage": 0.2,
+                    "endDate": "2021-01-11T16:00:00",
+                    "startDate": "2021-01-04T16:00:00"
+                }
+            ],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -96452,6 +96696,14 @@
             ],
             "newEndDate": "2019-09-18T14:59:59",
             "newStartDate": "2019-09-04T15:00:00",
+            "temporaryDiscounts": [
+                {
+                    "currencyId": "Cells",
+                    "discountPercentage": 0.2,
+                    "endDate": "2021-01-11T16:00:00",
+                    "startDate": "2021-01-04T16:00:00"
+                }
+            ],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -97863,6 +98115,14 @@
             ],
             "newEndDate": "2020-01-06T15:59:59",
             "newStartDate": "2019-12-23T16:00:00",
+            "temporaryDiscounts": [
+                {
+                    "currencyId": "Cells",
+                    "discountPercentage": 0.75,
+                    "endDate": "2021-01-11T16:00:00",
+                    "startDate": "2021-01-04T16:00:00"
+                }
+            ],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -98145,6 +98405,14 @@
             ],
             "newEndDate": "2020-04-15T14:59:59",
             "newStartDate": "2020-04-01T15:00:00",
+            "temporaryDiscounts": [
+                {
+                    "currencyId": "Cells",
+                    "discountPercentage": 0.75,
+                    "endDate": "2021-01-11T16:00:00",
+                    "startDate": "2021-01-04T16:00:00"
+                }
+            ],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -98233,6 +98501,14 @@
             ],
             "newEndDate": "2020-06-30T14:59:59",
             "newStartDate": "2020-06-16T15:00:00",
+            "temporaryDiscounts": [
+                {
+                    "currencyId": "Cells",
+                    "discountPercentage": 0.2,
+                    "endDate": "2021-01-11T16:00:00",
+                    "startDate": "2021-01-04T16:00:00"
+                }
+            ],
             "unbreakable": true
         },
         "nonSecure": false,
@@ -98605,6 +98881,14 @@
             ],
             "newEndDate": "2018-06-12T23:59:59",
             "newStartDate": "2018-06-12T00:00:00",
+            "temporaryDiscounts": [
+                {
+                    "currencyId": "Cells",
+                    "discountPercentage": 0.75,
+                    "endDate": "2021-01-11T16:00:00",
+                    "startDate": "2021-01-04T16:00:00"
+                }
+            ],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -99207,6 +99491,14 @@
             ],
             "newEndDate": "2020-01-12T15:59:59",
             "newStartDate": "2019-12-29T16:00:00",
+            "temporaryDiscounts": [
+                {
+                    "currencyId": "Cells",
+                    "discountPercentage": 0.75,
+                    "endDate": "2021-01-11T16:00:00",
+                    "startDate": "2021-01-04T16:00:00"
+                }
+            ],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -100528,6 +100820,14 @@
             ],
             "newEndDate": "2020-01-01T15:59:59",
             "newStartDate": "2019-12-18T16:00:00",
+            "temporaryDiscounts": [
+                {
+                    "currencyId": "Cells",
+                    "discountPercentage": 0.5,
+                    "endDate": "2021-01-11T16:00:00",
+                    "startDate": "2021-01-04T16:00:00"
+                }
+            ],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -100790,12 +101090,12 @@
                 "GK_Body010",
                 "GK_W010"
             ],
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2020-12-28T15:59:59",
+            "newStartDate": "2020-12-14T16:00:00",
             "unbreakable": false
         },
         "nonSecure": false,
-        "purchasable": false,
+        "purchasable": true,
         "unique": true
     },
     {
@@ -102308,6 +102608,14 @@
             ],
             "newEndDate": "2020-01-06T15:59:59",
             "newStartDate": "2019-12-23T16:00:00",
+            "temporaryDiscounts": [
+                {
+                    "currencyId": "Cells",
+                    "discountPercentage": 0.75,
+                    "endDate": "2021-01-11T16:00:00",
+                    "startDate": "2021-01-04T16:00:00"
+                }
+            ],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -102568,6 +102876,14 @@
             ],
             "newEndDate": "2020-04-15T14:59:59",
             "newStartDate": "2020-04-01T15:00:00",
+            "temporaryDiscounts": [
+                {
+                    "currencyId": "Cells",
+                    "discountPercentage": 0.5,
+                    "endDate": "2021-01-11T16:00:00",
+                    "startDate": "2021-01-04T16:00:00"
+                }
+            ],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -102730,6 +103046,14 @@
             ],
             "newEndDate": "2020-08-18T14:59:59",
             "newStartDate": "2020-08-04T15:00:00",
+            "temporaryDiscounts": [
+                {
+                    "currencyId": "Cells",
+                    "discountPercentage": 0.35,
+                    "endDate": "2021-01-11T16:00:00",
+                    "startDate": "2021-01-04T16:00:00"
+                }
+            ],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -102796,6 +103120,14 @@
             ],
             "newEndDate": "2020-09-04T14:59:59",
             "newStartDate": "2020-08-21T15:00:00",
+            "temporaryDiscounts": [
+                {
+                    "currencyId": "Cells",
+                    "discountPercentage": 0.2,
+                    "endDate": "2021-01-11T16:00:00",
+                    "startDate": "2021-01-04T16:00:00"
+                }
+            ],
             "unbreakable": true
         },
         "nonSecure": false,
@@ -103060,6 +103392,14 @@
             ],
             "newEndDate": "2020-09-21T23:59:59",
             "newStartDate": "2020-09-08T00:00:00",
+            "temporaryDiscounts": [
+                {
+                    "currencyId": "Cells",
+                    "discountPercentage": 0.35,
+                    "endDate": "2021-01-11T16:00:00",
+                    "startDate": "2021-01-04T16:00:00"
+                }
+            ],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -103543,8 +103883,8 @@
                 "S22_Torso008",
                 "S22_Legs008"
             ],
-            "newEndDate": "2020-10-08T23:59:59",
-            "newStartDate": "2020-09-25T00:00:00",
+            "newEndDate": "2020-10-09T14:59:59",
+            "newStartDate": "2020-09-25T15:00:00",
             "unbreakable": true
         },
         "nonSecure": false,
@@ -103985,7 +104325,7 @@
             ],
             "newEndDate": "2020-11-27T15:59:59",
             "newStartDate": "2020-11-13T16:00:00",
-            "unbreakable": true
+            "unbreakable": false
         },
         "nonSecure": false,
         "purchasable": true,

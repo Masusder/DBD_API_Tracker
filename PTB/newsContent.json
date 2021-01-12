@@ -4,46 +4,46 @@
             "contentTags": [
                 "steam"
             ],
-            "description": "The Dead by Daylight team would like your feedback in a PTB Feedback survey.<br/><br/>We encourage you to be as honest as possible in letting us know how you feel about the build. The information and answers provided are anonymous&#44; not shared with any third&#45;party&#44; and will not be used for purposes other than survey analysis.<br/><br/>Access the survey <a href=\"event:https://www.surveymonkey.com/r/DbD-PTB18\"><font color=\"#ff0000\"><u>HERE&#33;</u></font></a>",
+            "description": "The Dead by Daylight team would like your feedback in a PTB Feedback survey.<br/><br/>We encourage you to be as honest as possible in letting us know how you feel about the build. The information and answers provided are anonymous&#44; not shared with any third&#45;party&#44; and will not be used for purposes other than survey analysis.<br/><br/>Access the survey HERE:<a href=\"event:https://www.surveymonkey.com/r/DbD-PTBJ21\"><font color=\"#ff0000\"><u>https://www.surveymonkey.com/r/DbD-PTBJ21</u></font></a>",
             "dwnImagePath": "",
             "imageHeight": "",
             "imagePath": "",
             "isHidden": false,
-            "startDate": "2020-11-11T16:00:00",
+            "startDate": "2021-01-12T19:00:00",
             "title": "PTB FEEDBACK SURVEY",
             "type": 4,
             "version": "4.4.0",
-            "weight": 865.0
+            "weight": 902.0
         },
         {
             "contentTags": [
                 "steam"
             ],
-            "description": "Welcome to the Public Test Build for Mid&#45;Chapter 18&#33; Please read the below for a quick summary of the new content you&#39;ll find during this PTB.<br/><br/>For a full list of patch notes&#44; <a href=\"event:https://forum.deadbydaylight.com/en/kb/patchnotes\"><font color=\"#ff0000\"><u>click HERE</u></font></a>.<br/><br/><span class=\"Heading2\">FEATURES &#38; CONTENT</span><br/><b>New Characters</b><li>Added A New Killer &#45; The Twins</li><li>Added a New Survivor &#45; &#201;lodie Rakoto</li><br/><br/><b>Visual Update</b><li>Visual updates to maps in Ormond and Junkyard. &#40;Appearance rate increased for these maps&#41;</li><li>Visual update to the Hatch and Totem.</li><li>Visual update on the Twins Lobby.</li><br/><br/><span class=\"Heading2\">BUG FIXES</span><br/><li>Fixed an issue that caused the player Cloud ID to be missing from the ban message.</li><li>Fixed an issue that caused daily rituals to be consumed even if the claim of bloodpoints for a completed daily ritual failed.</li><li>Fixed an issue that caused unavailable Archives cosmetics to appear on the Feature Store section if all the cosmetics were already purchased.</li><li>Fixed an issue that caused a short freeze when opening a chest.</li><br/><br/><span class=\"Heading2\">KNOWN ISSUES</span><br/><b>General</b><li>When Victor is not controlled&#44; the animation and sounds are work in progress.</li><li>During End Game Collapse&#44; when Victor is on a Survivor&#39;s back&#44; the Exit Gate Spikes effect are not properly blocking the Survivor.</li><li>Victor should not receive Bloodlust movement speed increase.</li><li>If a Survivor gets pounced on by Victor during the entering Locker animation&#44; the animation is not cancelled and he still enters the locker with Victor.</li><br/><br/><b>Perks</b><li>Coup de Grace: Missing visual feedback when performing a modified lunge attack</li><li>Hoarder&#58; The perk currently does not spawn extra chests</li><li>Hoarder&#58; The perk currently does not reduce the rarity of items found in chests.</li><li>Oppression&#58; The cooldown isn&#39;t properly being applied</li><li>Appraisal&#58; The rummage action is affected by perks that increase unlocking speed</li><li>Appraisal&#58; The score event granted upon completing the rummage action is missing its name</li><li>Deception&#58; There is no audio playing when the locker door opens/closes</li><li>Deception&#58; The UI does not function as intended</li><li>Power Struggle&#58; The perk can&#39;t be used while actively wiggling</li>",
+            "description": "Welcome to the Public Test Build for Mid&#45;Chapter 18.5&#33; Please read the below for a quick summary of the new content you&#39;ll find during this PTB.<br/><br/>For a full list of patch notes&#44; <a href=\"event:https://forum.deadbydaylight.com/en/kb/patchnotes\"><font color=\"#ff0000\"><u>click HERE: https://forum.deadbydaylight.com/en/kb/patchnotes</u></font></a>.<br/><br/><span class=\"Heading2\">FEATURES</span><br/><li>New HUD Layout & Elements</li><li>UI Scale Sliders</li><li>New Survivor Locomotion Animations</li><br/><b>Clown Gameplay Update</b><li>Clown now has two types of bottles: Tonic and Antidote.</li><li>Reload time is now 3 seconds (down from 5 seconds)</li><br/><b>Live Balance</b><li>The Trapper &#45; Escaping from a Bear Trap now has a 16.6% chance of succeeding on each attempt&#44; but are capped at a maximum of 6 attempts</li><li>The Wraith &#45; While cloaked&#44; the Wraith is completely invisible (no shimmer) to Survivors when more than 24m away</li><li>Hex: Undying &#45; While Hex: Undying is active&#44; Survivors within 2/3/4 meters of any Dull Totem have their Aura revealed.</li><li>Fixated: Now works while healthy</li><li>Iron Maiden: Effect lasts 30 seconds</li><li>Second Wind: Durations now 28/24/20 seconds</li><br/><br/><span class=\"Heading2\">CONTENT</span><br/><br/><b>Bug Fixes</b><li>Add&#45;ons no longer show up on the Perk diamond shape when they are displayed as an external effect on the HUD. (The smaller icons to the left of the equipped perks.)</li><li>Fixed a bug where the map name in the intro sequence could get stuck on screen.</li><li>Fixed an issue where the HUD would sometimes be covered in a large red texture.</li><li>Removed walls from the top floor middle section of the Gideon Meat Plant to increase visibility in the map.</li><li>Fixed an issue that may cause survivors to get stuck or launched when dropping a pallet in an area with multiple survivors.</li><li>Fixed an issue that would cause the Deathslinger to move at reduced speed when stunned while shooting.</li><li>Fixed an issue that may cause survivors to become stuck when the drop a pallet on the killer with the Power Struggle perk.</li><li>Fixed an issue that caused survivors to perform a failed skill check animation when starting an interaction with a new object after failing a skill check during their previous interaction.</li><li>Fixed an issue that may cause the Demogorgon to become stuck after using a portal.</li><br/><b>Visual Update</b><li>Visual updates to maps in Gideon Meat Plant and Asylum.</li><li>Updated model&#44; textures and VFX on 4 Nurse outfits.</li><li>Update model and texture on the Clown base outfit.</li><br/><br/><span class=\"Heading2\">KNOWN ISSUES</span><br/><li>Add&#45;ons displayed as external effects do not properly show the buff/debuff color</li><li>When hitting Meg Thomas in the first step of the Killer Tutorial&#44; the game crashes. If you pick her up and don&#39;t slash her&#44; the game does not crash.</li>",
             "dwnImagePath": "",
             "imageHeight": "",
             "imagePath": "",
             "isHidden": false,
-            "startDate": "2020-11-10T16:00:00",
+            "startDate": "2021-01-12T16:00:00",
             "title": "CHAPTER 18 PTB",
             "type": 2,
             "version": "4.4.0",
-            "weight": 850.0
+            "weight": 901.0
         },
         {
             "contentTags": [
                 "steam"
             ],
-            "description": "People of The Fog&#44; <br/><br/>Thank you for participating in the Player Test Build&#33;<br/><br/>Here&#39;s a few things to know about your save data &#38; progress in the Player Test Build&#58;<li>Your personal profile (save data&#44; inventory&#44; currencies) has been copied from the Live servers to the PTB servers on <b>November 6th&#44; 2020 at 11:43 AM EST</b>. Any progress or purchases made on the Live servers after this date will not be reflected on the PTB.</li><li>All progress made during the PTB <b>will not</b> be transferred over to the Live servers.</li><br/>You can leave feedback of your experience here&#58; <br/><a href=\"event:https://forum.deadbydaylight.com/en/categories/4-4-0-ptb-feedback\"><font color=\"#ff0000\">forum.deadbydaylight.com/en/categories/4-4-0-ptb-feedback</font></a><br/>See you in The Fog.<br/><br/>&#45;The Dead by Daylight team",
+            "description": "People of The Fog&#44; <br/><br/>Thank you for participating in the Player Test Build&#33;<br/><br/>Here&#39;s a few things to know about your save data &#38; progress in the Player Test Build&#58;<li>Your personal profile (save data&#44; inventory&#44; currencies) has been copied from the Live servers to the PTB servers on <b>January 7th&#44; 2021 at 15:24 AM ET</b>. Any progress or purchases made on the Live servers after this date will not be reflected on the PTB.</li><li>All progress made during the PTB <b>will not</b> be transferred over to the Live servers.</li><br/>You can leave feedback of your experience here&#58; <br/><a href=\"event:http://bit.ly/450ptbF\"><font color=\"#ff0000\">http://bit.ly/450ptbF</font></a><br/>You can report bugs here&#58; <br/><a href=\"event:http://bit.ly/450ptbBR\"><font color=\"#ff0000\">http://bit.ly/450ptbBR</font></a><br/>See you in The Fog.<br/><br/>&#45;The Dead by Daylight team",
             "dwnImagePath": "",
             "imageHeight": "",
             "imagePath": "",
             "isHidden": false,
-            "startDate": "2020-11-10T16:00:00",
+            "startDate": "2021-01-12T16:00:00",
             "title": "PTB - Save Game &#38; Progress",
             "type": 4,
             "version": "4.4.0",
-            "weight": 840.0
+            "weight": 900.0
         }
     ]
 }
