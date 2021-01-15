@@ -1364,15 +1364,26 @@
         },
         {
             "id": "CM_outfit_011",
-            "defaultCost": [],
+            "defaultCost": [
+                {
+                    "currencyId": "Cells",
+                    "price": 1080,
+                    "discountPercentage": 0.1
+                },
+                {
+                    "currencyId": "Shards",
+                    "price": 21600,
+                    "discountPercentage": 0
+                }
+            ],
             "character": "Claudette",
             "storeItems": [
                 "CM_Head011",
                 "CM_Torso011",
                 "CM_Legs011"
             ],
-            "newStartDate": "2018-06-12T00:00:00",
-            "newEndDate": "2018-06-25T23:59:59"
+            "newStartDate": "2021-01-15T16:00:00",
+            "newEndDate": "2021-01-29T15:59:59"
         },
         {
             "id": "CM_outfit_013",
@@ -5795,15 +5806,26 @@
         },
         {
             "id": "TR_outfit_009",
-            "defaultCost": [],
+            "defaultCost": [
+                {
+                    "currencyId": "Cells",
+                    "price": 1080,
+                    "discountPercentage": 0.1
+                },
+                {
+                    "currencyId": "Shards",
+                    "price": 21600,
+                    "discountPercentage": 0
+                }
+            ],
             "character": "Chuckles",
             "storeItems": [
                 "TR_Mask009",
                 "TR_Body009",
                 "TR_W009"
             ],
-            "newStartDate": "2018-06-12T00:00:00",
-            "newEndDate": "2018-06-25T23:59:59"
+            "newStartDate": "2021-01-15T16:00:00",
+            "newEndDate": "2021-01-29T15:59:59"
         },
         {
             "id": "TR_outfit_011_01",

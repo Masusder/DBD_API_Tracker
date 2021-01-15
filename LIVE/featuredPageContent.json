@@ -624,7 +624,7 @@
                 "startDate": "2021-01-04T16:00:00"
             },
             {
-                "endDate": "2021-02-11T15:59:59",
+                "endDate": "2021-01-15T16:59:59",
                 "ids": [
                     "Banner_ACF",
                     "Banner_AJC",
@@ -633,6 +633,28 @@
                     "Banner_AS24"
                 ],
                 "startDate": "2021-01-11T16:00:00"
+            },
+            {
+                "endDate": "2021-01-21T15:59:59",
+                "ids": [
+                    "Banner_ACT",
+                    "Banner_ACF",
+                    "Banner_AJC",
+                    "Banner_ADAZ",
+                    "Banner_AT"
+                ],
+                "startDate": "2021-01-15T17:00:00"
+            },
+            {
+                "endDate": "2021-02-02T15:59:59",
+                "ids": [
+                    "Banner_AJW",
+                    "Banner_ACT",
+                    "Banner_ACF",
+                    "Banner_AJC",
+                    "Banner_ADAZ"
+                ],
+                "startDate": "2021-01-22T16:00:00"
             }
         ],
         "right": [

@@ -11250,6 +11250,10 @@
             {
                 "currencyId": "Cells",
                 "price": 400
+            },
+            {
+                "currencyId": "Shards",
+                "price": 7200
             }
         ],
         "eventCostList": [],
@@ -11259,8 +11263,8 @@
             "base_itemId": "CM_Head011",
             "character": "Claudette",
             "kind": "Customization",
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2021-01-29T15:59:59",
+            "newStartDate": "2021-01-15T16:00:00",
             "outfitId": "CM_outfit_011",
             "quality": "V0",
             "qualityName": "quality1",
@@ -11282,7 +11286,7 @@
         },
         "nonSecure": false,
         "premium": false,
-        "purchasable": false,
+        "purchasable": true,
         "unique": true
     },
     {
@@ -11296,6 +11300,10 @@
             {
                 "currencyId": "Cells",
                 "price": 400
+            },
+            {
+                "currencyId": "Shards",
+                "price": 7200
             }
         ],
         "eventCostList": [],
@@ -11305,8 +11313,8 @@
             "base_itemId": "CM_Torso011",
             "character": "Claudette",
             "kind": "Customization",
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2021-01-29T15:59:59",
+            "newStartDate": "2021-01-15T16:00:00",
             "outfitId": "CM_outfit_011",
             "quality": "V0",
             "qualityName": "quality1",
@@ -11328,7 +11336,7 @@
         },
         "nonSecure": false,
         "premium": false,
-        "purchasable": false,
+        "purchasable": true,
         "unique": true
     },
     {
@@ -11342,6 +11350,10 @@
             {
                 "currencyId": "Cells",
                 "price": 400
+            },
+            {
+                "currencyId": "Shards",
+                "price": 7200
             }
         ],
         "eventCostList": [],
@@ -11351,8 +11363,8 @@
             "base_itemId": "CM_Legs011",
             "character": "Claudette",
             "kind": "Customization",
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2021-01-29T15:59:59",
+            "newStartDate": "2021-01-15T16:00:00",
             "outfitId": "CM_outfit_011",
             "quality": "V0",
             "qualityName": "quality1",
@@ -11374,7 +11386,7 @@
         },
         "nonSecure": false,
         "premium": false,
-        "purchasable": false,
+        "purchasable": true,
         "unique": true
     },
     {
@@ -43073,6 +43085,10 @@
             {
                 "currencyId": "Cells",
                 "price": 400
+            },
+            {
+                "currencyId": "Shards",
+                "price": 7200
             }
         ],
         "eventCostList": [],
@@ -43082,8 +43098,8 @@
             "base_itemId": "TR_Mask009",
             "character": "Chuckles",
             "kind": "Customization",
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2021-01-29T15:59:59",
+            "newStartDate": "2021-01-15T16:00:00",
             "outfitId": "TR_outfit_009",
             "quality": "V0",
             "qualityName": "quality1",
@@ -43105,7 +43121,7 @@
         },
         "nonSecure": false,
         "premium": false,
-        "purchasable": false,
+        "purchasable": true,
         "unique": true
     },
     {
@@ -43119,6 +43135,10 @@
             {
                 "currencyId": "Cells",
                 "price": 400
+            },
+            {
+                "currencyId": "Shards",
+                "price": 7200
             }
         ],
         "eventCostList": [],
@@ -43128,8 +43148,8 @@
             "base_itemId": "TR_Body009",
             "character": "Chuckles",
             "kind": "Customization",
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2021-01-29T15:59:59",
+            "newStartDate": "2021-01-15T16:00:00",
             "outfitId": "TR_outfit_009",
             "quality": "V0",
             "qualityName": "quality1",
@@ -43151,7 +43171,7 @@
         },
         "nonSecure": false,
         "premium": false,
-        "purchasable": false,
+        "purchasable": true,
         "unique": true
     },
     {
@@ -43165,6 +43185,10 @@
             {
                 "currencyId": "Cells",
                 "price": 400
+            },
+            {
+                "currencyId": "Shards",
+                "price": 7200
             }
         ],
         "eventCostList": [],
@@ -43174,8 +43198,8 @@
             "base_itemId": "TR_W009",
             "character": "Chuckles",
             "kind": "Customization",
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2021-01-29T15:59:59",
+            "newStartDate": "2021-01-15T16:00:00",
             "outfitId": "TR_outfit_009",
             "quality": "V0",
             "qualityName": "quality1",
@@ -43197,7 +43221,7 @@
         },
         "nonSecure": false,
         "premium": false,
-        "purchasable": false,
+        "purchasable": true,
         "unique": true
     },
     {
@@ -94048,12 +94072,12 @@
                 "CM_Torso011",
                 "CM_Legs011"
             ],
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2021-01-29T15:59:59",
+            "newStartDate": "2021-01-15T16:00:00",
             "unbreakable": false
         },
         "nonSecure": false,
-        "purchasable": false,
+        "purchasable": true,
         "unique": true
     },
     {
@@ -98829,12 +98853,12 @@
                 "TR_Body009",
                 "TR_W009"
             ],
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2021-01-29T15:59:59",
+            "newStartDate": "2021-01-15T16:00:00",
             "unbreakable": false
         },
         "nonSecure": false,
-        "purchasable": false,
+        "purchasable": true,
         "unique": true
     },
     {

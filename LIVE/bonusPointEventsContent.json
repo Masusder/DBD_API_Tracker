@@ -83,6 +83,13 @@
             "eventType": 0,
             "multiplier": 2.0,
             "startTime": "2020-10-29T15:00:00"
+        },
+        {
+            "endTime": "2021-01-22T16:00:00",
+            "eventTitle": "BPEVENT_Bloodrush_NAME",
+            "eventType": 0,
+            "multiplier": 1.5,
+            "startTime": "2021-01-15T16:00:00"
         }
     ]
 }
