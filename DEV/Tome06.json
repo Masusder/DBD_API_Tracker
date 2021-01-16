@@ -581,7 +581,7 @@
                                 "questEvent": [
                                     {
                                         "operation": ">=",
-                                        "parameters": "instigator:me;Distance:1000;ToleranceAngle:360",
+                                        "parameters": "instigator:me;Distance:1500;ToleranceAngle:360",
                                         "questEventId": "QuestEvent.PalletResetNearKiller",
                                         "repetition": 1
                                     }
@@ -4027,7 +4027,7 @@
                                         "operation": ">=",
                                         "parameters": "instigator:me;Distance:1000",
                                         "questEventId": "QuestEvent.HitGrabNearPalletsVaultsWalls",
-                                        "repetition": 12
+                                        "repetition": 10
                                     }
                                 ]
                             }
@@ -4082,7 +4082,7 @@
                                         "operation": ">=",
                                         "parameters": "instigator:me",
                                         "questEventId": "QuestEvent.HitHemorrhage",
-                                        "repetition": 8
+                                        "repetition": 6
                                     }
                                 ]
                             }

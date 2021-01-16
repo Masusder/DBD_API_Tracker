@@ -1,3 +1,23 @@
 {
-    "message": "Conflict: version mismatch (splinteredState.set)"
+    "listOfNodes": [
+        {
+            "nodeTreeCoordinate": {
+                "storyId": "Tome07",
+                "level": 0,
+                "nodeId": "node_T6L1_Start01"
+            },
+            "status": "completed"
+        },
+        {
+            "nodeTreeCoordinate": {
+                "storyId": "Tome07",
+                "level": 0,
+                "nodeId": "node_T6L1_Start02"
+            },
+            "status": "completed"
+        }
+    ],
+    "highestLevelIsNewContent": true,
+    "activeNodes": [],
+    "hasUnreadJournal": false
 }
