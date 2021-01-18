@@ -273,7 +273,7 @@
         "keyName": "CLIENT_VERSION"
     },
     {
-        "value": "600",
+        "value": "830",
         "keyName": "RICH_PRESENCE_SERVER_TIMER_RATE"
     },
     {
@@ -435,8 +435,7 @@
                 "SaveGameSummaryPlayerStatsAnalytics",
                 "ShopAnalytics",
                 "SpecialEventAnalytics",
-                "SpecialEventBaseAnalytics",
-                "SyncLoadAnalytics"
+                "SpecialEventBaseAnalytics"
             ],
             "BL": [
                 "MatchmakingHostSettingAnalytics",
@@ -444,7 +443,8 @@
                 "MatchmakingSearchResultAnalytics",
                 "MatchmakingSurviveWithFriendsAnalytics",
                 "PerformanceChartingAnalytics",
-                "RTMAnalytics"
+                "RTMAnalytics",
+                "SyncLoadAnalytics"
             ],
             "AF": [
                 "af_complete_registrationAnalytics",
@@ -671,6 +671,7 @@
             "4.5.0_384922qa": "4.5.0_384922qa-1610388339",
             "4.5.0_385625qa": "4.5.0_385625qa-1610488970",
             "4.5.0_385681qa": "4.5.0_385681qa-1610493919",
+            "4.5.0_387438qa": "4.5.0_387438qa-1610988921",
             "edule_3.4.0_0qa": "edule_3.4.0_0qa-1576698389",
             "m_3.0.2_220683qa": "m_3.0.2_220683qa-1566333505",
             "m_3.0.3_240244qa": "m_3.0.3_240244qa-1572275329",
@@ -868,7 +869,8 @@
             "m_3.7.3_384460qa": "m_3.7.3_384460qa-1610130764",
             "m_3.7.3_384922qa": "m_3.7.3_384922qa-1610389881",
             "m_3.7.3_385625qa": "m_3.7.3_385625qa-1610490701",
-            "m_3.7.3_385681qa": "m_3.7.3_385681qa-1610494277"
+            "m_3.7.3_385681qa": "m_3.7.3_385681qa-1610494277",
+            "m_3.7.3_387438qa": "m_3.7.3_387438qa-1610991171"
         },
         "keyName": "VER_CLIENT_DATA"
     },
@@ -892,7 +894,7 @@
         "keyName": "FRAME_HIKE_THRESHOLD"
     },
     {
-        "value": "600",
+        "value": "830",
         "keyName": "RICH_PRESENCE_PLAYER_TIMER_RATE"
     },
     {
@@ -900,7 +902,7 @@
         "keyName": "MATCHMAKING_USE_QUEUE_API"
     },
     {
-        "value": "https://kibana-logs.live.dbd.bhvronline.com/app/kibana#/dashboard/f9722400-391e-11e9-b6e1-a7681f9f0f51?_a=%28query:%28query_string:%28analyze_wildcard:!t,query:'\"queueName\"'%29%29%29",
+        "value": "https://kibana-logs.live.dbd.bhvronline.com/app/kibana#/dashboard/f9722400-391e-11e9-b6e1-a7681f9f0f51?_a=(filters:!((meta:(type:custom,value:'%7B%22multi_match%22:%7B%22query%22:%22[[queueName]]%22,%22type%22:%22phrase_prefix%22,%22fields%22:%5B%22log.queueName%22,%22log.queue.category%22,%22log.user.category%22,%22log.matchData.category%22,%22log.queueFilter.bucket%22,%22log.matchmaking.matchData.category%22%5D%7D%7D'),query:(multi_match:(fields:!(log.queueName,log.queue.category,log.user.category,log.matchData.category,log.queueFilter.bucket,log.matchmaking.matchData.category),query:'[[queueName]]',type:phrase_prefix)))),query:(language:lucene,query:(query_string:(analyze_wildcard:!t,query:'*'))))",
         "keyName": "MATCHMAKING_QUEUE_DASHBOARD_URL"
     },
     {

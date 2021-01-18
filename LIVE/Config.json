@@ -732,7 +732,7 @@
         "keyName": "MATCHMAKING_USE_QUEUE_API"
     },
     {
-        "value": "https://kibana-logs.live.dbd.bhvronline.com/app/kibana#/dashboard/f9722400-391e-11e9-b6e1-a7681f9f0f51?_a=%28query:%28query_string:%28analyze_wildcard:!t,query:'\"queueName\"'%29%29%29",
+        "value": "https://kibana-logs.live.dbd.bhvronline.com/app/kibana#/dashboard/f9722400-391e-11e9-b6e1-a7681f9f0f51?_a=(filters:!((meta:(type:custom,value:'%7B%22multi_match%22:%7B%22query%22:%22[[queueName]]%22,%22type%22:%22phrase_prefix%22,%22fields%22:%5B%22log.queueName%22,%22log.queue.category%22,%22log.user.category%22,%22log.matchData.category%22,%22log.queueFilter.bucket%22,%22log.matchmaking.matchData.category%22%5D%7D%7D'),query:(multi_match:(fields:!(log.queueName,log.queue.category,log.user.category,log.matchData.category,log.queueFilter.bucket,log.matchmaking.matchData.category),query:'[[queueName]]',type:phrase_prefix)))),query:(language:lucene,query:(query_string:(analyze_wildcard:!t,query:'*'))))",
         "keyName": "MATCHMAKING_QUEUE_DASHBOARD_URL"
     },
     {

@@ -294,7 +294,7 @@
         "keyName": "VER_LATEST_CLIENT_DATA"
     },
     {
-        "value": "600",
+        "value": "830",
         "keyName": "RICH_PRESENCE_SERVER_TIMER_RATE"
     },
     {
@@ -1004,6 +1004,8 @@
             "4.5.0_385359dev": "4.5.0_385359dev-1610466535",
             "4.5.0_386372dev": "4.5.0_386372dev-1610642064",
             "4.5.0_387129dev": "4.5.0_387129dev-1610744030",
+            "4.5.0_387421dev": "4.5.0_387421dev-1610987317",
+            "4.5.0_387466dev": "4.5.0_387466dev-1610992125",
             "build_dbd_3.6.0_0dev": "build_dbd_3.6.0_0dev-1582846204",
             "build_dbd_m_3.6.0_0dev": "build_dbd_m_3.6.0_0dev-1582905148",
             "cbessette_3.5.0_0dev": "cbessette_3.5.0_0dev-1581089605",
@@ -1264,6 +1266,7 @@
             "m_4.4.0_386906dev": "m_4.4.0_386906dev-1610724660",
             "m_4.4.0_387143dev": "m_4.4.0_387143dev-1610745139",
             "m_4.4.0_387158dev": "m_4.4.0_387158dev-1610746720",
+            "m_4.4.0_387466dev": "m_4.4.0_387466dev-1610996334",
             "mcharron_3.4.0_0dev": "mcharron_3.4.0_0dev-1575325513",
             "mcharron_3.6.0_0dev": "mcharron_3.6.0_0dev-1582911097",
             "ofilippelli_3.4.0_0dev": "ofilippelli_3.4.0_0dev-1576612449",
@@ -1296,7 +1299,7 @@
         "keyName": "FRAME_HIKE_THRESHOLD"
     },
     {
-        "value": "600",
+        "value": "830",
         "keyName": "RICH_PRESENCE_PLAYER_TIMER_RATE"
     },
     {
