@@ -2962,7 +2962,7 @@
                                 "questEvent": [
                                     {
                                         "operation": ">=",
-                                        "parameters": "instigator:other",
+                                        "parameters": "target:me",
                                         "questEventId": "QuestEvent.Chase",
                                         "repetition": 60
                                     }
