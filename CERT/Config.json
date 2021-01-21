@@ -31,7 +31,7 @@
         "keyName": "SOCIAL_PLATFORM_FRIENDLIST_QUERY_RATE"
     },
     {
-        "value": "false",
+        "value": "true",
         "keyName": "DDOS_DETECTION"
     },
     {
@@ -198,7 +198,6 @@
                 "GameEventLogAnalytics",
                 "GameInitAnalytics",
                 "InteractionAnalytics",
-                "InvalidLoadoutAnalytics",
                 "KrakenRequestAnalytics",
                 "LogMirrorsAnalytics",
                 "S3CommandErrorAnalytics",
@@ -244,9 +243,12 @@
                 "DedicatedServerStatusAnalytics",
                 "DisconnectionDetailsAnalytics",
                 "FrameHikeAnalytics",
+                "InvalidLoadoutAnalytics",
                 "LevelLoadingStepAnalytics",
                 "LevelLoadingTimeoutAnalytics",
                 "PerformanceAnalytics",
+                "PostGame_KillerAnalytics",
+                "PostGame_SurvivorAnalytics",
                 "S3CommandAnalytics"
             ]
         },
@@ -358,6 +360,7 @@
                 "AtlantaPerkSelectionAnalytics",
                 "AtlantaPlayerLevelAnalytics",
                 "AtlantaPurchasePopupAnalytics",
+                "AtlantaQuitGameAnalytics",
                 "AtlantaSessionStartAnalytics",
                 "AtlantaSurvivorTutorialAnalytics",
                 "BloodMarketAdsAnalytics",
@@ -390,7 +393,6 @@
                 "GameInitAnalytics",
                 "HeartbeatPerfAnalytics",
                 "InteractionAnalytics",
-                "InvalidLoadoutAnalytics",
                 "KrakenRequestAnalytics",
                 "LogAnalytics",
                 "LogMirrorsAnalytics",
@@ -401,6 +403,7 @@
                 "MatchmakingJoinSessionAnalytics",
                 "MatchmakingSearchCompleteAnalytics",
                 "MatchmakingSessionSpotReservationAnalytics",
+                "PartyJoinFailureAnalytics",
                 "S3CommandErrorAnalytics",
                 "SaveGameErrorAnalytics",
                 "SaveGameLoadResultAnalytics",
@@ -409,8 +412,7 @@
                 "SaveGameSummaryPlayerStatsAnalytics",
                 "ShopAnalytics",
                 "SpecialEventAnalytics",
-                "SpecialEventBaseAnalytics",
-                "SyncLoadAnalytics"
+                "SpecialEventBaseAnalytics"
             ],
             "BL": [
                 "AtlantaControlsSettingsAnalytics",
@@ -419,7 +421,8 @@
                 "MatchmakingSearchResultAnalytics",
                 "MatchmakingSurviveWithFriendsAnalytics",
                 "PerformanceChartingAnalytics",
-                "RTMAnalytics"
+                "RTMAnalytics",
+                "SyncLoadAnalytics"
             ],
             "AF": [
                 "af_complete_registrationAnalytics",
@@ -471,8 +474,6 @@
                 "MenuFlowAnalytics",
                 "PerkAcquisitionAnalytics",
                 "PlagueSurvivorAnalytics",
-                "PostGame_KillerAnalytics",
-                "PostGame_SurvivorAnalytics",
                 "ProceduralGenerationAnalytics",
                 "QueueAnalytics",
                 "ScoreAnalytics",
@@ -491,11 +492,14 @@
                 "CustomizationAnalytics",
                 "EnvironmentAnalytics",
                 "FrameHikeAnalytics",
+                "InvalidLoadoutAnalytics",
                 "LevelLoadingStepAnalytics",
                 "LevelLoadingTimeoutAnalytics",
                 "LoadOutAnalytics",
                 "MatchInfoAnalytics",
                 "PerformanceAnalytics",
+                "PostGame_KillerAnalytics",
+                "PostGame_SurvivorAnalytics",
                 "ReportAnalytics",
                 "S3CommandAnalytics",
                 "WalesCypherAnalytics"
@@ -536,7 +540,8 @@
             "4.3.0_360488cert": "4.3.0_360488cert-1603813829",
             "4.3.0_361770cert": "4.3.0_361770cert-1603991547",
             "4.4.0_368433cert": "4.4.0_368433cert-1605568249",
-            "4.4.0_369685cert": "4.4.0_369685cert-1605737980"
+            "4.4.0_369685cert": "4.4.0_369685cert-1605737980",
+            "4.5.0_388897cert": "4.5.0_388897cert-1611247922"
         },
         "keyName": "VER_CLIENT_DATA"
     },
