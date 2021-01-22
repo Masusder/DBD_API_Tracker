@@ -2381,7 +2381,6 @@
                         },
                         "neighbors": [
                             "node_T5L3_03",
-                            "node_T5L3_13",
                             "node_T5L3_Start01"
                         ],
                         "nodeType": "quest:task",
@@ -2396,7 +2395,7 @@
                                     }
                                 ],
                                 "incrementWithEventRepetitions": true,
-                                "neededProgression": 800,
+                                "neededProgression": 700,
                                 "objectiveId": "HealOtherPerc",
                                 "questEvent": [
                                     {
@@ -2712,8 +2711,7 @@
                         ],
                         "neighbors": [
                             "node_T5L3_14",
-                            "node_T5L3_Start01",
-                            "node_T5L3_06"
+                            "node_T5L3_Start01"
                         ],
                         "nodeType": "quest:challenge",
                         "objectives": {
@@ -3009,7 +3007,7 @@
                                         "operation": ">=",
                                         "parameters": "instigator:me",
                                         "questEventId": "QuestEvent.VaultKiller",
-                                        "repetition": 15
+                                        "repetition": 8
                                     }
                                 ]
                             }
@@ -3065,7 +3063,7 @@
                                         "operation": ">=",
                                         "parameters": "instigator:me",
                                         "questEventId": "QuestEvent.HillbillyChainsaw",
-                                        "repetition": 10
+                                        "repetition": 7
                                     }
                                 ]
                             }
@@ -3584,7 +3582,7 @@
                         ]
                     },
                     "node_T5L4_09": {
-                        "clientInfoId": "HookBasement",
+                        "clientInfoId": "Hook",
                         "coordinates": {
                             "x": 365,
                             "y": 155
@@ -3595,7 +3593,7 @@
                         ],
                         "nodeType": "quest:task",
                         "objectives": {
-                            "HookBasement": {
+                            "Hook": {
                                 "conditions": [
                                     {
                                         "key": "role",
@@ -3605,13 +3603,13 @@
                                     }
                                 ],
                                 "incrementWithEventRepetitions": true,
-                                "neededProgression": 8,
-                                "objectiveId": "HookBasement",
+                                "neededProgression": 20,
+                                "objectiveId": "Hook",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
                                         "parameters": "instigator:me",
-                                        "questEventId": "QuestEvent.HookBasement",
+                                        "questEventId": "QuestEvent.Hook",
                                         "repetition": 1
                                     }
                                 ]
@@ -4227,6 +4225,6 @@
             }
         ],
         "rewardData": "Tome05",
-        "version": 3
+        "version": 4
     }
 }

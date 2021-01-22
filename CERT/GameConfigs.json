@@ -9,7 +9,7 @@
     },
     "hitValidation": {
         "enable": true,
-        "enableCollisionCheck": true,
+        "enableCollisionCheck": false,
         "recorder": {
             "cacheTimespan": 0.25
         },

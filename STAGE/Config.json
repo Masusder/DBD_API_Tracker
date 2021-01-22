@@ -31,7 +31,7 @@
         "keyName": "SOCIAL_PLATFORM_FRIENDLIST_QUERY_RATE"
     },
     {
-        "value": "false",
+        "value": "true",
         "keyName": "DDOS_DETECTION"
     },
     {
@@ -190,7 +190,6 @@
                 "GameEventLogAnalytics",
                 "GameInitAnalytics",
                 "InteractionAnalytics",
-                "InvalidLoadoutAnalytics",
                 "KrakenRequestAnalytics",
                 "LogMirrorsAnalytics",
                 "S3CommandErrorAnalytics",
@@ -236,9 +235,12 @@
                 "DedicatedServerStatusAnalytics",
                 "DisconnectionDetailsAnalytics",
                 "FrameHikeAnalytics",
+                "InvalidLoadoutAnalytics",
                 "LevelLoadingStepAnalytics",
                 "LevelLoadingTimeoutAnalytics",
                 "PerformanceAnalytics",
+                "PostGame_KillerAnalytics",
+                "PostGame_SurvivorAnalytics",
                 "S3CommandAnalytics"
             ]
         },
@@ -350,6 +352,7 @@
                 "AtlantaPerkSelectionAnalytics",
                 "AtlantaPlayerLevelAnalytics",
                 "AtlantaPurchasePopupAnalytics",
+                "AtlantaQuitGameAnalytics",
                 "AtlantaSessionStartAnalytics",
                 "AtlantaSurvivorTutorialAnalytics",
                 "BloodMarketAdsAnalytics",
@@ -382,7 +385,6 @@
                 "GameInitAnalytics",
                 "HeartbeatPerfAnalytics",
                 "InteractionAnalytics",
-                "InvalidLoadoutAnalytics",
                 "KrakenRequestAnalytics",
                 "LogAnalytics",
                 "LogMirrorsAnalytics",
@@ -393,6 +395,7 @@
                 "MatchmakingJoinSessionAnalytics",
                 "MatchmakingSearchCompleteAnalytics",
                 "MatchmakingSessionSpotReservationAnalytics",
+                "PartyJoinFailureAnalytics",
                 "S3CommandErrorAnalytics",
                 "SaveGameErrorAnalytics",
                 "SaveGameLoadResultAnalytics",
@@ -401,8 +404,7 @@
                 "SaveGameSummaryPlayerStatsAnalytics",
                 "ShopAnalytics",
                 "SpecialEventAnalytics",
-                "SpecialEventBaseAnalytics",
-                "SyncLoadAnalytics"
+                "SpecialEventBaseAnalytics"
             ],
             "BL": [
                 "AtlantaControlsSettingsAnalytics",
@@ -411,7 +413,8 @@
                 "MatchmakingSearchResultAnalytics",
                 "MatchmakingSurviveWithFriendsAnalytics",
                 "PerformanceChartingAnalytics",
-                "RTMAnalytics"
+                "RTMAnalytics",
+                "SyncLoadAnalytics"
             ],
             "AF": [
                 "af_complete_registrationAnalytics",
@@ -463,8 +466,6 @@
                 "MenuFlowAnalytics",
                 "PerkAcquisitionAnalytics",
                 "PlagueSurvivorAnalytics",
-                "PostGame_KillerAnalytics",
-                "PostGame_SurvivorAnalytics",
                 "ProceduralGenerationAnalytics",
                 "QueueAnalytics",
                 "ScoreAnalytics",
@@ -483,11 +484,14 @@
                 "CustomizationAnalytics",
                 "EnvironmentAnalytics",
                 "FrameHikeAnalytics",
+                "InvalidLoadoutAnalytics",
                 "LevelLoadingStepAnalytics",
                 "LevelLoadingTimeoutAnalytics",
                 "LoadOutAnalytics",
                 "MatchInfoAnalytics",
                 "PerformanceAnalytics",
+                "PostGame_KillerAnalytics",
+                "PostGame_SurvivorAnalytics",
                 "ReportAnalytics",
                 "S3CommandAnalytics",
                 "WalesCypherAnalytics"
@@ -527,7 +531,8 @@
             "4.3.0_353511stage": "4.3.0_353511stage-1602107326",
             "4.3.0_356160stage": "4.3.0_356160stage-1602784730",
             "4.3.0_360783stage": "4.3.0_360783stage-1603833825",
-            "4.4.0_368433stage": "4.4.0_368433stage-1605568140"
+            "4.4.0_368433stage": "4.4.0_368433stage-1605568140",
+            "4.5.0_389409stage": "4.5.0_389409stage-1611330902"
         },
         "keyName": "VER_CLIENT_DATA"
     },
