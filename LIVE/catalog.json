@@ -14478,6 +14478,10 @@
             {
                 "currencyId": "Cells",
                 "price": 250
+            },
+            {
+                "currencyId": "Shards",
+                "price": 4500
             }
         ],
         "eventCostList": [],
@@ -14487,8 +14491,8 @@
             "base_itemId": "JP_Head010",
             "character": "Jake",
             "kind": "Customization",
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2021-02-05T15:59:59",
+            "newStartDate": "2021-01-22T16:00:00",
             "outfitId": "JP_outfit_010",
             "quality": "V0",
             "qualityName": "quality1",
@@ -14510,7 +14514,7 @@
         },
         "nonSecure": false,
         "premium": false,
-        "purchasable": false,
+        "purchasable": true,
         "unique": true
     },
     {
@@ -14524,6 +14528,10 @@
             {
                 "currencyId": "Cells",
                 "price": 250
+            },
+            {
+                "currencyId": "Shards",
+                "price": 4500
             }
         ],
         "eventCostList": [],
@@ -14533,8 +14541,8 @@
             "base_itemId": "JP_Torso010",
             "character": "Jake",
             "kind": "Customization",
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2021-02-05T15:59:59",
+            "newStartDate": "2021-01-22T16:00:00",
             "outfitId": "JP_outfit_010",
             "quality": "V0",
             "qualityName": "quality1",
@@ -14556,7 +14564,7 @@
         },
         "nonSecure": false,
         "premium": false,
-        "purchasable": false,
+        "purchasable": true,
         "unique": true
     },
     {
@@ -14570,6 +14578,10 @@
             {
                 "currencyId": "Cells",
                 "price": 250
+            },
+            {
+                "currencyId": "Shards",
+                "price": 4500
             }
         ],
         "eventCostList": [],
@@ -14579,8 +14591,8 @@
             "base_itemId": "JP_Legs010",
             "character": "Jake",
             "kind": "Customization",
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2021-02-05T15:59:59",
+            "newStartDate": "2021-01-22T16:00:00",
             "outfitId": "JP_outfit_010",
             "quality": "V0",
             "qualityName": "quality1",
@@ -14602,7 +14614,7 @@
         },
         "nonSecure": false,
         "premium": false,
-        "purchasable": false,
+        "purchasable": true,
         "unique": true
     },
     {
@@ -45241,6 +45253,10 @@
             {
                 "currencyId": "Cells",
                 "price": 250
+            },
+            {
+                "currencyId": "Shards",
+                "price": 4500
             }
         ],
         "eventCostList": [],
@@ -45250,8 +45266,8 @@
             "base_itemId": "TW_Head009",
             "character": "Bob",
             "kind": "Customization",
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2021-02-05T15:59:59",
+            "newStartDate": "2021-01-22T16:00:00",
             "outfitId": "TW_outfit_009",
             "quality": "V0",
             "qualityName": "quality1",
@@ -45273,7 +45289,7 @@
         },
         "nonSecure": false,
         "premium": false,
-        "purchasable": false,
+        "purchasable": true,
         "unique": true
     },
     {
@@ -45287,6 +45303,10 @@
             {
                 "currencyId": "Cells",
                 "price": 250
+            },
+            {
+                "currencyId": "Shards",
+                "price": 4500
             }
         ],
         "eventCostList": [],
@@ -45296,8 +45316,8 @@
             "base_itemId": "TW_Body009",
             "character": "Bob",
             "kind": "Customization",
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2021-02-05T15:59:59",
+            "newStartDate": "2021-01-22T16:00:00",
             "outfitId": "TW_outfit_009",
             "quality": "V0",
             "qualityName": "quality1",
@@ -45319,7 +45339,7 @@
         },
         "nonSecure": false,
         "premium": false,
-        "purchasable": false,
+        "purchasable": true,
         "unique": true
     },
     {
@@ -45333,6 +45353,10 @@
             {
                 "currencyId": "Cells",
                 "price": 250
+            },
+            {
+                "currencyId": "Shards",
+                "price": 4500
             }
         ],
         "eventCostList": [],
@@ -45342,8 +45366,8 @@
             "base_itemId": "TW_W009",
             "character": "Bob",
             "kind": "Customization",
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2021-02-05T15:59:59",
+            "newStartDate": "2021-01-22T16:00:00",
             "outfitId": "TW_outfit_009",
             "quality": "V0",
             "qualityName": "quality1",
@@ -45365,7 +45389,7 @@
         },
         "nonSecure": false,
         "premium": false,
-        "purchasable": false,
+        "purchasable": true,
         "unique": true
     },
     {
@@ -94556,12 +94580,12 @@
                 "JP_Torso010",
                 "JP_Legs010"
             ],
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2021-02-05T15:59:59",
+            "newStartDate": "2021-01-22T16:00:00",
             "unbreakable": false
         },
         "nonSecure": false,
-        "purchasable": false,
+        "purchasable": true,
         "unique": true
     },
     {
@@ -99184,12 +99208,12 @@
                 "TW_Body009",
                 "TW_W009"
             ],
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2021-02-05T15:59:59",
+            "newStartDate": "2021-01-22T16:00:00",
             "unbreakable": false
         },
         "nonSecure": false,
-        "purchasable": false,
+        "purchasable": true,
         "unique": true
     },
     {
