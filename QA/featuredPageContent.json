@@ -602,7 +602,7 @@
                 "startDate": "2020-12-11T16:00:00"
             },
             {
-                "endDate": "2021-01-01T15:59:59",
+                "endDate": "2021-01-04T15:59:59",
                 "ids": [
                     "Banner_ACF",
                     "Banner_AJC",
@@ -611,6 +611,50 @@
                     "Banner_AS24"
                 ],
                 "startDate": "2020-12-14T16:00:00"
+            },
+            {
+                "endDate": "2021-01-11T15:59:59",
+                "ids": [
+                    "Banner_A75",
+                    "Banner_ACF",
+                    "Banner_AJC",
+                    "Banner_ADAZ",
+                    "Banner_AT"
+                ],
+                "startDate": "2021-01-04T16:00:00"
+            },
+            {
+                "endDate": "2021-01-15T16:59:59",
+                "ids": [
+                    "Banner_ACF",
+                    "Banner_AJC",
+                    "Banner_ADAZ",
+                    "Banner_AT",
+                    "Banner_AS24"
+                ],
+                "startDate": "2021-01-11T16:00:00"
+            },
+            {
+                "endDate": "2021-01-21T15:59:59",
+                "ids": [
+                    "Banner_ACT",
+                    "Banner_ACF",
+                    "Banner_AJC",
+                    "Banner_ADAZ",
+                    "Banner_AT"
+                ],
+                "startDate": "2021-01-15T17:00:00"
+            },
+            {
+                "endDate": "2021-02-02T15:59:59",
+                "ids": [
+                    "Banner_AJW",
+                    "Banner_ACT",
+                    "Banner_ACF",
+                    "Banner_AJC",
+                    "Banner_ADAZ"
+                ],
+                "startDate": "2021-01-22T16:00:00"
             }
         ],
         "right": [
@@ -915,12 +959,74 @@
                     "category": "outfit",
                     "ids": [
                         "FM_outfit_010",
-                        "GK_outfit_010"
+                        "GK_outfit_010",
+                        "DF_outfit_011",
+                        "Clown_outfit_007"
                     ]
                 }
             ],
-            "endDate": "2020-12-21T15:59:59",
+            "endDate": "2021-01-04T15:59:59",
             "startDate": "2020-12-01T16:00:00"
+        },
+        {
+            "data": [
+                {
+                    "category": "outfit",
+                    "ids": [
+                        "BE_outfit_010",
+                        "Bob_outfit_002",
+                        "Clown_Outfit_007",
+                        "CM_outfit_014",
+                        "DF_outfit_011",
+                        "FM_outfit_011",
+                        "GS_outfit_010",
+                        "HK_outfit_011",
+                        "JP_outfit_013"
+                    ]
+                }
+            ],
+            "endDate": "2021-01-06T15:59:59",
+            "startDate": "2021-01-04T16:00:00"
+        },
+        {
+            "data": [
+                {
+                    "category": "outfit",
+                    "ids": [
+                        "HK_outfit_011",
+                        "JP_outfit_013",
+                        "K20_outfit_007",
+                        "K21_outfit_006",
+                        "KS_Outfit_009",
+                        "MT_outfit_011",
+                        "NK_outfit_011",
+                        "S22_outfit_006",
+                        "Smoke_outfit_001"
+                    ]
+                }
+            ],
+            "endDate": "2021-01-08T15:59:59",
+            "startDate": "2021-01-06T16:00:00"
+        },
+        {
+            "data": [
+                {
+                    "category": "outfit",
+                    "ids": [
+                        "NK_outfit_011",
+                        "S22_outfit_006",
+                        "Smoke_outfit_001",
+                        "Smoke_Outfit_007_01",
+                        "SwedenKiller_outfit_007",
+                        "SwedenSurvivor_outfit_007",
+                        "TC_outfit_010",
+                        "UK_outfit_007",
+                        "US_outfit_007"
+                    ]
+                }
+            ],
+            "endDate": "2021-01-11T15:59:59",
+            "startDate": "2021-01-08T16:00:00"
         }
     ]
 }
