@@ -1,7 +1,7 @@
 {
     "items": [
         {
-            "id": "BorrowedTime",
+            "id": "Babysitter",
             "bloodpointValue": 150000,
             "experienceValue": 150000,
             "unique": false,
@@ -15,7 +15,7 @@
             ]
         },
         {
-            "id": "Discordance",
+            "id": "RememberMe",
             "bloodpointValue": 150000,
             "experienceValue": 150000,
             "unique": false,
@@ -29,21 +29,21 @@
             ]
         },
         {
-            "id": "MakeYourChoice",
-            "bloodpointValue": 150000,
-            "experienceValue": 150000,
+            "id": "RepressedAlliance",
+            "bloodpointValue": 250000,
+            "experienceValue": 250000,
             "unique": false,
             "purchased": false,
             "version": "steam",
             "cost": [
                 {
                     "currencyId": "Shards",
-                    "price": 2000
+                    "price": 2700
                 }
             ]
         },
         {
-            "id": "Tenacity",
+            "id": "Shadowborn",
             "bloodpointValue": 150000,
             "experienceValue": 150000,
             "unique": false,
@@ -57,7 +57,7 @@
             ]
         }
     ],
-    "startDate": "2021-01-20T00:00:00",
-    "endDate": "2021-01-26T23:59:59",
-    "week": 223
+    "startDate": "2021-01-27T00:00:00",
+    "endDate": "2021-02-02T23:59:59",
+    "week": 224
 }
