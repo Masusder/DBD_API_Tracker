@@ -26,49 +26,79 @@
                     }
                 ],
                 "nodes": {
-                    "node_T6L1_End01": {
-                        "clientInfoId": "End",
+                    "node_T6L1_10": {
+                        "clientInfoId": "BreakWallsPalletsGens",
                         "coordinates": {
-                            "x": 1265,
-                            "y": 455
+                            "x": 0,
+                            "y": 0
                         },
                         "neighbors": [],
-                        "nodeType": "narrative"
-                    },
-                    "node_T6L1_End02": {
-                        "clientInfoId": "End",
-                        "coordinates": {
-                            "x": 1265,
-                            "y": 155
-                        },
-                        "neighbors": [],
-                        "nodeType": "narrative"
-                    },
-                    "node_T6L1_Glyph": {
-                        "clientInfoId": "RedGlyph",
-                        "coordinates": {
-                            "x": 815,
-                            "y": 455
-                        },
-                        "neighbors": [],
-                        "nodeType": "quest:contextual",
+                        "nodeType": "quest:task",
                         "objectives": {
-                            "RedGlyph": {
-                                "conditions": [],
+                            "BreakWallsPalletsGens": {
+                                "conditions": [
+                                    {
+                                        "key": "role",
+                                        "value": [
+                                            "killer"
+                                        ]
+                                    }
+                                ],
                                 "incrementWithEventRepetitions": true,
-                                "neededProgression": 3,
-                                "objectiveId": "RedGlyph",
+                                "neededProgression": 15,
+                                "objectiveId": "BreakWallsPalletsGens",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
-                                        "parameters": "instigator:me",
-                                        "questEventId": "QuestEvent.RedGlyph",
                                         "repetition": 1
                                     }
-                                ],
-                                "specialBehaviours": [
+                                ]
+                            }
+                        },
+                        "reward": [
+                            {
+                                "amount": 3,
+                                "id": "star",
+                                "type": "progressionDbD"
+                            },
+                            {
+                                "amount": 15000,
+                                "id": "Bloodpoints",
+                                "type": "currency"
+                            }
+                        ]
+                    },
+                    "node_T6L1_15": {
+                        "clientInfoId": "HitUndetectableWithDarkDevotionInTrial",
+                        "coordinates": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "neighbors": [],
+                        "nodeType": "quest:challenge",
+                        "objectives": {
+                            "HitUndetectableWithPerkInTrial": {
+                                "conditions": [
                                     {
-                                        "id": "RedGlyph"
+                                        "key": "role",
+                                        "value": [
+                                            "killer"
+                                        ]
+                                    },
+                                    {
+                                        "key": "perk",
+                                        "value": [
+                                            "DarkDevotion"
+                                        ]
+                                    }
+                                ],
+                                "incrementWithEventRepetitions": false,
+                                "neededProgression": 1,
+                                "objectiveId": "HitUndetectableWithPerkInTrial",
+                                "questEvent": [
+                                    {
+                                        "operation": ">=",
+                                        "repetition": 4
                                     }
                                 ]
                             }
@@ -86,11 +116,209 @@
                             }
                         ]
                     },
+                    "node_T6L1_16": {
+                        "clientInfoId": "UnhookInTerrorRadiusWithBorrowedTimeInTrial",
+                        "coordinates": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "neighbors": [],
+                        "nodeType": "quest:challenge",
+                        "objectives": {
+                            "UnhookInTerrorRadiusWithPerkInTrial": {
+                                "conditions": [
+                                    {
+                                        "key": "role",
+                                        "value": [
+                                            "survivor"
+                                        ]
+                                    },
+                                    {
+                                        "key": "perk",
+                                        "value": [
+                                            "BorrowedTime"
+                                        ]
+                                    }
+                                ],
+                                "incrementWithEventRepetitions": false,
+                                "neededProgression": 1,
+                                "objectiveId": "UnhookInTerrorRadiusWithPerkInTrial",
+                                "questEvent": [
+                                    {
+                                        "operation": ">=",
+                                        "repetition": 2
+                                    }
+                                ]
+                            }
+                        },
+                        "reward": [
+                            {
+                                "amount": 5,
+                                "id": "star",
+                                "type": "progressionDbD"
+                            },
+                            {
+                                "amount": 25000,
+                                "id": "Bloodpoints",
+                                "type": "currency"
+                            }
+                        ]
+                    },
+                    "node_T6L1_17": {
+                        "clientInfoId": "PlagueInfectMaxInTrial",
+                        "coordinates": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "neighbors": [],
+                        "nodeType": "quest:challenge",
+                        "objectives": {
+                            "PlagueInfectMaxInTrial": {
+                                "conditions": [
+                                    {
+                                        "key": "role",
+                                        "value": [
+                                            "killer"
+                                        ]
+                                    },
+                                    {
+                                        "key": "character",
+                                        "value": [
+                                            "plague"
+                                        ]
+                                    }
+                                ],
+                                "incrementWithEventRepetitions": false,
+                                "neededProgression": 1,
+                                "objectiveId": "PlagueInfectMaxInTrial",
+                                "questEvent": [
+                                    {
+                                        "operation": ">=",
+                                        "repetition": 4
+                                    }
+                                ]
+                            }
+                        },
+                        "reward": [
+                            {
+                                "amount": 5,
+                                "id": "star",
+                                "type": "progressionDbD"
+                            },
+                            {
+                                "amount": 25000,
+                                "id": "Bloodpoints",
+                                "type": "currency"
+                            }
+                        ]
+                    },
+                    "node_T6L1_18": {
+                        "clientInfoId": "PlaguePurgeInjureInTrial",
+                        "coordinates": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "neighbors": [],
+                        "nodeType": "quest:challenge",
+                        "objectives": {
+                            "PlaguePurgeInjureInTrial": {
+                                "conditions": [
+                                    {
+                                        "key": "role",
+                                        "value": [
+                                            "killer"
+                                        ]
+                                    },
+                                    {
+                                        "key": "character",
+                                        "value": [
+                                            "plague"
+                                        ]
+                                    }
+                                ],
+                                "incrementWithEventRepetitions": false,
+                                "neededProgression": 1,
+                                "objectiveId": "PlaguePurgeInjureInTrial",
+                                "questEvent": [
+                                    {
+                                        "operation": ">=",
+                                        "repetition": 6
+                                    }
+                                ]
+                            }
+                        },
+                        "reward": [
+                            {
+                                "amount": 5,
+                                "id": "star",
+                                "type": "progressionDbD"
+                            },
+                            {
+                                "amount": 25000,
+                                "id": "Bloodpoints",
+                                "type": "currency"
+                            }
+                        ]
+                    },
+                    "node_T6L1_End01": {
+                        "clientInfoId": "End",
+                        "coordinates": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "neighbors": [],
+                        "nodeType": "narrative"
+                    },
+                    "node_T6L1_End02": {
+                        "clientInfoId": "End",
+                        "coordinates": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "neighbors": [],
+                        "nodeType": "narrative"
+                    },
+                    "node_T6L1_Glyph01": {
+                        "clientInfoId": "RedGlyph",
+                        "coordinates": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "neighbors": [],
+                        "nodeType": "quest:contextual",
+                        "objectives": {
+                            "RedGlyph": {
+                                "conditions": [],
+                                "incrementWithEventRepetitions": true,
+                                "neededProgression": 3,
+                                "objectiveId": "RedGlyph",
+                                "questEvent": [
+                                    {
+                                        "operation": ">=",
+                                        "questEventId": "QuestEvent.RedGlyph",
+                                        "repetition": 1
+                                    }
+                                ]
+                            }
+                        },
+                        "reward": [
+                            {
+                                "amount": 3,
+                                "id": "star",
+                                "type": "progressionDbD"
+                            },
+                            {
+                                "amount": 15000,
+                                "id": "Bloodpoints",
+                                "type": "currency"
+                            }
+                        ]
+                    },
                     "node_T6L1_Start01": {
                         "clientInfoId": "Start",
                         "coordinates": {
-                            "x": 95,
-                            "y": 155
+                            "x": 0,
+                            "y": 0
                         },
                         "neighbors": [],
                         "nodeType": "narrative"
@@ -98,8 +326,8 @@
                     "node_T6L1_Start02": {
                         "clientInfoId": "Start",
                         "coordinates": {
-                            "x": 95,
-                            "y": 455
+                            "x": 0,
+                            "y": 0
                         },
                         "neighbors": [],
                         "nodeType": "narrative"
@@ -441,6 +669,6 @@
             }
         ],
         "rewardData": "Tome07",
-        "version": 2
+        "version": 3
     }
 }
