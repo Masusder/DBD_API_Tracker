@@ -646,7 +646,7 @@
                 "startDate": "2021-01-15T17:00:00"
             },
             {
-                "endDate": "2021-02-02T15:59:59",
+                "endDate": "2021-01-29T15:59:59",
                 "ids": [
                     "Banner_AJW",
                     "Banner_ACT",
@@ -655,6 +655,17 @@
                     "Banner_ADAZ"
                 ],
                 "startDate": "2021-01-22T16:00:00"
+            },
+            {
+                "endDate": "2021-03-01T16:00:00",
+                "ids": [
+                    "Banner_BB_NS",
+                    "Banner_BB_D",
+                    "Banner_BB_LNYDW",
+                    "Banner_BB_NYS",
+                    "Banner_BB_JP"
+                ],
+                "startDate": "2021-01-29T16:00:00"
             }
         ],
         "right": [

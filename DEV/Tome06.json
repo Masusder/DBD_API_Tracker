@@ -524,7 +524,6 @@
                                 "questEvent": [
                                     {
                                         "operation": ">=",
-                                        "parameters": "EmblemQuality:Silver",
                                         "questEventId": "QuestEvent.EarnBloodpoints",
                                         "repetition": 1
                                     }
