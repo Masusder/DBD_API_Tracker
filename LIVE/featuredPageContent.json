@@ -1025,8 +1025,28 @@
                     ]
                 }
             ],
-            "endDate": "2021-01-11T15:59:59",
+            "endDate": "2021-02-01T15:59:59",
             "startDate": "2021-01-08T16:00:00"
+        },
+        {
+            "data": [
+                {
+                    "category": "outfit",
+                    "ids": [
+                        "NK_outfit_012",
+                        "FM_outfit_012",
+                        "FM_outfit_011",
+                        "OK_outfit_009",
+                        "Killer07_outfit_008_01",
+                        "KK_outfit_018",
+                        "GS_outfit_013",
+                        "S22_outfit_006",
+                        "Bear_outfit_006"
+                    ]
+                }
+            ],
+            "endDate": "2021-02-08T15:59:59",
+            "startDate": "2021-02-01T16:00:00"
         }
     ]
 }
