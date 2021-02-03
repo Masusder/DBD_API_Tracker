@@ -10,8 +10,8 @@
                     }
                 ],
                 "end": [
-                    "node_T6L1_End01",
-                    "node_T6L1_End02"
+                    "node_T7L1_End01",
+                    "node_T7L1_End02"
                 ],
                 "endNodeRewards": [
                     {
@@ -32,11 +32,7 @@
                             "x": 185,
                             "y": 155
                         },
-                        "neighbors": [
-                            "node20",
-                            "node_T6L1_Start02",
-                            "node4"
-                        ],
+                        "neighbors": [],
                         "nodeType": "quest:task",
                         "objectives": {
                             "RepairPerc": {
@@ -80,11 +76,7 @@
                             "x": 185,
                             "y": 455
                         },
-                        "neighbors": [
-                            "node20",
-                            "node14",
-                            "node_T6L1_Start01"
-                        ],
+                        "neighbors": [],
                         "nodeType": "quest:task",
                         "objectives": {
                             "BreakWallsPalletsGens": {
@@ -131,9 +123,7 @@
                         "journal": [
                             "journal"
                         ],
-                        "neighbors": [
-                            "node12"
-                        ],
+                        "neighbors": [],
                         "nodeType": "quest:challenge",
                         "objectives": {
                             "RepairFinishInTrial": {
@@ -174,17 +164,13 @@
                     "node12": {
                         "clientInfoId": "HealWithoutMedkitInTrial",
                         "coordinates": {
-                            "x": 995,
+                            "x": 1085,
                             "y": 5
                         },
                         "journal": [
                             "journal"
                         ],
-                        "neighbors": [
-                            "node3",
-                            "node2",
-                            "node11"
-                        ],
+                        "neighbors": [],
                         "nodeType": "quest:challenge",
                         "objectives": {
                             "HealWithoutMedkitInTrial": {
@@ -231,10 +217,7 @@
                         "journal": [
                             "journal"
                         ],
-                        "neighbors": [
-                            "node5",
-                            "node6"
-                        ],
+                        "neighbors": [],
                         "nodeType": "quest:challenge",
                         "objectives": {
                             "ChasedByKillerInTrial": {
@@ -281,10 +264,7 @@
                         "journal": [
                             "journal"
                         ],
-                        "neighbors": [
-                            "node7",
-                            "node10"
-                        ],
+                        "neighbors": [],
                         "nodeType": "quest:challenge",
                         "objectives": {
                             "HookInTrial": {
@@ -325,15 +305,12 @@
                         "clientInfoId": "HitUndetectableWithDarkDevotionInTrial",
                         "coordinates": {
                             "x": 995,
-                            "y": 455
+                            "y": 605
                         },
                         "journal": [
                             "journal"
                         ],
-                        "neighbors": [
-                            "node17",
-                            "node9"
-                        ],
+                        "neighbors": [],
                         "nodeType": "quest:challenge",
                         "objectives": {
                             "HitUndetectableWithPerkInTrial": {
@@ -379,15 +356,13 @@
                     "node16": {
                         "clientInfoId": "UnhookInTerrorRadiusWithBorrowedTimeInTrial",
                         "coordinates": {
-                            "x": 905,
-                            "y": 155
+                            "x": 815,
+                            "y": 305
                         },
                         "journal": [
                             "journal"
                         ],
-                        "neighbors": [
-                            "node5"
-                        ],
+                        "neighbors": [],
                         "nodeType": "quest:challenge",
                         "objectives": {
                             "UnhookInTerrorRadiusWithPerkInTrial": {
@@ -433,16 +408,13 @@
                     "node17": {
                         "clientInfoId": "PlagueInfectMaxInTrial",
                         "coordinates": {
-                            "x": 995,
+                            "x": 1175,
                             "y": 605
                         },
                         "journal": [
                             "journal"
                         ],
-                        "neighbors": [
-                            "node15",
-                            "node7"
-                        ],
+                        "neighbors": [],
                         "nodeType": "quest:challenge",
                         "objectives": {
                             "PlagueInfectMaxInTrial": {
@@ -488,15 +460,13 @@
                     "node18": {
                         "clientInfoId": "PlaguePurgeInjureInTrial",
                         "coordinates": {
-                            "x": 455,
+                            "x": 635,
                             "y": 455
                         },
                         "journal": [
                             "journal"
                         ],
-                        "neighbors": [
-                            "node8"
-                        ],
+                        "neighbors": [],
                         "nodeType": "quest:challenge",
                         "objectives": {
                             "PlaguePurgeInjureInTrial": {
@@ -542,15 +512,10 @@
                     "node19": {
                         "clientInfoId": "EarnBloodpoints",
                         "coordinates": {
-                            "x": 995,
+                            "x": 1085,
                             "y": 305
                         },
-                        "neighbors": [
-                            "node3",
-                            "node5",
-                            "node9",
-                            "node8"
-                        ],
+                        "neighbors": [],
                         "nodeType": "quest:task",
                         "objectives": {
                             "EarnBloodpoints": {
@@ -583,13 +548,10 @@
                     "node2": {
                         "clientInfoId": "ConsumeToolbox",
                         "coordinates": {
-                            "x": 545,
+                            "x": 635,
                             "y": 5
                         },
-                        "neighbors": [
-                            "node12",
-                            "node4"
-                        ],
+                        "neighbors": [],
                         "nodeType": "quest:task",
                         "objectives": {
                             "ConsumeToolbox": {
@@ -630,14 +592,10 @@
                     "node20": {
                         "clientInfoId": "Unhook",
                         "coordinates": {
-                            "x": 185,
+                            "x": 275,
                             "y": 305
                         },
-                        "neighbors": [
-                            "node_T6L1_Glyph01",
-                            "node1",
-                            "node10"
-                        ],
+                        "neighbors": [],
                         "nodeType": "quest:task",
                         "objectives": {
                             "Unhook": {
@@ -678,14 +636,10 @@
                     "node3": {
                         "clientInfoId": "EscapeChase",
                         "coordinates": {
-                            "x": 1175,
+                            "x": 1085,
                             "y": 155
                         },
-                        "neighbors": [
-                            "node12",
-                            "node_T6L1_End02",
-                            "node19"
-                        ],
+                        "neighbors": [],
                         "nodeType": "quest:task",
                         "objectives": {
                             "EscapeChase": {
@@ -727,13 +681,9 @@
                         "clientInfoId": "CoopAction",
                         "coordinates": {
                             "x": 365,
-                            "y": 155
+                            "y": 5
                         },
-                        "neighbors": [
-                            "node2",
-                            "node6",
-                            "node1"
-                        ],
+                        "neighbors": [],
                         "nodeType": "quest:task",
                         "objectives": {
                             "CoopAction": {
@@ -774,15 +724,10 @@
                     "node5": {
                         "clientInfoId": "HealOther",
                         "coordinates": {
-                            "x": 815,
-                            "y": 305
+                            "x": 905,
+                            "y": 5
                         },
-                        "neighbors": [
-                            "node13",
-                            "node_T6L1_Glyph01",
-                            "node16",
-                            "node19"
-                        ],
+                        "neighbors": [],
                         "nodeType": "quest:task",
                         "objectives": {
                             "HealOtherPerc": {
@@ -823,13 +768,10 @@
                     "node6": {
                         "clientInfoId": "SearchFinish",
                         "coordinates": {
-                            "x": 545,
+                            "x": 455,
                             "y": 155
                         },
-                        "neighbors": [
-                            "node13",
-                            "node4"
-                        ],
+                        "neighbors": [],
                         "nodeType": "quest:task",
                         "objectives": {
                             "SearchFinish": {
@@ -870,14 +812,10 @@
                     "node7": {
                         "clientInfoId": "HookBasement",
                         "coordinates": {
-                            "x": 815,
+                            "x": 725,
                             "y": 605
                         },
-                        "neighbors": [
-                            "node14",
-                            "node17",
-                            "node8"
-                        ],
+                        "neighbors": [],
                         "nodeType": "quest:task",
                         "objectives": {
                             "HookBasement": {
@@ -918,14 +856,10 @@
                     "node8": {
                         "clientInfoId": "Scream",
                         "coordinates": {
-                            "x": 815,
+                            "x": 905,
                             "y": 455
                         },
-                        "neighbors": [
-                            "node7",
-                            "node18",
-                            "node19"
-                        ],
+                        "neighbors": [],
                         "nodeType": "quest:task",
                         "objectives": {
                             "Scream": {
@@ -965,14 +899,10 @@
                     "node9": {
                         "clientInfoId": "Chase",
                         "coordinates": {
-                            "x": 1175,
+                            "x": 1265,
                             "y": 455
                         },
-                        "neighbors": [
-                            "node_T6L1_End02",
-                            "node15",
-                            "node19"
-                        ],
+                        "neighbors": [],
                         "nodeType": "quest:task",
                         "objectives": {
                             "Chase": {
@@ -1010,37 +940,13 @@
                             }
                         ]
                     },
-                    "node_T6L1_End01": {
-                        "clientInfoId": "End",
-                        "coordinates": {
-                            "x": 1355,
-                            "y": 605
-                        },
-                        "neighbors": [],
-                        "nodeType": "narrative"
-                    },
-                    "node_T6L1_End02": {
-                        "clientInfoId": "End",
-                        "coordinates": {
-                            "x": 1355,
-                            "y": 305
-                        },
-                        "neighbors": [
-                            "node3",
-                            "node9"
-                        ],
-                        "nodeType": "narrative"
-                    },
                     "node_T6L1_Glyph01": {
                         "clientInfoId": "RedGlyph",
                         "coordinates": {
                             "x": 545,
                             "y": 305
                         },
-                        "neighbors": [
-                            "node20",
-                            "node5"
-                        ],
+                        "neighbors": [],
                         "nodeType": "quest:contextual",
                         "objectives": {
                             "RedGlyph": {
@@ -1076,32 +982,46 @@
                             }
                         ]
                     },
-                    "node_T6L1_Start01": {
+                    "node_T7L1_End01": {
+                        "clientInfoId": "End",
+                        "coordinates": {
+                            "x": 1085,
+                            "y": 455
+                        },
+                        "neighbors": [],
+                        "nodeType": "narrative"
+                    },
+                    "node_T7L1_End02": {
+                        "clientInfoId": "End",
+                        "coordinates": {
+                            "x": 1355,
+                            "y": 155
+                        },
+                        "neighbors": [],
+                        "nodeType": "narrative"
+                    },
+                    "node_T7L1_Start01": {
                         "clientInfoId": "Start",
                         "coordinates": {
                             "x": 5,
                             "y": 455
                         },
-                        "neighbors": [
-                            "node10"
-                        ],
+                        "neighbors": [],
                         "nodeType": "narrative"
                     },
-                    "node_T6L1_Start02": {
+                    "node_T7L1_Start02": {
                         "clientInfoId": "Start",
                         "coordinates": {
                             "x": 5,
                             "y": 155
                         },
-                        "neighbors": [
-                            "node1"
-                        ],
+                        "neighbors": [],
                         "nodeType": "narrative"
                     }
                 },
                 "start": [
-                    "node_T6L1_Start01",
-                    "node_T6L1_Start02"
+                    "node_T7L1_Start01",
+                    "node_T7L1_Start02"
                 ],
                 "startDate": "2021-01-01T00:00:00",
                 "taskRewards": [
@@ -1121,8 +1041,7 @@
                     }
                 ],
                 "end": [
-                    "node_T6L2_End01",
-                    "node_T6L2_End02"
+                    "node_T7L2_End01"
                 ],
                 "endNodeRewards": [
                     {
@@ -1140,14 +1059,10 @@
                     "node1": {
                         "clientInfoId": "FallInChase",
                         "coordinates": {
-                            "x": 725,
+                            "x": 905,
                             "y": 155
                         },
-                        "neighbors": [
-                            "node_T6L2_Glyph",
-                            "node6",
-                            "node8"
-                        ],
+                        "neighbors": [],
                         "nodeType": "quest:task",
                         "objectives": {
                             "FallInChase": {
@@ -1194,10 +1109,7 @@
                         "journal": [
                             "Journal Entry"
                         ],
-                        "neighbors": [
-                            "node13",
-                            "node9"
-                        ],
+                        "neighbors": [],
                         "nodeType": "quest:challenge",
                         "objectives": {
                             "EarnsEmblemsIridescentInTrial": {
@@ -1231,16 +1143,13 @@
                     "node11": {
                         "clientInfoId": "SabotageAndCleanseInTrial",
                         "coordinates": {
-                            "x": 995,
-                            "y": 155
+                            "x": 815,
+                            "y": 305
                         },
                         "journal": [
                             "Journal Entry"
                         ],
-                        "neighbors": [
-                            "node4",
-                            "node_T6L2_Glyph"
-                        ],
+                        "neighbors": [],
                         "nodeType": "quest:challenge",
                         "objectives": {
                             "SabotageAndCleanseInTrial": {
@@ -1281,15 +1190,13 @@
                     "node12": {
                         "clientInfoId": "ChasedByKillerInTrial",
                         "coordinates": {
-                            "x": 1265,
-                            "y": 5
+                            "x": 545,
+                            "y": 605
                         },
                         "journal": [
                             "Journal Entry"
                         ],
-                        "neighbors": [
-                            "node4"
-                        ],
+                        "neighbors": [],
                         "nodeType": "quest:challenge",
                         "objectives": {
                             "ChasedByKillerInTrial": {
@@ -1330,16 +1237,13 @@
                     "node13": {
                         "clientInfoId": "HealFinishAsBillInTrial",
                         "coordinates": {
-                            "x": 365,
+                            "x": 275,
                             "y": 155
                         },
                         "journal": [
                             "Journal Entry"
                         ],
-                        "neighbors": [
-                            "node_T6L2_Start02",
-                            "node10"
-                        ],
+                        "neighbors": [],
                         "nodeType": "quest:challenge",
                         "objectives": {
                             "HealFinishAsCharacterInTrial": {
@@ -1386,16 +1290,13 @@
                     "node14": {
                         "clientInfoId": "DownSuccessively60WIthInfectiousFrightInTrial",
                         "coordinates": {
-                            "x": 995,
+                            "x": 1085,
                             "y": 455
                         },
                         "journal": [
                             "Journal Entry"
                         ],
-                        "neighbors": [
-                            "node3",
-                            "node_T6L2_End01"
-                        ],
+                        "neighbors": [],
                         "nodeType": "quest:challenge",
                         "objectives": {
                             "DownSuccessively60WIthPerkInTrial": {
@@ -1442,15 +1343,13 @@
                     "node15": {
                         "clientInfoId": "FinishPreventGensRepairedWithCorruptInterventionInTrial",
                         "coordinates": {
-                            "x": 545,
+                            "x": 185,
                             "y": 605
                         },
                         "journal": [
                             "Journal Entry"
                         ],
-                        "neighbors": [
-                            "node17"
-                        ],
+                        "neighbors": [],
                         "nodeType": "quest:challenge",
                         "objectives": {
                             "FinishPreventGensRepairedWithPerkInTrial": {
@@ -1496,16 +1395,13 @@
                     "node16": {
                         "clientInfoId": "EscapeHatchWithLeftBehindInTrial",
                         "coordinates": {
-                            "x": 275,
+                            "x": 365,
                             "y": 305
                         },
                         "journal": [
                             "Journal Entry"
                         ],
-                        "neighbors": [
-                            "node_T6L2_Start01",
-                            "node9"
-                        ],
+                        "neighbors": [],
                         "nodeType": "quest:challenge",
                         "objectives": {
                             "EscapeHatchWithPerkInTrial": {
@@ -1552,16 +1448,13 @@
                     "node17": {
                         "clientInfoId": "LivingAtEndTrialWithTrapperPerksInTrial",
                         "coordinates": {
-                            "x": 275,
-                            "y": 605
+                            "x": 725,
+                            "y": 455
                         },
                         "journal": [
                             "Journal Entry"
                         ],
-                        "neighbors": [
-                            "node2",
-                            "node15"
-                        ],
+                        "neighbors": [],
                         "nodeType": "quest:challenge",
                         "objectives": {
                             "LivingAtEndTrialWithTrapperPerksInTrial": {
@@ -1601,16 +1494,13 @@
                     "node18": {
                         "clientInfoId": "PlagueCorruptPurgeMultipleInTrial",
                         "coordinates": {
-                            "x": 905,
+                            "x": 995,
                             "y": 605
                         },
                         "journal": [
                             "Journal Entry"
                         ],
-                        "neighbors": [
-                            "node3",
-                            "node_T6L2_End01"
-                        ],
+                        "neighbors": [],
                         "nodeType": "quest:challenge",
                         "objectives": {
                             "PlagueCorruptPurgeMultipleInTrial": {
@@ -1657,14 +1547,10 @@
                     "node2": {
                         "clientInfoId": "Sacrifice",
                         "coordinates": {
-                            "x": 185,
+                            "x": 275,
                             "y": 455
                         },
-                        "neighbors": [
-                            "node_T6L2_Start01",
-                            "node7",
-                            "node17"
-                        ],
+                        "neighbors": [],
                         "nodeType": "quest:task",
                         "objectives": {
                             "Sacrifice": {
@@ -1704,15 +1590,10 @@
                     "node3": {
                         "clientInfoId": "HookObsession",
                         "coordinates": {
-                            "x": 725,
+                            "x": 905,
                             "y": 455
                         },
-                        "neighbors": [
-                            "node14",
-                            "node7",
-                            "node_T6L2_Glyph",
-                            "node18"
-                        ],
+                        "neighbors": [],
                         "nodeType": "quest:task",
                         "objectives": {
                             "HookObsession": {
@@ -1753,13 +1634,10 @@
                     "node4": {
                         "clientInfoId": "Repair",
                         "coordinates": {
-                            "x": 1085,
+                            "x": 635,
                             "y": 5
                         },
-                        "neighbors": [
-                            "node12",
-                            "node11"
-                        ],
+                        "neighbors": [],
                         "nodeType": "quest:task",
                         "objectives": {
                             "RepairPerc": {
@@ -1801,12 +1679,9 @@
                         "clientInfoId": "SkillCheckGreatSuccessInTerrorRadius",
                         "coordinates": {
                             "x": 1085,
-                            "y": 305
+                            "y": 155
                         },
-                        "neighbors": [
-                            "node_T6L2_Glyph",
-                            "node_T6L2_End02"
-                        ],
+                        "neighbors": [],
                         "nodeType": "quest:task",
                         "objectives": {
                             "SkillCheckGreatSuccessInTerrorRadius": {
@@ -1847,12 +1722,10 @@
                     "node6": {
                         "clientInfoId": "StunBlind",
                         "coordinates": {
-                            "x": 815,
+                            "x": 365,
                             "y": 5
                         },
-                        "neighbors": [
-                            "node1"
-                        ],
+                        "neighbors": [],
                         "nodeType": "quest:task",
                         "objectives": {
                             "StunBlind": {
@@ -1893,13 +1766,10 @@
                     "node7": {
                         "clientInfoId": "Down",
                         "coordinates": {
-                            "x": 365,
+                            "x": 455,
                             "y": 455
                         },
-                        "neighbors": [
-                            "node3",
-                            "node2"
-                        ],
+                        "neighbors": [],
                         "nodeType": "quest:task",
                         "objectives": {
                             "Down": {
@@ -1939,13 +1809,10 @@
                     "node8": {
                         "clientInfoId": "UnhookWhoUnhooked",
                         "coordinates": {
-                            "x": 635,
+                            "x": 815,
                             "y": 5
                         },
-                        "neighbors": [
-                            "node_T6L2_Start02",
-                            "node1"
-                        ],
+                        "neighbors": [],
                         "nodeType": "quest:task",
                         "objectives": {
                             "UnhookWhoUnhooked": {
@@ -1989,11 +1856,7 @@
                             "x": 635,
                             "y": 305
                         },
-                        "neighbors": [
-                            "node16",
-                            "node_T6L2_Glyph",
-                            "node10"
-                        ],
+                        "neighbors": [],
                         "nodeType": "quest:task",
                         "objectives": {
                             "HealOtherPerc": {
@@ -2031,42 +1894,13 @@
                             }
                         ]
                     },
-                    "node_T6L2_End01": {
-                        "clientInfoId": "End",
-                        "coordinates": {
-                            "x": 1265,
-                            "y": 605
-                        },
-                        "neighbors": [
-                            "node14",
-                            "node18"
-                        ],
-                        "nodeType": "narrative"
-                    },
-                    "node_T6L2_End02": {
-                        "clientInfoId": "End",
-                        "coordinates": {
-                            "x": 1355,
-                            "y": 305
-                        },
-                        "neighbors": [
-                            "node5"
-                        ],
-                        "nodeType": "narrative"
-                    },
                     "node_T6L2_Glyph": {
                         "clientInfoId": "RedGlyph",
                         "coordinates": {
-                            "x": 815,
+                            "x": 995,
                             "y": 305
                         },
-                        "neighbors": [
-                            "node3",
-                            "node1",
-                            "node5",
-                            "node9",
-                            "node11"
-                        ],
+                        "neighbors": [],
                         "nodeType": "quest:contextual",
                         "objectives": {
                             "RedGlyph": {
@@ -2102,34 +1936,37 @@
                             }
                         ]
                     },
-                    "node_T6L2_Start01": {
-                        "clientInfoId": "Start",
+                    "node_T7L2_End01": {
+                        "clientInfoId": "End",
                         "coordinates": {
                             "x": 5,
-                            "y": 305
-                        },
-                        "neighbors": [
-                            "node2",
-                            "node16"
-                        ],
-                        "nodeType": "narrative"
-                    },
-                    "node_T6L2_Start02": {
-                        "clientInfoId": "Start",
-                        "coordinates": {
-                            "x": 275,
                             "y": 5
                         },
-                        "neighbors": [
-                            "node13",
-                            "node8"
-                        ],
+                        "neighbors": [],
+                        "nodeType": "narrative"
+                    },
+                    "node_T7L2_Start01": {
+                        "clientInfoId": "Start",
+                        "coordinates": {
+                            "x": 95,
+                            "y": 305
+                        },
+                        "neighbors": [],
+                        "nodeType": "narrative"
+                    },
+                    "node_T7L2_Start02": {
+                        "clientInfoId": "Start",
+                        "coordinates": {
+                            "x": 185,
+                            "y": 5
+                        },
+                        "neighbors": [],
                         "nodeType": "narrative"
                     }
                 },
                 "start": [
-                    "node_T6L2_Start01",
-                    "node_T6L2_Start02"
+                    "node_T7L2_Start01",
+                    "node_T7L2_Start02"
                 ],
                 "startDate": "2021-01-02T00:00:00",
                 "taskRewards": [
@@ -2149,8 +1986,8 @@
                     }
                 ],
                 "end": [
-                    "node_T6L3_End01",
-                    "node_T6L3_End02"
+                    "node_T7L3_End01",
+                    "node_T7L3_End02"
                 ],
                 "endNodeRewards": [
                     {
@@ -2168,8 +2005,8 @@
                     "node01": {
                         "clientInfoId": "UnhookProtectionHit",
                         "coordinates": {
-                            "x": 0,
-                            "y": 0
+                            "x": 905,
+                            "y": 605
                         },
                         "neighbors": [],
                         "nodeType": "quest:task",
@@ -2212,8 +2049,8 @@
                     "node02": {
                         "clientInfoId": "CleanseFinish",
                         "coordinates": {
-                            "x": 0,
-                            "y": 0
+                            "x": 185,
+                            "y": 605
                         },
                         "neighbors": [],
                         "nodeType": "quest:task",
@@ -2256,8 +2093,8 @@
                     "node03": {
                         "clientInfoId": "HealOther",
                         "coordinates": {
-                            "x": 0,
-                            "y": 0
+                            "x": 275,
+                            "y": 305
                         },
                         "neighbors": [],
                         "nodeType": "quest:task",
@@ -2300,8 +2137,8 @@
                     "node04": {
                         "clientInfoId": "HideNearKiller",
                         "coordinates": {
-                            "x": 0,
-                            "y": 0
+                            "x": 95,
+                            "y": 455
                         },
                         "neighbors": [],
                         "nodeType": "quest:task",
@@ -2344,8 +2181,8 @@
                     "node05": {
                         "clientInfoId": "RepairCoop",
                         "coordinates": {
-                            "x": 0,
-                            "y": 0
+                            "x": 1265,
+                            "y": 455
                         },
                         "neighbors": [],
                         "nodeType": "quest:task",
@@ -2388,8 +2225,8 @@
                     "node06": {
                         "clientInfoId": "HookBasement",
                         "coordinates": {
-                            "x": 0,
-                            "y": 0
+                            "x": 1085,
+                            "y": 155
                         },
                         "neighbors": [],
                         "nodeType": "quest:task",
@@ -2432,8 +2269,8 @@
                     "node07": {
                         "clientInfoId": "EarnBloodpoints",
                         "coordinates": {
-                            "x": 0,
-                            "y": 0
+                            "x": 815,
+                            "y": 155
                         },
                         "neighbors": [],
                         "nodeType": "quest:task",
@@ -2468,8 +2305,8 @@
                     "node08": {
                         "clientInfoId": "BreakWallsPalletsGens",
                         "coordinates": {
-                            "x": 0,
-                            "y": 0
+                            "x": 185,
+                            "y": 155
                         },
                         "neighbors": [],
                         "nodeType": "quest:task",
@@ -2512,8 +2349,8 @@
                     "node09": {
                         "clientInfoId": "Hit",
                         "coordinates": {
-                            "x": 0,
-                            "y": 0
+                            "x": 545,
+                            "y": 155
                         },
                         "neighbors": [],
                         "nodeType": "quest:task",
@@ -2556,21 +2393,14 @@
                     "node10": {
                         "clientInfoId": "EarnEmblemsGold",
                         "coordinates": {
-                            "x": 0,
-                            "y": 0
+                            "x": 815,
+                            "y": 455
                         },
                         "neighbors": [],
                         "nodeType": "quest:task",
                         "objectives": {
                             "EarnEmblemsQuality": {
-                                "conditions": [
-                                    {
-                                        "key": "role",
-                                        "value": [
-                                            "killer"
-                                        ]
-                                    }
-                                ],
+                                "conditions": [],
                                 "incrementWithEventRepetitions": true,
                                 "neededProgression": 10,
                                 "objectiveId": "EarnEmblemsQuality",
@@ -2597,11 +2427,99 @@
                             }
                         ]
                     },
-                    "node13": {
-                        "clientInfoId": "EscapeOtherInTrial",
+                    "node11": {
+                        "clientInfoId": "Hook",
                         "coordinates": {
                             "x": 0,
                             "y": 0
+                        },
+                        "neighbors": [],
+                        "nodeType": "quest:task",
+                        "objectives": {
+                            "Hook": {
+                                "conditions": [
+                                    {
+                                        "key": "role",
+                                        "value": [
+                                            "killer"
+                                        ]
+                                    }
+                                ],
+                                "incrementWithEventRepetitions": true,
+                                "neededProgression": 20,
+                                "objectiveId": "Hook",
+                                "questEvent": [
+                                    {
+                                        "operation": ">=",
+                                        "parameters": "instigator:me",
+                                        "questEventId": "QuestEvent.Hook",
+                                        "repetition": 1
+                                    }
+                                ]
+                            }
+                        },
+                        "reward": [
+                            {
+                                "amount": 3,
+                                "id": "star",
+                                "type": "progressionDbD"
+                            },
+                            {
+                                "amount": 30000,
+                                "id": "Bloodpoints",
+                                "type": "currency"
+                            }
+                        ]
+                    },
+                    "node12": {
+                        "clientInfoId": "Heal",
+                        "coordinates": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "neighbors": [],
+                        "nodeType": "quest:task",
+                        "objectives": {
+                            "HealPerc": {
+                                "conditions": [
+                                    {
+                                        "key": "role",
+                                        "value": [
+                                            "survivor"
+                                        ]
+                                    }
+                                ],
+                                "incrementWithEventRepetitions": true,
+                                "neededProgression": 20,
+                                "objectiveId": "HealPerc",
+                                "questEvent": [
+                                    {
+                                        "operation": ">=",
+                                        "parameters": "instigator:me",
+                                        "questEventId": "QuestEvent.Heal",
+                                        "repetition": 1
+                                    }
+                                ]
+                            }
+                        },
+                        "reward": [
+                            {
+                                "amount": 3,
+                                "id": "star",
+                                "type": "progressionDbD"
+                            },
+                            {
+                                "amount": 30000,
+                                "id": "Bloodpoints",
+                                "type": "currency"
+                            }
+                        ]
+                    },
+                    "node13": {
+                        "clientInfoId": "EscapeOtherInTrial",
+                        "coordinates": {
+                            "x": 995,
+                            "y": 455
                         },
                         "journal": [
                             "Journal Entry"
@@ -2647,8 +2565,8 @@
                     "node14": {
                         "clientInfoId": "EscapeChaseAsZarinaInTrial",
                         "coordinates": {
-                            "x": 0,
-                            "y": 0
+                            "x": 1085,
+                            "y": 305
                         },
                         "journal": [
                             "Journal Entry"
@@ -2700,8 +2618,8 @@
                     "node15": {
                         "clientInfoId": "HookDifferentInTrial",
                         "coordinates": {
-                            "x": 0,
-                            "y": 0
+                            "x": 905,
+                            "y": 5
                         },
                         "journal": [
                             "Journal Entry"
@@ -2747,8 +2665,8 @@
                     "node16": {
                         "clientInfoId": "EscapeWithUnbreakableInTrial",
                         "coordinates": {
-                            "x": 0,
-                            "y": 0
+                            "x": 815,
+                            "y": 305
                         },
                         "journal": [
                             "Journal Entry"
@@ -2800,8 +2718,8 @@
                     "node17": {
                         "clientInfoId": "ForThePeopleTriggeredInTrial",
                         "coordinates": {
-                            "x": 0,
-                            "y": 0
+                            "x": 725,
+                            "y": 605
                         },
                         "journal": [
                             "Journal Entry"
@@ -2853,8 +2771,8 @@
                     "node18": {
                         "clientInfoId": "TrapperCatchTrapNearPalletsVaultsWallsInTrial",
                         "coordinates": {
-                            "x": 0,
-                            "y": 0
+                            "x": 455,
+                            "y": 5
                         },
                         "journal": [
                             "Journal Entry"
@@ -2905,8 +2823,8 @@
                     "node19": {
                         "clientInfoId": "TrapperCatchInChaseInTrial",
                         "coordinates": {
-                            "x": 0,
-                            "y": 0
+                            "x": 365,
+                            "y": 155
                         },
                         "journal": [
                             "Journal Entry"
@@ -2954,29 +2872,11 @@
                             }
                         ]
                     },
-                    "node_T6L3_End01": {
-                        "clientInfoId": "End",
-                        "coordinates": {
-                            "x": 1265,
-                            "y": 455
-                        },
-                        "neighbors": [],
-                        "nodeType": "narrative"
-                    },
-                    "node_T6L3_End02": {
-                        "clientInfoId": "End",
-                        "coordinates": {
-                            "x": 1175,
-                            "y": 5
-                        },
-                        "neighbors": [],
-                        "nodeType": "narrative"
-                    },
                     "node_T6L3_Glyph": {
                         "clientInfoId": "RedGlyph",
                         "coordinates": {
-                            "x": 365,
-                            "y": 305
+                            "x": 635,
+                            "y": 455
                         },
                         "neighbors": [],
                         "nodeType": "quest:contextual",
@@ -3014,10 +2914,28 @@
                             }
                         ]
                     },
-                    "node_T6L3_Start01": {
+                    "node_T7L3_End01": {
+                        "clientInfoId": "End",
+                        "coordinates": {
+                            "x": 1355,
+                            "y": 305
+                        },
+                        "neighbors": [],
+                        "nodeType": "narrative"
+                    },
+                    "node_T7L3_End02": {
+                        "clientInfoId": "End",
+                        "coordinates": {
+                            "x": 1175,
+                            "y": 5
+                        },
+                        "neighbors": [],
+                        "nodeType": "narrative"
+                    },
+                    "node_T7L3_Start01": {
                         "clientInfoId": "Start",
                         "coordinates": {
-                            "x": 95,
+                            "x": 5,
                             "y": 305
                         },
                         "neighbors": [],
@@ -3025,7 +2943,7 @@
                     }
                 },
                 "start": [
-                    "node_T6L3_Start01"
+                    "node_T7L3_Start01"
                 ],
                 "startDate": "2021-01-03T00:00:00",
                 "taskRewards": [
@@ -3045,7 +2963,7 @@
                     }
                 ],
                 "end": [
-                    "node_T6L4_End01"
+                    "node_T7L4_End01"
                 ],
                 "endNodeRewards": [
                     {
@@ -3060,15 +2978,6 @@
                     }
                 ],
                 "nodes": {
-                    "node_T6L4_End01": {
-                        "clientInfoId": "End",
-                        "coordinates": {
-                            "x": 1265,
-                            "y": 455
-                        },
-                        "neighbors": [],
-                        "nodeType": "narrative"
-                    },
                     "node_T6L4_Glyph": {
                         "clientInfoId": "RedGlyph",
                         "coordinates": {
@@ -3111,7 +3020,16 @@
                             }
                         ]
                     },
-                    "node_T6L4_Start01": {
+                    "node_T7L4_End01": {
+                        "clientInfoId": "End",
+                        "coordinates": {
+                            "x": 1265,
+                            "y": 455
+                        },
+                        "neighbors": [],
+                        "nodeType": "narrative"
+                    },
+                    "node_T7L4_Start01": {
                         "clientInfoId": "Start",
                         "coordinates": {
                             "x": 95,
@@ -3119,10 +3037,20 @@
                         },
                         "neighbors": [],
                         "nodeType": "narrative"
+                    },
+                    "node_T7L4_Start02": {
+                        "clientInfoId": "Start",
+                        "coordinates": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "neighbors": [],
+                        "nodeType": "narrative"
                     }
                 },
                 "start": [
-                    "node_T6L4_Start01"
+                    "node_T7L4_Start01",
+                    "node_T7L4_Start02"
                 ],
                 "startDate": "2021-01-04T00:00:00",
                 "taskRewards": [
@@ -3135,6 +3063,6 @@
             }
         ],
         "rewardData": "Tome07",
-        "version": 9
+        "version": 11
     }
 }
