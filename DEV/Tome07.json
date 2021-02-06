@@ -290,6 +290,7 @@
                                 "questEvent": [
                                     {
                                         "operation": ">=",
+                                        "parameters": "instigator:me",
                                         "questEventId": "QuestEvent.Hook",
                                         "repetition": 5
                                     }
