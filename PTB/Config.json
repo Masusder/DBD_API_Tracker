@@ -103,6 +103,12 @@
     },
     {
         "value": [
+            "dbd.EnableBots 1"
+        ],
+        "keyName": "COMMANDS_BOOT"
+    },
+    {
+        "value": [
             {
                 "data": "Core",
                 "children": [
@@ -532,6 +538,12 @@
     {
         "value": "7",
         "keyName": "RECOMMENDATION_RECENT_RELEASE_THRESHOLD"
+    },
+    {
+        "value": [
+            "dbd.EnableBots 1"
+        ],
+        "keyName": "COMMANDS_DS_BOOT"
     },
     {
         "value": "False",
