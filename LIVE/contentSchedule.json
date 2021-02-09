@@ -62,7 +62,7 @@
             "description": "Bigbang",
             "end_date": "2021-02-15T15:59:59",
             "maps_weight": {
-                "Asy_Asylum": "35"
+                "Asy_Chapel": "60"
             },
             "priority": "101",
             "start_date": "2021-02-09T16:00:00"
@@ -71,18 +71,9 @@
             "description": "Bigbang",
             "end_date": "2021-02-15T15:59:59",
             "maps_weight": {
-                "Asy_Chapel": "35"
+                "Fin_Hideout": "60"
             },
             "priority": "102",
-            "start_date": "2021-02-09T16:00:00"
-        },
-        {
-            "description": "Bigbang",
-            "end_date": "2021-02-15T15:59:59",
-            "maps_weight": {
-                "Fin_Hideout": "70"
-            },
-            "priority": "103",
             "start_date": "2021-02-09T16:00:00"
         }
     ]

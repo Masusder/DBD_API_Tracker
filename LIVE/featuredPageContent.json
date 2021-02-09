@@ -654,7 +654,18 @@
                     "Banner_AJC",
                     "Banner_ADAZ"
                 ],
-                "startDate": "2021-01-22T16:00:00"
+                "startDate": "2021-01-21T16:00:00"
+            },
+            {
+                "endDate": "2021-02-11T15:59:59",
+                "ids": [
+                    "Banner_BB_NS",
+                    "Banner_BB_D",
+                    "Banner_AJW",
+                    "Banner_ACT",
+                    "Banner_ACF"
+                ],
+                "startDate": "2021-02-09T16:00:00"
             }
         ],
         "right": [
@@ -1045,8 +1056,28 @@
                     ]
                 }
             ],
-            "endDate": "2021-02-08T15:59:59",
+            "endDate": "2021-02-09T15:59:59",
             "startDate": "2021-02-01T16:00:00"
+        },
+        {
+            "data": [
+                {
+                    "category": "outfit",
+                    "ids": [
+                        "QF_Outfit_009",
+                        "QM_Outfit_009",
+                        "QK_outfit_007",
+                        "QM_outfit_02",
+                        "QM_outfit_008",
+                        "QF_outfit_008",
+                        "QF_outfit_006",
+                        "QK_outfit_006",
+                        "QK_outfit_02"
+                    ]
+                }
+            ],
+            "endDate": "2021-02-10T15:59:59",
+            "startDate": "2021-02-09T16:00:00"
         }
     ]
 }
