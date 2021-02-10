@@ -677,9 +677,29 @@
                 "price": 500
             }
         ],
+        "eventCostList": [
+            {
+                "cost": [
+                    {
+                        "currencyId": "Cells",
+                        "price": 250
+                    }
+                ],
+                "endDate": "2021-02-17T16:00:00",
+                "startDate": "2021-02-10T16:00:00"
+            }
+        ],
         "id": "Oni",
         "metaData": {
-            "role": "Slasher"
+            "role": "Slasher",
+            "temporaryDiscounts": [
+                {
+                    "currencyId": "Cells",
+                    "discountPercentage": 0.5,
+                    "endDate": "2021-02-17T16:00:00",
+                    "startDate": "2021-02-10T16:00:00"
+                }
+            ]
         },
         "nonSecure": false,
         "purchasable": true,
@@ -699,9 +719,29 @@
                 "price": 500
             }
         ],
+        "eventCostList": [
+            {
+                "cost": [
+                    {
+                        "currencyId": "Cells",
+                        "price": 250
+                    }
+                ],
+                "endDate": "2021-02-17T16:00:00",
+                "startDate": "2021-02-10T16:00:00"
+            }
+        ],
         "id": "Yui",
         "metaData": {
-            "role": "Camper"
+            "role": "Camper",
+            "temporaryDiscounts": [
+                {
+                    "currencyId": "Cells",
+                    "discountPercentage": 0.5,
+                    "endDate": "2021-02-17T16:00:00",
+                    "startDate": "2021-02-10T16:00:00"
+                }
+            ]
         },
         "nonSecure": false,
         "purchasable": true,
