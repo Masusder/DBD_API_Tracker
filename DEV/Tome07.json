@@ -98,7 +98,7 @@
                                     }
                                 ],
                                 "incrementWithEventRepetitions": true,
-                                "neededProgression": 15,
+                                "neededProgression": 12,
                                 "objectiveId": "BreakWallsPalletsGens",
                                 "questEvent": [
                                     {
@@ -174,7 +174,7 @@
                     "node12": {
                         "clientInfoId": "HealWithoutMedkitInTrial",
                         "coordinates": {
-                            "x": 455,
+                            "x": 545,
                             "y": 455
                         },
                         "neighbors": [
@@ -469,7 +469,7 @@
                     "node18": {
                         "clientInfoId": "PlaguePurgeInjureInTrial",
                         "coordinates": {
-                            "x": 455,
+                            "x": 545,
                             "y": 305
                         },
                         "neighbors": [
@@ -703,7 +703,7 @@
                         ]
                     },
                     "node22": {
-                        "clientInfoId": "HookInTrial",
+                        "clientInfoId": "HitDifferentInTrial",
                         "coordinates": {
                             "x": 725,
                             "y": 455
@@ -714,7 +714,7 @@
                         ],
                         "nodeType": "quest:challenge",
                         "objectives": {
-                            "HookInTrial": {
+                            "HitDifferentInTrial": {
                                 "conditions": [
                                     {
                                         "key": "role",
@@ -725,13 +725,13 @@
                                 ],
                                 "incrementWithEventRepetitions": false,
                                 "neededProgression": 1,
-                                "objectiveId": "HookInTrial",
+                                "objectiveId": "HitDifferentInTrial",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
                                         "parameters": "instigator:me",
-                                        "questEventId": "QuestEvent.Hook",
-                                        "repetition": 1
+                                        "questEventId": "QuestEvent.Hit",
+                                        "repetition": 4
                                     }
                                 ]
                             }
@@ -801,7 +801,7 @@
                     "node4": {
                         "clientInfoId": "CoopAction",
                         "coordinates": {
-                            "x": 365,
+                            "x": 455,
                             "y": 5
                         },
                         "neighbors": [
@@ -895,7 +895,7 @@
                     "node6": {
                         "clientInfoId": "SearchFinish",
                         "coordinates": {
-                            "x": 455,
+                            "x": 365,
                             "y": 155
                         },
                         "neighbors": [
@@ -987,7 +987,7 @@
                         ]
                     },
                     "node8": {
-                        "clientInfoId": "Scream",
+                        "clientInfoId": "Crow",
                         "coordinates": {
                             "x": 905,
                             "y": 455
@@ -999,7 +999,7 @@
                         ],
                         "nodeType": "quest:task",
                         "objectives": {
-                            "Scream": {
+                            "Crow": {
                                 "conditions": [
                                     {
                                         "key": "role",
@@ -1010,11 +1010,12 @@
                                 ],
                                 "incrementWithEventRepetitions": true,
                                 "neededProgression": 12,
-                                "objectiveId": "Scream",
+                                "objectiveId": "Crow",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
-                                        "questEventId": "QuestEvent.Scream",
+                                        "parameters": "instigator:me",
+                                        "questEventId": "QuestEvent.Crow",
                                         "repetition": 1
                                     }
                                 ]
@@ -1272,11 +1273,11 @@
                         ],
                         "nodeType": "quest:challenge",
                         "objectives": {
-                            "EarnsEmblemsIridescentInTrial": {
+                            "EarnEmblemsIridescentInTrial": {
                                 "conditions": [],
                                 "incrementWithEventRepetitions": false,
                                 "neededProgression": 1,
-                                "objectiveId": "EarnsEmblemsIridescentInTrial",
+                                "objectiveId": "EarnEmblemsIridescentInTrial",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -4284,6 +4285,6 @@
             }
         ],
         "rewardData": "Tome07",
-        "version": 26
+        "version": 27
     }
 }
