@@ -683,6 +683,10 @@
                     {
                         "currencyId": "Cells",
                         "price": 250
+                    },
+                    {
+                        "currencyId": "Shards",
+                        "price": 9000
                     }
                 ],
                 "endDate": "2021-02-17T16:00:00",
@@ -696,6 +700,12 @@
                 {
                     "currencyId": "Cells",
                     "discountPercentage": 0.5,
+                    "endDate": "2021-02-17T16:00:00",
+                    "startDate": "2021-02-10T16:00:00"
+                },
+                {
+                    "currencyId": "Shards",
+                    "discountPercentage": 0.0,
                     "endDate": "2021-02-17T16:00:00",
                     "startDate": "2021-02-10T16:00:00"
                 }
@@ -725,6 +735,10 @@
                     {
                         "currencyId": "Cells",
                         "price": 250
+                    },
+                    {
+                        "currencyId": "Shards",
+                        "price": 9000
                     }
                 ],
                 "endDate": "2021-02-17T16:00:00",
@@ -738,6 +752,12 @@
                 {
                     "currencyId": "Cells",
                     "discountPercentage": 0.5,
+                    "endDate": "2021-02-17T16:00:00",
+                    "startDate": "2021-02-10T16:00:00"
+                },
+                {
+                    "currencyId": "Shards",
+                    "discountPercentage": 0.0,
                     "endDate": "2021-02-17T16:00:00",
                     "startDate": "2021-02-10T16:00:00"
                 }
@@ -14848,10 +14868,6 @@
             {
                 "currencyId": "Cells",
                 "price": 400
-            },
-            {
-                "currencyId": "Shards",
-                "price": 7200
             }
         ],
         "eventCostList": [],
@@ -14861,8 +14877,8 @@
             "base_itemId": "JP_Head012",
             "character": "Jake",
             "kind": "Customization",
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2021-02-25T15:59:59",
+            "newStartDate": "2021-02-11T16:00:00",
             "outfitId": "JP_outfit_012",
             "quality": "V0",
             "qualityName": "quality1",
@@ -14884,7 +14900,7 @@
         },
         "nonSecure": false,
         "premium": false,
-        "purchasable": false,
+        "purchasable": true,
         "unique": true
     },
     {
@@ -14898,10 +14914,6 @@
             {
                 "currencyId": "Cells",
                 "price": 400
-            },
-            {
-                "currencyId": "Shards",
-                "price": 7200
             }
         ],
         "eventCostList": [],
@@ -14911,8 +14923,8 @@
             "base_itemId": "JP_Torso012",
             "character": "Jake",
             "kind": "Customization",
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2021-02-25T15:59:59",
+            "newStartDate": "2021-02-11T16:00:00",
             "outfitId": "JP_outfit_012",
             "quality": "V0",
             "qualityName": "quality1",
@@ -14934,7 +14946,7 @@
         },
         "nonSecure": false,
         "premium": false,
-        "purchasable": false,
+        "purchasable": true,
         "unique": true
     },
     {
@@ -14948,10 +14960,6 @@
             {
                 "currencyId": "Cells",
                 "price": 400
-            },
-            {
-                "currencyId": "Shards",
-                "price": 7200
             }
         ],
         "eventCostList": [],
@@ -14961,8 +14969,8 @@
             "base_itemId": "JP_Legs012",
             "character": "Jake",
             "kind": "Customization",
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2021-02-25T15:59:59",
+            "newStartDate": "2021-02-11T16:00:00",
             "outfitId": "JP_outfit_012",
             "quality": "V0",
             "qualityName": "quality1",
@@ -14984,7 +14992,7 @@
         },
         "nonSecure": false,
         "premium": false,
-        "purchasable": false,
+        "purchasable": true,
         "unique": true
     },
     {
@@ -99240,12 +99248,12 @@
                 "JP_Torso012",
                 "JP_Legs012"
             ],
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2021-02-25T15:59:59",
+            "newStartDate": "2021-02-11T16:00:00",
             "unbreakable": false
         },
         "nonSecure": false,
-        "purchasable": false,
+        "purchasable": true,
         "unique": true
     },
     {
@@ -100977,6 +100985,20 @@
             ],
             "newEndDate": "2019-02-13T18:59:59",
             "newStartDate": "2019-01-30T19:00:00",
+            "temporaryDiscounts": [
+                {
+                    "currencyId": "Cells",
+                    "discountPercentage": 0.3,
+                    "endDate": "2021-02-18T16:00:00",
+                    "startDate": "2021-02-12T16:00:00"
+                },
+                {
+                    "currencyId": "Shards",
+                    "discountPercentage": 0.0,
+                    "endDate": "2021-02-18T16:00:00",
+                    "startDate": "2021-02-12T16:00:00"
+                }
+            ],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -102029,6 +102051,20 @@
             ],
             "newEndDate": "2020-02-04T15:59:59",
             "newStartDate": "2020-01-21T16:00:00",
+            "temporaryDiscounts": [
+                {
+                    "currencyId": "Cells",
+                    "discountPercentage": 0.2,
+                    "endDate": "2021-02-18T16:00:00",
+                    "startDate": "2021-02-12T16:00:00"
+                },
+                {
+                    "currencyId": "Shards",
+                    "discountPercentage": 0.0,
+                    "endDate": "2021-02-18T16:00:00",
+                    "startDate": "2021-02-12T16:00:00"
+                }
+            ],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -105478,6 +105514,20 @@
             ],
             "newEndDate": "2019-02-13T18:59:59",
             "newStartDate": "2019-01-30T19:00:00",
+            "temporaryDiscounts": [
+                {
+                    "currencyId": "Cells",
+                    "discountPercentage": 0.3,
+                    "endDate": "2021-02-18T16:00:00",
+                    "startDate": "2021-02-12T16:00:00"
+                },
+                {
+                    "currencyId": "Shards",
+                    "discountPercentage": 0.0,
+                    "endDate": "2021-02-18T16:00:00",
+                    "startDate": "2021-02-12T16:00:00"
+                }
+            ],
             "unbreakable": false
         },
         "nonSecure": false,
@@ -106484,6 +106534,20 @@
             ],
             "newEndDate": "2020-02-04T15:59:59",
             "newStartDate": "2020-01-21T16:00:00",
+            "temporaryDiscounts": [
+                {
+                    "currencyId": "Cells",
+                    "discountPercentage": 0.2,
+                    "endDate": "2021-02-18T16:00:00",
+                    "startDate": "2021-02-12T16:00:00"
+                },
+                {
+                    "currencyId": "Shards",
+                    "discountPercentage": 0.0,
+                    "endDate": "2021-02-18T16:00:00",
+                    "startDate": "2021-02-12T16:00:00"
+                }
+            ],
             "unbreakable": false
         },
         "nonSecure": false,
