@@ -129,6 +129,9 @@
                             "x": 815,
                             "y": 155
                         },
+                        "journal": [
+                            "Tome07_Bill"
+                        ],
                         "neighbors": [
                             "node1"
                         ],
@@ -275,6 +278,9 @@
                             "x": 365,
                             "y": 605
                         },
+                        "journal": [
+                            "Tome07_Plague"
+                        ],
                         "neighbors": [
                             "node10",
                             "node8"
@@ -322,6 +328,9 @@
                             "x": 995,
                             "y": 605
                         },
+                        "journal": [
+                            "Tome07_Plague"
+                        ],
                         "neighbors": [
                             "node17",
                             "node9"
@@ -374,6 +383,9 @@
                             "x": 1175,
                             "y": 5
                         },
+                        "journal": [
+                            "Tome07_Bill"
+                        ],
                         "neighbors": [
                             "node3"
                         ],
@@ -425,6 +437,9 @@
                             "x": 1175,
                             "y": 605
                         },
+                        "journal": [
+                            "Tome07_Plague"
+                        ],
                         "neighbors": [
                             "node15",
                             "node_T7L1_End01"
@@ -477,6 +492,9 @@
                             "x": 275,
                             "y": 305
                         },
+                        "journal": [
+                            "Tome07_Plague"
+                        ],
                         "neighbors": [
                             "node12",
                             "node10"
@@ -712,6 +730,9 @@
                             "x": 545,
                             "y": 455
                         },
+                        "journal": [
+                            "Tome07_Plague"
+                        ],
                         "neighbors": [
                             "node21",
                             "node8"
@@ -1214,6 +1235,53 @@
                     }
                 ],
                 "nodes": {
+                    "ndoe13": {
+                        "clientInfoId": "CloseHatchInTrial",
+                        "coordinates": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "journal": [
+                            "Tome07_Plague"
+                        ],
+                        "neighbors": [],
+                        "nodeType": "quest:challenge",
+                        "objectives": {
+                            "CloseHatchInTrial": {
+                                "conditions": [
+                                    {
+                                        "key": "role",
+                                        "value": [
+                                            "killer"
+                                        ]
+                                    }
+                                ],
+                                "incrementWithEventRepetitions": false,
+                                "neededProgression": 1,
+                                "objectiveId": "CloseHatchInTrial",
+                                "questEvent": [
+                                    {
+                                        "operation": ">=",
+                                        "parameters": "instigator:me",
+                                        "questEventId": "QuestEvent.CloseHatch",
+                                        "repetition": 1
+                                    }
+                                ]
+                            }
+                        },
+                        "reward": [
+                            {
+                                "amount": 5,
+                                "id": "star",
+                                "type": "progressionDbD"
+                            },
+                            {
+                                "amount": 45000,
+                                "id": "Bloodpoints",
+                                "type": "currency"
+                            }
+                        ]
+                    },
                     "node1": {
                         "clientInfoId": "FallInChase",
                         "coordinates": {
@@ -1357,6 +1425,9 @@
                             "x": 275,
                             "y": 155
                         },
+                        "journal": [
+                            "Tome07_Bill"
+                        ],
                         "neighbors": [
                             "node20",
                             "node15",
@@ -1406,6 +1477,9 @@
                             "x": 1175,
                             "y": 605
                         },
+                        "journal": [
+                            "Tome07_Plague"
+                        ],
                         "neighbors": [
                             "node_T7L2_End01",
                             "node18"
@@ -1459,6 +1533,9 @@
                             "x": 365,
                             "y": 305
                         },
+                        "journal": [
+                            "Tome07_Bill"
+                        ],
                         "neighbors": [
                             "node12",
                             "node_T6L2_Glyph"
@@ -1512,6 +1589,9 @@
                             "x": 995,
                             "y": 5
                         },
+                        "journal": [
+                            "Tome07_Bill"
+                        ],
                         "neighbors": [
                             "node8"
                         ],
@@ -1564,6 +1644,9 @@
                             "x": 905,
                             "y": 305
                         },
+                        "journal": [
+                            "Tome07_Observer"
+                        ],
                         "neighbors": [
                             "node_T6L2_Glyph",
                             "node19"
@@ -1850,6 +1933,9 @@
                             "x": 1175,
                             "y": 455
                         },
+                        "journal": [
+                            "Tome07_Plague"
+                        ],
                         "neighbors": [
                             "node3"
                         ],
@@ -2438,15 +2524,18 @@
                         ]
                     },
                     "node03": {
-                        "clientInfoId": "HealOther",
+                        "clientInfoId": "HealOtherInTrial",
                         "coordinates": {
                             "x": 275,
                             "y": 305
                         },
+                        "journal": [
+                            "Tome07_Observer"
+                        ],
                         "neighbors": [],
-                        "nodeType": "quest:task",
+                        "nodeType": "quest:challenge",
                         "objectives": {
-                            "HealOtherPerc": {
+                            "HealOtherInTrial": {
                                 "conditions": [
                                     {
                                         "key": "role",
@@ -2455,15 +2544,15 @@
                                         ]
                                     }
                                 ],
-                                "incrementWithEventRepetitions": true,
-                                "neededProgression": 1000,
-                                "objectiveId": "HealOtherPerc",
+                                "incrementWithEventRepetitions": false,
+                                "neededProgression": 1,
+                                "objectiveId": "HealOtherInTrial",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
                                         "parameters": "instigator:me;target:other",
-                                        "questEventId": "QuestEvent.Heal",
-                                        "repetition": 1
+                                        "questEventId": "QuestEvent.HealOther",
+                                        "repetition": 4
                                     }
                                 ]
                             }
@@ -2518,12 +2607,12 @@
                         },
                         "reward": [
                             {
-                                "amount": 3,
+                                "amount": 5,
                                 "id": "star",
                                 "type": "progressionDbD"
                             },
                             {
-                                "amount": 30000,
+                                "amount": 50000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
                             }
@@ -2947,6 +3036,9 @@
                             "x": 725,
                             "y": 155
                         },
+                        "journal": [
+                            "Tome07_Observer"
+                        ],
                         "neighbors": [
                             "node07",
                             "node06"
@@ -3001,6 +3093,9 @@
                             "x": 815,
                             "y": 5
                         },
+                        "journal": [
+                            "Tome07_Plague"
+                        ],
                         "neighbors": [],
                         "nodeType": "quest:challenge",
                         "objectives": {
@@ -3045,6 +3140,9 @@
                             "x": 185,
                             "y": 5
                         },
+                        "journal": [
+                            "Tome07_Plague"
+                        ],
                         "neighbors": [
                             "node08"
                         ],
@@ -3097,6 +3195,9 @@
                             "x": 545,
                             "y": 605
                         },
+                        "journal": [
+                            "Tome07_Observer"
+                        ],
                         "neighbors": [
                             "node02",
                             "node_T6L3_Glyph"
@@ -3150,6 +3251,9 @@
                             "x": 1085,
                             "y": 5
                         },
+                        "journal": [
+                            "Tome07_Observer"
+                        ],
                         "neighbors": [
                             "node_T7L3_End01"
                         ],
@@ -3337,6 +3441,49 @@
                             }
                         ]
                     },
+                    "node22": {
+                        "clientInfoId": "Sacrifice",
+                        "coordinates": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "neighbors": [],
+                        "nodeType": "quest:task",
+                        "objectives": {
+                            "Sacrifice": {
+                                "conditions": [
+                                    {
+                                        "key": "role",
+                                        "value": [
+                                            "killer"
+                                        ]
+                                    }
+                                ],
+                                "incrementWithEventRepetitions": true,
+                                "neededProgression": 10,
+                                "objectiveId": "Sacrifice",
+                                "questEvent": [
+                                    {
+                                        "operation": ">=",
+                                        "questEventId": "QuestEvent.Sacrifice",
+                                        "repetition": 1
+                                    }
+                                ]
+                            }
+                        },
+                        "reward": [
+                            {
+                                "amount": 3,
+                                "id": "star",
+                                "type": "progressionDbD"
+                            },
+                            {
+                                "amount": 30000,
+                                "id": "Bloodpoints",
+                                "type": "currency"
+                            }
+                        ]
+                    },
                     "node_T6L3_Glyph": {
                         "clientInfoId": "RedGlyph",
                         "coordinates": {
@@ -3452,7 +3599,7 @@
                     "node01": {
                         "clientInfoId": "RepairCoop",
                         "coordinates": {
-                            "x": 995,
+                            "x": 545,
                             "y": 5
                         },
                         "neighbors": [
@@ -3547,8 +3694,8 @@
                     "node03": {
                         "clientInfoId": "SkillCheckGreatSuccessInTerrorRadius",
                         "coordinates": {
-                            "x": 1085,
-                            "y": 155
+                            "x": 995,
+                            "y": 5
                         },
                         "neighbors": [
                             "node16",
@@ -3642,7 +3789,7 @@
                         "clientInfoId": "PalletDropInChase",
                         "coordinates": {
                             "x": 365,
-                            "y": 5
+                            "y": 155
                         },
                         "neighbors": [
                             "node01",
@@ -3691,7 +3838,7 @@
                         "clientInfoId": "HealOther",
                         "coordinates": {
                             "x": 275,
-                            "y": 155
+                            "y": 305
                         },
                         "neighbors": [
                             "node05",
@@ -3709,7 +3856,7 @@
                                     }
                                 ],
                                 "incrementWithEventRepetitions": true,
-                                "neededProgression": 15,
+                                "neededProgression": 1500,
                                 "objectiveId": "HealOtherPerc",
                                 "questEvent": [
                                     {
@@ -3756,7 +3903,7 @@
                                     }
                                 ],
                                 "incrementWithEventRepetitions": true,
-                                "neededProgression": 8,
+                                "neededProgression": 12,
                                 "objectiveId": "HookObsession",
                                 "questEvent": [
                                     {
@@ -3785,7 +3932,7 @@
                         "clientInfoId": "ConsumeMedkit",
                         "coordinates": {
                             "x": 95,
-                            "y": 155
+                            "y": 305
                         },
                         "neighbors": [
                             "node_T7L4_Start01",
@@ -3890,7 +4037,7 @@
                             "EarnEmblemsIridescent": {
                                 "conditions": [],
                                 "incrementWithEventRepetitions": true,
-                                "neededProgression": 8,
+                                "neededProgression": 10,
                                 "objectiveId": "EarnEmblemsIridescent",
                                 "questEvent": [
                                     {
@@ -3918,7 +4065,7 @@
                     "node15": {
                         "clientInfoId": "Kill",
                         "coordinates": {
-                            "x": 815,
+                            "x": 905,
                             "y": 605
                         },
                         "neighbors": [
@@ -3965,9 +4112,12 @@
                     "node16": {
                         "clientInfoId": "EscapeHatchWithMapInTrial",
                         "coordinates": {
-                            "x": 1265,
+                            "x": 1175,
                             "y": 155
                         },
+                        "journal": [
+                            "Tome07_Observer"
+                        ],
                         "neighbors": [
                             "node03",
                             "node_T7L4_End01"
@@ -4014,6 +4164,9 @@
                             "x": 725,
                             "y": 155
                         },
+                        "journal": [
+                            "Tome07_Observer"
+                        ],
                         "neighbors": [
                             "node_T7L4_End03",
                             "node18"
@@ -4067,6 +4220,9 @@
                             "x": 545,
                             "y": 155
                         },
+                        "journal": [
+                            "Tome07_Observer"
+                        ],
                         "neighbors": [
                             "node05",
                             "node17"
@@ -4113,6 +4269,9 @@
                             "x": 635,
                             "y": 605
                         },
+                        "journal": [
+                            "Tome07_Observer"
+                        ],
                         "neighbors": [
                             "node02",
                             "node15"
@@ -4165,6 +4324,9 @@
                             "x": 1175,
                             "y": 455
                         },
+                        "journal": [
+                            "Tome07_Observer"
+                        ],
                         "neighbors": [
                             "node_T7L4_End01",
                             "node04"
@@ -4273,7 +4435,7 @@
                     "node_T7L4_End02": {
                         "clientInfoId": "End",
                         "coordinates": {
-                            "x": 995,
+                            "x": 1085,
                             "y": 605
                         },
                         "neighbors": [
@@ -4296,7 +4458,7 @@
                         "clientInfoId": "Start",
                         "coordinates": {
                             "x": 5,
-                            "y": 305
+                            "y": 455
                         },
                         "neighbors": [
                             "node07",
@@ -4319,6 +4481,6 @@
             }
         ],
         "rewardData": "Tome07",
-        "version": 35
+        "version": 37
     }
 }

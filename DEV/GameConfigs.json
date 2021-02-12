@@ -40,5 +40,38 @@
                 "name": "oni"
             }
         ]
+    },
+    "matchmakingCrossplayPlatforms": {
+        "dmm": false,
+        "grdk": true,
+        "ps4": true,
+        "ps5": true,
+        "stadia": true,
+        "steam": true,
+        "switch": true,
+        "xbox": true,
+        "xsx": true
+    },
+    "socialCrossfriendsPlatforms": {
+        "dmm": false,
+        "grdk": true,
+        "ps4": true,
+        "ps5": true,
+        "stadia": true,
+        "steam": true,
+        "switch": true,
+        "xbox": true,
+        "xsx": true
+    },
+    "socialCrossprogressionPlatforms": {
+        "dmm": false,
+        "grdk": false,
+        "ps4": false,
+        "ps5": false,
+        "stadia": true,
+        "steam": true,
+        "switch": true,
+        "xbox": false,
+        "xsx": false
     }
 }
