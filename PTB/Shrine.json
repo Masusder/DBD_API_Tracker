@@ -1,7 +1,7 @@
 {
     "items": [
         {
-            "id": "HexBloodFavor",
+            "id": "Ironmaiden",
             "bloodpointValue": 150000,
             "experienceValue": 150000,
             "unique": false,
@@ -15,7 +15,7 @@
             ]
         },
         {
-            "id": "Poised",
+            "id": "LeftBehind",
             "bloodpointValue": 150000,
             "experienceValue": 150000,
             "unique": false,
@@ -29,7 +29,7 @@
             ]
         },
         {
-            "id": "StakeOut",
+            "id": "TrailofTorment",
             "bloodpointValue": 150000,
             "experienceValue": 150000,
             "unique": false,
@@ -43,7 +43,7 @@
             ]
         },
         {
-            "id": "Surge",
+            "id": "Vigil",
             "bloodpointValue": 150000,
             "experienceValue": 150000,
             "unique": false,
@@ -57,7 +57,7 @@
             ]
         }
     ],
-    "startDate": "2021-02-03T00:00:00",
-    "endDate": "2021-02-09T23:59:59",
-    "week": 225
+    "startDate": "2021-02-10T00:00:00",
+    "endDate": "2021-02-16T23:59:59",
+    "week": 226
 }

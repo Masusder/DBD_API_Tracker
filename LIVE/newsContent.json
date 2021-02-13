@@ -6,7 +6,83 @@
                 "steam",
                 "xbox",
                 "ps4",
-                "switch",
+                "grdk",
+                "stadia",
+                "xsx",
+                "ps5",
+                "switch"
+            ],
+            "description": "The following Realms have been temporarily disabled&#58;<li>Autohaven Wreckers</li><li>Crotus Penn Asylum</li><br/><br/>Any Offerings used while they are disabled will be returned to the player.",
+            "dwnImagePath": "",
+            "imageHeight": "",
+            "imagePath": "",
+            "isHidden": false,
+            "startDate": "2021-02-12T16:00:00",
+            "title": "TEMPORARILY DISABLED REALMS",
+            "type": 4,
+            "version": "4.5.0",
+            "weight": 1015.0
+        },
+        {
+            "": "",
+            "contentTags": [
+                "steam",
+                "xbox",
+                "ps4",
+                "grdk",
+                "stadia",
+                "xsx",
+                "ps5"
+            ],
+            "description": "Celebrate the Year of the Ox with us and enjoy discounts on outfits from the past Lunar New Year events&#33;<br/><br/>The Moonrise and Scarlet Swarm collections are available at up to 30&#37; OFF&#58;<li><b>Feng Min&#39;s</b> Spring Festival Outfit</li><li><b>Ace Visconti&#39;s</b> Seasoned Gambler Outfit</li><li><b>The Huntress&#39;</b> Brave Beast Outfit</li><li><b>Jeff Johansen&#39;s</b> New Year Showgoer Outfit</li><li><b>The Legion&#39;s</b> New Year Shoplifter Outfit</li><br/><br/>The sale starts on February 12th and ends on February 18th. Learn more about the Lunar New Year Event here: <a href=\"event:https://deadbydaylight.com/en/news/lunar-new-year-2021\"><font color=\"#ff0000\">deadbydaylight.com/en/news/lunar-new-year-2021</font></a>",
+            "dwnImagePath": "",
+            "imageHeight": "",
+            "imagePath": "UI/Icons/NewContentSplash/splashBanner_BB_NYS.png",
+            "isHidden": false,
+            "startDate": "2021-02-12T16:00:00",
+            "title": "LUNAR NEW YEAR SALE",
+            "type": 4,
+            "version": "4.5.0",
+            "weight": 1014.0
+        },
+        {
+            "": "",
+            "contentTags": [
+                "switch"
+            ],
+            "description": "Celebrate the Year of the Ox with us and enjoy discounts on outfits from the past Lunar New Year events&#33;<br/><br/>The Moonrise and Scarlet Swarm collections are available at up to 30&#37; OFF&#58;<li><b>Feng Min&#39;s</b> Spring Festival Outfit</li><li><b>Ace Visconti&#39;s</b> Seasoned Gambler Outfit</li><li><b>The Huntress&#39;</b> Brave Beast Outfit</li><li><b>Jeff Johansen&#39;s</b> New Year Showgoer Outfit</li><li><b>The Legion&#39;s</b> New Year Shoplifter Outfit</li><br/><br/>The sale starts on February 12th and ends on February 18th. Learn more about the Lunar New Year Event here: https://deadbydaylight.com/en/news/lunar-new-year-2021",
+            "dwnImagePath": "",
+            "imageHeight": "",
+            "imagePath": "UI/Icons/NewContentSplash/splashBanner_BB_NYS.png",
+            "isHidden": false,
+            "startDate": "2021-02-12T16:00:00",
+            "title": "LUNAR NEW YEAR SALE",
+            "type": 4,
+            "version": "4.5.0",
+            "weight": 1013.0
+        },
+        {
+            "": "",
+            "contentTags": [
+                "switch"
+            ],
+            "description": "Celebrate the Year of the Ox in Dead by Daylight with the <b>Gilded Stampede celebration.</b><br/><br/>From February 11th &#45; 25th&#44; the Fog will be transformed into a vibrant celebration full of fireworks and colorful lanterns in honor of the Lunar New Year.<br/><br/>For a limited time&#44; the Gilded Stampede celebration features a Lunar New Year themed lobby&#44; themed Generators and Hooks&#44; as well as the return of the Chinese Firecracker Item and Red Envelope Offering.<br/><br/>The celebration also introduces the Festive Toolbox&#44; a brand&#45;new item for Survivors. Packed to the brim with fireworks&#44; it&#39;s prepared to celebrate all your life&#39;s successes... and failures.<br/><br/>Enter the Fog during the celebration to redeem 50&#44;000 Bloodpoints per day &#45; that&#39;s a total of 700&#44;000 Bloodpoints to earn if you log in every day throughout the Gilded Stampede celebration.  <br/><br/>Keep an eye on the Dead by Daylight social channels and the in&#45;game news throughout the celebration for special promo codes to unlock some free Gilded Stampede Collection items. <br/><br/>For more information about the Lunar New Year in Dead by Daylight&#58; event:https://deadbydaylight.com/en/news/lunar-new-year-2021",
+            "dwnImagePath": "",
+            "imageHeight": "",
+            "imagePath": "UI/Icons/NewContentSplash/splashBanner_BB_LNY.png",
+            "isHidden": false,
+            "startDate": "2021-02-11T16:00:00",
+            "title": "GILDED STAMPEDE CELEBRATION",
+            "type": 5,
+            "version": "4.5.0",
+            "weight": 1010.0
+        },
+        {
+            "": "",
+            "contentTags": [
+                "steam",
+                "xbox",
+                "ps4",
                 "grdk",
                 "stadia",
                 "xsx",
@@ -21,7 +97,7 @@
             "title": "GILDED STAMPEDE COLLECTION",
             "type": 2,
             "version": "4.5.0",
-            "weight": 1010.0
+            "weight": 1011.0
         },
         {
             "": "",
@@ -37,7 +113,7 @@
             "title": "GILDED STAMPEDE COLLECTION",
             "type": 2,
             "version": "4.5.0",
-            "weight": 1009.0
+            "weight": 1012.0
         },
         {
             "": "",
@@ -45,7 +121,6 @@
                 "steam",
                 "xbox",
                 "ps4",
-                "switch",
                 "grdk",
                 "stadia",
                 "xsx",
@@ -60,7 +135,7 @@
             "title": "GILDED STAMPEDE CELEBRATION",
             "type": 5,
             "version": "4.5.0",
-            "weight": 1008.0
+            "weight": 1007.0
         },
         {
             "": "",
@@ -81,7 +156,7 @@
             "title": "JAKE PARK &#45; RIFT OUTFIT",
             "type": 2,
             "version": "4.5.0",
-            "weight": 1007.0
+            "weight": 1006.0
         },
         {
             "": "",
@@ -89,29 +164,6 @@
                 "switch"
             ],
             "description": "Tome VI&#58; DIVERGENCE is now open within The Archives&#44; bringing new stories to discover in the world of Dead by Daylight. DIVERGENCE contains brand&#45;new Glyph Challenges&#44; new stories&#44; and new rewards. Explore the memories of Yui Kimura&#44; The Nurse&#44; and The Observer&#44; all while earning memorable outfits and cosmetics.<br/><br/><span class=\"Heading2\">Level Release Schedule</span><li>Level I&#58; February 10th 2021 11AM ET</li><li>Level II&#58; February 24th 2021 11AM ET</li><li>Level III&#58; March 10th 2021 11AM ET</li><li>Level IV&#58; March 31st 2021 11AM ET</li><br/><br/><i>Please note these release dates are subject to change. All previously unlocked levels will remain available once released but will stop providing Rift Fragments once the relevant Rift has expired.</i><br/><br/><i>LIMITED TIME SALE &#45; 50&#37; off Auric Cells price for Yui Kimura and The Oni&#44; between February 10th  11AM ET and February 17th 11AM ET.</i>",
-            "dwnImagePath": "",
-            "imageHeight": "",
-            "imagePath": "UI/Icons/NewContentSplash/splashBanner_BBT6.png",
-            "isHidden": false,
-            "startDate": "2021-02-10T16:00:00",
-            "title": "Archives Tome VI &#45; DIVERGENCE",
-            "type": 2,
-            "version": "4.5.0",
-            "weight": 1006.0
-        },
-        {
-            "": "",
-            "contentTags": [
-                "steam",
-                "xbox",
-                "ps4",
-                "switch",
-                "grdk",
-                "stadia",
-                "xsx",
-                "ps5"
-            ],
-            "description": "Tome VI&#58; DIVERGENCE is now open within The Archives&#44; bringing new stories to discover in the world of Dead by Daylight. DIVERGENCE contains brand&#45;new Glyph Challenges&#44; new stories&#44; and new rewards. Explore the memories of Yui Kimura&#44; The Nurse&#44; and The Observer&#44; all while earning memorable outfits and cosmetics.<br/><br/>Dive deeper into Tome VI&#39;s characters with the <b>Tome Reveal Trailer</b> (<a href=\"event:https://youtu.be/5WbM1Q25d-g\"><font color=\"#ff0000\">https://youtu.be/5WbM1Q25d-g</font></a>) & <b>Rift Trailer</b> (<a href=\"event:https://youtu.be/J6tQ8dfeD5A\"><font color=\"#ff0000\">https://youtu.be/J6tQ8dfeD5A</font></a>).<br/><br/><span class=\"Heading2\">Level Release Schedule</span><li>Level I&#58; February 10th 2021 11AM ET</li><li>Level II&#58; February 24th 2021 11AM ET</li><li>Level III&#58; March 10th 2021 11AM ET</li><li>Level IV&#58; March 31st 2021 11AM ET</li><br/><br/><i>Please note these release dates are subject to change. All previously unlocked levels will remain available once released but will stop providing Rift Fragments once the relevant Rift has expired.</i><br/><br/><i>LIMITED TIME SALE &#45; 50&#37; off Auric Cells price for Yui Kimura and The Oni&#44; between February 10th  11AM ET and February 17th 11AM ET.</i>",
             "dwnImagePath": "",
             "imageHeight": "",
             "imagePath": "UI/Icons/NewContentSplash/splashBanner_BBT6.png",
@@ -131,8 +183,45 @@
                 "grdk",
                 "stadia",
                 "xsx",
-                "ps5",
+                "ps5"
+            ],
+            "description": "Tome VI&#58; DIVERGENCE is now open within The Archives&#44; bringing new stories to discover in the world of Dead by Daylight. DIVERGENCE contains brand&#45;new Glyph Challenges&#44; new stories&#44; and new rewards. Explore the memories of Yui Kimura&#44; The Nurse&#44; and The Observer&#44; all while earning memorable outfits and cosmetics.<br/><br/>Dive deeper into Tome VI&#39;s characters with the <b>Tome Reveal Trailer</b> (<a href=\"event:https://youtu.be/5WbM1Q25d-g\"><font color=\"#ff0000\">https://youtu.be/5WbM1Q25d-g</font></a>) & <b>Rift Trailer</b> (<a href=\"event:https://youtu.be/J6tQ8dfeD5A\"><font color=\"#ff0000\">https://youtu.be/J6tQ8dfeD5A</font></a>).<br/><br/><span class=\"Heading2\">Level Release Schedule</span><li>Level I&#58; February 10th 2021 11AM ET</li><li>Level II&#58; February 24th 2021 11AM ET</li><li>Level III&#58; March 10th 2021 11AM ET</li><li>Level IV&#58; March 31st 2021 11AM ET</li><br/><br/><i>Please note these release dates are subject to change. All previously unlocked levels will remain available once released but will stop providing Rift Fragments once the relevant Rift has expired.</i><br/><br/><i>LIMITED TIME SALE &#45; 50&#37; off Auric Cells price for Yui Kimura and The Oni&#44; between February 10th  11AM ET and February 17th 11AM ET.</i>",
+            "dwnImagePath": "",
+            "imageHeight": "",
+            "imagePath": "UI/Icons/NewContentSplash/splashBanner_BBT6.png",
+            "isHidden": false,
+            "startDate": "2021-02-10T16:00:00",
+            "title": "Archives Tome VI &#45; DIVERGENCE",
+            "type": 2,
+            "version": "4.5.0",
+            "weight": 1004.0
+        },
+        {
+            "": "",
+            "contentTags": [
                 "switch"
+            ],
+            "description": "Welcome to Chapter 18.5&#33; Please read the below for a quick summary of the new content you&#39;ll find.<br/><br/>For a full list of patch notes&#44; please see https://forum.deadbydaylight.com/en/kb/patchnotes<br/><br/><span class=\"Heading2\">CONTENT</span><br/><li>Tome VI for The Archives will start tomorrow on Feb. 10th at 11AM ET</li><li>The Gilded Stampede event will start the day after on Feb. 11th at 11AM ET</li><li>New HUD Layout &#45; Several HUD elements have been moved or updated</li><b>Clown Gameplay Update</b><li>Clown now has two types of bottles&#58; Tonic and Antidote.</li><li>Reload time is now 3 seconds &#40;down from 5 seconds&#41;</li><b>Live Balance</b><li>Killers&#58; The Trapper &#40;Escape attempt success rate&#41; & The Wraith &#40;Invisibility distance&#41;</li><b>Visual Update</b><li>Visual updates to maps &#40;Gideon Meat Plant, Disturbed Ward & Father Campbell's Chapel&#41;&#44; models & textures &#40;The Nurse & The Clown&#41;</li><li>Updated Survivor Locomotion &#38; Self&#45;Heal fail animation&#44; added hatch animation&#44; raised the camera when crawling</li><span class=\"Heading2\">KNOWN ISSUES</span><br/><li>Some tutorial and UI texts show incorrect characters in Thai language on Steam.</li>",
+            "dwnImagePath": "",
+            "imageHeight": "",
+            "imagePath": "",
+            "isHidden": false,
+            "startDate": "2021-02-09T16:00:00",
+            "title": "CHAPTER 18.5 PATCH NOTES",
+            "type": 4,
+            "version": "4.5.0",
+            "weight": 1003.0
+        },
+        {
+            "": "",
+            "contentTags": [
+                "steam",
+                "xbox",
+                "ps4",
+                "grdk",
+                "stadia",
+                "xsx",
+                "ps5"
             ],
             "description": "Welcome to Chapter 18.5&#33; Please read the below for a quick summary of the new content you&#39;ll find.<br/><br/>For a full list of patch notes&#44; please see <a href=\"event:https://forum.deadbydaylight.com/en/kb/patchnotes\"><font color=\"#ff0000\"><u>https://forum.deadbydaylight.com/en/kb/patchnotes</u></font></a><br/><br/><span class=\"Heading2\">CONTENT</span><br/><li>Tome VI for The Archives will start tomorrow on Feb. 10th at 11AM ET</li><li>The Gilded Stampede event will start the day after on Feb. 11th at 11AM ET</li><li>New HUD Layout &#45; Several HUD elements have been moved or updated</li><b>Clown Gameplay Update</b><li>Clown now has two types of bottles&#58; Tonic and Antidote.</li><li>Reload time is now 3 seconds &#40;down from 5 seconds&#41;</li><b>Live Balance</b><li>Killers&#58; The Trapper &#40;Escape attempt success rate&#41; & The Wraith &#40;Invisibility distance&#41;</li><b>Visual Update</b><li>Visual updates to maps &#40;Gideon Meat Plant, Disturbed Ward & Father Campbell's Chapel&#41;&#44; models & textures &#40;The Nurse & The Clown&#41;</li><li>Updated Survivor Locomotion &#38; Self&#45;Heal fail animation&#44; added hatch animation&#44; raised the camera when crawling</li><span class=\"Heading2\">KNOWN ISSUES</span><br/><li>Some tutorial and UI texts show incorrect characters in Thai language on Steam.</li>",
             "dwnImagePath": "",
@@ -143,7 +232,7 @@
             "title": "CHAPTER 18.5 PATCH NOTES",
             "type": 4,
             "version": "4.5.0",
-            "weight": 995.0
+            "weight": 1002.0
         },
         {
             "": "",
@@ -165,7 +254,7 @@
             "title": "NANCY & STEVE &#45; DAYS OF GROWTH",
             "type": 2,
             "version": "4.5.0",
-            "weight": 999.0
+            "weight": 1001.0
         },
         {
             "": "",
@@ -181,7 +270,7 @@
             "title": "NANCY & STEVE &#45; DAYS OF GROWTH",
             "type": 2,
             "version": "4.5.0",
-            "weight": 998.0
+            "weight": 1000.0
         },
         {
             "": "",
@@ -203,7 +292,7 @@
             "title": "THE DEMOGORGON &#45; DAYS OF GROWTH",
             "type": 2,
             "version": "4.5.0",
-            "weight": 997.0
+            "weight": 999.0
         },
         {
             "": "",
@@ -219,7 +308,7 @@
             "title": "THE DEMOGORGON &#45; DAYS OF GROWTH",
             "type": 2,
             "version": "4.5.0",
-            "weight": 996.0
+            "weight": 998.0
         },
         {
             "": "",
@@ -242,7 +331,7 @@
             "title": "THE WRAITH &#38; JAKE &#45; RIFT OUTFITS",
             "type": 2,
             "version": "4.4.2",
-            "weight": 991.0
+            "weight": 997.0
         },
         {
             "": "",
@@ -264,7 +353,7 @@
             "title": "PLAYER SATISFACTION SURVEY",
             "type": 4,
             "version": "4.4.2",
-            "weight": 990.0
+            "weight": 996.0
         },
         {
             "": "",
@@ -287,7 +376,7 @@
             "title": "CLAUDETTE &#38; THE TRAPPER &#45; RIFT OUTFITS",
             "type": 2,
             "version": "4.4.2",
-            "weight": 988.0
+            "weight": 995.0
         },
         {
             "": "",
@@ -310,7 +399,7 @@
             "title": "NEW YEAR'S BLOODRUSH",
             "type": 5,
             "version": "4.4.2",
-            "weight": 987.0
+            "weight": 994.0
         },
         {
             "": "",
@@ -333,7 +422,7 @@
             "title": "Archives &#124; 24h left to Tome V",
             "type": 4,
             "version": "4.4.2",
-            "weight": 985.0
+            "weight": 993.0
         },
         {
             "": "",
@@ -356,7 +445,7 @@
             "title": "UP TO 75% OFF ON SELECT OUTFITS",
             "type": 5,
             "version": "4.4.2",
-            "weight": 976.0
+            "weight": 992.0
         },
         {
             "": "",
@@ -379,7 +468,23 @@
             "title": "<b><u>RIFT CLOSES IN 1 WEEK</b></u>",
             "type": 4,
             "version": "4.4.2",
-            "weight": 975.0
+            "weight": 991.0
+        },
+        {
+            "": "",
+            "contentTags": [
+                "switch"
+            ],
+            "description": "Ring in 2021 and the conclusion of our Advent Calendar 2020 with the New Year &#39;21 Universal Charm&#44; after The Blight finds his vision frozen over with a pair of Frosty Eyes.<br/><br/>Note that the 100&#44;000 Bloodpoints gift available between Dec. 31st and January 3rd is only claimable once. <br/><br/><span class=\"Heading2\">Cosmetics</span><li>Dec. 28th 11AM ET &#45; Dec. 31st 11AM ET&#58; The Blight&#39;s Frosty Eyes*</li><b>Code&#58; <font color=\"#FFD700\">FROSTYBLIGHT</font></b><li>Dec. 31st 11AM ET &#45; Jan. 3rd 11AM ET&#58; New Year &#39;21 Charm&#42;</li><b>Code&#58; <font color=\"#FFD700\">NEWYEARNEWENTITY</font></b><br/><br/><span class=\"Heading2\">Login Currencies</span><li>Dec. 28th 11AM ET &#45; Dec. 29th 11AM ET&#58; 500 Iridescent Shards</li><li>Dec. 29th 11AM ET &#45; Dec. 30th 11AM ET&#58; 10&#44;000 Bloodpoints</li><li>Dec. 30th 11AM ET &#45; Dec. 31st 11AM ET&#58; 500 Iridescent Shards</li><li>Dec. 31st 11AM ET &#45; Jan. 3rd 11AM ET&#58; 100&#44;000 Bloodpoints &#40;claimable once&#41;</li> <br/><br/>For more information on the Advent Calendar 2020 Event&#44; check out our blog post https://deadbydaylight.com/en/news/advent-calendar-2020<br/><br/>&#34;Have a fantastic holiday season and a bloody good new year&#34;<br/>&#45;The Dead by Daylight Team<br/><br/><i>&#42;Redeemable only once per user. Code will only be active for the specified period. To redeem&#44; enter the Store and click &#34;Redeem Code&#34; at the top right. All Ugly Sweaters will be available via the in-game Store at a later date.</i>",
+            "dwnImagePath": "",
+            "imageHeight": "",
+            "imagePath": "UI/Icons/NewContentSplash/splashBanner_AURA5.png",
+            "isHidden": false,
+            "startDate": "2020-12-28T16:00:00",
+            "title": "ADVENT CALENDAR 2020 &#45; WEEK 5",
+            "type": 4,
+            "version": "4.4.2",
+            "weight": 990.0
         },
         {
             "": "",
@@ -390,8 +495,7 @@
                 "grdk",
                 "stadia",
                 "xsx",
-                "ps5",
-                "switch"
+                "ps5"
             ],
             "description": "Ring in 2021 and the conclusion of our Advent Calendar 2020 with the New Year &#39;21 Universal Charm&#44; after The Blight finds his vision frozen over with a pair of Frosty Eyes.<br/><br/>Note that the 100&#44;000 Bloodpoints gift available between Dec. 31st and January 3rd is only claimable once. <br/><br/><span class=\"Heading2\">Cosmetics</span><li>Dec. 28th 11AM ET &#45; Dec. 31st 11AM ET&#58; The Blight&#39;s Frosty Eyes*</li><b>Code&#58; <font color=\"#FFD700\">FROSTYBLIGHT</font></b><li>Dec. 31st 11AM ET &#45; Jan. 3rd 11AM ET&#58; New Year &#39;21 Charm&#42;</li><b>Code&#58; <font color=\"#FFD700\">NEWYEARNEWENTITY</font></b><br/><br/><span class=\"Heading2\">Login Currencies</span><li>Dec. 28th 11AM ET &#45; Dec. 29th 11AM ET&#58; 500 Iridescent Shards</li><li>Dec. 29th 11AM ET &#45; Dec. 30th 11AM ET&#58; 10&#44;000 Bloodpoints</li><li>Dec. 30th 11AM ET &#45; Dec. 31st 11AM ET&#58; 500 Iridescent Shards</li><li>Dec. 31st 11AM ET &#45; Jan. 3rd 11AM ET&#58; 100&#44;000 Bloodpoints &#40;claimable once&#41;</li> <br/><br/>For more information on the Advent Calendar 2020 Event&#44; check out our blog post <a href=\"event:https://deadbydaylight.com/en/news/advent-calendar-2020\"><font color=\"#ff0000\"><u>HERE</u></font></a>&#33;<br/><br/>&#34;Have a fantastic holiday season and a bloody good new year&#34;<br/>&#45;The Dead by Daylight Team<br/><br/><i>&#42;Redeemable only once per user. Code will only be active for the specified period. To redeem&#44; enter the Store and click &#34;Redeem Code&#34; at the top right. All Ugly Sweaters will be available via the in-game Store at a later date.</i>",
             "dwnImagePath": "",
@@ -402,7 +506,23 @@
             "title": "ADVENT CALENDAR 2020 &#45; WEEK 5",
             "type": 4,
             "version": "4.4.2",
-            "weight": 966.0
+            "weight": 989.0
+        },
+        {
+            "": "",
+            "contentTags": [
+                "switch"
+            ],
+            "description": "The holiday spirit arrives in Silent Hill&#44; with Cheryl Mason&#39;s Sweater of Metatron&#33; The Twins keep their cool with a pair of Frosty Eyes. Don&#39;t forget your Bloodpoints and Iridescent Shards&#33;<br/><br/><span class=\"Heading2\">Cosmetics</span><li>Dec. 22nd 11AM ET &#45; Dec. 25th 11AM ET&#58; The Twins&#39; Frosty Eyes&#42;</li><b>Code&#58; <font color=\"#FFD700\">FROSTYTWINS</font></b><li>Dec. 25th 11AM ET &#45; Dec. 28th 11AM ET&#58; Cheryl&#39;s Sweater of Metatron&#42;</li><b>Code&#58; <font color=\"#67AB49\">METATRON</font></b><br/><br/><span class=\"Heading2\">Login Currencies</span><li>Dec. 21st 11AM ET &#45; Dec. 25th 11AM ET&#58; 10&#44;000 Bloodpoints (per day)</li><li>Dec. 25th 11AM ET &#45; Dec. 26th 11AM ET&#58; 200&#44;000 Bloodpoints</li><li>Dec. 26th 11AM ET &#45; Dec. 27th 11AM ET&#58; 500 Iridescent Shards</li><li>Dec. 27th 11AM ET &#45; Dec. 28th 11AM ET&#58; 10&#44;000 Bloodpoints</li><br/><br/>For more information on the Advent Calendar 2020 Event&#44; check out our blog post https://deadbydaylight.com/en/news/advent-calendar-2020<br/><br/>Each week and its gifts will be revealed on Mondays at 11AM ET. Be sure to check back every day&#33;<br/><br/>&#42;Redeemable only once per user. Code will only be active for the specified period. To redeem&#44; enter the Store and click &#34;Redeem Code&#34; at the top right. All Ugly Sweaters will be available via the in&#45;game Store at a later date.",
+            "dwnImagePath": "",
+            "imageHeight": "",
+            "imagePath": "UI/Icons/NewContentSplash/splashBanner_AURA4.png",
+            "isHidden": false,
+            "startDate": "2020-12-21T16:00:00",
+            "title": "ADVENT CALENDAR 2020 &#45; WEEK 4",
+            "type": 4,
+            "version": "4.4.2",
+            "weight": 988.0
         },
         {
             "": "",
@@ -413,8 +533,7 @@
                 "grdk",
                 "stadia",
                 "xsx",
-                "ps5",
-                "switch"
+                "ps5"
             ],
             "description": "The holiday spirit arrives in Silent Hill&#44; with Cheryl Mason&#39;s Sweater of Metatron&#33; The Twins keep their cool with a pair of Frosty Eyes. Don&#39;t forget your Bloodpoints and Iridescent Shards&#33;<br/><br/><span class=\"Heading2\">Cosmetics</span><li>Dec. 22nd 11AM ET &#45; Dec. 25th 11AM ET&#58; The Twins&#39; Frosty Eyes&#42;</li><b>Code&#58; <font color=\"#FFD700\">FROSTYTWINS</font></b><li>Dec. 25th 11AM ET &#45; Dec. 28th 11AM ET&#58; Cheryl&#39;s Sweater of Metatron&#42;</li><b>Code&#58; <font color=\"#67AB49\">METATRON</font></b><br/><br/><span class=\"Heading2\">Login Currencies</span><li>Dec. 21st 11AM ET &#45; Dec. 25th 11AM ET&#58; 10&#44;000 Bloodpoints (per day)</li><li>Dec. 25th 11AM ET &#45; Dec. 26th 11AM ET&#58; 200&#44;000 Bloodpoints</li><li>Dec. 26th 11AM ET &#45; Dec. 27th 11AM ET&#58; 500 Iridescent Shards</li><li>Dec. 27th 11AM ET &#45; Dec. 28th 11AM ET&#58; 10&#44;000 Bloodpoints</li><br/><br/>For more information on the Advent Calendar 2020 Event&#44; check out our blog post <a href=\"event:https://deadbydaylight.com/en/news/advent-calendar-2020\"><font color=\"#ff0000\"><u>HERE</u></font></a>&#33; <br/><br/>Each week and its gifts will be revealed on Mondays at 11AM ET. Be sure to check back every day&#33;<br/><br/>&#42;Redeemable only once per user. Code will only be active for the specified period. To redeem&#44; enter the Store and click &#34;Redeem Code&#34; at the top right. All Ugly Sweaters will be available via the in&#45;game Store at a later date.",
             "dwnImagePath": "",
@@ -425,7 +544,7 @@
             "title": "ADVENT CALENDAR 2020 &#45; WEEK 4",
             "type": 4,
             "version": "4.4.2",
-            "weight": 965.0
+            "weight": 987.0
         },
         {
             "": "",
@@ -448,7 +567,23 @@
             "title": "TOME 5 UPDATE",
             "type": 4,
             "version": "4.4.2",
-            "weight": 960.0
+            "weight": 986.0
+        },
+        {
+            "": "",
+            "contentTags": [
+                "switch"
+            ],
+            "description": "The game client has been updated to the 4.4.2 bugfix.<br/><br/><span class=\"Heading2\">BUG FIXES</span><li>Fixed an issue on multiple maps&#44; where there are tiles with extremely bright lighting in various colors</li><li>Fixed an issue that caused the Flashlight to work inconsistently over pallets and other objects in the environment</li><li>Fixed an issue that caused Barbecue &#38; Chili&#39;s bonus bloodpoints not to be granted when controlling Victor when the game ends</li><li>Fixed an issue that caused the Twins not to recover their add&#45;ons when using the Black Ward offering and controlling Victor when the game ends</li><li>Fixed an issue that caused the cooldown animation to loop after returning to Charlotte</li><li>Fixed an issue that caused Victor to float off Charlotte&#39;s body after respawning</li><li>Fixed an issue that caused Victor and Charlotte to be able to block off exit gate by standing in front of it</li><br/><br/><span class=\"Heading2\">BALANCE</span><li>Victor can now be recalled after being detached from Charlotte for 30 seconds &#40;down from 45&#41;</li><br/><br/>Please click https://forum.deadbydaylight.com/en/kb/patchnotes for full patch notes.",
+            "dwnImagePath": "",
+            "imageHeight": "",
+            "imagePath": "",
+            "isHidden": false,
+            "startDate": "2020-12-16T16:00:00",
+            "title": "4.4.2 BUGFIX",
+            "type": 4,
+            "version": "4.4.2",
+            "weight": 985.0
         },
         {
             "": "",
@@ -459,8 +594,7 @@
                 "grdk",
                 "stadia",
                 "xsx",
-                "ps5",
-                "switch"
+                "ps5"
             ],
             "description": "The game client has been updated to the 4.4.2 bugfix.<br/><br/><span class=\"Heading2\">BUG FIXES</span><li>Fixed an issue on multiple maps&#44; where there are tiles with extremely bright lighting in various colors</li><li>Fixed an issue that caused the Flashlight to work inconsistently over pallets and other objects in the environment</li><li>Fixed an issue that caused Barbecue &#38; Chili&#39;s bonus bloodpoints not to be granted when controlling Victor when the game ends</li><li>Fixed an issue that caused the Twins not to recover their add&#45;ons when using the Black Ward offering and controlling Victor when the game ends</li><li>Fixed an issue that caused the cooldown animation to loop after returning to Charlotte</li><li>Fixed an issue that caused Victor to float off Charlotte&#39;s body after respawning</li><li>Fixed an issue that caused Victor and Charlotte to be able to block off exit gate by standing in front of it</li><br/><br/><span class=\"Heading2\">BALANCE</span><li>Victor can now be recalled after being detached from Charlotte for 30 seconds &#40;down from 45&#41;</li><br/><br/>Please click <a href=\"event:https://forum.deadbydaylight.com/en/kb/patchnotes\"><font color=\"#ff0000\"><u>HERE</u></font></a> for full patch notes.",
             "dwnImagePath": "",
@@ -471,7 +605,7 @@
             "title": "4.4.2 BUGFIX",
             "type": 4,
             "version": "4.4.2",
-            "weight": 959.0
+            "weight": 984.0
         },
         {
             "": "",
@@ -494,7 +628,23 @@
             "title": "ERROR 111&#47;112 UPDATE",
             "type": 4,
             "version": "4.4.1",
-            "weight": 958.0
+            "weight": 983.0
+        },
+        {
+            "": "",
+            "contentTags": [
+                "switch"
+            ],
+            "description": "Make sure to pick up Elodie&#39;s Pathfinder&#39;s Sweater&#44; perfect for a girl fixated on her goal&#44; wherever it takes her&#33; Community outfits also arrive to the in&#45;game Store while the Deathslinger feels a chill in the air with his Frosty Eyes.<br/><br/><span class=\"Heading2\">Cosmetics</span><li>Dec. 14th 11AM ET: Community outfits now available via in&#45;game Store for Iridescent Shards</li>Incl. Feng Min&#39;s Demon Slayer & The Clown&#39;s Mr. Puddles<li>Dec. 15th 11AM ET &#45; Dec. 18th 11AM ET: The Deathslinger&#39;s Frosty Eyes&#42;</li><b>Code: <font color=\"#FFD700\">FROSTYDEATH</font></b><li>Dec. 18th 11AM ET &#45; Dec. 21st 11AM ET: Elodie&#39;s Pathfinder&#39;s Sweater&#42;</li><b>Code: <font color=\"#67AB49\">PATHFINDER</font></b><br/><br/><span class=\"Heading2\">Login Currencies</span><li>Dec. 14th 11AM ET &#45; Dec. 15th 11AM ET: 1&#44;000 Iridescent Shards</li><li>Dec. 15th 11AM ET &#45; Dec. 21st 11AM ET: 10&#44;000 Bloodpoints (per day)</li><br/><br/>For more information on the Advent Calendar 2020 Event, check out our blog post https://deadbydaylight.com/en/news/advent-calendar-2020<br/><br/>Each week and its gifts will be revealed on Mondays at 11AM ET. Be sure to check back every day! <br/><br/><i>&#42;Redeemable only once per user. Code will only be active for the specified period. To redeem&#44; enter the Store and click &#34;Redeem Code&#34; at the top right. All Ugly Sweaters will be available via the in&#45;game Store at a later date.</i>",
+            "dwnImagePath": "",
+            "imageHeight": "",
+            "imagePath": "UI/Icons/NewContentSplash/splashBanner_AURA3.png",
+            "isHidden": false,
+            "startDate": "2020-12-14T16:00:00",
+            "title": "ADVENT CALENDAR 2020 &#45; WEEK 3",
+            "type": 2,
+            "version": "4.4.1",
+            "weight": 982.0
         },
         {
             "": "",
@@ -505,8 +655,7 @@
                 "grdk",
                 "stadia",
                 "xsx",
-                "ps5",
-                "switch"
+                "ps5"
             ],
             "description": "Make sure to pick up Elodie&#39;s Pathfinder&#39;s Sweater&#44; perfect for a girl fixated on her goal&#44; wherever it takes her&#33; Community outfits also arrive to the in&#45;game Store while the Deathslinger feels a chill in the air with his Frosty Eyes.<br/><br/><span class=\"Heading2\">Cosmetics</span><li>Dec. 14th 11AM ET: Community outfits now available via in&#45;game Store for Iridescent Shards</li>Incl. Feng Min&#39;s Demon Slayer & The Clown&#39;s Mr. Puddles<li>Dec. 15th 11AM ET &#45; Dec. 18th 11AM ET: The Deathslinger&#39;s Frosty Eyes&#42;</li><b>Code: <font color=\"#FFD700\">FROSTYDEATH</font></b><li>Dec. 18th 11AM ET &#45; Dec. 21st 11AM ET: Elodie&#39;s Pathfinder&#39;s Sweater&#42;</li><b>Code: <font color=\"#67AB49\">PATHFINDER</font></b><br/><br/><span class=\"Heading2\">Login Currencies</span><li>Dec. 14th 11AM ET &#45; Dec. 15th 11AM ET: 1&#44;000 Iridescent Shards</li><li>Dec. 15th 11AM ET &#45; Dec. 21st 11AM ET: 10&#44;000 Bloodpoints (per day)</li><br/><br/>For more information on the Advent Calendar 2020 Event, check out our blog post <a href=\"event:https://deadbydaylight.com/en/news/advent-calendar-2020\"><font color=\"#ff0000\"><u>HERE</u></font></a>&#33;<br/><br/>Each week and its gifts will be revealed on Mondays at 11AM ET. Be sure to check back every day! <br/><br/><i>&#42;Redeemable only once per user. Code will only be active for the specified period. To redeem&#44; enter the Store and click &#34;Redeem Code&#34; at the top right. All Ugly Sweaters will be available via the in&#45;game Store at a later date.</i>",
             "dwnImagePath": "",
@@ -517,7 +666,7 @@
             "title": "ADVENT CALENDAR 2020 &#45; WEEK 3",
             "type": 2,
             "version": "4.4.1",
-            "weight": 956.0
+            "weight": 981.0
         },
         {
             "": "",
@@ -539,7 +688,7 @@
             "title": "COMMUNITY COLLECTION",
             "type": 2,
             "version": "4.4.1",
-            "weight": 955.0
+            "weight": 980.0
         },
         {
             "": "",
@@ -562,10 +711,10 @@
             "title": "TOME V RIFT EXTENSION",
             "type": 4,
             "version": "4.4.1",
-            "weight": 952.0
+            "weight": 979.0
         },
         {
-            "": "",
+            "": "`",
             "contentTags": [
                 "steam",
                 "xbox",
@@ -584,7 +733,7 @@
             "title": "CLAUDETTE &#38; JAKE &#45; HOLIDAY HORROR",
             "type": 2,
             "version": "4.4.0",
-            "weight": 953.0
+            "weight": 978.0
         },
         {
             "": "",
@@ -607,7 +756,7 @@
             "title": "<b>THE OBSERVER&#39;S &#34;SANITUS ALONIS&#34;</b>",
             "type": 2,
             "version": "4.3.0",
-            "weight": 950.0
+            "weight": 977.0
         },
         {
             "": "",
@@ -629,7 +778,23 @@
             "title": "DWIGHT&#44; ACE &#38; ZARINA &#45; HOLIDAY HORROR",
             "type": 2,
             "version": "4.4.0",
-            "weight": 948.0
+            "weight": 976.0
+        },
+        {
+            "": "",
+            "contentTags": [
+                "switch"
+            ],
+            "description": "The game client has been updated to the 4.4.1 bugfix.<br/><br/><span class=\"Heading2\">FEATURES</span><li>Increased default Flashlight accuracy back to normal</li><li>Appraisal now only allows Survivors to rummage through the same chest once</li><li>Ebony and Ivory Memento Moris now require the targeted survivor to have been hooked twice</li><li>Victor can now search lockers&#44; if a Survivor is found inside&#44; the player will be send back to control Charlotte while Victor will block the Survivor in the locker for up to 10 sec.</li><br/><br/><span class=\"Heading2\">CONTENT</span><li>Hoarder&#58; Increased the distance at which Survivor locations are revealed from 24&#47;36&#47;48 meters to 32&#47;48&#47;64 meters</li><li>Hoarder&#58; Removed the stipulation that it decreases the rarity of items found in chests</li><br/><br/><span class=\"Heading2\">BUG FIXES</span><li>Fixed an issue that allowed Victor to pounce on Survivors inside lockers</li><li>Fixed an issue that could cause Unbreakable to grant too much recovery when spam clicking</li><li>Fixed an issue that caused the Flashlight beam to stay narrow after successfully blinding the Killer</li><li>Fixed an issue that prevented Hoarder from spawning extra chests</li><li>Fixed an issue where Victor was misaligned during the Twins mori</li><li>Fixed an issue that caused Victor to get stuck in the ground when released at certain locations.</li><li>Fixed an issue that allowed survivors to crawl out of the exit gate after being hit while having Victor on their back.</li><br/><br/>Please see https://forum.deadbydaylight.com/en/kb/patchnotes for detailed patch notes.",
+            "dwnImagePath": "",
+            "imageHeight": "",
+            "imagePath": "",
+            "isHidden": false,
+            "startDate": "2020-12-08T16:00:00",
+            "title": "4.4.1 BUGFIX",
+            "type": 4,
+            "version": "4.4.1",
+            "weight": 975.0
         },
         {
             "": "",
@@ -640,8 +805,7 @@
                 "grdk",
                 "stadia",
                 "xsx",
-                "ps5",
-                "switch"
+                "ps5"
             ],
             "description": "The game client has been updated to the 4.4.1 bugfix.<br/><br/><span class=\"Heading2\">FEATURES</span><li>Increased default Flashlight accuracy back to normal</li><li>Appraisal now only allows Survivors to rummage through the same chest once</li><li>Ebony and Ivory Memento Moris now require the targeted survivor to have been hooked twice</li><li>Victor can now search lockers&#44; if a Survivor is found inside&#44; the player will be send back to control Charlotte while Victor will block the Survivor in the locker for up to 10 sec.</li><br/><br/><span class=\"Heading2\">CONTENT</span><li>Hoarder&#58; Increased the distance at which Survivor locations are revealed from 24&#47;36&#47;48 meters to 32&#47;48&#47;64 meters</li><li>Hoarder&#58; Removed the stipulation that it decreases the rarity of items found in chests</li><br/><br/><span class=\"Heading2\">BUG FIXES</span><li>Fixed an issue that allowed Victor to pounce on Survivors inside lockers</li><li>Fixed an issue that could cause Unbreakable to grant too much recovery when spam clicking</li><li>Fixed an issue that caused the Flashlight beam to stay narrow after successfully blinding the Killer</li><li>Fixed an issue that prevented Hoarder from spawning extra chests</li><li>Fixed an issue where Victor was misaligned during the Twins mori</li><li>Fixed an issue that caused Victor to get stuck in the ground when released at certain locations.</li><li>Fixed an issue that allowed survivors to crawl out of the exit gate after being hit while having Victor on their back.</li><br/><br/>Please see <a href=\"event:https://forum.deadbydaylight.com/en/kb/patchnotes\"><font color=\"#ff0000\"><u>HERE</u></font></a> for detailed patch notes.",
             "dwnImagePath": "",
@@ -652,7 +816,23 @@
             "title": "4.4.1 BUGFIX",
             "type": 4,
             "version": "4.4.1",
-            "weight": 947.0
+            "weight": 974.0
+        },
+        {
+            "": "",
+            "contentTags": [
+                "switch"
+            ],
+            "description": "Get cozy in Felix&#39;s Holiday Formal Sweater&#44; and don&#39;t forget your Survivor&#39;s Stocking Charm&#44; packed with all kinds of useful items&#33; Be sure to also collect your Bloodpoints and Iridescent Shards&#33;<br/><br/><b>Cosmetics</b><li>Dec. 8th 11AM ET &#45; Dec. 11th 11AM ET&#58; Survivor&#39;s Stocking Charm&#42;</li><b>Code&#58; <font color=\"#FFD700\">NICESTOCKING</font></b><li>Dec. 11th 11AM ET &#45; Dec. 14th 11AM ET&#58; Felix&#39;s Holiday Formal Sweater&#42;</li><b>Code&#58; <font color=\"#67AB49\">HOLIDAYFORMAL</font></b><br/><br/><b>Login Currencies</b><li>Dec. 7th 11AM ET &#45; Dec. 8th 11AM ET&#58; 10&#44;000 Bloodpoints</li><li>Dec. 8th 11AM ET &#45; Dec. 9th 11AM ET&#58; 500 Iridescent Shards</li><li>Dec. 9th 11AM ET &#45; Dec. 14th 11AM ET&#58; 10&#44;000 Bloodpoints (per day)</li><br/><b>In addition&#58;</b><br/><b>Dead by Daylight THE OFFICIAL SHOP</b><li>Dec. 10th 12:01PM ET &#45; Dec. 11th 2:59AM ET&#58; 15% Off site&#45;wide</li><b>Official Shop Code&#58; ADVENT15</b><li>Click https://shop.deadbydaylight.com/ to visit THE OFFICIAL SHOP in your web browser.</li><br/><br/>For more information on the Advent Calendar 2020 Event&#44; check out our blog post https://deadbydaylight.com/en/news/advent-calendar-2020<br/><br/>Each week and its gifts will be revealed on Mondays at 11AM ET. Be sure to check back every day&#33;<br/><br/><i>&#42;Redeemable only once per user. Code will only be active for the specified period. To redeem&#44; enter the Store and click &#34;Redeem Code&#34; at the top right. All Ugly Sweaters will be available via the in&#45;game Store at a later date.</i>",
+            "dwnImagePath": "",
+            "imageHeight": "",
+            "imagePath": "UI/Icons/NewContentSplash/splashBanner_AURA2.png",
+            "isHidden": false,
+            "startDate": "2020-12-07T16:00:00",
+            "title": "ADVENT CALENDAR 2020 &#45; WEEK 2",
+            "type": 2,
+            "version": "4.4.0",
+            "weight": 973.0
         },
         {
             "": "",
@@ -663,8 +843,7 @@
                 "grdk",
                 "stadia",
                 "xsx",
-                "ps5",
-                "switch"
+                "ps5"
             ],
             "description": "Get cozy in Felix&#39;s Holiday Formal Sweater&#44; and don&#39;t forget your Survivor&#39;s Stocking Charm&#44; packed with all kinds of useful items&#33; Be sure to also collect your Bloodpoints and Iridescent Shards&#33;<br/><br/><b>Cosmetics</b><li>Dec. 8th 11AM ET &#45; Dec. 11th 11AM ET&#58; Survivor&#39;s Stocking Charm&#42;</li><b>Code&#58; <font color=\"#FFD700\">NICESTOCKING</font></b><li>Dec. 11th 11AM ET &#45; Dec. 14th 11AM ET&#58; Felix&#39;s Holiday Formal Sweater&#42;</li><b>Code&#58; <font color=\"#67AB49\">HOLIDAYFORMAL</font></b><br/><br/><b>Login Currencies</b><li>Dec. 7th 11AM ET &#45; Dec. 8th 11AM ET&#58; 10&#44;000 Bloodpoints</li><li>Dec. 8th 11AM ET &#45; Dec. 9th 11AM ET&#58; 500 Iridescent Shards</li><li>Dec. 9th 11AM ET &#45; Dec. 14th 11AM ET&#58; 10&#44;000 Bloodpoints (per day)</li><br/><b>In addition&#58;</b><br/><b>Dead by Daylight THE OFFICIAL SHOP</b><li>Dec. 10th 12:01PM ET &#45; Dec. 11th 2:59AM ET&#58; 15% Off site&#45;wide</li><b>Official Shop Code&#58; ADVENT15</b><li>Click <a href=\"event:https://shop.deadbydaylight.com/\"><font color=\"#ff0000\"><u>HERE</u></font></a> to visit THE OFFICIAL SHOP in your web browser.</li><br/><br/>For more information on the Advent Calendar 2020 Event&#44; check out our blog post <a href=\"event:https://deadbydaylight.com/en/news/advent-calendar-2020\"><font color=\"#ff0000\"><u>HERE</u></font></a>&#33; <br/><br/>Each week and its gifts will be revealed on Mondays at 11AM ET. Be sure to check back every day&#33;<br/><br/><i>&#42;Redeemable only once per user. Code will only be active for the specified period. To redeem&#44; enter the Store and click &#34;Redeem Code&#34; at the top right. All Ugly Sweaters will be available via the in&#45;game Store at a later date.</i>",
             "dwnImagePath": "",
@@ -675,7 +854,7 @@
             "title": "ADVENT CALENDAR 2020 &#45; WEEK 2",
             "type": 2,
             "version": "4.4.0",
-            "weight": 946.0
+            "weight": 972.0
         },
         {
             "": "",
@@ -697,30 +876,7 @@
             "title": "THE TRAPPER &#45; HOLIDAY HORROR",
             "type": 2,
             "version": "4.4.0",
-            "weight": 945.0
-        },
-        {
-            "": "`",
-            "contentTags": [
-                "steam",
-                "xbox",
-                "ps4",
-                "grdk",
-                "stadia",
-                "xsx",
-                "ps5",
-                "switch"
-            ],
-            "description": "Our past can sometimes be a burden that drives us to the most dangerous places in search of answers and hope. But when hope is nowhere to be found&#44; compulsion and rage fill in the void&#44; for better or for worse... <br/><br/>The Twins &#45; Charlotte and Victor Deshayes &#45; formed an emotional bond like none other. After a life of hardship and suffering&#44; The Entity has twisted their love for one another into something truly terrifying. The new Survivor is &#201;lodie Rakoto. Cunning&#44; smart&#44; and resolute&#44; &#201;lodie spent her life trying to uncover the mystery of her parents&#39; disappearance. Grief&#45;stricken and guilt&#45;ridden&#44; she turned to the occult to find the answers she was looking for. <br/><br/>A Binding of Kin includes&#58;<li>A new Killer&#58; The Twins</li><li>A new Survivor&#58; &#201;lodie Rakoto</li><li>An exclusive item for &#201;lodie</li><br/><br/>Hunt as a deadly pair with The Twins... or fight to survive as the unwavering and determined &#201;lodie Rakoto with the A Binding of Kin Chapter in Dead by Daylight. <br/><br/><i>Please note that there will be a delay between the A Binding of Kin characters being available via our in&#45;game store and the full DLC package. Should you purchase a single character via our store&#59; you will not receive the DLC exclusive item. We also remind you that in&#45;game store purchases are non&#45;refundable.</i>",
-            "dwnImagePath": "",
-            "imageHeight": "",
-            "imagePath": "UI/Icons/NewContentSplash/splashBanner_AURR.png",
-            "isHidden": false,
-            "startDate": "2020-12-01T16:00:00",
-            "title": "A Binding of Kin Chapter Release",
-            "type": 2,
-            "version": "4.4.0",
-            "weight": 940.0
+            "weight": 971.0
         },
         {
             "": "",
@@ -743,7 +899,62 @@
             "title": "Hit Validation Disabled",
             "type": 4,
             "version": "4.4.0",
-            "weight": 936.0
+            "weight": 970.0
+        },
+        {
+            "": "",
+            "contentTags": [
+                "switch"
+            ],
+            "description": "&#39;tis the season of giving in Dead by Daylight&#33;<br/><br/>Let&#39;s celebrate the holidays &#38; end of 2020 together with free cosmetics and currencies&#33;<br/><br/>Stop by every day for new gifts&#44; and every Monday at 11AM ET for that week&#39;s schedule of gifts&#33;<br/><br/>Now let&#39;s kick off December in style with Zarina&#39;s Snap Snap Sweater and the Killer&#39;s Stocking Charm&#44; filled with blood&#45;stained weaponry for all the vicious boys and girls.<br/><br/><b>Cosmetics</b><li>Dec. 1st 11AM ET &#45; Dec. 4th 11AM ET&#58; Killer&#39;s Stocking Charm&#42;</li>Code&#58; <b><font color=\"#FFD700\">NAUGHTYSTOCKING</font></b></li><li>Dec. 4th 11AM ET &#45; Dec. 7th 11AM ET&#58; Zarina&#39;s Snap Snap Sweater&#42;</li>Code&#58; <b><font color=\"#67AB49\">SNAPSNAP</font></b></li><br/><br/><b>Login Currencies</b><li>Dec. 1st 11AM ET &#45; Dec. 2nd 11AM ET&#58; 10&#44;000 Bloodpoints</li><li>Dec. 2nd 11AM ET &#45; Dec. 3rd 11AM ET&#58; 1000 Iridescent Shards</li><li>Dec. 3 11AM ET &#45; Dec. 6th 11AM ET&#58; 10&#44;000 Bloodpoints &#40;per day&#41;</li><br/><br/>For more information on the Advent Calendar 2020 Event&#44; check out our blog post https://deadbydaylight.com/en/news/advent-calendar-2020<br/><br/>Be sure to also keep an eye out on our social channels and Fog Whisperers for some Rare Charm goodies&#33;<br/><br/><i>&#42;Redeemable only once per user. Code will only be active for the specified period. To redeem&#44; enter the Store and click &#34;Redeem Code&#34; at the top right. All Ugly Sweaters will be available via the in-game Store at a later date.</i>",
+            "dwnImagePath": "",
+            "imageHeight": "",
+            "imagePath": "UI/Icons/NewContentSplash/splashBanner_AURA1.png",
+            "isHidden": false,
+            "startDate": "2020-12-01T16:00:00",
+            "title": "ADVENT CALENDAR 2020 &#45; WEEK 1",
+            "type": 2,
+            "version": "4.4.0",
+            "weight": 969.0
+        },
+        {
+            "": "",
+            "contentTags": [
+                "switch"
+            ],
+            "description": "Welcome to Chapter 18&#58; A Binding of Kin. Please read the below for a quick summary of the new content you&#39;ll find.<br/><br/>For a full list of patch notes&#44; https://forum.deadbydaylight.com/en/kb/patchnotes<br/><br/><span class=\"Heading2\">FEATURES &#38; CONTENT</span><br/><b>New Characters</b><li>Added A New Killer &#45; The Twins</li><li>Added a New Survivor &#45; &#201;lodie Rakoto</li><br/><b>Visual Update</b><li>Visual updates to maps in Ormond and Junkyard. &#40;Appearance rate increased for these maps for this week&#41;</li><li>Visual update to the Hatch and Totem.</li><li>Visual update on the Twins Lobby.</li><br/><br/><span class=\"Heading2\">BUG FIXES</span><br/><li>Fixed an issue that caused daily rituals to be consumed even if the claim of bloodpoints for a completed daily ritual failed.</li><li>Fixed an issue that caused a short freeze when opening a chest.</li><li>Fixed an issue that prevented survivors from being able to start unlocking a chest from its side.</li><li>Fixed an issue that caused firecrackers not to destroy Hag traps.</li><li>Fixed an issue that sometimes caused killers to be stuck inside a generator after damaging it.</li><li>Fixed an issue that caused survivors to be able to see through walls when using a flashlight and hugging the wall.</li><li>Fixed an issue which made exclusive cosmetics available to all</li><br/><br/><span class=\"Heading2\">KNOWN ISSUES</span><br/><br/><b>The Twins</b><li>Victor may become stuck if he pounces on a locker with a healthy Survivor inside. Charlotte will be unable to search the locker until Victor is recalled.</li><br/><b>The Twins' perks</b><li>Coup de Grace: Missing visual feedback when performing a modified lunge attack</li><br/><b>&#201;lodie's Perks</b><li>Appraisal: Survivors keep rummaging through the chest for a brief moment after the action is completed</li><li>Power Struggle: The perk can't be used while actively wiggling</li>",
+            "dwnImagePath": "",
+            "imageHeight": "",
+            "imagePath": "",
+            "isHidden": false,
+            "startDate": "2020-12-01T16:00:00",
+            "title": "Chapter 18 Patch Notes",
+            "type": 4,
+            "version": "4.4.0",
+            "weight": 968.0
+        },
+        {
+            "": "",
+            "contentTags": [
+                "steam",
+                "xbox",
+                "ps4",
+                "grdk",
+                "stadia",
+                "xsx",
+                "ps5",
+                "switch"
+            ],
+            "description": "Our past can sometimes be a burden that drives us to the most dangerous places in search of answers and hope. But when hope is nowhere to be found&#44; compulsion and rage fill in the void&#44; for better or for worse... <br/><br/>The Twins &#45; Charlotte and Victor Deshayes &#45; formed an emotional bond like none other. After a life of hardship and suffering&#44; The Entity has twisted their love for one another into something truly terrifying. The new Survivor is &#201;lodie Rakoto. Cunning&#44; smart&#44; and resolute&#44; &#201;lodie spent her life trying to uncover the mystery of her parents&#39; disappearance. Grief&#45;stricken and guilt&#45;ridden&#44; she turned to the occult to find the answers she was looking for. <br/><br/>A Binding of Kin includes&#58;<li>A new Killer&#58; The Twins</li><li>A new Survivor&#58; &#201;lodie Rakoto</li><li>An exclusive item for &#201;lodie</li><br/><br/>Hunt as a deadly pair with The Twins... or fight to survive as the unwavering and determined &#201;lodie Rakoto with the A Binding of Kin Chapter in Dead by Daylight. <br/><br/><i>Please note that there will be a delay between the A Binding of Kin characters being available via our in&#45;game store and the full DLC package. Should you purchase a single character via our store&#59; you will not receive the DLC exclusive item. We also remind you that in&#45;game store purchases are non&#45;refundable.</i>",
+            "dwnImagePath": "",
+            "imageHeight": "",
+            "imagePath": "UI/Icons/NewContentSplash/splashBanner_AURR.png",
+            "isHidden": false,
+            "startDate": "2020-12-01T16:00:00",
+            "title": "A Binding of Kin Chapter Release",
+            "type": 2,
+            "version": "4.4.0",
+            "weight": 967.0
         },
         {
             "": "",
@@ -765,7 +976,7 @@
             "title": "THE TWINS & &#201;LODIE &#45; HOLIDAY HORROR",
             "type": 2,
             "version": "4.4.0",
-            "weight": 935.0
+            "weight": 966.0
         },
         {
             "": "",
@@ -776,8 +987,7 @@
                 "grdk",
                 "stadia",
                 "xsx",
-                "ps5",
-                "switch"
+                "ps5"
             ],
             "description": "&#39;tis the season of giving in Dead by Daylight&#33;<br/><br/>Let&#39;s celebrate the holidays &#38; end of 2020 together with free cosmetics and currencies&#33;<br/><br/>Stop by every day for new gifts&#44; and every Monday at 11AM ET for that week&#39;s schedule of gifts&#33;<br/><br/>Now let&#39;s kick off December in style with Zarina&#39;s Snap Snap Sweater and the Killer&#39;s Stocking Charm&#44; filled with blood&#45;stained weaponry for all the vicious boys and girls.<br/><br/><b>Cosmetics</b><li>Dec. 1st 11AM ET &#45; Dec. 4th 11AM ET&#58; Killer&#39;s Stocking Charm&#42;</li>Code&#58; <b><font color=\"#FFD700\">NAUGHTYSTOCKING</font></b></li><li>Dec. 4th 11AM ET &#45; Dec. 7th 11AM ET&#58; Zarina&#39;s Snap Snap Sweater&#42;</li>Code&#58; <b><font color=\"#67AB49\">SNAPSNAP</font></b></li><br/><br/><b>Login Currencies</b><li>Dec. 1st 11AM ET &#45; Dec. 2nd 11AM ET&#58; 10&#44;000 Bloodpoints</li><li>Dec. 2nd 11AM ET &#45; Dec. 3rd 11AM ET&#58; 1000 Iridescent Shards</li><li>Dec. 3 11AM ET &#45; Dec. 6th 11AM ET&#58; 10&#44;000 Bloodpoints &#40;per day&#41;</li><br/><br/>For more information on the Advent Calendar 2020 Event&#44; check out our blog post <a href=\"event:https://deadbydaylight.com/en/news/advent-calendar-2020\"><font color=\"#ff0000\"><u>HERE</u></font></a>&#33; <br/><br/>Be sure to also keep an eye out on our social channels and Fog Whisperers for some Rare Charm goodies&#33;<br/><br/><i>&#42;Redeemable only once per user. Code will only be active for the specified period. To redeem&#44; enter the Store and click &#34;Redeem Code&#34; at the top right. All Ugly Sweaters will be available via the in-game Store at a later date.</i>",
             "dwnImagePath": "",
@@ -788,7 +998,7 @@
             "title": "ADVENT CALENDAR 2020 &#45; WEEK 1",
             "type": 2,
             "version": "4.4.0",
-            "weight": 930.0
+            "weight": 965.0
         },
         {
             "": "",
@@ -799,8 +1009,7 @@
                 "grdk",
                 "stadia",
                 "xsx",
-                "ps5",
-                "switch"
+                "ps5"
             ],
             "description": "Welcome to Chapter 18&#58; A Binding of Kin. Please read the below for a quick summary of the new content you&#39;ll find.<br/><br/>For a full list of patch notes&#44; <a href=\"event:https://forum.deadbydaylight.com/en/kb/patchnotes\"><font color=\"#ff0000\"><u>click HERE</u></font></a><br/><br/><span class=\"Heading2\">FEATURES &#38; CONTENT</span><br/><b>New Characters</b><li>Added A New Killer &#45; The Twins</li><li>Added a New Survivor &#45; &#201;lodie Rakoto</li><br/><b>Visual Update</b><li>Visual updates to maps in Ormond and Junkyard. &#40;Appearance rate increased for these maps for this week&#41;</li><li>Visual update to the Hatch and Totem.</li><li>Visual update on the Twins Lobby.</li><br/><br/><span class=\"Heading2\">BUG FIXES</span><br/><li>Fixed an issue that caused daily rituals to be consumed even if the claim of bloodpoints for a completed daily ritual failed.</li><li>Fixed an issue that caused a short freeze when opening a chest.</li><li>Fixed an issue that prevented survivors from being able to start unlocking a chest from its side.</li><li>Fixed an issue that caused firecrackers not to destroy Hag traps.</li><li>Fixed an issue that sometimes caused killers to be stuck inside a generator after damaging it.</li><li>Fixed an issue that caused survivors to be able to see through walls when using a flashlight and hugging the wall.</li><li>Fixed an issue which made exclusive cosmetics available to all</li><br/><br/><span class=\"Heading2\">KNOWN ISSUES</span><br/><br/><b>The Twins</b><li>Victor may become stuck if he pounces on a locker with a healthy Survivor inside. Charlotte will be unable to search the locker until Victor is recalled.</li><br/><b>The Twins' perks</b><li>Coup de Grace: Missing visual feedback when performing a modified lunge attack</li><br/><b>&#201;lodie's Perks</b><li>Appraisal: Survivors keep rummaging through the chest for a brief moment after the action is completed</li><li>Power Struggle: The perk can't be used while actively wiggling</li>",
             "dwnImagePath": "",
@@ -811,7 +1020,7 @@
             "title": "Chapter 18 Patch Notes",
             "type": 4,
             "version": "4.4.0",
-            "weight": 925.0
+            "weight": 964.0
         },
         {
             "": "",
@@ -834,7 +1043,7 @@
             "title": "UP TO <font color=\"#FFD700\">50&#37; OFF</font> OUTFITS &#38; CHARACTERS",
             "type": 5,
             "version": "4.3.0",
-            "weight": 917.0
+            "weight": 963.0
         },
         {
             "": "",
@@ -857,7 +1066,7 @@
             "title": "Bloodlust Experiment",
             "type": 4,
             "version": "4.3.0",
-            "weight": 915.0
+            "weight": 962.0
         },
         {
             "": "",
@@ -879,7 +1088,7 @@
             "title": "<b>THE HILLBILLY&#39;S &#34;A MAN NAMED BOY&#34;</b>",
             "type": 2,
             "version": "4.3.0",
-            "weight": 910.0
+            "weight": 961.0
         },
         {
             "": "",
@@ -901,7 +1110,7 @@
             "title": "OLD LADY LEATHERFACE",
             "type": 2,
             "version": "4.3.0",
-            "weight": 902.0
+            "weight": 960.0
         }
     ]
 }

@@ -11426,7 +11426,7 @@
         },
         "nonSecure": false,
         "premium": false,
-        "purchasable": false,
+        "purchasable": true,
         "unique": true
     },
     {
@@ -11476,7 +11476,7 @@
         },
         "nonSecure": false,
         "premium": false,
-        "purchasable": false,
+        "purchasable": true,
         "unique": true
     },
     {
@@ -45367,7 +45367,7 @@
         },
         "nonSecure": false,
         "premium": false,
-        "purchasable": false,
+        "purchasable": true,
         "unique": true
     },
     {
@@ -45417,7 +45417,7 @@
         },
         "nonSecure": false,
         "premium": false,
-        "purchasable": false,
+        "purchasable": true,
         "unique": true
     },
     {
@@ -45467,7 +45467,7 @@
         },
         "nonSecure": false,
         "premium": false,
-        "purchasable": false,
+        "purchasable": true,
         "unique": true
     },
     {
@@ -100647,6 +100647,14 @@
             ],
             "newEndDate": "2019-02-13T18:59:59",
             "newStartDate": "2019-01-30T19:00:00",
+            "temporaryDiscounts": [
+                {
+                    "currencyId": "Cells",
+                    "discountPercentage": 0.3,
+                    "endDate": "2021-02-18T16:00:00",
+                    "startDate": "2021-02-12T16:00:00"
+                }
+            ],
             "unbreakable": false
         },
         "nonSecure": false,
