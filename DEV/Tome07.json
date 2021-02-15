@@ -3623,6 +3623,7 @@
                             "y": 5
                         },
                         "neighbors": [
+                            "node21",
                             "node05"
                         ],
                         "nodeType": "quest:task",
@@ -3717,6 +3718,7 @@
                             "y": 5
                         },
                         "neighbors": [
+                            "node21",
                             "node16"
                         ],
                         "nodeType": "quest:task",
@@ -3759,13 +3761,12 @@
                     "node04": {
                         "clientInfoId": "Down",
                         "coordinates": {
-                            "x": 905,
-                            "y": 455
+                            "x": 725,
+                            "y": 605
                         },
                         "neighbors": [
-                            "node20",
                             "node15",
-                            "node09"
+                            "node19"
                         ],
                         "nodeType": "quest:task",
                         "objectives": {
@@ -3999,9 +4000,9 @@
                             "y": 305
                         },
                         "neighbors": [
+                            "node_T6L4_Glyph",
                             "node14",
-                            "node04",
-                            "node_T6L4_Glyph"
+                            "node22"
                         ],
                         "nodeType": "quest:task",
                         "objectives": {
@@ -4089,7 +4090,8 @@
                         },
                         "neighbors": [
                             "node04",
-                            "node_T7L4_End02"
+                            "node_T7L4_End02",
+                            "node22"
                         ],
                         "nodeType": "quest:task",
                         "objectives": {
@@ -4291,7 +4293,8 @@
                             "Tome07_Observer"
                         ],
                         "neighbors": [
-                            "node02"
+                            "node02",
+                            "node04"
                         ],
                         "nodeType": "quest:challenge",
                         "objectives": {
@@ -4346,7 +4349,7 @@
                         ],
                         "neighbors": [
                             "node_T7L4_End01",
-                            "node04"
+                            "node22"
                         ],
                         "nodeType": "quest:challenge",
                         "objectives": {
@@ -4393,10 +4396,13 @@
                     "node21": {
                         "clientInfoId": "HideNearKIller",
                         "coordinates": {
-                            "x": 5,
+                            "x": 815,
                             "y": 5
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node03",
+                            "node01"
+                        ],
                         "nodeType": "quest:task",
                         "objectives": {
                             "HideNearKIller": {
@@ -4437,10 +4443,14 @@
                     "node22": {
                         "clientInfoId": "SacrificeObsession",
                         "coordinates": {
-                            "x": 10,
-                            "y": 10
+                            "x": 905,
+                            "y": 455
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node20",
+                            "node15",
+                            "node09"
+                        ],
                         "nodeType": "quest:task",
                         "objectives": {
                             "SacrificeObsession": {
@@ -4584,6 +4594,6 @@
             }
         ],
         "rewardData": "Tome07",
-        "version": 40
+        "version": 41
     }
 }

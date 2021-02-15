@@ -316,13 +316,13 @@
             "Mobile": {
                 "dbd_match_making_filter_unidirectional_always": true,
                 "dbd_match_making_filter_good_latency": 120,
-                "dbd_match_making_filter_skip_region_checks": false,
                 "dbd_match_making_filter_min_geo_distance": 1000,
+                "dbd_match_making_filter_skip_region_checks": false,
                 "dbd_match_making_filter_ok_latency": 250,
                 "dbd_match_making_filter_expansion_duration": 240000,
                 "dbd_match_making_filter_max_geo_distance": 7000,
-                "dbd_match_making_filter_unidirectional": true,
                 "dbd_match_making_filter_max_rank_diff": 20,
+                "dbd_match_making_filter_unidirectional": true,
                 "dbd_match_making_filter_min_rank_diff": 1
             }
         },
@@ -589,6 +589,7 @@
             "4.6.0_394511qa": "4.6.0_394511qa-1612455767",
             "4.6.0_395010qa": "4.6.0_395010qa-1612535164",
             "4.6.0_396084qa": "4.6.0_396084qa-1612880000",
+            "4.6.0_398297qa": "4.6.0_398297qa-1613399762",
             "edule_3.4.0_0qa": "edule_3.4.0_0qa-1576698389",
             "m_3.0.2_220683qa": "m_3.0.2_220683qa-1566333505",
             "m_3.0.3_240244qa": "m_3.0.3_240244qa-1572275329",
@@ -619,7 +620,9 @@
             "m_3.7.3_390749qa": "m_3.7.3_390749qa-1611696730",
             "m_3.7.3_392984qa": "m_3.7.3_392984qa-1612215477",
             "m_3.7.3_394511qa": "m_3.7.3_394511qa-1612456327",
-            "m_3.7.3_395010qa": "m_3.7.3_395010qa-1612535539"
+            "m_3.7.3_395010qa": "m_3.7.3_395010qa-1612535539",
+            "m_3.7.3_396084qa": "m_3.7.3_396084qa-1612881252",
+            "m_3.7.3_398324qa": "m_3.7.3_398324qa-1613403151"
         },
         "keyName": "VER_CLIENT_DATA"
     },
