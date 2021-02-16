@@ -1120,7 +1120,14 @@
                         "nodeType": "quest:contextual",
                         "objectives": {
                             "BlueGlyph": {
-                                "conditions": [],
+                                "conditions": [
+                                    {
+                                        "key": "role",
+                                        "value": [
+                                            "survivor"
+                                        ]
+                                    }
+                                ],
                                 "incrementWithEventRepetitions": true,
                                 "neededProgression": 2,
                                 "objectiveId": "BlueGlyph",
@@ -1288,7 +1295,7 @@
                     "node1": {
                         "clientInfoId": "FallInChase",
                         "coordinates": {
-                            "x": 905,
+                            "x": 815,
                             "y": 155
                         },
                         "neighbors": [
@@ -1378,7 +1385,7 @@
                     "node11": {
                         "clientInfoId": "BreakGens",
                         "coordinates": {
-                            "x": 725,
+                            "x": 635,
                             "y": 455
                         },
                         "neighbors": [
@@ -1425,7 +1432,7 @@
                     "node12": {
                         "clientInfoId": "VaultInChaseInTrial",
                         "coordinates": {
-                            "x": 275,
+                            "x": 185,
                             "y": 155
                         },
                         "journal": [
@@ -1434,8 +1441,8 @@
                         "neighbors": [
                             "node20",
                             "node15",
-                            "node10",
-                            "node_T7L2_Start02"
+                            "node_T7L2_Start02",
+                            "node10"
                         ],
                         "nodeType": "quest:challenge",
                         "objectives": {
@@ -1477,7 +1484,7 @@
                     "node14": {
                         "clientInfoId": "DownSuccessively60WIthInfectiousFrightInTrial",
                         "coordinates": {
-                            "x": 1175,
+                            "x": 1085,
                             "y": 605
                         },
                         "journal": [
@@ -1753,7 +1760,7 @@
                     "node19": {
                         "clientInfoId": "EarnBlooodpoints",
                         "coordinates": {
-                            "x": 1175,
+                            "x": 1085,
                             "y": 305
                         },
                         "neighbors": [
@@ -1935,7 +1942,7 @@
                     "node22": {
                         "clientInfoId": "SacrificeInTrial",
                         "coordinates": {
-                            "x": 1175,
+                            "x": 1085,
                             "y": 455
                         },
                         "journal": [
@@ -1983,7 +1990,7 @@
                     "node3": {
                         "clientInfoId": "HookObsession",
                         "coordinates": {
-                            "x": 995,
+                            "x": 905,
                             "y": 455
                         },
                         "neighbors": [
@@ -2031,7 +2038,7 @@
                     "node4": {
                         "clientInfoId": "Repair",
                         "coordinates": {
-                            "x": 635,
+                            "x": 545,
                             "y": 5
                         },
                         "neighbors": [
@@ -2078,7 +2085,7 @@
                     "node5": {
                         "clientInfoId": "SkillCheckGreatSuccessInTerrorRadius",
                         "coordinates": {
-                            "x": 1085,
+                            "x": 995,
                             "y": 155
                         },
                         "neighbors": [
@@ -2125,7 +2132,7 @@
                     "node6": {
                         "clientInfoId": "StunBlind",
                         "coordinates": {
-                            "x": 455,
+                            "x": 365,
                             "y": 5
                         },
                         "neighbors": [
@@ -2221,7 +2228,7 @@
                     "node8": {
                         "clientInfoId": "UnhookWhoUnhooked",
                         "coordinates": {
-                            "x": 815,
+                            "x": 725,
                             "y": 5
                         },
                         "neighbors": [
@@ -2269,7 +2276,7 @@
                     "node9": {
                         "clientInfoId": "HealOther",
                         "coordinates": {
-                            "x": 1265,
+                            "x": 1175,
                             "y": 155
                         },
                         "neighbors": [
@@ -2363,7 +2370,7 @@
                     "node_T7L2_End01": {
                         "clientInfoId": "End",
                         "coordinates": {
-                            "x": 1355,
+                            "x": 1265,
                             "y": 455
                         },
                         "neighbors": [
@@ -2995,7 +3002,7 @@
                     "node13": {
                         "clientInfoId": "Repair",
                         "coordinates": {
-                            "x": 1085,
+                            "x": 995,
                             "y": 455
                         },
                         "neighbors": [
@@ -3316,7 +3323,7 @@
                     "node19": {
                         "clientInfoId": "HealOther",
                         "coordinates": {
-                            "x": 1175,
+                            "x": 1085,
                             "y": 305
                         },
                         "neighbors": [
@@ -3504,7 +3511,7 @@
                         ]
                     },
                     "node_T6L3_Glyph": {
-                        "clientInfoId": "RedGlyph",
+                        "clientInfoId": "BlueGlyph",
                         "coordinates": {
                             "x": 725,
                             "y": 455
@@ -3516,22 +3523,29 @@
                         ],
                         "nodeType": "quest:contextual",
                         "objectives": {
-                            "RedGlyph": {
-                                "conditions": [],
+                            "BlueGlyph": {
+                                "conditions": [
+                                    {
+                                        "key": "role",
+                                        "value": [
+                                            "survivor"
+                                        ]
+                                    }
+                                ],
                                 "incrementWithEventRepetitions": true,
-                                "neededProgression": 5,
-                                "objectiveId": "RedGlyph",
+                                "neededProgression": 4,
+                                "objectiveId": "BlueGlyph",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
                                         "parameters": "instigator:me",
-                                        "questEventId": "QuestEvent.RedGlyph",
+                                        "questEventId": "QuestEvent.BlueGlyph",
                                         "repetition": 1
                                     }
                                 ],
                                 "specialBehaviours": [
                                     {
-                                        "id": "RedGlyph"
+                                        "id": "BlueGlyph"
                                     }
                                 ]
                             }
@@ -4593,6 +4607,6 @@
             }
         ],
         "rewardData": "Tome07",
-        "version": 45
+        "version": 46
     }
 }

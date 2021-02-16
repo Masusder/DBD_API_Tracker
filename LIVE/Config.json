@@ -31,7 +31,7 @@
         "keyName": "SOCIAL_PLATFORM_FRIENDLIST_QUERY_RATE"
     },
     {
-        "value": "true",
+        "value": "false",
         "keyName": "DDOS_DETECTION"
     },
     {
@@ -251,8 +251,6 @@
                 "LevelLoadingStepAnalytics",
                 "LevelLoadingTimeoutAnalytics",
                 "PerformanceAnalytics",
-                "PostGame_KillerAnalytics",
-                "PostGame_SurvivorAnalytics",
                 "S3CommandAnalytics"
             ]
         },
@@ -424,7 +422,8 @@
                 "SaveGameSummaryPlayerStatsAnalytics",
                 "ShopAnalytics",
                 "SpecialEventAnalytics",
-                "SpecialEventBaseAnalytics"
+                "SpecialEventBaseAnalytics",
+                "SyncLoadAnalytics"
             ],
             "BL": [
                 "AtlantaControlsSettingsAnalytics",
@@ -433,8 +432,7 @@
                 "MatchmakingSearchResultAnalytics",
                 "MatchmakingSurviveWithFriendsAnalytics",
                 "PerformanceChartingAnalytics",
-                "RTMAnalytics",
-                "SyncLoadAnalytics"
+                "RTMAnalytics"
             ],
             "AF": [
                 "af_complete_registrationAnalytics",
@@ -486,6 +484,8 @@
                 "MenuFlowAnalytics",
                 "PerkAcquisitionAnalytics",
                 "PlagueSurvivorAnalytics",
+                "PostGame_KillerAnalytics",
+                "PostGame_SurvivorAnalytics",
                 "ProceduralGenerationAnalytics",
                 "QueueAnalytics",
                 "ScoreAnalytics",
@@ -510,8 +510,6 @@
                 "LoadOutAnalytics",
                 "MatchInfoAnalytics",
                 "PerformanceAnalytics",
-                "PostGame_KillerAnalytics",
-                "PostGame_SurvivorAnalytics",
                 "ReportAnalytics",
                 "S3CommandAnalytics",
                 "WalesCypherAnalytics"
@@ -709,7 +707,8 @@
             "m_4.3.2_386511live": "m_4.3.2_386511live-1610655223",
             "m_4.3.2_393569live": "m_4.3.2_393569live-1612301867",
             "m_4.3.2_394675live": "m_4.3.2_394675live-1612471552",
-            "m_4.3.2_394724live": "m_4.3.2_394724live-1612473367"
+            "m_4.3.2_394724live": "m_4.3.2_394724live-1612473367",
+            "m_4.4.0_398651live": "m_4.4.0_398651live-1613425964"
         },
         "keyName": "VER_CLIENT_DATA"
     },
