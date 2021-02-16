@@ -12,6 +12,67 @@
                 "ps5",
                 "switch"
             ],
+            "description": "The following Realms have been re-enabled&#58;<li>Autohaven Wreckers</li><li>Crotus Penn Asylum</li><br/><br/>Any Offerings used for these realms will now work.",
+            "dwnImagePath": "",
+            "imageHeight": "",
+            "imagePath": "",
+            "isHidden": false,
+            "startDate": "2021-02-16T16:00:00",
+            "title": "REALMS RE-ENABLED",
+            "type": 4,
+            "version": "4.5.1",
+            "weight": 1018.0
+        },
+        {
+            "": "",
+            "contentTags": [
+                "switch"
+            ],
+            "description": "The game client has been updated to the 4.5.1 bugfix.<br/><br/><span class=\"Heading2\">BUG FIXES</span><li>Fixed various collision&#45;related issues in Autohaven Wreckers and Crotus Penn Asylum</li><li>Fixed an issue where pips lost or gained in a Custom Match only fixed after a following Public Match was played</li><li>Fixed an issue that caused various error messages to occur in a lobby or after a trial after specific conditions were met</li><li>Fixed an issue where a spectator could be sometimes locked in the spectator screen when entering in spectator mode while the last Survivor reaches the tally screen</li><li>Archives&#58; Fixed Glyph placement issues in Gideon Meat Plant&#44; Sanctum of Wrath&#44; The Pale Rose&#44; Midwich Elementary School&#44; and both Asylum maps</li><br/><br/><span class=\"Heading2\">KNOWN ISSUES</span><li>Killers are unable to view charms on hooks in game</li><br/><br/>Please see forum.deadbydaylight.com/en/kb/patchnotes for full patch notes.",
+            "dwnImagePath": "",
+            "imageHeight": "",
+            "imagePath": "",
+            "isHidden": false,
+            "startDate": "2021-02-16T16:00:00",
+            "title": "4.5.1 BUGFIX",
+            "type": 4,
+            "version": "4.5.1",
+            "weight": 1017.0
+        },
+        {
+            "": "",
+            "contentTags": [
+                "steam",
+                "xbox",
+                "ps4",
+                "grdk",
+                "stadia",
+                "xsx",
+                "ps5"
+            ],
+            "description": "The game client has been updated to the 4.5.1 bugfix.<br/><br/><span class=\"Heading2\">BUG FIXES</span><li>Fixed various collision&#45;related issues in Autohaven Wreckers and Crotus Penn Asylum</li><li>Fixed an issue where pips lost or gained in a Custom Match only fixed after a following Public Match was played</li><li>Fixed an issue that caused various error messages to occur in a lobby or after a trial after specific conditions were met</li><li>Fixed an issue where a spectator could be sometimes locked in the spectator screen when entering in spectator mode while the last Survivor reaches the tally screen</li><li>Archives&#58; Fixed Glyph placement issues in Gideon Meat Plant&#44; Sanctum of Wrath&#44; The Pale Rose&#44; Midwich Elementary School&#44; and both Asylum maps</li><br/><br/><span class=\"Heading2\">KNOWN ISSUES</span><li>Killers are unable to view charms on hooks in game</li><br/><br/>Please click <a href=\"event:https://forum.deadbydaylight.com/en/kb/patchnotes\"><font color=\"#ff0000\"><u>HERE</u></font></a> for full patch notes.",
+            "dwnImagePath": "",
+            "imageHeight": "",
+            "imagePath": "",
+            "isHidden": false,
+            "startDate": "2021-02-16T16:00:00",
+            "title": "4.5.1 BUGFIX",
+            "type": 4,
+            "version": "4.5.1",
+            "weight": 1016.0
+        },
+        {
+            "": "",
+            "contentTags": [
+                "steam",
+                "xbox",
+                "ps4",
+                "grdk",
+                "stadia",
+                "xsx",
+                "ps5",
+                "switch"
+            ],
             "description": "The following Realms have been temporarily disabled&#58;<li>Autohaven Wreckers</li><li>Crotus Penn Asylum</li><br/><br/>Any Offerings used while they are disabled will be returned to the player.",
             "dwnImagePath": "",
             "imageHeight": "",
@@ -143,9 +204,11 @@
                 "steam",
                 "xbox",
                 "ps4",
-                "switch",
                 "grdk",
-                "stadia"
+                "stadia",
+                "xsx",
+                "ps5",
+                "switch"
             ],
             "description": "An outfit from Tome II&#58; RECKONING has made its way to the store! <br/><br/>Available now in the store&#58;<li>Jake Park &#45; Lunar Fusion</li>",
             "dwnImagePath": "",
