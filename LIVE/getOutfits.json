@@ -15,8 +15,8 @@
                 "DF_Torso001",
                 "DF_Legs001"
             ],
-            "newStartDate": "2018-06-12T00:00:00",
-            "newEndDate": "2018-06-12T23:59:59"
+            "newStartDate": "2018-06-12T00:00:01",
+            "newEndDate": "2018-06-12T23:59:58"
         },
         {
             "id": "Dwight_outfit_002",
@@ -3014,8 +3014,8 @@
             "defaultCost": [
                 {
                     "currencyId": "Cells",
-                    "price": 840,
-                    "discountPercentage": 0.3
+                    "price": 1080,
+                    "discountPercentage": 0.1
                 },
                 {
                     "currencyId": "LunarNewYearCoins",
@@ -3456,8 +3456,8 @@
             "defaultCost": [
                 {
                     "currencyId": "Cells",
-                    "price": 840,
-                    "discountPercentage": 0.3
+                    "price": 1080,
+                    "discountPercentage": 0.1
                 },
                 {
                     "currencyId": "LunarNewYearCoins",
@@ -4447,8 +4447,8 @@
             "defaultCost": [
                 {
                     "currencyId": "Cells",
-                    "price": 960,
-                    "discountPercentage": 0.2
+                    "price": 1080,
+                    "discountPercentage": 0.1
                 }
             ],
             "character": "Jeff",
@@ -7707,8 +7707,8 @@
             "defaultCost": [
                 {
                     "currencyId": "Cells",
-                    "price": 840,
-                    "discountPercentage": 0.3
+                    "price": 1080,
+                    "discountPercentage": 0.1
                 },
                 {
                     "currencyId": "LunarNewYearCoins",
@@ -8633,8 +8633,8 @@
             "defaultCost": [
                 {
                     "currencyId": "Cells",
-                    "price": 960,
-                    "discountPercentage": 0.2
+                    "price": 1080,
+                    "discountPercentage": 0.1
                 }
             ],
             "character": "Legion",

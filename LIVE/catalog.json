@@ -1215,8 +1215,8 @@
             "base_itemId": "DF_Head001",
             "character": "Dwight",
             "kind": "Customization",
-            "newEndDate": "2018-06-12T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2018-06-12T23:59:58",
+            "newStartDate": "2018-06-12T00:00:01",
             "outfitId": "Dwight_outfit_001",
             "quality": "V0",
             "qualityName": "quality1",
@@ -97422,8 +97422,8 @@
                 "DF_Torso001",
                 "DF_Legs001"
             ],
-            "newEndDate": "2018-06-12T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2018-06-12T23:59:58",
+            "newStartDate": "2018-06-12T00:00:01",
             "unbreakable": false
         },
         "nonSecure": false,
@@ -97867,9 +97867,9 @@
             "temporaryDiscounts": [
                 {
                     "currencyId": "Cells",
-                    "discountPercentage": 0.7,
-                    "endDate": "2020-10-14T18:00:00",
-                    "startDate": "2020-10-14T17:00:00"
+                    "discountPercentage": 0.4,
+                    "endDate": "2020-10-14T18:00:01",
+                    "startDate": "2020-10-14T17:00:01"
                 },
                 {
                     "currencyId": "Cells",
