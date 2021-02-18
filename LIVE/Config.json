@@ -31,7 +31,7 @@
         "keyName": "SOCIAL_PLATFORM_FRIENDLIST_QUERY_RATE"
     },
     {
-        "value": "false",
+        "value": "true",
         "keyName": "DDOS_DETECTION"
     },
     {
@@ -251,6 +251,8 @@
                 "LevelLoadingStepAnalytics",
                 "LevelLoadingTimeoutAnalytics",
                 "PerformanceAnalytics",
+                "PostGame_KillerAnalytics",
+                "PostGame_SurvivorAnalytics",
                 "S3CommandAnalytics"
             ]
         },
@@ -422,8 +424,7 @@
                 "SaveGameSummaryPlayerStatsAnalytics",
                 "ShopAnalytics",
                 "SpecialEventAnalytics",
-                "SpecialEventBaseAnalytics",
-                "SyncLoadAnalytics"
+                "SpecialEventBaseAnalytics"
             ],
             "BL": [
                 "AtlantaControlsSettingsAnalytics",
@@ -432,7 +433,8 @@
                 "MatchmakingSearchResultAnalytics",
                 "MatchmakingSurviveWithFriendsAnalytics",
                 "PerformanceChartingAnalytics",
-                "RTMAnalytics"
+                "RTMAnalytics",
+                "SyncLoadAnalytics"
             ],
             "AF": [
                 "af_complete_registrationAnalytics",
@@ -484,8 +486,6 @@
                 "MenuFlowAnalytics",
                 "PerkAcquisitionAnalytics",
                 "PlagueSurvivorAnalytics",
-                "PostGame_KillerAnalytics",
-                "PostGame_SurvivorAnalytics",
                 "ProceduralGenerationAnalytics",
                 "QueueAnalytics",
                 "ScoreAnalytics",
@@ -510,6 +510,8 @@
                 "LoadOutAnalytics",
                 "MatchInfoAnalytics",
                 "PerformanceAnalytics",
+                "PostGame_KillerAnalytics",
+                "PostGame_SurvivorAnalytics",
                 "ReportAnalytics",
                 "S3CommandAnalytics",
                 "WalesCypherAnalytics"
@@ -681,6 +683,8 @@
             "4.5.0_397326live": "4.5.0_397326live-1613062168",
             "4.5.0_397881live": "4.5.0_397881live-1613146086",
             "4.5.0_397960live": "4.5.0_397960live-1613153358",
+            "4.5.0_399804live": "4.5.0_399804live-1613597861",
+            "4.5.0_399825live": "4.5.0_399825live-1613599180",
             "m_3.3.3_220000live": "m_3.3.3_220000live-1574880017",
             "m_3.3.3_249880live": "m_3.3.3_249880live-1574865740",
             "m_3.3.3_249941live": "m_3.3.3_249941live-1574867268",
@@ -708,7 +712,8 @@
             "m_4.3.2_393569live": "m_4.3.2_393569live-1612301867",
             "m_4.3.2_394675live": "m_4.3.2_394675live-1612471552",
             "m_4.3.2_394724live": "m_4.3.2_394724live-1612473367",
-            "m_4.4.0_398651live": "m_4.4.0_398651live-1613425964"
+            "m_4.4.0_398651live": "m_4.4.0_398651live-1613425964",
+            "m_4.4.0_399804live": "m_4.4.0_399804live-1613598012"
         },
         "keyName": "VER_CLIENT_DATA"
     },

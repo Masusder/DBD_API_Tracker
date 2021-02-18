@@ -6,11 +6,321 @@
                 "steam",
                 "xbox",
                 "ps4",
-                "switch",
+                "grdk",
+                "stadia",
+                "xsx",
+                "ps5",
+                "switch"
+            ],
+            "description": "The following Realms have been temporarily disabled&#58;<li>Autohaven Wreckers</li><li>Crotus Penn Asylum</li><br/><br/>Any Offerings used while they are disabled will be returned to the player.",
+            "dwnImagePath": "",
+            "imageHeight": "",
+            "imagePath": "",
+            "isHidden": false,
+            "startDate": "2021-02-12T16:00:00",
+            "title": "TEMPORARILY DISABLED REALMS",
+            "type": 4,
+            "version": "4.5.0",
+            "weight": 1015.0
+        },
+        {
+            "": "",
+            "contentTags": [
+                "steam",
+                "xbox",
+                "ps4",
                 "grdk",
                 "stadia",
                 "xsx",
                 "ps5"
+            ],
+            "description": "Celebrate the Year of the Ox with us and enjoy discounts on outfits from the past Lunar New Year events&#33;<br/><br/>The Moonrise and Scarlet Swarm collections are available at up to 30&#37; OFF&#58;<li><b>Feng Min&#39;s</b> Spring Festival Outfit</li><li><b>Ace Visconti&#39;s</b> Seasoned Gambler Outfit</li> <li><b>The Huntress&#39;</b> Brave Beast Outfit</li><li><b>Jeff Johansen&#39;s</b> New Year Showgoer Outfit</li><li><b>The Legion&#39;s</b> New Year Shoplifter Outfit</li><br/><br/>The sale starts on February 12th and ends on February 18th. Learn more about the Lunar New Year Event here: <a href=\"event:https://deadbydaylight.com/en/news/lunar-new-year-2021\"><font color=\"#ff0000\">deadbydaylight.com/en/news/lunar-new-year-2021</font></a>",
+            "dwnImagePath": "",
+            "imageHeight": "",
+            "imagePath": "UI/Icons/NewContentSplash/splashBanner_BB_NYS.png",
+            "isHidden": false,
+            "startDate": "2021-02-12T16:00:00",
+            "title": "LUNAR NEW YEAR SALE",
+            "type": 4,
+            "version": "4.5.0",
+            "weight": 1014.0
+        },
+        {
+            "": "",
+            "contentTags": [
+                "switch"
+            ],
+            "description": "Celebrate the Year of the Ox with us and enjoy discounts on outfits from the past Lunar New Year events&#33;<br/><br/>The Moonrise and Scarlet Swarm collections are available at up to 30&#37; OFF&#58;<li><b>Feng Min&#39;s</b> Spring Festival Outfit</li><li><b>Ace Visconti&#39;s</b> Seasoned Gambler Outfit</li> <li><b>The Huntress&#39;</b> Brave Beast Outfit</li><li><b>Jeff Johansen&#39;s</b> New Year Showgoer Outfit</li><li><b>The Legion&#39;s</b> New Year Shoplifter Outfit</li><br/><br/>The sale starts on February 12th and ends on February 18th. Learn more about the Lunar New Year Event here: https://deadbydaylight.com/en/news/lunar-new-year-2021",
+            "dwnImagePath": "",
+            "imageHeight": "",
+            "imagePath": "UI/Icons/NewContentSplash/splashBanner_BB_NYS.png",
+            "isHidden": false,
+            "startDate": "2021-02-12T16:00:00",
+            "title": "LUNAR NEW YEAR SALE",
+            "type": 4,
+            "version": "4.5.0",
+            "weight": 1013.0
+        },
+        {
+            "": "",
+            "contentTags": [
+                "switch"
+            ],
+            "description": "Celebrate the Year of the Ox in Dead by Daylight with the <b>Gilded Stampede celebration.</b><br/><br/>From February 11th &#45; 25th&#44; the Fog will be transformed into a vibrant celebration full of fireworks and colorful lanterns in honor of the Lunar New Year.<br/><br/>For a limited time&#44; the Gilded Stampede celebration features a Lunar New Year themed lobby&#44; themed Generators and Hooks&#44; as well as the return of the Chinese Firecracker Item and Red Envelope Offering.<br/><br/>The celebration also introduces the Festive Toolbox&#44; a brand&#45;new item for Survivors. Packed to the brim with fireworks&#44; it&#39;s prepared to celebrate all your life&#39;s successes... and failures.<br/><br/>Enter the Fog during the celebration to redeem 50&#44;000 Bloodpoints per day &#45; that&#39;s a total of 700&#44;000 Bloodpoints to earn if you log in every day throughout the Gilded Stampede celebration.  <br/><br/>Keep an eye on the Dead by Daylight social channels and the in&#45;game news throughout the celebration for special promo codes to unlock some free Gilded Stampede Collection items. <br/><br/>For more information about the Lunar New Year in Dead by Daylight&#58; event:https://deadbydaylight.com/en/news/lunar-new-year-2021",
+            "dwnImagePath": "",
+            "imageHeight": "",
+            "imagePath": "UI/Icons/NewContentSplash/splashBanner_BB_LNY.png",
+            "isHidden": false,
+            "startDate": "2021-02-11T16:00:00",
+            "title": "GILDED STAMPEDE CELEBRATION",
+            "type": 5,
+            "version": "4.5.0",
+            "weight": 1010.0
+        },
+        {
+            "": "",
+            "contentTags": [
+                "steam",
+                "xbox",
+                "ps4",
+                "grdk",
+                "stadia",
+                "xsx",
+                "ps5"
+            ],
+            "description": "Join the stampede&#44; as The Wraith and The Deathslinger&#44; crowned with golden oxen horns&#44; are unleashing their wrath to celebrate the year to come.<br/><br/>Available in the store&#58;<li><b>The Wraith</b> &#45; The Golden Ox Outfit <li><b>The Deathslinger</b> &#45; The Oxen Bounty Outfit<br/><br/>Have a look at the Collection Trailer&#58; <a href=\"event:https://youtu.be/lwmUywJKRcI\"><font color=\"#ff0000\">https://youtu.be/lwmUywJKRcI</font></a>",
+            "dwnImagePath": "",
+            "imageHeight": "",
+            "imagePath": "UI/Icons/NewContentSplash/splashBanner_BB_LNYDW.png",
+            "isHidden": false,
+            "startDate": "2021-02-11T16:00:00",
+            "title": "GILDED STAMPEDE COLLECTION",
+            "type": 2,
+            "version": "4.5.0",
+            "weight": 1011.0
+        },
+        {
+            "": "",
+            "contentTags": [
+                "switch"
+            ],
+            "description": "Join the stampede&#44; as The Wraith and The Deathslinger&#44; crowned with golden oxen horns&#44; are unleashing their wrath to celebrate the year to come.<br/><br/>Available in the store&#58;<li><b>The Wraith</b> &#45; The Golden Ox Outfit <li><b>The Deathslinger</b> &#45; The Oxen Bounty Outfit<br/>",
+            "dwnImagePath": "",
+            "imageHeight": "",
+            "imagePath": "UI/Icons/NewContentSplash/splashBanner_BB_LNYDW.png",
+            "isHidden": false,
+            "startDate": "2021-02-11T16:00:00",
+            "title": "GILDED STAMPEDE COLLECTION",
+            "type": 2,
+            "version": "4.5.0",
+            "weight": 1012.0
+        },
+        {
+            "": "",
+            "contentTags": [
+                "steam",
+                "xbox",
+                "ps4",
+                "grdk",
+                "stadia",
+                "xsx",
+                "ps5"
+            ],
+            "description": "Celebrate the Year of the Ox in Dead by Daylight with the <b>Gilded Stampede celebration.</b><br/><br/>From February 11th &#45; 25th&#44; the Fog will be transformed into a vibrant celebration full of fireworks and colorful lanterns in honor of the Lunar New Year.<br/><br/>For a limited time&#44; the Gilded Stampede celebration features a Lunar New Year themed lobby&#44; themed Generators and Hooks&#44; as well as the return of the Chinese Firecracker Item and Red Envelope Offering.<br/><br/>The celebration also introduces the Festive Toolbox&#44; a brand&#45;new item for Survivors. Packed to the brim with fireworks&#44; it&#39;s prepared to celebrate all your life&#39;s successes... and failures.<br/><br/>Enter the Fog during the celebration to redeem 50&#44;000 Bloodpoints per day &#45; that&#39;s a total of 700&#44;000 Bloodpoints to earn if you log in every day throughout the Gilded Stampede celebration.  <br/><br/>Keep an eye on the Dead by Daylight social channels and the in&#45;game news throughout the celebration for special promo codes to unlock some free Gilded Stampede Collection items. <br/><br/>For more information about the Lunar New Year in Dead by Daylight&#58; <a href=\"event:https://deadbydaylight.com/en/news/lunar-new-year-2021\"><font color=\"#ff0000\">https://deadbydaylight.com/en/news/lunar-new-year-2021</font></a>",
+            "dwnImagePath": "",
+            "imageHeight": "",
+            "imagePath": "UI/Icons/NewContentSplash/splashBanner_BB_LNY.png",
+            "isHidden": false,
+            "startDate": "2021-02-11T16:00:00",
+            "title": "GILDED STAMPEDE CELEBRATION",
+            "type": 5,
+            "version": "4.5.0",
+            "weight": 1007.0
+        },
+        {
+            "": "",
+            "contentTags": [
+                "steam",
+                "xbox",
+                "ps4",
+                "switch",
+                "grdk",
+                "stadia"
+            ],
+            "description": "An outfit from Tome II&#58; RECKONING has made its way to the store! <br/><br/>Available now in the store&#58;<li>Jake Park &#45; Lunar Fusion</li>",
+            "dwnImagePath": "",
+            "imageHeight": "",
+            "imagePath": "UI/Icons/NewContentSplash/splashBanner_BB_JP.png",
+            "isHidden": false,
+            "startDate": "2021-02-11T16:00:00",
+            "title": "JAKE PARK &#45; RIFT OUTFIT",
+            "type": 2,
+            "version": "4.5.0",
+            "weight": 1006.0
+        },
+        {
+            "": "",
+            "contentTags": [
+                "switch"
+            ],
+            "description": "Tome VI&#58; DIVERGENCE is now open within The Archives&#44; bringing new stories to discover in the world of Dead by Daylight. DIVERGENCE contains brand&#45;new Glyph Challenges&#44; new stories&#44; and new rewards. Explore the memories of Yui Kimura&#44; The Nurse&#44; and The Observer&#44; all while earning memorable outfits and cosmetics.<br/><br/><span class=\"Heading2\">Level Release Schedule</span><li>Level I&#58; February 10th 2021 11AM ET</li><li>Level II&#58; February 24th 2021 11AM ET</li><li>Level III&#58; March 10th 2021 11AM ET</li><li>Level IV&#58; March 31st 2021 11AM ET</li><br/><br/><i>Please note these release dates are subject to change. All previously unlocked levels will remain available once released but will stop providing Rift Fragments once the relevant Rift has expired.</i><br/><br/><i>LIMITED TIME SALE &#45; 50&#37; off Auric Cells price for Yui Kimura and The Oni&#44; between February 10th  11AM ET and February 17th 11AM ET.</i>",
+            "dwnImagePath": "",
+            "imageHeight": "",
+            "imagePath": "UI/Icons/NewContentSplash/splashBanner_BBT6.png",
+            "isHidden": false,
+            "startDate": "2021-02-10T16:00:00",
+            "title": "Archives Tome VI &#45; DIVERGENCE",
+            "type": 2,
+            "version": "4.5.0",
+            "weight": 1005.0
+        },
+        {
+            "": "",
+            "contentTags": [
+                "steam",
+                "xbox",
+                "ps4",
+                "grdk",
+                "stadia",
+                "xsx",
+                "ps5"
+            ],
+            "description": "Tome VI&#58; DIVERGENCE is now open within The Archives&#44; bringing new stories to discover in the world of Dead by Daylight. DIVERGENCE contains brand&#45;new Glyph Challenges&#44; new stories&#44; and new rewards. Explore the memories of Yui Kimura&#44; The Nurse&#44; and The Observer&#44; all while earning memorable outfits and cosmetics.<br/><br/>Dive deeper into Tome VI&#39;s characters with the <b>Tome Reveal Trailer</b> (<a href=\"event:https://youtu.be/5WbM1Q25d-g\"><font color=\"#ff0000\">https://youtu.be/5WbM1Q25d-g</font></a>) & <b>Rift Trailer</b> (<a href=\"event:https://youtu.be/J6tQ8dfeD5A\"><font color=\"#ff0000\">https://youtu.be/J6tQ8dfeD5A</font></a>).<br/><br/><span class=\"Heading2\">Level Release Schedule</span><li>Level I&#58; February 10th 2021 11AM ET</li><li>Level II&#58; February 24th 2021 11AM ET</li><li>Level III&#58; March 10th 2021 11AM ET</li><li>Level IV&#58; March 31st 2021 11AM ET</li><br/><br/><i>Please note these release dates are subject to change. All previously unlocked levels will remain available once released but will stop providing Rift Fragments once the relevant Rift has expired.</i><br/><br/><i>LIMITED TIME SALE &#45; 50&#37; off Auric Cells price for Yui Kimura and The Oni&#44; between February 10th  11AM ET and February 17th 11AM ET.</i>",
+            "dwnImagePath": "",
+            "imageHeight": "",
+            "imagePath": "UI/Icons/NewContentSplash/splashBanner_BBT6.png",
+            "isHidden": false,
+            "startDate": "2021-02-10T16:00:00",
+            "title": "Archives Tome VI &#45; DIVERGENCE",
+            "type": 2,
+            "version": "4.5.0",
+            "weight": 1004.0
+        },
+        {
+            "": "",
+            "contentTags": [
+                "switch"
+            ],
+            "description": "Welcome to Chapter 18.5&#33; Please read the below for a quick summary of the new content you&#39;ll find.<br/><br/>For a full list of patch notes&#44; please see https://forum.deadbydaylight.com/en/kb/patchnotes<br/><br/><span class=\"Heading2\">CONTENT</span><br/><li>Tome VI for The Archives will start tomorrow on Feb. 10th at 11AM ET</li><li>The Gilded Stampede event will start the day after on Feb. 11th at 11AM ET</li><li>New HUD Layout &#45; Several HUD elements have been moved or updated</li><b>Clown Gameplay Update</b><li>Clown now has two types of bottles&#58; Tonic and Antidote.</li><li>Reload time is now 3 seconds &#40;down from 5 seconds&#41;</li><b>Live Balance</b><li>Killers&#58; The Trapper &#40;Escape attempt success rate&#41; & The Wraith &#40;Invisibility distance&#41;</li><b>Visual Update</b><li>Visual updates to maps &#40;Gideon Meat Plant, Disturbed Ward & Father Campbell's Chapel&#41;&#44; models & textures &#40;The Nurse & The Clown&#41;</li><li>Updated Survivor Locomotion &#38; Self&#45;Heal fail animation&#44; added hatch animation&#44; raised the camera when crawling</li><span class=\"Heading2\">KNOWN ISSUES</span><br/><li>Some tutorial and UI texts show incorrect characters in Thai language on Steam.</li>",
+            "dwnImagePath": "",
+            "imageHeight": "",
+            "imagePath": "",
+            "isHidden": false,
+            "startDate": "2021-02-09T16:00:00",
+            "title": "CHAPTER 18.5 PATCH NOTES",
+            "type": 4,
+            "version": "4.5.0",
+            "weight": 1003.0
+        },
+        {
+            "": "",
+            "contentTags": [
+                "steam",
+                "xbox",
+                "ps4",
+                "grdk",
+                "stadia",
+                "xsx",
+                "ps5"
+            ],
+            "description": "Welcome to Chapter 18.5&#33; Please read the below for a quick summary of the new content you&#39;ll find.<br/><br/>For a full list of patch notes&#44; please see <a href=\"event:https://forum.deadbydaylight.com/en/kb/patchnotes\"><font color=\"#ff0000\"><u>https://forum.deadbydaylight.com/en/kb/patchnotes</u></font></a><br/><br/><span class=\"Heading2\">CONTENT</span><br/><li>Tome VI for The Archives will start tomorrow on Feb. 10th at 11AM ET</li><li>The Gilded Stampede event will start the day after on Feb. 11th at 11AM ET</li><li>New HUD Layout &#45; Several HUD elements have been moved or updated</li><b>Clown Gameplay Update</b><li>Clown now has two types of bottles&#58; Tonic and Antidote.</li><li>Reload time is now 3 seconds &#40;down from 5 seconds&#41;</li><b>Live Balance</b><li>Killers&#58; The Trapper &#40;Escape attempt success rate&#41; & The Wraith &#40;Invisibility distance&#41;</li><b>Visual Update</b><li>Visual updates to maps &#40;Gideon Meat Plant, Disturbed Ward & Father Campbell's Chapel&#41;&#44; models & textures &#40;The Nurse & The Clown&#41;</li><li>Updated Survivor Locomotion &#38; Self&#45;Heal fail animation&#44; added hatch animation&#44; raised the camera when crawling</li><span class=\"Heading2\">KNOWN ISSUES</span><br/><li>Some tutorial and UI texts show incorrect characters in Thai language on Steam.</li>",
+            "dwnImagePath": "",
+            "imageHeight": "",
+            "imagePath": "",
+            "isHidden": false,
+            "startDate": "2021-02-09T16:00:00",
+            "title": "CHAPTER 18.5 PATCH NOTES",
+            "type": 4,
+            "version": "4.5.0",
+            "weight": 1002.0
+        },
+        {
+            "": "",
+            "contentTags": [
+                "steam",
+                "xbox",
+                "ps4",
+                "grdk",
+                "stadia",
+                "xsx",
+                "ps5"
+            ],
+            "description": "Once Hawkins&#39; finest&#44; Steve and Nancy must now face the Entity&#39;s Trials&#44; dressed in outfits from their past. <br/><br/>Available in the store&#58;<li><b>Steve Harrington</b> &#45; High School Hunk Outfit</li><li><b>Nancy Wheeler</b> &#45; Days of Rose Outfit</li><br/><br/>Check out the Collection Trailer&#58; <a href=\"event:https://youtu.be/v_iN8UvLCYc\"><font color=\"#ff0000\">https://youtu.be/v_iN8UvLCYc</font></a>",
+            "dwnImagePath": "",
+            "imageHeight": "",
+            "imagePath": "UI/Icons/NewContentSplash/splashBanner_BB_NS.png",
+            "isHidden": false,
+            "startDate": "2021-02-09T16:00:00",
+            "title": "NANCY & STEVE &#45; DAYS OF GROWTH",
+            "type": 2,
+            "version": "4.5.0",
+            "weight": 1001.0
+        },
+        {
+            "": "",
+            "contentTags": [
+                "switch"
+            ],
+            "description": "Once Hawkins&#39; finest&#44; Steve and Nancy must now face the Entity&#39;s Trials&#44; dressed in outfits from their past. <br/><br/>Available in the store&#58;<li><b>Steve Harrington</b> &#45; High School Hunk Outfit</li><li><b>Nancy Wheeler</b> &#45; Days of Rose Outfit</li>",
+            "dwnImagePath": "",
+            "imageHeight": "",
+            "imagePath": "UI/Icons/NewContentSplash/splashBanner_BB_NS.png",
+            "isHidden": false,
+            "startDate": "2021-02-09T16:00:00",
+            "title": "NANCY & STEVE &#45; DAYS OF GROWTH",
+            "type": 2,
+            "version": "4.5.0",
+            "weight": 1000.0
+        },
+        {
+            "": "",
+            "contentTags": [
+                "steam",
+                "xbox",
+                "ps4",
+                "grdk",
+                "stadia",
+                "xsx",
+                "ps5"
+            ],
+            "description": "The Entity&#39;s corruption has got a hold on the Demogorgon&#44; giving him a new terrifying appearance. <br/><br/>Available in the store&#58;<li><b>The Demogorgon</b> &#45; Geo Mutation Outfit</li><br/><br/>Check out the Collection Trailer&#58; <a href=\"event:https://youtu.be/v_iN8UvLCYc\"><font color=\"#ff0000\">https://youtu.be/v_iN8UvLCYc</font></a>",
+            "dwnImagePath": "",
+            "imageHeight": "",
+            "imagePath": "UI/Icons/NewContentSplash/splashBanner_BB_D.png",
+            "isHidden": false,
+            "startDate": "2021-02-09T16:00:00",
+            "title": "THE DEMOGORGON &#45; DAYS OF GROWTH",
+            "type": 2,
+            "version": "4.5.0",
+            "weight": 999.0
+        },
+        {
+            "": "",
+            "contentTags": [
+                "switch"
+            ],
+            "description": "The Entity&#39;s corruption has got a hold on the Demogorgon&#44; giving him a new terrifying appearance. <br/><br/>Available in the store&#58;<li><b>The Demogorgon</b> &#45; Geo Mutation Outfit</li>",
+            "dwnImagePath": "",
+            "imageHeight": "",
+            "imagePath": "UI/Icons/NewContentSplash/splashBanner_BB_D.png",
+            "isHidden": false,
+            "startDate": "2021-02-09T16:00:00",
+            "title": "THE DEMOGORGON &#45; DAYS OF GROWTH",
+            "type": 2,
+            "version": "4.5.0",
+            "weight": 998.0
+        },
+        {
+            "": "",
+            "contentTags": [
+                "steam",
+                "xbox",
+                "ps4",
+                "grdk",
+                "stadia",
+                "xsx",
+                "ps5",
+                "switch"
             ],
             "description": "Two outfits from Tome I&#58; AWAKENING have made their way to the store! <br/><br/><span class=\"Heading2\">Available now in the store&#58;</span><li>The Wraith &#45; Night Whistler</li><li>Jake Park &#45; Nonconformist</li>",
             "dwnImagePath": "",
@@ -21,7 +331,7 @@
             "title": "THE WRAITH &#38; JAKE &#45; RIFT OUTFITS",
             "type": 2,
             "version": "4.4.2",
-            "weight": 991.0
+            "weight": 997.0
         },
         {
             "": "",
@@ -29,7 +339,6 @@
                 "steam",
                 "xbox",
                 "ps4",
-                "switch",
                 "grdk",
                 "stadia",
                 "xsx",
@@ -44,7 +353,7 @@
             "title": "PLAYER SATISFACTION SURVEY",
             "type": 4,
             "version": "4.4.2",
-            "weight": 990.0
+            "weight": 996.0
         },
         {
             "": "",
@@ -52,11 +361,11 @@
                 "steam",
                 "xbox",
                 "ps4",
-                "switch",
                 "grdk",
                 "stadia",
                 "xsx",
-                "ps5"
+                "ps5",
+                "switch"
             ],
             "description": "Two outfits from Tome I&#58; AWAKENING have made their way to the store! <br/><br/><span class=\"Heading2\">Available now in the store&#58;</span><li>Claudette Morel &#45; Lab Intern</li><li>The Trapper &#45; Marrow Miner</li>",
             "dwnImagePath": "",
@@ -67,7 +376,7 @@
             "title": "CLAUDETTE &#38; THE TRAPPER &#45; RIFT OUTFITS",
             "type": 2,
             "version": "4.4.2",
-            "weight": 988.0
+            "weight": 995.0
         },
         {
             "": "",
@@ -75,11 +384,11 @@
                 "steam",
                 "xbox",
                 "ps4",
-                "switch",
                 "grdk",
                 "stadia",
                 "xsx",
-                "ps5"
+                "ps5",
+                "switch"
             ],
             "description": "Enjoy 1.5X BLOODPOINTS earned from Trials during the Bloodrush&#33;<br/><br/><b>Duration&#58;</b> Jan. 15th 11AM ET &#45; Jan. 22 11AM ET",
             "dwnImagePath": "",
@@ -90,7 +399,7 @@
             "title": "NEW YEAR'S BLOODRUSH",
             "type": 5,
             "version": "4.4.2",
-            "weight": 987.0
+            "weight": 994.0
         },
         {
             "": "",
@@ -98,11 +407,11 @@
                 "steam",
                 "xbox",
                 "ps4",
-                "switch",
                 "grdk",
                 "stadia",
                 "xsx",
-                "ps5"
+                "ps5",
+                "switch"
             ],
             "description": "The Rift closes in less than 24h! Today is your last chance to get Tome V rewards.",
             "dwnImagePath": "",
@@ -113,7 +422,7 @@
             "title": "Archives &#124; 24h left to Tome V",
             "type": 4,
             "version": "4.4.2",
-            "weight": 985.0
+            "weight": 993.0
         },
         {
             "": "",
@@ -121,11 +430,11 @@
                 "steam",
                 "xbox",
                 "ps4",
-                "switch",
                 "grdk",
                 "stadia",
                 "xsx",
-                "ps5"
+                "ps5",
+                "switch"
             ],
             "description": "HAPPY NEW YEAR&#44; PEOPLE OF THE FOG!<br/>To celebrate the new year&#44; select outfits are available at discounts up to 75% off!<br/>Make sure to grab that outfit you&#39;ve always wanted! Offer ends January 11th 11AM ET&#44; so hurry up and head to the Store!<br/><br/><span class=\"Heading2\">20% OFF</span><li>The Executioner&#39;s Forge Born outfit&#44; now 960 AC</li><li>Cheryl Mason&#39;s Lisa Garland outfit&#44; now 1320 AC</li><li>Feng Min&#39;s Happy&#45;Go&#45;Lucky outfit&#44; now 960 AC</li><li>Dwight Fairfield&#39;s Mr. Elf outfit&#44; now 960 AC</li><li>Meg Thomas&#39;s End of Semester outfit&#44; now 960 AC</li><li>Kate Denson&#39;s Midnight Rider outfit&#44; now 960 AC</li><br/><br/><span class=\"Heading2\">35% OFF</span><li>The Blight&#39;s Sophisticated Slaughter outfit&#44; now 780 AC</li><li>Claudette Morel&#39;s Chalet Getaway outfit&#44; now 780 AC</li><li>Jake Park&#39;s Woodworker outfit&#44; now 780 AC</li><li>The Spirit&#39;s Furious Nyx outfit&#44; now 780 AC</li><li>Jeff Johansen&#39;s Into the Sunset outfit&#44; now 780 AC</li><br/><br/><span class=\"Heading2\">50% OFF</span><li>The Clown&#39;s Carnie Claws outfit&#44; now 600 AC</li><li>The Huntress&#39;s Solstice Devotee outfit&#44; now 600 AC</li><li>Nea Karlsson&#39;s Reckless Boarder outfit&#44; now 600 AC</li><li>David King&#39;s Hard Man outfit&#44; now 600 AC</li><li>The Deathslinger&#39;s Double&#45;Crossed outfit&#44; now 600 AC</li><br/><br/><span class=\"Heading2\">75% OFF</span><li>The Oni&#39;s Ice&#45;Cold Legacy outfit&#44; now 300 AC</li><li>The Hillbilly&#39;s Pyromania outfit&#44; now 300 AC</li><li>The Wraith&#39;s Wax Warlock outfit&#44; now 300 AC</li><li>Zarina Kassir&#39;s Guerilla Filmmaker outfit&#44; now 300 AC</li><li>Yui Kimura&#39;s Snow Motocross outfit&#44; now 300 AC</li><li>David King&#39;s Riot Guuuy outfit&#44; now 300 AC</li>",
             "dwnImagePath": "",
@@ -136,7 +445,7 @@
             "title": "UP TO 75% OFF ON SELECT OUTFITS",
             "type": 5,
             "version": "4.4.2",
-            "weight": 976.0
+            "weight": 992.0
         },
         {
             "": "",
@@ -144,11 +453,11 @@
                 "steam",
                 "xbox",
                 "ps4",
-                "switch",
                 "grdk",
                 "stadia",
                 "xsx",
-                "ps5"
+                "ps5",
+                "switch"
             ],
             "description": "<u><b>The Rift for Tome V will close on January 6th!</b></u><br/><br/>For those without a Rift Pass&#44; this will be the last chance to unlock it and claim any rewards you&#39;ve earned on the Premium track.<br/><br/>Once the Rift closes the below will come into effect:<br/><li>Challenges&#44; Entries&#44; and Bloodpoints from Tome V will remain available permanently after this date but no longer award Rift Fragments. Once the next Tome begins&#44; Tome V will be available in the Compendium section.</li><li>Player Level XP will stop awarding Rift Fragments.</li><li>Unclaimed rewards from the Rift will be automatically claimed on your next launch of the game or tally screen&#44; whichever comes first.</li><br/><br/>Stay tuned for Tome VI to arrive with Mid-Chapter 18.5!",
             "dwnImagePath": "",
@@ -159,7 +468,23 @@
             "title": "<b><u>RIFT CLOSES IN 1 WEEK</b></u>",
             "type": 4,
             "version": "4.4.2",
-            "weight": 975.0
+            "weight": 991.0
+        },
+        {
+            "": "",
+            "contentTags": [
+                "switch"
+            ],
+            "description": "Ring in 2021 and the conclusion of our Advent Calendar 2020 with the New Year &#39;21 Universal Charm&#44; after The Blight finds his vision frozen over with a pair of Frosty Eyes.<br/><br/>Note that the 100&#44;000 Bloodpoints gift available between Dec. 31st and January 3rd is only claimable once. <br/><br/><span class=\"Heading2\">Cosmetics</span><li>Dec. 28th 11AM ET &#45; Dec. 31st 11AM ET&#58; The Blight&#39;s Frosty Eyes*</li><b>Code&#58; <font color=\"#FFD700\">FROSTYBLIGHT</font></b><li>Dec. 31st 11AM ET &#45; Jan. 3rd 11AM ET&#58; New Year &#39;21 Charm&#42;</li><b>Code&#58; <font color=\"#FFD700\">NEWYEARNEWENTITY</font></b><br/><br/><span class=\"Heading2\">Login Currencies</span><li>Dec. 28th 11AM ET &#45; Dec. 29th 11AM ET&#58; 500 Iridescent Shards</li><li>Dec. 29th 11AM ET &#45; Dec. 30th 11AM ET&#58; 10&#44;000 Bloodpoints</li><li>Dec. 30th 11AM ET &#45; Dec. 31st 11AM ET&#58; 500 Iridescent Shards</li><li>Dec. 31st 11AM ET &#45; Jan. 3rd 11AM ET&#58; 100&#44;000 Bloodpoints &#40;claimable once&#41;</li> <br/><br/>For more information on the Advent Calendar 2020 Event&#44; check out our blog post https://deadbydaylight.com/en/news/advent-calendar-2020<br/><br/>&#34;Have a fantastic holiday season and a bloody good new year&#34;<br/>&#45;The Dead by Daylight Team<br/><br/><i>&#42;Redeemable only once per user. Code will only be active for the specified period. To redeem&#44; enter the Store and click &#34;Redeem Code&#34; at the top right. All Ugly Sweaters will be available via the in-game Store at a later date.</i>",
+            "dwnImagePath": "",
+            "imageHeight": "",
+            "imagePath": "UI/Icons/NewContentSplash/splashBanner_AURA5.png",
+            "isHidden": false,
+            "startDate": "2020-12-28T16:00:00",
+            "title": "ADVENT CALENDAR 2020 &#45; WEEK 5",
+            "type": 4,
+            "version": "4.4.2",
+            "weight": 990.0
         },
         {
             "": "",
@@ -167,7 +492,6 @@
                 "steam",
                 "xbox",
                 "ps4",
-                "switch",
                 "grdk",
                 "stadia",
                 "xsx",
@@ -182,7 +506,23 @@
             "title": "ADVENT CALENDAR 2020 &#45; WEEK 5",
             "type": 4,
             "version": "4.4.2",
-            "weight": 966.0
+            "weight": 989.0
+        },
+        {
+            "": "",
+            "contentTags": [
+                "switch"
+            ],
+            "description": "The holiday spirit arrives in Silent Hill&#44; with Cheryl Mason&#39;s Sweater of Metatron&#33; The Twins keep their cool with a pair of Frosty Eyes. Don&#39;t forget your Bloodpoints and Iridescent Shards&#33;<br/><br/><span class=\"Heading2\">Cosmetics</span><li>Dec. 22nd 11AM ET &#45; Dec. 25th 11AM ET&#58; The Twins&#39; Frosty Eyes&#42;</li><b>Code&#58; <font color=\"#FFD700\">FROSTYTWINS</font></b><li>Dec. 25th 11AM ET &#45; Dec. 28th 11AM ET&#58; Cheryl&#39;s Sweater of Metatron&#42;</li><b>Code&#58; <font color=\"#67AB49\">METATRON</font></b><br/><br/><span class=\"Heading2\">Login Currencies</span><li>Dec. 21st 11AM ET &#45; Dec. 25th 11AM ET&#58; 10&#44;000 Bloodpoints (per day)</li><li>Dec. 25th 11AM ET &#45; Dec. 26th 11AM ET&#58; 200&#44;000 Bloodpoints</li><li>Dec. 26th 11AM ET &#45; Dec. 27th 11AM ET&#58; 500 Iridescent Shards</li><li>Dec. 27th 11AM ET &#45; Dec. 28th 11AM ET&#58; 10&#44;000 Bloodpoints</li><br/><br/>For more information on the Advent Calendar 2020 Event&#44; check out our blog post https://deadbydaylight.com/en/news/advent-calendar-2020<br/><br/>Each week and its gifts will be revealed on Mondays at 11AM ET. Be sure to check back every day&#33;<br/><br/>&#42;Redeemable only once per user. Code will only be active for the specified period. To redeem&#44; enter the Store and click &#34;Redeem Code&#34; at the top right. All Ugly Sweaters will be available via the in&#45;game Store at a later date.",
+            "dwnImagePath": "",
+            "imageHeight": "",
+            "imagePath": "UI/Icons/NewContentSplash/splashBanner_AURA4.png",
+            "isHidden": false,
+            "startDate": "2020-12-21T16:00:00",
+            "title": "ADVENT CALENDAR 2020 &#45; WEEK 4",
+            "type": 4,
+            "version": "4.4.2",
+            "weight": 988.0
         },
         {
             "": "",
@@ -190,7 +530,6 @@
                 "steam",
                 "xbox",
                 "ps4",
-                "switch",
                 "grdk",
                 "stadia",
                 "xsx",
@@ -205,7 +544,7 @@
             "title": "ADVENT CALENDAR 2020 &#45; WEEK 4",
             "type": 4,
             "version": "4.4.2",
-            "weight": 965.0
+            "weight": 987.0
         },
         {
             "": "",
@@ -213,11 +552,11 @@
                 "steam",
                 "xbox",
                 "ps4",
-                "switch",
                 "grdk",
                 "stadia",
                 "xsx",
-                "ps5"
+                "ps5",
+                "switch"
             ],
             "description": "Due to a bug found with the &#34;Buried Underground&#34; challenge in Tome 5 Level 4&#44; we have replaced it with &#34;Gruesome&#34; &#40;Hook 20 Survivors&#41;",
             "dwnImagePath": "",
@@ -228,7 +567,23 @@
             "title": "TOME 5 UPDATE",
             "type": 4,
             "version": "4.4.2",
-            "weight": 960.0
+            "weight": 986.0
+        },
+        {
+            "": "",
+            "contentTags": [
+                "switch"
+            ],
+            "description": "The game client has been updated to the 4.4.2 bugfix.<br/><br/><span class=\"Heading2\">BUG FIXES</span><li>Fixed an issue on multiple maps&#44; where there are tiles with extremely bright lighting in various colors</li><li>Fixed an issue that caused the Flashlight to work inconsistently over pallets and other objects in the environment</li><li>Fixed an issue that caused Barbecue &#38; Chili&#39;s bonus bloodpoints not to be granted when controlling Victor when the game ends</li><li>Fixed an issue that caused the Twins not to recover their add&#45;ons when using the Black Ward offering and controlling Victor when the game ends</li><li>Fixed an issue that caused the cooldown animation to loop after returning to Charlotte</li><li>Fixed an issue that caused Victor to float off Charlotte&#39;s body after respawning</li><li>Fixed an issue that caused Victor and Charlotte to be able to block off exit gate by standing in front of it</li><br/><br/><span class=\"Heading2\">BALANCE</span><li>Victor can now be recalled after being detached from Charlotte for 30 seconds &#40;down from 45&#41;</li><br/><br/>Please click https://forum.deadbydaylight.com/en/kb/patchnotes for full patch notes.",
+            "dwnImagePath": "",
+            "imageHeight": "",
+            "imagePath": "",
+            "isHidden": false,
+            "startDate": "2020-12-16T16:00:00",
+            "title": "4.4.2 BUGFIX",
+            "type": 4,
+            "version": "4.4.2",
+            "weight": 985.0
         },
         {
             "": "",
@@ -236,7 +591,6 @@
                 "steam",
                 "xbox",
                 "ps4",
-                "switch",
                 "grdk",
                 "stadia",
                 "xsx",
@@ -251,7 +605,7 @@
             "title": "4.4.2 BUGFIX",
             "type": 4,
             "version": "4.4.2",
-            "weight": 959.0
+            "weight": 984.0
         },
         {
             "": "",
@@ -259,11 +613,11 @@
                 "steam",
                 "xbox",
                 "ps4",
-                "switch",
                 "grdk",
                 "stadia",
                 "xsx",
-                "ps5"
+                "ps5",
+                "switch"
             ],
             "description": "In regards to Error 111&#47;112&#44; we apologize that this error is affecting some of our players and can assure you it is receiving our attention.<br/><br/>Rest assured the team is putting all their effort into finding a proper solution.<br/><br/>As compensation for the inconvenience&#44; we have awarded <b>300,000 Bloodpoints</b> to all players upon login from today until Jan 3rd 12AM ET. Apologies for the situation&#44; and thank you for your patience.<br/><br/>",
             "dwnImagePath": "",
@@ -274,7 +628,23 @@
             "title": "ERROR 111&#47;112 UPDATE",
             "type": 4,
             "version": "4.4.1",
-            "weight": 958.0
+            "weight": 983.0
+        },
+        {
+            "": "",
+            "contentTags": [
+                "switch"
+            ],
+            "description": "Make sure to pick up Elodie&#39;s Pathfinder&#39;s Sweater&#44; perfect for a girl fixated on her goal&#44; wherever it takes her&#33; Community outfits also arrive to the in&#45;game Store while the Deathslinger feels a chill in the air with his Frosty Eyes.<br/><br/><span class=\"Heading2\">Cosmetics</span><li>Dec. 14th 11AM ET: Community outfits now available via in&#45;game Store for Iridescent Shards</li>Incl. Feng Min&#39;s Demon Slayer & The Clown&#39;s Mr. Puddles<li>Dec. 15th 11AM ET &#45; Dec. 18th 11AM ET: The Deathslinger&#39;s Frosty Eyes&#42;</li><b>Code: <font color=\"#FFD700\">FROSTYDEATH</font></b><li>Dec. 18th 11AM ET &#45; Dec. 21st 11AM ET: Elodie&#39;s Pathfinder&#39;s Sweater&#42;</li><b>Code: <font color=\"#67AB49\">PATHFINDER</font></b><br/><br/><span class=\"Heading2\">Login Currencies</span><li>Dec. 14th 11AM ET &#45; Dec. 15th 11AM ET: 1&#44;000 Iridescent Shards</li><li>Dec. 15th 11AM ET &#45; Dec. 21st 11AM ET: 10&#44;000 Bloodpoints (per day)</li><br/><br/>For more information on the Advent Calendar 2020 Event, check out our blog post https://deadbydaylight.com/en/news/advent-calendar-2020<br/><br/>Each week and its gifts will be revealed on Mondays at 11AM ET. Be sure to check back every day! <br/><br/><i>&#42;Redeemable only once per user. Code will only be active for the specified period. To redeem&#44; enter the Store and click &#34;Redeem Code&#34; at the top right. All Ugly Sweaters will be available via the in&#45;game Store at a later date.</i>",
+            "dwnImagePath": "",
+            "imageHeight": "",
+            "imagePath": "UI/Icons/NewContentSplash/splashBanner_AURA3.png",
+            "isHidden": false,
+            "startDate": "2020-12-14T16:00:00",
+            "title": "ADVENT CALENDAR 2020 &#45; WEEK 3",
+            "type": 2,
+            "version": "4.4.1",
+            "weight": 982.0
         },
         {
             "": "",
@@ -282,7 +652,6 @@
                 "steam",
                 "xbox",
                 "ps4",
-                "switch",
                 "grdk",
                 "stadia",
                 "xsx",
@@ -297,7 +666,7 @@
             "title": "ADVENT CALENDAR 2020 &#45; WEEK 3",
             "type": 2,
             "version": "4.4.1",
-            "weight": 956.0
+            "weight": 981.0
         },
         {
             "": "",
@@ -305,7 +674,6 @@
                 "steam",
                 "xbox",
                 "ps4",
-                "switch",
                 "grdk",
                 "stadia",
                 "xsx",
@@ -320,7 +688,7 @@
             "title": "COMMUNITY COLLECTION",
             "type": 2,
             "version": "4.4.1",
-            "weight": 955.0
+            "weight": 980.0
         },
         {
             "": "",
@@ -328,11 +696,11 @@
                 "steam",
                 "xbox",
                 "ps4",
-                "switch",
                 "grdk",
                 "stadia",
                 "xsx",
-                "ps5"
+                "ps5",
+                "switch"
             ],
             "description": "The Tome V Rift has now been extended by a full week&#33;<br/><br/><b>New Tome V Rift End Date&#58;</b> January 6th 11AM ET <br/><br/>As an added bonus and in the spirit of the season&#44; use the Redeem Code &#34;GIFTTHERIFT&#34;&#42; for <b>20 free Rift Fragments</b> towards your Tome V Rift progression&#33;<br/><br/>Enjoy the holidays&#44; and stay safe&#33;<br/><br/><i>&#42; To redeem&#44; enter the Store and click &#34;Redeem Code&#34; at the top&#45;right. Usable once per player. Expires December 18th 11AM ET.</i>",
             "dwnImagePath": "",
@@ -343,15 +711,14 @@
             "title": "TOME V RIFT EXTENSION",
             "type": 4,
             "version": "4.4.1",
-            "weight": 952.0
+            "weight": 979.0
         },
         {
-            "": "",
+            "": "`",
             "contentTags": [
                 "steam",
                 "xbox",
                 "ps4",
-                "switch",
                 "grdk",
                 "stadia",
                 "xsx",
@@ -366,7 +733,7 @@
             "title": "CLAUDETTE &#38; JAKE &#45; HOLIDAY HORROR",
             "type": 2,
             "version": "4.4.0",
-            "weight": 953.0
+            "weight": 978.0
         },
         {
             "": "",
@@ -374,11 +741,11 @@
                 "steam",
                 "xbox",
                 "ps4",
-                "switch",
                 "grdk",
                 "stadia",
                 "xsx",
-                "ps5"
+                "ps5",
+                "switch"
             ],
             "description": "Level IV of Tome V is now available&#33; With it comes the below&#58; <li>20 Challenges &#40;incl. 6 Master Challenges&#41;</li><li>6 Memory and Log Entries &#40;including the <b>final entries for The Observer&#39;s Logs in &#34;Sanitus Alonis&#34;&#41;</b></li><li>More Bloodpoints</li><br/><br/> To access Level IV&#44; you must have reached the Epilogue node of Level III with either role.",
             "dwnImagePath": "",
@@ -389,7 +756,7 @@
             "title": "<b>THE OBSERVER&#39;S &#34;SANITUS ALONIS&#34;</b>",
             "type": 2,
             "version": "4.3.0",
-            "weight": 950.0
+            "weight": 977.0
         },
         {
             "": "",
@@ -397,7 +764,6 @@
                 "steam",
                 "xbox",
                 "ps4",
-                "switch",
                 "grdk",
                 "stadia",
                 "xsx",
@@ -412,7 +778,23 @@
             "title": "DWIGHT&#44; ACE &#38; ZARINA &#45; HOLIDAY HORROR",
             "type": 2,
             "version": "4.4.0",
-            "weight": 948.0
+            "weight": 976.0
+        },
+        {
+            "": "",
+            "contentTags": [
+                "switch"
+            ],
+            "description": "The game client has been updated to the 4.4.1 bugfix.<br/><br/><span class=\"Heading2\">FEATURES</span><li>Increased default Flashlight accuracy back to normal</li><li>Appraisal now only allows Survivors to rummage through the same chest once</li><li>Ebony and Ivory Memento Moris now require the targeted survivor to have been hooked twice</li><li>Victor can now search lockers&#44; if a Survivor is found inside&#44; the player will be send back to control Charlotte while Victor will block the Survivor in the locker for up to 10 sec.</li><br/><br/><span class=\"Heading2\">CONTENT</span><li>Hoarder&#58; Increased the distance at which Survivor locations are revealed from 24&#47;36&#47;48 meters to 32&#47;48&#47;64 meters</li><li>Hoarder&#58; Removed the stipulation that it decreases the rarity of items found in chests</li><br/><br/><span class=\"Heading2\">BUG FIXES</span><li>Fixed an issue that allowed Victor to pounce on Survivors inside lockers</li><li>Fixed an issue that could cause Unbreakable to grant too much recovery when spam clicking</li><li>Fixed an issue that caused the Flashlight beam to stay narrow after successfully blinding the Killer</li><li>Fixed an issue that prevented Hoarder from spawning extra chests</li><li>Fixed an issue where Victor was misaligned during the Twins mori</li><li>Fixed an issue that caused Victor to get stuck in the ground when released at certain locations.</li><li>Fixed an issue that allowed survivors to crawl out of the exit gate after being hit while having Victor on their back.</li><br/><br/>Please see https://forum.deadbydaylight.com/en/kb/patchnotes for detailed patch notes.",
+            "dwnImagePath": "",
+            "imageHeight": "",
+            "imagePath": "",
+            "isHidden": false,
+            "startDate": "2020-12-08T16:00:00",
+            "title": "4.4.1 BUGFIX",
+            "type": 4,
+            "version": "4.4.1",
+            "weight": 975.0
         },
         {
             "": "",
@@ -420,7 +802,6 @@
                 "steam",
                 "xbox",
                 "ps4",
-                "switch",
                 "grdk",
                 "stadia",
                 "xsx",
@@ -435,7 +816,23 @@
             "title": "4.4.1 BUGFIX",
             "type": 4,
             "version": "4.4.1",
-            "weight": 947.0
+            "weight": 974.0
+        },
+        {
+            "": "",
+            "contentTags": [
+                "switch"
+            ],
+            "description": "Get cozy in Felix&#39;s Holiday Formal Sweater&#44; and don&#39;t forget your Survivor&#39;s Stocking Charm&#44; packed with all kinds of useful items&#33; Be sure to also collect your Bloodpoints and Iridescent Shards&#33;<br/><br/><b>Cosmetics</b><li>Dec. 8th 11AM ET &#45; Dec. 11th 11AM ET&#58; Survivor&#39;s Stocking Charm&#42;</li><b>Code&#58; <font color=\"#FFD700\">NICESTOCKING</font></b><li>Dec. 11th 11AM ET &#45; Dec. 14th 11AM ET&#58; Felix&#39;s Holiday Formal Sweater&#42;</li><b>Code&#58; <font color=\"#67AB49\">HOLIDAYFORMAL</font></b><br/><br/><b>Login Currencies</b><li>Dec. 7th 11AM ET &#45; Dec. 8th 11AM ET&#58; 10&#44;000 Bloodpoints</li><li>Dec. 8th 11AM ET &#45; Dec. 9th 11AM ET&#58; 500 Iridescent Shards</li><li>Dec. 9th 11AM ET &#45; Dec. 14th 11AM ET&#58; 10&#44;000 Bloodpoints (per day)</li><br/><b>In addition&#58;</b><br/><b>Dead by Daylight THE OFFICIAL SHOP</b><li>Dec. 10th 12:01PM ET &#45; Dec. 11th 2:59AM ET&#58; 15% Off site&#45;wide</li><b>Official Shop Code&#58; ADVENT15</b><li>Click https://shop.deadbydaylight.com/ to visit THE OFFICIAL SHOP in your web browser.</li><br/><br/>For more information on the Advent Calendar 2020 Event&#44; check out our blog post https://deadbydaylight.com/en/news/advent-calendar-2020<br/><br/>Each week and its gifts will be revealed on Mondays at 11AM ET. Be sure to check back every day&#33;<br/><br/><i>&#42;Redeemable only once per user. Code will only be active for the specified period. To redeem&#44; enter the Store and click &#34;Redeem Code&#34; at the top right. All Ugly Sweaters will be available via the in&#45;game Store at a later date.</i>",
+            "dwnImagePath": "",
+            "imageHeight": "",
+            "imagePath": "UI/Icons/NewContentSplash/splashBanner_AURA2.png",
+            "isHidden": false,
+            "startDate": "2020-12-07T16:00:00",
+            "title": "ADVENT CALENDAR 2020 &#45; WEEK 2",
+            "type": 2,
+            "version": "4.4.0",
+            "weight": 973.0
         },
         {
             "": "",
@@ -443,7 +840,6 @@
                 "steam",
                 "xbox",
                 "ps4",
-                "switch",
                 "grdk",
                 "stadia",
                 "xsx",
@@ -458,7 +854,7 @@
             "title": "ADVENT CALENDAR 2020 &#45; WEEK 2",
             "type": 2,
             "version": "4.4.0",
-            "weight": 946.0
+            "weight": 972.0
         },
         {
             "": "",
@@ -466,7 +862,6 @@
                 "steam",
                 "xbox",
                 "ps4",
-                "switch",
                 "grdk",
                 "stadia",
                 "xsx",
@@ -481,30 +876,7 @@
             "title": "THE TRAPPER &#45; HOLIDAY HORROR",
             "type": 2,
             "version": "4.4.0",
-            "weight": 945.0
-        },
-        {
-            "": "`",
-            "contentTags": [
-                "steam",
-                "xbox",
-                "ps4",
-                "switch",
-                "grdk",
-                "stadia",
-                "xsx",
-                "ps5"
-            ],
-            "description": "Our past can sometimes be a burden that drives us to the most dangerous places in search of answers and hope. But when hope is nowhere to be found&#44; compulsion and rage fill in the void&#44; for better or for worse... <br/><br/>The Twins &#45; Charlotte and Victor Deshayes &#45; formed an emotional bond like none other. After a life of hardship and suffering&#44; The Entity has twisted their love for one another into something truly terrifying. The new Survivor is &#201;lodie Rakoto. Cunning&#44; smart&#44; and resolute&#44; &#201;lodie spent her life trying to uncover the mystery of her parents&#39; disappearance. Grief&#45;stricken and guilt&#45;ridden&#44; she turned to the occult to find the answers she was looking for. <br/><br/>A Binding of Kin includes&#58;<li>A new Killer&#58; The Twins</li><li>A new Survivor&#58; &#201;lodie Rakoto</li><li>An exclusive item for &#201;lodie</li><br/><br/>Hunt as a deadly pair with The Twins... or fight to survive as the unwavering and determined &#201;lodie Rakoto with the A Binding of Kin Chapter in Dead by Daylight. <br/><br/><i>Please note that there will be a delay between the A Binding of Kin characters being available via our in&#45;game store and the full DLC package. Should you purchase a single character via our store&#59; you will not receive the DLC exclusive item. We also remind you that in&#45;game store purchases are non&#45;refundable.</i>",
-            "dwnImagePath": "",
-            "imageHeight": "",
-            "imagePath": "UI/Icons/NewContentSplash/splashBanner_AURR.png",
-            "isHidden": false,
-            "startDate": "2020-12-01T16:00:00",
-            "title": "A Binding of Kin Chapter Release",
-            "type": 2,
-            "version": "4.4.0",
-            "weight": 940.0
+            "weight": 971.0
         },
         {
             "": "",
@@ -512,11 +884,11 @@
                 "steam",
                 "xbox",
                 "ps4",
-                "switch",
                 "grdk",
                 "stadia",
                 "xsx",
-                "ps5"
+                "ps5",
+                "switch"
             ],
             "description": "Due to an issue with Hit Validation affecting interactions with Oni players&#44; we are temporarily disabling the feature until the next hotfix.",
             "dwnImagePath": "",
@@ -527,7 +899,39 @@
             "title": "Hit Validation Disabled",
             "type": 4,
             "version": "4.4.0",
-            "weight": 936.0
+            "weight": 970.0
+        },
+        {
+            "": "",
+            "contentTags": [
+                "switch"
+            ],
+            "description": "&#39;tis the season of giving in Dead by Daylight&#33;<br/><br/>Let&#39;s celebrate the holidays &#38; end of 2020 together with free cosmetics and currencies&#33;<br/><br/>Stop by every day for new gifts&#44; and every Monday at 11AM ET for that week&#39;s schedule of gifts&#33;<br/><br/>Now let&#39;s kick off December in style with Zarina&#39;s Snap Snap Sweater and the Killer&#39;s Stocking Charm&#44; filled with blood&#45;stained weaponry for all the vicious boys and girls.<br/><br/><b>Cosmetics</b><li>Dec. 1st 11AM ET &#45; Dec. 4th 11AM ET&#58; Killer&#39;s Stocking Charm&#42;</li>Code&#58; <b><font color=\"#FFD700\">NAUGHTYSTOCKING</font></b></li><li>Dec. 4th 11AM ET &#45; Dec. 7th 11AM ET&#58; Zarina&#39;s Snap Snap Sweater&#42;</li>Code&#58; <b><font color=\"#67AB49\">SNAPSNAP</font></b></li><br/><br/><b>Login Currencies</b><li>Dec. 1st 11AM ET &#45; Dec. 2nd 11AM ET&#58; 10&#44;000 Bloodpoints</li><li>Dec. 2nd 11AM ET &#45; Dec. 3rd 11AM ET&#58; 1000 Iridescent Shards</li><li>Dec. 3 11AM ET &#45; Dec. 6th 11AM ET&#58; 10&#44;000 Bloodpoints &#40;per day&#41;</li><br/><br/>For more information on the Advent Calendar 2020 Event&#44; check out our blog post https://deadbydaylight.com/en/news/advent-calendar-2020<br/><br/>Be sure to also keep an eye out on our social channels and Fog Whisperers for some Rare Charm goodies&#33;<br/><br/><i>&#42;Redeemable only once per user. Code will only be active for the specified period. To redeem&#44; enter the Store and click &#34;Redeem Code&#34; at the top right. All Ugly Sweaters will be available via the in-game Store at a later date.</i>",
+            "dwnImagePath": "",
+            "imageHeight": "",
+            "imagePath": "UI/Icons/NewContentSplash/splashBanner_AURA1.png",
+            "isHidden": false,
+            "startDate": "2020-12-01T16:00:00",
+            "title": "ADVENT CALENDAR 2020 &#45; WEEK 1",
+            "type": 2,
+            "version": "4.4.0",
+            "weight": 969.0
+        },
+        {
+            "": "",
+            "contentTags": [
+                "switch"
+            ],
+            "description": "Welcome to Chapter 18&#58; A Binding of Kin. Please read the below for a quick summary of the new content you&#39;ll find.<br/><br/>For a full list of patch notes&#44; https://forum.deadbydaylight.com/en/kb/patchnotes<br/><br/><span class=\"Heading2\">FEATURES &#38; CONTENT</span><br/><b>New Characters</b><li>Added A New Killer &#45; The Twins</li><li>Added a New Survivor &#45; &#201;lodie Rakoto</li><br/><b>Visual Update</b><li>Visual updates to maps in Ormond and Junkyard. &#40;Appearance rate increased for these maps for this week&#41;</li><li>Visual update to the Hatch and Totem.</li><li>Visual update on the Twins Lobby.</li><br/><br/><span class=\"Heading2\">BUG FIXES</span><br/><li>Fixed an issue that caused daily rituals to be consumed even if the claim of bloodpoints for a completed daily ritual failed.</li><li>Fixed an issue that caused a short freeze when opening a chest.</li><li>Fixed an issue that prevented survivors from being able to start unlocking a chest from its side.</li><li>Fixed an issue that caused firecrackers not to destroy Hag traps.</li><li>Fixed an issue that sometimes caused killers to be stuck inside a generator after damaging it.</li><li>Fixed an issue that caused survivors to be able to see through walls when using a flashlight and hugging the wall.</li><li>Fixed an issue which made exclusive cosmetics available to all</li><br/><br/><span class=\"Heading2\">KNOWN ISSUES</span><br/><br/><b>The Twins</b><li>Victor may become stuck if he pounces on a locker with a healthy Survivor inside. Charlotte will be unable to search the locker until Victor is recalled.</li><br/><b>The Twins' perks</b><li>Coup de Grace: Missing visual feedback when performing a modified lunge attack</li><br/><b>&#201;lodie's Perks</b><li>Appraisal: Survivors keep rummaging through the chest for a brief moment after the action is completed</li><li>Power Struggle: The perk can't be used while actively wiggling</li>",
+            "dwnImagePath": "",
+            "imageHeight": "",
+            "imagePath": "",
+            "isHidden": false,
+            "startDate": "2020-12-01T16:00:00",
+            "title": "Chapter 18 Patch Notes",
+            "type": 4,
+            "version": "4.4.0",
+            "weight": 968.0
         },
         {
             "": "",
@@ -535,7 +939,29 @@
                 "steam",
                 "xbox",
                 "ps4",
-                "switch",
+                "grdk",
+                "stadia",
+                "xsx",
+                "ps5",
+                "switch"
+            ],
+            "description": "Our past can sometimes be a burden that drives us to the most dangerous places in search of answers and hope. But when hope is nowhere to be found&#44; compulsion and rage fill in the void&#44; for better or for worse... <br/><br/>The Twins &#45; Charlotte and Victor Deshayes &#45; formed an emotional bond like none other. After a life of hardship and suffering&#44; The Entity has twisted their love for one another into something truly terrifying. The new Survivor is &#201;lodie Rakoto. Cunning&#44; smart&#44; and resolute&#44; &#201;lodie spent her life trying to uncover the mystery of her parents&#39; disappearance. Grief&#45;stricken and guilt&#45;ridden&#44; she turned to the occult to find the answers she was looking for. <br/><br/>A Binding of Kin includes&#58;<li>A new Killer&#58; The Twins</li><li>A new Survivor&#58; &#201;lodie Rakoto</li><li>An exclusive item for &#201;lodie</li><br/><br/>Hunt as a deadly pair with The Twins... or fight to survive as the unwavering and determined &#201;lodie Rakoto with the A Binding of Kin Chapter in Dead by Daylight. <br/><br/><i>Please note that there will be a delay between the A Binding of Kin characters being available via our in&#45;game store and the full DLC package. Should you purchase a single character via our store&#59; you will not receive the DLC exclusive item. We also remind you that in&#45;game store purchases are non&#45;refundable.</i>",
+            "dwnImagePath": "",
+            "imageHeight": "",
+            "imagePath": "UI/Icons/NewContentSplash/splashBanner_AURR.png",
+            "isHidden": false,
+            "startDate": "2020-12-01T16:00:00",
+            "title": "A Binding of Kin Chapter Release",
+            "type": 2,
+            "version": "4.4.0",
+            "weight": 967.0
+        },
+        {
+            "": "",
+            "contentTags": [
+                "steam",
+                "xbox",
+                "ps4",
                 "grdk",
                 "stadia",
                 "xsx",
@@ -550,7 +976,7 @@
             "title": "THE TWINS & &#201;LODIE &#45; HOLIDAY HORROR",
             "type": 2,
             "version": "4.4.0",
-            "weight": 935.0
+            "weight": 966.0
         },
         {
             "": "",
@@ -558,7 +984,6 @@
                 "steam",
                 "xbox",
                 "ps4",
-                "switch",
                 "grdk",
                 "stadia",
                 "xsx",
@@ -573,7 +998,7 @@
             "title": "ADVENT CALENDAR 2020 &#45; WEEK 1",
             "type": 2,
             "version": "4.4.0",
-            "weight": 930.0
+            "weight": 965.0
         },
         {
             "": "",
@@ -581,7 +1006,6 @@
                 "steam",
                 "xbox",
                 "ps4",
-                "switch",
                 "grdk",
                 "stadia",
                 "xsx",
@@ -596,7 +1020,7 @@
             "title": "Chapter 18 Patch Notes",
             "type": 4,
             "version": "4.4.0",
-            "weight": 925.0
+            "weight": 964.0
         },
         {
             "": "",
@@ -604,11 +1028,11 @@
                 "steam",
                 "xbox",
                 "ps4",
-                "switch",
                 "grdk",
                 "stadia",
                 "xsx",
-                "ps5"
+                "ps5",
+                "switch"
             ],
             "description": "<font color=\"#FFD700\">ACT FAST</font>&#44; PEOPLE OF THE FOG&#33;<br/><br/>For one week only&#44; all characters and a selection of outfits are available at discounted prices&#33;<br/><li><b><font color=\"#FFD700\">50&#37; OFF</font></b> all characters released before the Descend Beyond Chapter</li><li><b><font color=\"#FFD700\">20&#37; OFF</font></b> The Blight and Felix Richter</li><li><b><font color=\"#FFD700\">30&#37; OFF</font></b> all store outfits released before the Descend Beyond Chapter</li><br/><br/>Make sure you grab your favorite Survivors&#44; Killers and outfits before this deal ends&#33;<br/><br/>Offer ends December 3rd 11AM ET <br/><br/>Discount limited to characters and outfits purchased in Auric Cells",
             "dwnImagePath": "",
@@ -619,7 +1043,7 @@
             "title": "UP TO <font color=\"#FFD700\">50&#37; OFF</font> OUTFITS &#38; CHARACTERS",
             "type": 5,
             "version": "4.3.0",
-            "weight": 917.0
+            "weight": 963.0
         },
         {
             "": "",
@@ -627,9 +1051,11 @@
                 "steam",
                 "xbox",
                 "ps4",
-                "switch",
                 "grdk",
-                "stadia"
+                "stadia",
+                "xsx",
+                "ps5",
+                "switch"
             ],
             "description": "This weekend&#44; Bloodlust will be temporarily disabled on the live version of the game.<br/><br/><span class=\"Heading2\">Why&#63;</span><br/>In order to better understand the effect Bloodlust has on the game in 2020&#44; we will be disabling the mechanic on PC &#38; consoles for the course of this weekend. This will allow us to gather feedback and data on Bloodlust and see what kind of effect it has on matches in a real&#45;world scenario.<br/><br/><span class=\"Heading2\">When&#63;</span><br/>November 20&#44; 11 a.m. ET&#58; Bloodlust is disabled <br/><br/>November 23&#44; 11 a.m. ET&#58; Bloodlust is re&#45;enabled <br/><br/><span class=\"Heading2\">Disclaimer</span><br/>This test only disables the Bloodlust mechanic. References to Bloodlust will still appear in the game&#44; and Beast of Prey will not activate as a result.",
             "dwnImagePath": "",
@@ -640,7 +1066,7 @@
             "title": "Bloodlust Experiment",
             "type": 4,
             "version": "4.3.0",
-            "weight": 915.0
+            "weight": 962.0
         },
         {
             "": "",
@@ -648,7 +1074,6 @@
                 "steam",
                 "xbox",
                 "ps4",
-                "switch",
                 "grdk",
                 "stadia",
                 "xsx",
@@ -663,7 +1088,7 @@
             "title": "<b>THE HILLBILLY&#39;S &#34;A MAN NAMED BOY&#34;</b>",
             "type": 2,
             "version": "4.3.0",
-            "weight": 910.0
+            "weight": 961.0
         },
         {
             "": "",
@@ -671,9 +1096,10 @@
                 "steam",
                 "xbox",
                 "ps4",
-                "switch",
                 "grdk",
-                "stadia"
+                "stadia",
+                "xsx",
+                "ps5"
             ],
             "description": "In their efforts to transform&#44; troubled minds will don masks... even ones that bleed. <br/><br/>Now available in the store&#58;<li><b>Leatherface</b> &#40;The Cannibal&#41; &#45; Old Lady Outfit</li><br/><br/>Check out the Old Lady Leatherface Trailer <a href=\"event:https://youtu.be/8CuEScZyAM8\"><font color=\"#ff0000\"><u>HERE&#33;</u></font></a>",
             "dwnImagePath": "",
@@ -684,453 +1110,7 @@
             "title": "OLD LADY LEATHERFACE",
             "type": 2,
             "version": "4.3.0",
-            "weight": 902.0
-        },
-        {
-            "": "",
-            "contentTags": [
-                "steam",
-                "xbox",
-                "ps4",
-                "switch",
-                "grdk",
-                "stadia"
-            ],
-            "description": "The Dead by Daylight team would like your feedback in a crossplay survey.<br/><br/>We encourage you to be as honest as possible in letting us know how you feel about the feature. The information and answers provided are anonymous&#44; not shared with any third&#45;party&#44; and will not be used for purposes other than survey analysis.<br/><br/>Access the survey <a href=\"event:https://www.surveymonkey.com/r/DbD-CP\"><font color=\"#ff0000\"><u>HERE&#33;</u></font></a>",
-            "dwnImagePath": "",
-            "imageHeight": "",
-            "imagePath": "",
-            "isHidden": false,
-            "startDate": "2020-11-05T19:00:00",
-            "title": "FEATURE SURVEY&#58; CROSSPLAY",
-            "type": 4,
-            "version": "4.3.0",
-            "weight": 901.0
-        },
-        {
-            "": "",
-            "contentTags": [
-                "steam",
-                "xbox",
-                "ps4",
-                "switch",
-                "grdk",
-                "stadia"
-            ],
-            "description": "Level II of Tome V is now available&#33; With it comes the below&#58;<li>20 Challenges &#40;incl. 10 Master Challenges&#41;</li><li>10 Memory and Log Entries &#40;including the <b>final entry for NEA KARLSSONS &#34;Rebel With a Cause&#34;&#41;</b></li><li>More Bloodpoints</li><br/><br/> To access Level II&#44; you must have reached the Epilogue node of Level I with either role.",
-            "dwnImagePath": "",
-            "imageHeight": "",
-            "imagePath": "UI/Icons/NewContentSplash/splashBanner_UNL5.png",
-            "isHidden": false,
-            "startDate": "2020-11-04T16:00:00",
-            "title": "<b>NEA&#39;S &#34;REBEL WITH A CAUSE&#34;</b>",
-            "type": 2,
-            "version": "4.3.0",
-            "weight": 900.0
-        },
-        {
-            "": "",
-            "contentTags": [
-                "switch"
-            ],
-            "description": "The game client has been updated to the 4.3.2 bugfix.<br/><br/><span class=\"Heading2\">KEY CHANGES&#58;</span><br/><br/><b>Perk Updates</b><li>Discordance&#58; Updated range from 32&#47;64&#47;96 meters to 64&#47;96&#47;128 meters and decreased the aura duration after survivors have left the generator from 8 seconds to 4 seconds.</li><br/><br/><b>Bug Fixes</b><li>Fixed an issue that caused Traps&#44; Phantasm and Snares not to be placed properly in specific places &#40;exit gates&#44; Shelter Woods&#39; Unique Tree etc.&#41; in Macmillan Estate&#39;s maps. </li><li>Fixed an issue that caused two uncleansable Totems on Rotten Fields and Coal Tower</li><li>Fixed an issue that caused the visual effect of the fog to appear unrealistic</li><li>Fixed an issue that caused Halloween Event generators not to spawn in the Midwich Elementary School map</li><br/><br/>Please see <a href=\"event:https://forum.deadbydaylight.com/en/kb/patchnotes\"><font color=\"#ff0000\"><u>HERE</u></font></a> for detailed patch notes.",
-            "dwnImagePath": "",
-            "imageHeight": "",
-            "imagePath": "",
-            "isHidden": false,
-            "startDate": "2020-11-03T16:00:00",
-            "title": "4.3.2 BUGFIX",
-            "type": 4,
-            "version": "4.3.2",
-            "weight": 851.0
-        },
-        {
-            "": "",
-            "contentTags": [
-                "steam",
-                "xbox",
-                "ps4",
-                "grdk",
-                "stadia"
-            ],
-            "description": "The game client has been updated to the 4.3.2 bugfix.<br/><br/><span class=\"Heading2\">KEY CHANGES&#58;</span><br/><br/><b>Perk Updates</b><li>Discordance&#58; Updated range from 32&#47;64&#47;96 meters to 64&#47;96&#47;128 meters and decreased the aura duration after survivors have left the generator from 8 seconds to 4 seconds.</li><br/><br/><b>Bug Fixes</b><li>Fixed an issue that caused Traps&#44; Phantasm and Snares not to be placed properly in specific places &#40;exit gates&#44; Shelter Woods&#39; Unique Tree etc.&#41; in Macmillan Estate&#39;s maps. </li><li>Fixed an issue that caused two uncleansable Totems on Rotten Fields and Coal Tower</li><li>Fixed an issue that caused Halloween Event generators not to spawn in the Midwich Elementary School map</li><br/><br/>Please see <a href=\"event:https://forum.deadbydaylight.com/en/kb/patchnotes\"><font color=\"#ff0000\"><u>HERE</u></font></a> for detailed patch notes.",
-            "dwnImagePath": "",
-            "imageHeight": "",
-            "imagePath": "",
-            "isHidden": false,
-            "startDate": "2020-11-03T16:00:00",
-            "title": "4.3.2 BUGFIX",
-            "type": 4,
-            "version": "4.3.2",
-            "weight": 850.0
-        },
-        {
-            "": "",
-            "contentTags": [
-                "steam",
-                "xbox",
-                "ps4",
-                "switch",
-                "grdk",
-                "stadia"
-            ],
-            "description": "LIVE NOW on <a href=\"event:https://www.twitch.tv/TwitchRivals\"><font color=\"#ff0000\"><u>Twitch.tv&#47;TwitchRivals</u></font></a>&#44; 30 Twitch Creators from EU and NA will play in a team&#45;based DbD Tournament&#33;<br/><br/>Tune&#45;in to earn a Trap&#45;o&#45;Lantern Charm&#33; Happy Halloween&#33;",
-            "dwnImagePath": "",
-            "imageHeight": "",
-            "imagePath": "UI/Icons/NewContentSplash/splashBanner_TCH.png",
-            "isHidden": false,
-            "startDate": "2020-10-31T18:30:00",
-            "title": "TWITCH RIVALS&#58; HALLOWEEN SHOWDOWN",
-            "type": 5,
-            "version": "4.3.1",
-            "weight": 849.0
-        },
-        {
-            "": "",
-            "contentTags": [
-                "steam",
-                "xbox",
-                "ps4",
-                "switch",
-                "grdk",
-                "stadia"
-            ],
-            "description": "Join us tomorrow at noon Eastern&#44; on <a href=\"event:https://www.twitch.tv/deadbydaylight\"><font color=\"#ff0000\"><u>Twitch.tv&#47;DeadbyDaylight</u></font></a>&#44; and flip things upside down with Stranger Things star Gaten Matarazzo&#44; special guests Ninja&#44; Jessica Blevins&#44; and Fog Whisperers OhTofuOfficial&#44; and JasonSulli!<br/><br/>It&#39;s sure to be a great event&#44; so please join us this Halloween for a day of amazing special guests and spooky stream fun&#33;<br/><br/>For more information&#44; please see the official website&#58; <a href=\"event:https://deadbydaylight.com/en/news/stranger-things-halloween\"><font color=\"#ff0000\"><u>LINK</u></font></a>",
-            "dwnImagePath": "",
-            "imageHeight": "",
-            "imagePath": "UI/Icons/NewContentSplash/splashBanner_STB.png",
-            "isHidden": false,
-            "startDate": "2020-10-30T15:00:00",
-            "title": "STRANGER THINGS EVENT",
-            "type": 5,
-            "version": "4.3.1",
-            "weight": 848.0
-        },
-        {
-            "": "",
-            "contentTags": [
-                "steam",
-                "xbox",
-                "ps4",
-                "switch",
-                "grdk",
-                "stadia"
-            ],
-            "description": "Halloween is here&#33; Our daily login gifts continue with some supersized candy over the weekend for you to enjoy as a thank you for joining us to celebrate this spooky season together&#33; <br/><br/>The below remaining DAILY LOGIN GIFTS&#42; will be given via a popup upon entering the game during the below periods&#58;<br/><br/><b>Oct. 30th 11AM ET &#45; Nov. 1st 11AM ET</b><li>2&#44;750 Iridescent Shards per Day &#40;5&#44;500 Total&#41;</li><li>100&#44;000 Bloodpoints per Day &#40;200&#44;000 Total&#41;</li><br/><br/><b>Nov. 1st 11AM ET &#45; Nov. 4th 11AM ET</b><li>500 Iridescent Shards per Day &#40;1&#44;500 Total&#41;</li><li>50&#44;000 Bloodpoints per Day &#40;150&#44;000 Total&#41;</li><br/><br/><b>BONUS&#58;</b> Hallowed Curse outfits are temporarily discounted to only 9&#44;000 Iridescent Shards for the duration of the Eternal Blight event&#33; &#40;only for outfits on original Characters&#41; <br/><br/>Enjoy&#44; and Happy Halloween&#33;<br/><br/>&#42;All login days start and end at 11AM ET",
-            "dwnImagePath": "",
-            "imageHeight": "",
-            "imagePath": "",
-            "isHidden": false,
-            "startDate": "2020-10-30T15:00:00",
-            "title": "REMINDER&#58; CANDIED CURRENCY",
-            "type": 4,
-            "version": "4.3.1",
-            "weight": 847.0
-        },
-        {
-            "": "",
-            "contentTags": [
-                "steam",
-                "xbox",
-                "ps4",
-                "switch",
-                "grdk",
-                "stadia"
-            ],
-            "description": "Dead by Daylight is celebrating Halloween &#34;On&#45;Air&#34;&#33; No tricks &#45; just treats&#33; Get into spooky season with these eventful streams live on Twitch.tv&#33;<br/><br/><b>INTO THE FOG BROADCAST &#45;</b><br/>October 29th 2020 9&#58;00AM PT &#47; NOON ET<br/> Tune&#45;in to earn a DwightCrow Charm&#33;<br/><br/><br/><b>STRANGER THINGS EVENT with Gaten Matarazzo of Stranger Things in collaboration with JessicaBlevins and Ninja</b><br/>October 31st 2020 9&#58;00AM PT &#47; NOON ET  <br/><br/><b>TWITCH RIVALS&#58; HALLOWEEN SHOWDOWN </b><br/> October 31st 2020 10&#58;00AM PT &#47; 1PM ET  <br/> Tune&#45;in to earn a Trap&#45;o&#45;Lantern Charm&#33;<br/><br/>View more details <a href=\"event:https://deadbydaylight.com/en/news/dead-by-daylight-on-air\"><font color=\"#ff0000\"><u>HERE</u></font></a>",
-            "dwnImagePath": "",
-            "imageHeight": "",
-            "imagePath": "UI/Icons/NewContentSplash/splashBanner_OAB.png",
-            "isHidden": false,
-            "startDate": "2020-10-29T16:00:00",
-            "title": "DBD ON&#45;AIR",
-            "type": 5,
-            "version": "4.3.0",
-            "weight": 846.0
-        },
-        {
-            "": "",
-            "contentTags": [
-                "steam",
-                "xbox",
-                "ps4",
-                "switch",
-                "grdk",
-                "stadia"
-            ],
-            "description": "Enjoy 2X BLOODPOINTS earned from Trials during the Bloodhunt&#33;<br/><br/><b>Duration&#58;</b> Oct. 29th 11AM ET &#45; Nov. 2nd 11AM ET",
-            "dwnImagePath": "",
-            "imageHeight": "",
-            "imagePath": "UI/Icons/NewContentSplash/splashBanner_HWN.png",
-            "isHidden": false,
-            "startDate": "2020-10-29T15:00:00",
-            "title": "<b>HALLOWEEN BLOODHUNT</b>",
-            "type": 5,
-            "version": "4.3.0",
-            "weight": 845.0
-        },
-        {
-            "": "",
-            "contentTags": [
-                "ps4"
-            ],
-            "description": "The game client has been updated to the 4.3.1 bugfix.<br/><br/><span class=\"Heading2\">KEY CHANGES&#58;</span><li>Fixed an issue that might prevent medkits with 32 charges to completely heal the second health state.</li><li>Fixed an issue that caused survivors&#39; auras not to be shown if a killer equipped with the Discordance perk enters the activation range after the survivors have started repairing a generator.</li><li>Fixed an issue that caused killers to have their first person view posture during the intro.</li><li>Tentatively fixed an issue that caused the framerate to drop intermittently during Trials.</li><br/><br/>Please see <a href=\"event:https://forum.deadbydaylight.com/en/kb/patchnotes\"><font color=\"#ff0000\"><u>HERE</u></font></a> for detailed patch notes.",
-            "dwnImagePath": "",
-            "imageHeight": "",
-            "imagePath": "",
-            "isHidden": false,
-            "startDate": "2020-10-28T15:00:00",
-            "title": "4.3.1 BUGFIX",
-            "type": 4,
-            "version": "4.3.1",
-            "weight": 844.0
-        },
-        {
-            "": "",
-            "contentTags": [
-                "steam",
-                "xbox",
-                "switch",
-                "grdk",
-                "stadia"
-            ],
-            "description": "The game client has been updated to the 4.3.1 bugfix.<br/><br/><span class=\"Heading2\">KEY CHANGES&#58;</span><li>Fixed an issue that might prevent medkits with 32 charges to completely heal the second health state.</li><li>Fixed an issue that caused survivors&#39; auras not to be shown if a killer equipped with the Discordance perk enters the activation range after the survivors have started repairing a generator.</li><li>Fixed an issue that caused killers to have their first person view posture during the intro.</li><br/><br/>Please see <a href=\"event:https://forum.deadbydaylight.com/en/kb/patchnotes\"><font color=\"#ff0000\"><u>HERE</u></font></a> for detailed patch notes.",
-            "dwnImagePath": "",
-            "imageHeight": "",
-            "imagePath": "",
-            "isHidden": false,
-            "startDate": "2020-10-28T15:00:00",
-            "title": "4.3.1 BUGFIX",
-            "type": 4,
-            "version": "4.3.1",
-            "weight": 843.0
-        },
-        {
-            "": "",
-            "contentTags": [
-                "steam",
-                "xbox",
-                "ps4",
-                "switch",
-                "grdk",
-                "stadia"
-            ],
-            "description": "The Survivors did what they could to stop the contaminate from spreading&#44; but the Entity&#39;s realm was already corrupted. <br/><br/>Available in the store&#58;<li><b>Yui Kimura</b> &#45; Miss Speedway Outfit</li><li><b>Felix Richter</b> &#45; Grand Planner Outfit</li><li><b>Feng Min</b> &#45; Lady Defiant Outfit</li>",
-            "dwnImagePath": "",
-            "imageHeight": "",
-            "imagePath": "UI/Icons/NewContentSplash/splashBanner_ZSH.png",
-            "isHidden": false,
-            "startDate": "2020-10-27T15:00:00",
-            "title": "YUI &#43; FELIX &#43; FENG &#45; HALLOWED CURSE",
-            "type": 2,
-            "version": "4.3.0",
-            "weight": 842.0
-        },
-        {
-            "": "",
-            "contentTags": [
-                "steam",
-                "xbox",
-                "ps4",
-                "switch",
-                "grdk",
-                "stadia"
-            ],
-            "description": "Let There Be Blight&#33; For a <b><font color=\"#FFD700\">limited time</font></b>&#44; save up to <b><font color=\"#FFD700\">75%</font></b> on a selection of outfits&#44; including the Hallowed Blight and Hallowed Catalyst collections&#33;<br/><br/>In addition&#44; enjoy up to a <b><font color=\"#FFD700\">50&#37; discount</font></b> on all characters released prior to Chapter XVI and <b><font color=\"#FFD700\">20&#37; off Silent Hill</font></b> characters&#33; <br/><br/><b><font color=\"#FFD700\">20&#37; OFF</font></b><br/><b>960</b> Auric Cells<br/><li>Jake&#39;s <b>Vigo&#39;s Marauder</b> outfit</li><li>Steve&#39;s <b>Last&#45;Minute Babysitter</b> outfit</li><li>Feng&#39;s <b>Tokyo Subway</b> outfit</li><li>The Executioner&#39;s <b>The Corrupted</b> outfit</li><li>The Ghostface&#39;s <b>Raining Blood</b> outfit</li><li>The Spirit&#39;s <b>Blazing Lineage</b> outfit</li><li>The Legion&#39;s <b>Lost Mascot &#40;Frank&#41;</b> outfit</li><li>Cheryl&#39;s <b>Alessa Gillespie</b> outfit</li><br/><br/><b><font color=\"#FFD700\">30&#37; OFF</font></b><br/><b>840</b> Auric Cells<br/><li>The Demogorgon&#39;s <b>Twisted Demogorgon</b> outfit</li><li>Yui&#39;s <b>Kumi&#45;Daiko Performer</b> outfit</li><li>Claudette&#39;s <b>Vigo&#39;s Pupil</b> outfit</li><li>Nea&#39;s <b>Modern Rebel</b> outfit</li><li>The Huntress&#39; <b>Growth Surge</b> outfit</li><li>Jane&#39;s <b>Fashion Icon</b> outfit</li><li>Nancy&#39;s <b>Snow Ball Dress</b> outfit</li><br/><br/><b><font color=\"#FFD700\">40&#37; OFF</font></b><br/><b>720</b> Auric Cells<br/><li>The Doctor&#39;s <b>Foul Bile</b> outfit</li><li>Kate&#39;s <b>Award Night Opulence</b> outfit</li><li>The Pig&#39;s <b>Test Subject</b> outfit</li><li>The Clown&#39;s <b>Seething Entertainer</b> outfit</li><li>Jeff&#39;s <b>Black Metal</b> outfit</li><li>Dwight&#39;s <b>Vigo&#39;s Apprentice</b> outfit</li><li>David King&#39;s <b>Mechanic</b> outfit</li><br/><br/><b><font color=\"#FFD700\">50&#37; OFF</font></b><br/><b>600</b> Auric Cells<br/><li>Meg&#39;s <b>Neon Fanatic</b> outfit</li><li>The Oni&#39;s <b>Demonic Force</b> outfit</li><li>Zarina&#39;s <b>Grant Applicant</b> outfit</li><li>The Hag&#39;s <b>Scorched Harvester</b> outfit</li><li>Tapp&#39;s <b>Beat Cop</b> outfit</li><li>The Nurse&#39;s <b>Mother Mercy</b> outfit</li><li>The Plague&#39;s <b>Servant of the Serum</b> outfit</li> <br/><br/><b><font color=\"#FFD700\">75&#37; OFF</font></b><br/><b>300</b> Auric Cells<br/> <li>The Wraith&#39;s <b>Seeping Hollow</b> outfit</li><li>The Deathslinger&#39;s <b>Frontier Vigilante</b> outfit</li><li>The Trapper&#39;s <b>King of the Hooks</b> outfit</li><li>Adam&#39;s <b>Sightseer</b> outfit</li><li>Ace&#39;s <b>Rush of Spring</b> outfit</li><li>The Hillbilly&#39;s <b>Osseous Carcass</b> outfit</li><li>Ash&#39;s <b>Working For The Weekend</b> outfit</li> <br/><br/>Offer ends November 1st 11AM ET <br/><br/>Discount limited to outfits purchased in Auric Cells",
-            "dwnImagePath": "",
-            "imageHeight": "",
-            "imagePath": "UI/Icons/NewContentSplash/splashBanner_ZHS.png",
-            "isHidden": false,
-            "startDate": "2020-10-24T15:00:00",
-            "title": "UP TO <font color=\"#FFD700\">75&#37; OFF</font> OUTFITS &#38; CHARACTERS",
-            "type": 5,
-            "version": "4.3.0",
-            "weight": 841.0
-        },
-        {
-            "": "",
-            "contentTags": [
-                "steam",
-                "xbox",
-                "ps4",
-                "switch",
-                "grdk",
-                "stadia"
-            ],
-            "description": "This update played a few tricks on us&#44; so how about some sweet treats instead&#63; This year we have some special bonuses for you to enjoy as a thank you for joining us to celebrate this spooky season together&#33;<br/><br/>The below free DAILY LOGIN GIFTS&#42; will be given via a popup upon entering the game during the below periods&#58;<br/><b>Oct. 24th 11AM ET &#45; Oct. 30th 11AM ET</b><li>500 Iridescent Shards per Day &#40;3&#44;000 Total&#41;</li><li>20&#44;000 Bloodpoints per Day &#40;120&#44;000 Total&#41;</li><br/><br/><b>Oct. 30th 11AM ET &#45; Nov. 1st 11AM ET</b><li>2&#44;750 Iridescent Shards per Day &#40;5,500 Total&#41;</li><li>100&#44;000 Bloodpoints per Day &#40;200&#44;000 Total&#41;</li><br/><br/><b>Nov. 1st 11AM ET &#45; Nov. 4th 11AM ET</b><li>500 Iridescent Shards per Day &#40;1&#44;500 Total&#41;</li><li>50&#44;000 Bloodpoints per Day &#40;150&#44;000 Total&#41;</li><br/><br/><b>BONUS&#58;</b> Hallowed Curse outfits are <u>temporarily discounted to only 9&#44;000 Iridescent Shards for the duration of the event&#33;</u> &#40;only for outfits on original Characters&#41;<br/><br/>Treat yourself to some sweets with enough Iridescent Shards for a full original Character&#44; or Hallowed Curse outfit&#33;  This was the first Hallowed Collection to be released in Iridescent Shards for all players to be able to earn for free&#44; even after the Eternal Blight event has ended when it will return to the normal Iridescent Shard price. Keep spreading the Halloween scares year&#45;round&#33; <br/><br/>Enjoy&#44; and Happy Halloween&#33;<br/><br/><i>&#42;All login days start and end at 11AM ET</i><br/><br/><i>P.S. There will also be a Halloween weekend Bloodhunt for 2x Bloodpoints from Oct. 29th 11AM ET &#45; Nov. 2nd 11AM ET. Stay tuned&#33;</i>",
-            "dwnImagePath": "",
-            "imageHeight": "",
-            "imagePath": "UI/Icons/NewContentSplash/splashBanner_GVW.png",
-            "isHidden": false,
-            "startDate": "2020-10-23T15:00:00",
-            "title": "CANDIED CURRENCY",
-            "type": 4,
-            "version": "4.3.0",
-            "weight": 840.0
-        },
-        {
-            "": "",
-            "contentTags": [
-                "steam",
-                "xbox",
-                "ps4",
-                "switch",
-                "grdk",
-                "stadia"
-            ],
-            "description": "The serum spread through the Killers&#44; mutating their bodies and minds&#44; until even the hope for death was a cursed delusion. <br/><br/>Available in the store&#58;<li><b>The Ghost Face</b> &#45; Scorched Ghost Face Set</li><li><b>The Blight</b> &#45; True Blight Outfit</li><li><b>The Legion</b> &#45; Chimeric Horde Outfit</li>",
-            "dwnImagePath": "",
-            "imageHeight": "",
-            "imagePath": "UI/Icons/NewContentSplash/splashBanner_ZKH.png",
-            "isHidden": false,
-            "startDate": "2020-10-22T15:00:00",
-            "title": "Hallowed Curse &#45; Killer Outfits",
-            "type": 2,
-            "version": "4.3.0",
-            "weight": 833.0
-        },
-        {
-            "": "",
-            "contentTags": [
-                "steam",
-                "xbox",
-                "ps4",
-                "switch",
-                "grdk",
-                "stadia"
-            ],
-            "description": "The Archives returns for Halloween with a new Tome&#44; UNLEASHED&#44; containing a brand new Challenge type&#44; new stories&#44; and new rewards. Explore the memories of Nea Karlsson&#44; The Hillbilly&#44; and the conclusion to the &#34;Hallowed Blight&#34; storyline with a special memory for The Blight&#44; all while earning memorable outfits and cosmetics. <br/><br/>Dive deeper into Tome V&#39;s characters with the <a href=\"event:https://www.youtube.com/watch?v=2_d4nIjyqjI\"><font color=\"#ff0000\"><u>Tome Trailer</u></font></a> &  <a href=\"event:https://www.youtube.com/watch?v=ijlc-AIfVAE\"><font color=\"#ff0000\"><u>Rift Trailer</u></font></a>. <br/><br/><i>For Halloween&#45;specific content&#44; read the <a href=\"event:https://deadbydaylight.com/en/news/halloween-2020\"><font color=\"#ff0000\"><u>Eternal Blight blog post.</u></font></a></i><br/><br/>Level Release Schedule <li>Level I&#58; October 21st 2020 11AM ET</li><li>Level II&#58; November 4th 2020 11AM ET</li><li>Level III&#58; November 18th 2020 11AM ET</li><li>Level IV&#58; December 9th 2020 11AM ET</li><br/><br/><i>Please note these release dates are subject to change. All Previously unlocked levels will remain available once released but will stop providing Rift Fragments once the relevant Rift has expired.</i><br/><br/><b><font color=\"#ED7D31\">LIMITED TIME SALE</font></b><br/>50&#37; off the below featured characters for Tome V Challenges <li>Adam Francis &#45; <font color=\"#ED7D31\">250 AC</font> &#40;was 500&#41;</li><li>The Clown &#45; <font color=\"#ED7D31\">250 AC</font> &#40;was 500&#41;</li><br/><br/> Discount ends October 28th",
-            "dwnImagePath": "",
-            "imageHeight": "",
-            "imagePath": "UI/Icons/NewContentSplash/splashBanner_UNL5.png",
-            "isHidden": false,
-            "startDate": "2020-10-21T15:00:00",
-            "title": "Archives Tome V &#45; UNLEASHED",
-            "type": 2,
-            "version": "4.3.0",
-            "weight": 832.0
-        },
-        {
-            "": "",
-            "contentTags": [
-                "steam",
-                "xbox",
-                "ps4",
-                "switch",
-                "grdk",
-                "stadia"
-            ],
-            "description": "Celebrate Halloween in the Fog with The Eternal Blight event in Dead by Daylight.<br/><br/>From October 21 to November 4&#44; The Entity&#39;s Realm will be transformed into a celebration of the macabre&#44; with special event Hooks and Generators that grant even more Bloodpoints for you to earn. The Eternal Blight event sees the return of the Halloween items and add&#45;ons from years past&#44; with some new additions that are sure to provide plenty of treats&#44; and even a few tricks for you to discover. <br/><br/>Learn more about Halloween 2020 activities <a href=\"event:https://deadbydaylight.com/en/news/halloween-2020\"><font color=\"#ff0000\"><u>HERE</u></font></a>",
-            "dwnImagePath": "",
-            "imageHeight": "",
-            "imagePath": "UI/Icons/NewContentSplash/splashBanner_BEH.png",
-            "isHidden": false,
-            "startDate": "2020-10-21T15:00:00",
-            "title": "THE ETERNAL BLIGHT EVENT",
-            "type": 5,
-            "version": "4.3.0",
-            "weight": 831.0
-        },
-        {
-            "": "",
-            "contentTags": [
-                "steam",
-                "xbox",
-                "ps4",
-                "switch",
-                "grdk",
-                "stadia"
-            ],
-            "description": "Collect all 4 Halloween Charms between October 21st and November 4th during The Eternal Blight event&#33; All of these will be redemption codes to enter in the Store menu. <br/><br/><b>Perk&#45;Treats</b> (Universal Uncommon Charm) &#45; This one&#39;s a freebie&#33; Enter <b>&#34;SWEETDREAMS&#34;</b>. <li>Keep an eye out on our social channels for <b>Blighted Jack</b> &#40;Universal Rare Charm&#41;.</li><li>Watch our Fog Whisperers and selected YouTube &#38; Twitch Content Creators for giveaways of <b>Dwightcrow</b> &#40;Very Rare Killer Charm&#41;&#33;</li><li>Tune in for Twitch Rivals&#39; Dead by Daylight Halloween Special on October 31st for <b>Trap&#45;o&#45;Lantern</b> &#40;Very Rare Survivor Charm&#41;&#33;</li><br/><br/>Enter all of them before the event ends&#33; <b>All codes expire on November 4th 11AM ET.</b>",
-            "dwnImagePath": "",
-            "imageHeight": "",
-            "imagePath": "UI/Icons/NewContentSplash/splashBanner_CNB.png",
-            "isHidden": false,
-            "startDate": "2020-10-21T15:00:00",
-            "title": "Halloween Charm Collection",
-            "type": 2,
-            "version": "4.3.0",
-            "weight": 830.0
-        },
-        {
-            "": "",
-            "contentTags": [
-                "steam",
-                "xbox",
-                "ps4",
-                "switch",
-                "grdk",
-                "stadia"
-            ],
-            "description": "As the Pustula Flower blooms throughout The Entity&#39;s Realm&#44; those infected by its powerful nectar become living nightmares. Survivors&#44; investigating the strange phenomenon&#44; search for answers to one of the Realm&#39;s great mysteries. <br/><br/>New Event Collection available now in the store&#58;<li><b>The Ghost Face</b> &#45; Scorched Ghost Face Set</li><li><b>The Legion</b> &#45; Chimeric Horde Outfit</li><li><b>The Blight</b> &#45; True Blight Outfit</li><li><b>Yui Kimura</b> &#45; Miss Speedway Outfit</li><li><b>Feng Min</b> &#45; Lady Defiant Outfit</li><li><b>Felix Richter</b> &#45; Grand Planner Outfit</li> <br/><br/>Check out the Collection Trailer <a href=\"event:https://www.youtube.com/watch?v=HysV58P1iAM\"><font color=\"#ff0000\"><u>HERE</u></font></a>",
-            "dwnImagePath": "",
-            "imageHeight": "",
-            "imagePath": "UI/Icons/NewContentSplash/splashBanner_HCC.png",
-            "isHidden": false,
-            "startDate": "2020-10-20T15:00:00",
-            "title": "HALLOWED CURSE COLLECTION",
-            "type": 2,
-            "version": "4.3.0",
-            "weight": 829.0
-        },
-        {
-            "": "",
-            "contentTags": [
-                "steam",
-                "xbox",
-                "ps4",
-                "switch",
-                "grdk",
-                "stadia"
-            ],
-            "description": "For a full list of patch notes&#44; <a href=\"event:https://forum.deadbydaylight.com/en/kb/patchnotes\"><font color=\"#ff0000\"><u>click HERE.</u></font></a><br/><br/><span class=\"Heading2\">FEATURES &#38; CONTENT</span><br/><b>Tome V &#38; The Eternal Blight</b><li>Tome V for The Archives and The Eternal Blight Halloween event will start tomorrow on October 21st&#44; 11AM ET.</li><br/><br/><b>Updated Visuals</b><li>Visual updates &#38; breakable walls added to The MacMillan Estate Realm &#40;5 maps&#41;. Appearance rate of this Realm is increased for the first week of Mid&#45;Chapter 17.</li><li>Visual updates for Lockers&#44; plus various other VFX.</li><li>4K UI icons added for Character portraits and customization icons.</li><br/><br/><b>Balance Changes</b><li>The Executioner &#45; Updates to Power and Perks</li><li>Perk Updates&#58; Any Means Necessary&#44; For the People&#44; Thanataphobia&#44; Mindbreaker&#44; Cruel Limit&#44; Slippery Meat&#44; Discordance&#44; Hex&#58; Huntress Lullaby&#44; Technician&#44; Pop Goes the Weasel&#44; We&#39;re Gonna Live Forever</li> <li>Perk Rarities&#58; All Perks of a Tier now have the same rarity &#40;Tier 1 &#61; Uncommon&#44; etc.&#41;</li><br/><br/><span class=\"Heading2\">KNOWN ISSUES</span><br/><li>The Killer will sometimes see an incorrect animation during the start of match camera pan.</li>",
-            "dwnImagePath": "",
-            "imageHeight": "",
-            "imagePath": "",
-            "isHidden": false,
-            "startDate": "2020-10-20T15:00:00",
-            "title": "<b>PATCH NOTES &#45; MID CHAPTER 17</b>",
-            "type": 2,
-            "version": "4.3.0",
-            "weight": 828.0
-        },
-        {
-            "": "",
-            "contentTags": [
-                "steam",
-                "stadia"
-            ],
-            "description": "Cross&#45;Progression is now available for Steam and Stadia.<br/><br/>Visit <a href=\"event:https://account.bhvr.com/\"><font color=\"#ff0000\"><u>account.BHVR.com</u></font></a> for more information.",
-            "dwnImagePath": "",
-            "imageHeight": "",
-            "imagePath": "",
-            "isHidden": false,
-            "startDate": "2020-10-15T15:00:00",
-            "title": "CROSS&#45;PROGRESSION UPDATE",
-            "type": 4,
-            "version": "4.2.0",
-            "weight": 827.0
-        },
-        {
-            "": "",
-            "contentTags": [
-                "steam",
-                "xbox",
-                "ps4",
-                "switch",
-                "grdk",
-                "stadia"
-            ],
-            "description": "The Disconnection Penalties have now been re&#45;activated on all platforms.",
-            "dwnImagePath": "",
-            "imageHeight": "",
-            "imagePath": "",
-            "isHidden": false,
-            "startDate": "2020-10-13T15:00:00",
-            "title": "Disconnection Penalties Reactivated",
-            "type": 4,
-            "version": "4.2.0",
-            "weight": 826.0
+            "weight": 960.0
         }
     ]
 }
