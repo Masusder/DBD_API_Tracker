@@ -77,7 +77,7 @@
                     "node10": {
                         "clientInfoId": "BreakWallsPalletsGens",
                         "coordinates": {
-                            "x": 275,
+                            "x": 185,
                             "y": 455
                         },
                         "neighbors": [
@@ -180,7 +180,7 @@
                     "node12": {
                         "clientInfoId": "HookDifferent",
                         "coordinates": {
-                            "x": 365,
+                            "x": 275,
                             "y": 605
                         },
                         "neighbors": [
@@ -232,6 +232,7 @@
                         },
                         "neighbors": [
                             "node3",
+                            "node7",
                             "node19"
                         ],
                         "nodeType": "quest:task",
@@ -274,7 +275,7 @@
                     "node14": {
                         "clientInfoId": "HookInTrial",
                         "coordinates": {
-                            "x": 545,
+                            "x": 455,
                             "y": 305
                         },
                         "journal": [
@@ -488,7 +489,7 @@
                     "node18": {
                         "clientInfoId": "PlaguePurgeInjureInTrial",
                         "coordinates": {
-                            "x": 365,
+                            "x": 275,
                             "y": 305
                         },
                         "journal": [
@@ -496,6 +497,7 @@
                         ],
                         "neighbors": [
                             "node14",
+                            "node6",
                             "node10"
                         ],
                         "nodeType": "quest:challenge",
@@ -636,7 +638,8 @@
                         },
                         "neighbors": [
                             "node2",
-                            "node5"
+                            "node5",
+                            "node_T6L1_Glyph01"
                         ],
                         "nodeType": "quest:task",
                         "objectives": {
@@ -924,6 +927,7 @@
                         },
                         "neighbors": [
                             "node_T6L1_Glyph01",
+                            "node18",
                             "node1"
                         ],
                         "nodeType": "quest:task",
@@ -971,6 +975,7 @@
                         },
                         "neighbors": [
                             "node21",
+                            "node13",
                             "node_T7L1_End01"
                         ],
                         "nodeType": "quest:task",
@@ -1013,7 +1018,7 @@
                     "node8": {
                         "clientInfoId": "Down",
                         "coordinates": {
-                            "x": 545,
+                            "x": 455,
                             "y": 605
                         },
                         "neighbors": [
@@ -1114,6 +1119,7 @@
                         },
                         "neighbors": [
                             "node11",
+                            "node20",
                             "node6",
                             "node19"
                         ],
@@ -1231,7 +1237,7 @@
                 ],
                 "endNodeRewards": [
                     {
-                        "amount": 10,
+                        "amount": 15,
                         "id": "star",
                         "type": "progressionDbD"
                     },
@@ -1801,7 +1807,7 @@
                         ]
                     },
                     "node2": {
-                        "clientInfoId": "Sacrifice",
+                        "clientInfoId": "Kill",
                         "coordinates": {
                             "x": 635,
                             "y": 605
@@ -1812,7 +1818,7 @@
                         ],
                         "nodeType": "quest:task",
                         "objectives": {
-                            "Sacrifice": {
+                            "Kill": {
                                 "conditions": [
                                     {
                                         "key": "role",
@@ -1822,12 +1828,12 @@
                                     }
                                 ],
                                 "incrementWithEventRepetitions": true,
-                                "neededProgression": 12,
-                                "objectiveId": "Sacrifice",
+                                "neededProgression": 6,
+                                "objectiveId": "Kill",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
-                                        "questEventId": "QuestEvent.Sacrifice",
+                                        "questEventId": "QuestEvent.Kill",
                                         "repetition": 1
                                     }
                                 ]
@@ -2274,7 +2280,7 @@
                         ]
                     },
                     "node9": {
-                        "clientInfoId": "HealOther",
+                        "clientInfoId": "UnhookProtectionHit",
                         "coordinates": {
                             "x": 1175,
                             "y": 155
@@ -2285,7 +2291,7 @@
                         ],
                         "nodeType": "quest:task",
                         "objectives": {
-                            "HealOtherPerc": {
+                            "UnhookProtectionHit": {
                                 "conditions": [
                                     {
                                         "key": "role",
@@ -2295,13 +2301,13 @@
                                     }
                                 ],
                                 "incrementWithEventRepetitions": true,
-                                "neededProgression": 1200,
-                                "objectiveId": "HealOtherPerc",
+                                "neededProgression": 15,
+                                "objectiveId": "UnhookProtectionHit",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
-                                        "parameters": "instigator:me;target:other",
-                                        "questEventId": "QuestEvent.Heal",
+                                        "parameters": "instigator:me",
+                                        "questEventId": "QuestEvent.UnhookProtectionHit",
                                         "repetition": 1
                                     }
                                 ]
@@ -2431,7 +2437,7 @@
                 ],
                 "endNodeRewards": [
                     {
-                        "amount": 10,
+                        "amount": 20,
                         "id": "star",
                         "type": "progressionDbD"
                     },
@@ -3618,7 +3624,7 @@
                 ],
                 "endNodeRewards": [
                     {
-                        "amount": 10,
+                        "amount": 25,
                         "id": "star",
                         "type": "progressionDbD"
                     },
@@ -4570,12 +4576,11 @@
                                     }
                                 ],
                                 "incrementWithEventRepetitions": true,
-                                "neededProgression": 30,
+                                "neededProgression": 60,
                                 "objectiveId": "Scream",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
-                                        "parameters": "instigator:other",
                                         "questEventId": "QuestEvent.Scream",
                                         "repetition": 1
                                     }
@@ -5685,6 +5690,6 @@
             }
         ],
         "rewardData": "Tome07",
-        "version": 57
+        "version": 59
     }
 }

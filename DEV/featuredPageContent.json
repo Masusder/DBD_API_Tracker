@@ -622,7 +622,7 @@
                 "startDate": "2021-01-01T16:00:00"
             },
             {
-                "endDate": "2021-03-01T16:00:00",
+                "endDate": "2021-02-18T16:00:00",
                 "ids": [
                     "Banner_BB_NS",
                     "Banner_BB_D",
@@ -632,6 +632,15 @@
                     "Banner_BB_RCJKNM"
                 ],
                 "startDate": "2021-01-23T16:00:00"
+            },
+            {
+                "endDate": "2021-03-18T16:00:00",
+                "ids": [
+                    "Banner_BB_RCJKNM",
+                    "Banner_BB_AOR1",
+                    "Banner_BB_AOR2"
+                ],
+                "startDate": "2021-02-18T16:00:00"
             }
         ],
         "right": [
