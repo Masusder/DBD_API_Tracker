@@ -3,18 +3,62 @@
         {
             "": "",
             "contentTags": [
-                "xbox"
+                "steam",
+                "xbox",
+                "ps4",
+                "grdk",
+                "stadia",
+                "xsx",
+                "ps5"
             ],
-            "description": "Due to a mismatch in version&#44; Xbox One players are currently unable to crossplay with other platforms. This issue will be resolved tomorrow&#44; February 23rd&#44; once the 4.5.2 bug fix patch is released on other platforms.",
+            "description": "Level II of Tome VI is now available&#33; With it comes the below:  <li>20 Challenges (incl. 8 Master Challenges & 1 Glyph Challenge)</li><li>8 Memory and Log Entries (including the final entry for THE NURSE&#39;S &#34; The Cleansing of Crotus Prenn&#34; )</li><li>More Bloodpoints</li><br/><br/>To access Level II&#44; you must have reached the Epilogue node of Level I with either role.",
+            "dwnImagePath": "",
+            "imageHeight": "",
+            "imagePath": "UI/Icons/NewContentSplash/splashBanner_BBT6.png",
+            "isHidden": false,
+            "startDate": "2021-02-24T16:00:00",
+            "title": "THE CLEANSING OF CROTUS PRENN",
+            "type": 2,
+            "version": "4.5.0",
+            "weight": 1026.0
+        },
+        {
+            "": "",
+            "contentTags": [
+                "steam",
+                "xbox",
+                "ps4",
+                "grdk",
+                "stadia",
+                "xsx",
+                "ps5"
+            ],
+            "description": "The game client has been updated to the 4.5.2 bugfix.<br/><br/><span class=\"Heading2\">CONTENT</span><li>Raised camera to original position when crawling</li><li>Changed transition animations in Survivor Locomotion to make the controls feel more responsive.</li><li>HUD Layout changes: Added a new setting in the Settings menu to control the size of the Skill Check independently of the HUD scale setting.</li><br/><br/><span class=\"Heading2\">BUG FIXES</span><li>Fixed hit registration issues seen since 4.5.0</li><li>Fixed an issue that caused survivors to crawl faster than intended</li><li>Fixed an issue that prevented event bloodpoints from being awarded from certain indoor generator types</li><li>Fixed an issue with Killers unable to view charms on hooks</li><br/><br/>Please click <a href=\"event:https://forum.deadbydaylight.com/en/kb/patchnotes\"><font color=\"#ff0000\"><u>HERE</u></font></a> for full patch notes.",
             "dwnImagePath": "",
             "imageHeight": "",
             "imagePath": "",
             "isHidden": false,
-            "startDate": "2021-02-22T16:00:00",
-            "title": "DEV ISSUES",
+            "startDate": "2021-02-23T16:00:00",
+            "title": "4.5.2 BUGFIX",
             "type": 4,
             "version": "4.5.2",
-            "weight": 1023.0
+            "weight": 1025.0
+        },
+        {
+            "": "",
+            "contentTags": [
+                "switch"
+            ],
+            "description": "The game client has been updated to the 4.5.2 bugfix.<br/><br/><span class=\"Heading2\">CONTENT</span><li>Raised camera to original position when crawling</li><li>Changed transition animations in Survivor Locomotion to make the controls feel more responsive.</li><li>HUD Layout changes: Added a new setting in the Settings menu to control the size of the Skill Check independently of the HUD scale setting.</li><br/><br/><span class=\"Heading2\">BUG FIXES</span><li>Fixed hit registration issues seen since 4.5.0</li><li>Fixed an issue that caused survivors to crawl faster than intended</li><li>Fixed an issue that prevented event bloodpoints from being awarded from certain indoor generator types</li><li>Fixed an issue with Killers unable to view charms on hooks</li><br/><br/>Please see forum.deadbydaylight.com/en/kb/patchnotes for full patch notes",
+            "dwnImagePath": "",
+            "imageHeight": "",
+            "imagePath": "",
+            "isHidden": false,
+            "startDate": "2021-02-23T16:00:00",
+            "title": "4.5.2 BUGFIX",
+            "type": 4,
+            "version": "4.5.2",
+            "weight": 1024.0
         },
         {
             "": "",
