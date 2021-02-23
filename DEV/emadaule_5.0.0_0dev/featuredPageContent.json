@@ -1,0 +1,842 @@
+{
+    "banners": {
+        "left": [
+            {
+                "endDate": "2018-09-11T14:59:59",
+                "ids": [
+                    "Banner_DLC_CHAPTER_8"
+                ],
+                "startDate": "2018-07-24T15:00:00"
+            }
+        ],
+        "primary": [
+            {
+                "endDate": "2019-11-06T15:59:59",
+                "ids": [
+                    "Banner_RDoD",
+                    "Banner_QH",
+                    "Banner_QFD",
+                    "Banner_RH"
+                ],
+                "startDate": "2019-11-02T15:00:00"
+            },
+            {
+                "endDate": "2019-11-13T15:59:59",
+                "ids": [
+                    "Banner_RST",
+                    "Banner_RDoD",
+                    "Banner_QH",
+                    "Banner_QFD",
+                    "Banner_RH"
+                ],
+                "startDate": "2019-11-06T16:00:00"
+            },
+            {
+                "endDate": "2019-11-20T15:59:59",
+                "ids": [
+                    "Banner_RGF",
+                    "Banner_RST",
+                    "Banner_RDoD",
+                    "Banner_QH"
+                ],
+                "startDate": "2019-11-13T16:00:00"
+            },
+            {
+                "endDate": "2019-11-28T15:59:59",
+                "ids": [
+                    "Banner_RTP",
+                    "Banner_RGF",
+                    "Banner_RST",
+                    "Banner_RDoD",
+                    "Banner_QH"
+                ],
+                "startDate": "2019-11-20T16:00:00"
+            },
+            {
+                "endDate": "2019-12-03T15:59:59",
+                "ids": [
+                    "Banner_RH2",
+                    "Banner_RTP",
+                    "Banner_RGF",
+                    "Banner_RST",
+                    "Banner_RDoD"
+                ],
+                "startDate": "2019-11-28T16:00:00"
+            },
+            {
+                "endDate": "2019-12-11T15:59:59",
+                "ids": [
+                    "Banner_DLC_Chapter_14_big",
+                    "Banner_SOY"
+                ],
+                "startDate": "2019-12-03T16:00:00"
+            },
+            {
+                "endDate": "2019-12-18T15:59:59",
+                "ids": [
+                    "Banner_SUS"
+                ],
+                "startDate": "2019-12-11T16:00:00"
+            },
+            {
+                "endDate": "2019-12-25T15:59:59",
+                "ids": [
+                    "Banner_SW1",
+                    "Banner_SW1_01"
+                ],
+                "startDate": "2019-12-18T16:00:00"
+            },
+            {
+                "endDate": "2019-12-29T15:59:59",
+                "ids": [
+                    "Banner_SW2"
+                ],
+                "startDate": "2019-12-25T16:00:00"
+            },
+            {
+                "endDate": "2020-01-08T15:59:59",
+                "ids": [
+                    "Banner_SNY",
+                    "Banner_SNY_01"
+                ],
+                "startDate": "2019-12-29T16:00:00"
+            },
+            {
+                "endDate": "2020-01-15T15:59:59",
+                "ids": [
+                    "Banner_SNYS"
+                ],
+                "startDate": "2020-01-08T16:00:00"
+            },
+            {
+                "endDate": "2020-01-21T15:59:59",
+                "ids": [
+                    "Banner_SNT"
+                ],
+                "startDate": "2020-01-15T16:00:00"
+            },
+            {
+                "endDate": "2020-01-29T15:59:59",
+                "ids": [
+                    "Banner_TLN",
+                    "Banner_SNT",
+                    "Banner_SW2",
+                    "Banner_SW1_01",
+                    "Banner_SW1",
+                    "Banner_SNY",
+                    "Banner_SNY_01"
+                ],
+                "startDate": "2020-01-21T16:00:00"
+            },
+            {
+                "endDate": "2020-02-05T15:59:59",
+                "ids": [
+                    "Banner_TGM2",
+                    "Banner_TGM",
+                    "Banner_TLN",
+                    "Banner_SW2",
+                    "Banner_SW1_01",
+                    "Banner_SNT"
+                ],
+                "startDate": "2020-01-29T16:00:00"
+            },
+            {
+                "endDate": "2020-02-12T15:59:59",
+                "ids": [
+                    "Banner_TD",
+                    "Banner_TGM2",
+                    "Banner_TGM",
+                    "Banner_TLN",
+                    "Banner_SW2",
+                    "Banner_SW1_01"
+                ],
+                "startDate": "2020-02-05T16:00:00"
+            },
+            {
+                "endDate": "2020-02-26T15:59:59",
+                "ids": [
+                    "Banner_TSN",
+                    "Banner_TD",
+                    "Banner_TGM2",
+                    "Banner_TGM",
+                    "Banner_TLN",
+                    "Banner_SW2"
+                ],
+                "startDate": "2020-02-12T16:00:00"
+            },
+            {
+                "endDate": "2020-03-10T14:59:59",
+                "ids": [
+                    "Banner_TP",
+                    "Banner_TD",
+                    "Banner_TSN",
+                    "Banner_TGM2",
+                    "Banner_TGM",
+                    "Banner_TLN"
+                ],
+                "startDate": "2020-02-26T16:00:00"
+            },
+            {
+                "endDate": "2020-03-18T14:59:59",
+                "ids": [
+                    "Banner_DLC_Chapter_15_big",
+                    "Banner_UGS",
+                    "Banner_UZA",
+                    "Banner_TGM2",
+                    "Banner_TSN",
+                    "Banner_TLN",
+                    "Banner_TP"
+                ],
+                "startDate": "2020-03-10T15:00:00"
+            },
+            {
+                "endDate": "2020-03-25T14:59:59",
+                "ids": [
+                    "Banner_UAA",
+                    "Banner_UGS",
+                    "Banner_UZA",
+                    "Banner_TGM2",
+                    "Banner_TSN",
+                    "Banner_TLN"
+                ],
+                "startDate": "2020-03-18T15:00:00"
+            },
+            {
+                "endDate": "2020-04-01T14:59:59",
+                "ids": [
+                    "Banner_UGF",
+                    "Banner_UAA",
+                    "Banner_UGS",
+                    "Banner_UZA",
+                    "Banner_TGM2",
+                    "Banner_TSN"
+                ],
+                "startDate": "2020-03-25T15:00:00"
+            },
+            {
+                "endDate": "2020-04-08T14:59:59",
+                "ids": [
+                    "Banner_UCBV",
+                    "Banner_UZAV",
+                    "Banner_UGF",
+                    "Banner_UAA",
+                    "Banner_UZA",
+                    "Banner_UGS",
+                    "Banner_TGM2"
+                ],
+                "startDate": "2020-04-01T15:00:00"
+            },
+            {
+                "endDate": "2020-04-15T14:59:59",
+                "ids": [
+                    "Banner_UBF",
+                    "Banner_UCBV",
+                    "Banner_UZAV",
+                    "Banner_UGF",
+                    "Banner_UAA",
+                    "Banner_UZA",
+                    "Banner_UGS"
+                ],
+                "startDate": "2020-04-08T15:00:00"
+            },
+            {
+                "endDate": "2020-04-29T14:59:59",
+                "ids": [
+                    "Banner_UWJ",
+                    "Banner_UBF",
+                    "Banner_UCBV",
+                    "Banner_UZAV",
+                    "Banner_UGF"
+                ],
+                "startDate": "2020-04-15T15:00:00"
+            },
+            {
+                "endDate": "2020-05-01T14:59:59",
+                "ids": [
+                    "Banner_UBF",
+                    "Banner_UWJ",
+                    "Banner_UGF",
+                    "Banner_UZA",
+                    "Banner_UGF"
+                ],
+                "startDate": "2020-04-29T15:00:00"
+            },
+            {
+                "endDate": "2020-05-08T14:59:59",
+                "ids": [
+                    "Banner_VGW",
+                    "Banner_UBF",
+                    "Banner_UWJ",
+                    "Banner_UGF"
+                ],
+                "startDate": "2020-05-01T15:00:00"
+            },
+            {
+                "endDate": "2020-05-15T14:59:59",
+                "ids": [
+                    "Banner_VMS2",
+                    "Banner_VMS",
+                    "Banner_UBF",
+                    "Banner_UGF",
+                    "Banner_UWJ"
+                ],
+                "startDate": "2020-05-08T15:00:00"
+            },
+            {
+                "endDate": "2020-05-22T14:59:59",
+                "ids": [
+                    "Banner_VFC",
+                    "Banner_VMS2",
+                    "Banner_VMS",
+                    "Banner_UBF",
+                    "Banner_UGF",
+                    "Banner_UWJ"
+                ],
+                "startDate": "2020-05-15T15:00:00"
+            },
+            {
+                "endDate": "2020-06-05T14:59:59",
+                "ids": [
+                    "Banner_VJC",
+                    "Banner_VFC",
+                    "Banner_VMS2",
+                    "Banner_VMS",
+                    "Banner_UBF"
+                ],
+                "startDate": "2020-05-22T15:00:00"
+            },
+            {
+                "endDate": "2020-06-16T14:59:59",
+                "ids": [
+                    "Banner_VD",
+                    "Banner_VJC",
+                    "Banner_VFC",
+                    "Banner_VMS2",
+                    "Banner_VMS",
+                    "Banner_UBF"
+                ],
+                "startDate": "2020-06-05T15:00:00"
+            },
+            {
+                "endDate": "2020-06-19T14:59:59",
+                "ids": [
+                    "Banner_DLC_Chapter_16_Big"
+                ],
+                "startDate": "2020-06-16T15:00:00"
+            },
+            {
+                "endDate": "2020-06-23T14:59:59",
+                "ids": [
+                    "Banner_WS22",
+                    "Banner_WS22_01"
+                ],
+                "startDate": "2020-06-19T15:00:00"
+            },
+            {
+                "endDate": "2020-06-26T14:59:59",
+                "ids": [
+                    "Banner_WK20",
+                    "Banner_WS22",
+                    "Banner_WS22_01"
+                ],
+                "startDate": "2020-06-23T15:00:00"
+            },
+            {
+                "endDate": "2020-07-03T14:59:59",
+                "ids": [
+                    "Banner_WKK",
+                    "Banner_WK20",
+                    "Banner_WS22",
+                    "Banner_WS22_01"
+                ],
+                "startDate": "2020-06-26T15:00:00"
+            },
+            {
+                "endDate": "2020-07-08T14:59:59",
+                "ids": [
+                    "Banner_WNK",
+                    "Banner_WKK",
+                    "Banner_WK20",
+                    "Banner_WS22",
+                    "Banner_WS22_01"
+                ],
+                "startDate": "2020-07-03T15:00:00"
+            },
+            {
+                "endDate": "2020-07-17T14:59:59",
+                "ids": [
+                    "Banner_WSS",
+                    "Banner_WNK",
+                    "Banner_WKK",
+                    "Banner_WK20",
+                    "Banner_WS22",
+                    "Banner_WS22_01"
+                ],
+                "startDate": "2020-07-08T15:00:00"
+            },
+            {
+                "endDate": "2020-07-22T14:59:59",
+                "ids": [
+                    "Banner_WKS",
+                    "Banner_WSS",
+                    "Banner_WNK",
+                    "Banner_WKK",
+                    "Banner_WK20",
+                    "Banner_WS22"
+                ],
+                "startDate": "2020-07-17T15:00:00"
+            },
+            {
+                "endDate": "2020-07-28T14:59:59",
+                "ids": [
+                    "Banner_WKS",
+                    "Banner_WNK",
+                    "Banner_WKK",
+                    "Banner_WK20",
+                    "Banner_WS22"
+                ],
+                "startDate": "2020-07-22T15:00:00"
+            },
+            {
+                "endDate": "2020-07-31T14:59:59",
+                "ids": [
+                    "Banner_XCY",
+                    "Banner_WKS",
+                    "Banner_WNK",
+                    "Banner_WKK",
+                    "Banner_WK20"
+                ],
+                "startDate": "2020-07-28T15:00:00"
+            },
+            {
+                "endDate": "2020-08-04T14:59:59",
+                "ids": [
+                    "Banner_XOD",
+                    "Banner_XCY",
+                    "Banner_WKS",
+                    "Banner_WNK",
+                    "Banner_WKK"
+                ],
+                "startDate": "2020-07-31T15:00:00"
+            },
+            {
+                "endDate": "2020-08-07T14:59:59",
+                "ids": [
+                    "Banner_XSA",
+                    "Banner_XOD",
+                    "Banner_XCY",
+                    "Banner_WKS",
+                    "Banner_WNK"
+                ],
+                "startDate": "2020-08-04T15:00:00"
+            },
+            {
+                "endDate": "2020-08-21T14:59:59",
+                "ids": [
+                    "Banner_XFJ",
+                    "Banner_XSA",
+                    "Banner_XOD",
+                    "Banner_XCY",
+                    "Banner_WKS"
+                ],
+                "startDate": "2020-08-07T15:00:00"
+            },
+            {
+                "endDate": "2020-09-08T14:59:59",
+                "ids": [
+                    "Banner_XE",
+                    "Banner_XFJ",
+                    "Banner_XSA",
+                    "Banner_XOD",
+                    "Banner_XCY"
+                ],
+                "startDate": "2020-08-21T15:00:00"
+            },
+            {
+                "endDate": "2020-09-11T14:59:59",
+                "ids": [
+                    "Banner_DLC_Chapter_17_Big",
+                    "Banner_YFB",
+                    "Banner_XE",
+                    "Banner_XFJ",
+                    "Banner_XSA"
+                ],
+                "startDate": "2020-09-08T15:00:00"
+            },
+            {
+                "endDate": "2020-09-25T14:59:59",
+                "ids": [
+                    "Banner_YOC",
+                    "Banner_YFB",
+                    "Banner_XE",
+                    "Banner_XFJ",
+                    "Banner_XSA"
+                ],
+                "startDate": "2020-09-11T15:00:00"
+            },
+            {
+                "endDate": "2020-10-20T14:59:59",
+                "ids": [
+                    "Banner_YC",
+                    "Banner_YOC",
+                    "Banner_YFB",
+                    "Banner_XE",
+                    "Banner_XFJ"
+                ],
+                "startDate": "2020-09-25T15:00:00"
+            },
+            {
+                "endDate": "2020-10-24T14:59:59",
+                "ids": [
+                    "Banner_ZKH",
+                    "Banner_ZSH",
+                    "Banner_YC",
+                    "Banner_YOC",
+                    "Banner_YFB"
+                ],
+                "startDate": "2020-10-20T15:00:00"
+            },
+            {
+                "endDate": "2020-10-26T14:59:59",
+                "ids": [
+                    "Banner_ZHS",
+                    "Banner_ZKH",
+                    "Banner_ZSH",
+                    "Banner_YC",
+                    "Banner_YOC"
+                ],
+                "startDate": "2020-10-24T15:00:00"
+            },
+            {
+                "endDate": "2020-11-02T15:59:59",
+                "ids": [
+                    "Banner_ZSH",
+                    "Banner_ZHS",
+                    "Banner_ZKH",
+                    "Banner_YC",
+                    "Banner_YOC"
+                ],
+                "startDate": "2020-10-26T15:00:00"
+            },
+            {
+                "endDate": "2020-11-13T15:59:59",
+                "ids": [
+                    "Banner_ZSH",
+                    "Banner_ZKH",
+                    "Banner_YC",
+                    "Banner_YOC"
+                ],
+                "startDate": "2020-11-02T16:00:00"
+            },
+            {
+                "endDate": "2020-11-26T15:59:59",
+                "ids": [
+                    "Banner_ZL",
+                    "Banner_ZSH",
+                    "Banner_ZKH",
+                    "Banner_YC"
+                ],
+                "startDate": "2020-11-13T16:00:00"
+            },
+            {
+                "endDate": "2020-12-01T15:59:59",
+                "ids": [
+                    "Banner_RH2",
+                    "Banner_ZL",
+                    "Banner_ZSH",
+                    "Banner_ZKH",
+                    "Banner_YC"
+                ],
+                "startDate": "2020-11-26T16:00:00"
+            },
+            {
+                "endDate": "2020-12-03T15:59:59",
+                "ids": [
+                    "Banner_DLC_Chapter_18_Big",
+                    "Banner_AS24",
+                    "Banner_AK22",
+                    "Banner_RH2"
+                ],
+                "startDate": "2020-12-01T16:00:00"
+            },
+            {
+                "endDate": "2020-12-04T15:59:59",
+                "ids": [
+                    "Banner_DLC_Chapter_18_Big",
+                    "Banner_AS24",
+                    "Banner_AK22",
+                    "Banner_ZL"
+                ],
+                "startDate": "2020-12-03T16:00:00"
+            },
+            {
+                "endDate": "2020-12-08T15:59:59",
+                "ids": [
+                    "Banner_AT",
+                    "Banner_AS24",
+                    "Banner_AK22",
+                    "Banner_ZL"
+                ],
+                "startDate": "2020-12-04T16:00:00"
+            },
+            {
+                "endDate": "2020-12-11T15:59:59",
+                "ids": [
+                    "Banner_ADAZ",
+                    "Banner_AT",
+                    "Banner_AS24",
+                    "Banner_AK22",
+                    "Banner_ZL"
+                ],
+                "startDate": "2020-12-08T16:00:00"
+            },
+            {
+                "endDate": "2020-12-14T15:59:59",
+                "ids": [
+                    "Banner_AJC",
+                    "Banner_ADAZ",
+                    "Banner_AT",
+                    "Banner_AS24",
+                    "Banner_AK22"
+                ],
+                "startDate": "2020-12-11T16:00:00"
+            },
+            {
+                "endDate": "2021-01-01T15:59:59",
+                "ids": [
+                    "Banner_ACF",
+                    "Banner_AJC",
+                    "Banner_ADAZ",
+                    "Banner_AT",
+                    "Banner_AS24"
+                ],
+                "startDate": "2020-12-14T16:00:00"
+            },
+            {
+                "endDate": "2021-01-23T16:00:00",
+                "ids": [
+                    "Banner_A75",
+                    "Banner_ACT",
+                    "Banner_AJW"
+                ],
+                "startDate": "2021-01-01T16:00:00"
+            },
+            {
+                "endDate": "2021-02-18T16:00:00",
+                "ids": [
+                    "Banner_BB_NS",
+                    "Banner_BB_D",
+                    "Banner_BB_LNYDW",
+                    "Banner_BB_NYS",
+                    "Banner_BB_JP",
+                    "Banner_BB_RCJKNM"
+                ],
+                "startDate": "2021-01-23T16:00:00"
+            },
+            {
+                "endDate": "2021-03-18T16:00:00",
+                "ids": [
+                    "Banner_BB_RCJKNM",
+                    "Banner_BB_AOR1",
+                    "Banner_BB_AOR2"
+                ],
+                "startDate": "2021-02-18T16:00:00"
+            }
+        ],
+        "right": [
+            {
+                "endDate": "2018-09-11T14:59:59",
+                "ids": [
+                    "Banner_DLC_CHAPTER_8"
+                ],
+                "startDate": "2018-07-24T15:00:00"
+            }
+        ],
+        "secondary": [
+            {
+                "endDate": "2019-12-11T14:59:59",
+                "ids": [
+                    "Banner_DLC_Chapter_13_small"
+                ],
+                "startDate": "2019-09-25T15:00:00"
+            },
+            {
+                "endDate": "2020-03-18T15:00:00",
+                "ids": [
+                    "Banner_DLC_Chapter_14_small"
+                ],
+                "startDate": "2019-12-11T16:00:00"
+            },
+            {
+                "endDate": "2020-06-19T14:59:59",
+                "ids": [
+                    "Banner_DLC_Chapter_15_Small"
+                ],
+                "startDate": "2020-03-18T15:00:00"
+            },
+            {
+                "endDate": "2020-09-08T14:59:59",
+                "ids": [
+                    "Banner_DLC_Chapter_16_Small"
+                ],
+                "startDate": "2020-06-19T15:00:00"
+            },
+            {
+                "endDate": "2020-12-04T15:59:59",
+                "ids": [
+                    "Banner_DLC_Chapter_17_Small"
+                ],
+                "startDate": "2020-09-08T15:00:00"
+            },
+            {
+                "endDate": "2021-05-04T15:59:59",
+                "ids": [
+                    "storeBanner_AURR_small"
+                ],
+                "startDate": "2020-12-04T16:00:00"
+            }
+        ]
+    },
+    "recommendationBoxPriorities": [
+        {
+            "boxId": 1,
+            "category": "outfit"
+        },
+        {
+            "boxId": 2,
+            "category": "outfit"
+        },
+        {
+            "boxId": 3,
+            "category": "outfit"
+        },
+        {
+            "boxId": 4,
+            "category": "outfit"
+        },
+        {
+            "boxId": 5,
+            "category": "outfit"
+        },
+        {
+            "boxId": 6,
+            "category": "outfit"
+        },
+        {
+            "boxId": 7,
+            "category": "outfit"
+        },
+        {
+            "boxId": 8,
+            "category": "outfit"
+        },
+        {
+            "boxId": 9,
+            "category": "outfit"
+        }
+    ],
+    "recommendations": [
+        {
+            "data": [
+                {
+                    "category": "outfit",
+                    "ids": [
+                        "US_outfit_006",
+                        "UK_outfit_006",
+                        "MS_outfit_012",
+                        "S22_outfit_007",
+                        "KK_outfit_016",
+                        "K20_outfit_006"
+                    ]
+                }
+            ],
+            "endDate": "2020-10-28T14:59:59",
+            "startDate": "2020-10-27T15:00:00"
+        },
+        {
+            "data": [
+                {
+                    "category": "outfit",
+                    "ids": [
+                        "MK_outfit_008",
+                        "QM_outfit_006",
+                        "SwedenKiller_outfit_006",
+                        "SwedenSurvivor_outfit_009",
+                        "QK_outfit_006",
+                        "QF_outfit_008"
+                    ]
+                }
+            ],
+            "endDate": "2020-10-29T14:59:59",
+            "startDate": "2020-10-28T15:00:00"
+        },
+        {
+            "data": [
+                {
+                    "category": "outfit",
+                    "ids": [
+                        "Smoke_outfit_008_01",
+                        "OK_outfit_02",
+                        "FS_outfit_006",
+                        "FK_outfit_006",
+                        "Meg_outfit_008_01",
+                        "Kate_outfit_009_01"
+                    ]
+                }
+            ],
+            "endDate": "2020-10-30T14:59:59",
+            "startDate": "2020-10-29T15:00:00"
+        },
+        {
+            "data": [
+                {
+                    "category": "outfit",
+                    "ids": [
+                        "TN_outfit_008",
+                        "Dwight_outfit_019",
+                        "Claudette_outfit_019",
+                        "JP_outfit_011",
+                        "Chuckles_outfit_010",
+                        "Bob_outfit_010"
+                    ]
+                }
+            ],
+            "endDate": "2020-10-31T14:59:59",
+            "startDate": "2020-10-30T15:00:00"
+        },
+        {
+            "data": [
+                {
+                    "category": "outfit",
+                    "ids": [
+                        "HillBilly_outfit_010",
+                        "WI_outfit_008",
+                        "Killer07_outfit_013",
+                        "Bear_outfit_006",
+                        "GK_outfit_009",
+                        "HK_outfit_008"
+                    ]
+                }
+            ],
+            "endDate": "2020-11-01T14:59:59",
+            "startDate": "2020-10-31T15:00:00"
+        },
+        {
+            "data": [
+                {
+                    "category": "outfit",
+                    "ids": [
+                        "Feng_outfit_002",
+                        "Jeff_Outfit_007",
+                        "ML_outfit_02",
+                        "Ace_outfit_008_01",
+                        "Nea_outfit_009_01",
+                        "Adam_outfit_008_01"
+                    ]
+                }
+            ],
+            "endDate": "2020-11-02T14:59:59",
+            "startDate": "2020-11-01T15:00:00"
+        }
+    ]
+}

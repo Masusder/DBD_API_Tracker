@@ -1,0 +1,77 @@
+{
+    "dedicatedServer": {
+        "latencyRetryCooldownSeconds": 600
+    },
+    "friendsList": {
+        "maxFriendSuggestionsFacebook": 4,
+        "maxFriendSuggestionsGoogle": 4,
+        "maxFriendSuggestionsRecentlyPlayed": 4
+    },
+    "hitValidation": {
+        "enable": true,
+        "enableCollisionCheck": false,
+        "recorder": {
+            "cacheTimespan": 0.25
+        },
+        "validators": [
+            {
+                "capsuleInflation": 50.0,
+                "maximumDistance": 300.0,
+                "name": "default"
+            },
+            {
+                "capsuleInflation": 50.0,
+                "maximumDistance": 200.0,
+                "name": "hatchet"
+            },
+            {
+                "capsuleInflation": 50.0,
+                "maximumDistance": 200.0,
+                "name": "bomb"
+            },
+            {
+                "capsuleInflation": 50.0,
+                "maximumDistance": 200.0,
+                "name": "harpoon"
+            },
+            {
+                "capsuleInflation": 50.0,
+                "maximumDistance": 350.0,
+                "name": "oni"
+            }
+        ]
+    },
+    "matchmakingCrossplayPlatforms": {
+        "dmm": false,
+        "grdk": true,
+        "ps4": true,
+        "ps5": true,
+        "stadia": true,
+        "steam": true,
+        "switch": true,
+        "xbox": true,
+        "xsx": true
+    },
+    "socialCrossfriendsPlatforms": {
+        "dmm": false,
+        "grdk": true,
+        "ps4": true,
+        "ps5": true,
+        "stadia": true,
+        "steam": true,
+        "switch": true,
+        "xbox": true,
+        "xsx": true
+    },
+    "socialCrossprogressionPlatforms": {
+        "dmm": false,
+        "grdk": false,
+        "ps4": false,
+        "ps5": false,
+        "stadia": true,
+        "steam": true,
+        "switch": true,
+        "xbox": false,
+        "xsx": false
+    }
+}

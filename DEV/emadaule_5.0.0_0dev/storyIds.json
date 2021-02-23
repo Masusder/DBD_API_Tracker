@@ -1,0 +1,142 @@
+{
+    "openStories": [
+        "Tome07",
+        "Tome06",
+        "Tome05",
+        "Tome04",
+        "Tome03",
+        "Tome02",
+        "Tome01"
+    ],
+    "storiesStatus": [
+        {
+            "id": "Tome07",
+            "levelStatus": [
+                {
+                    "status": "open",
+                    "hasUnseenContent": true
+                },
+                {
+                    "status": "locked"
+                },
+                {
+                    "status": "locked"
+                },
+                {
+                    "status": "locked"
+                },
+                {
+                    "status": "locked"
+                }
+            ]
+        },
+        {
+            "id": "Tome06",
+            "levelStatus": [
+                {
+                    "status": "open",
+                    "hasUnseenContent": true
+                },
+                {
+                    "status": "locked"
+                },
+                {
+                    "status": "locked"
+                },
+                {
+                    "status": "locked"
+                }
+            ]
+        },
+        {
+            "id": "Tome05",
+            "levelStatus": [
+                {
+                    "status": "open",
+                    "hasUnseenContent": true
+                },
+                {
+                    "status": "locked"
+                },
+                {
+                    "status": "locked"
+                },
+                {
+                    "status": "locked"
+                }
+            ]
+        },
+        {
+            "id": "Tome04",
+            "levelStatus": [
+                {
+                    "status": "open",
+                    "hasUnseenContent": true
+                },
+                {
+                    "status": "locked"
+                },
+                {
+                    "status": "locked"
+                },
+                {
+                    "status": "locked"
+                }
+            ]
+        },
+        {
+            "id": "Tome03",
+            "levelStatus": [
+                {
+                    "status": "open",
+                    "hasUnseenContent": true
+                },
+                {
+                    "status": "locked"
+                },
+                {
+                    "status": "locked"
+                },
+                {
+                    "status": "locked"
+                }
+            ]
+        },
+        {
+            "id": "Tome02",
+            "levelStatus": [
+                {
+                    "status": "open",
+                    "hasUnseenContent": true
+                },
+                {
+                    "status": "locked"
+                },
+                {
+                    "status": "locked"
+                },
+                {
+                    "status": "locked"
+                }
+            ]
+        },
+        {
+            "id": "Tome01",
+            "levelStatus": [
+                {
+                    "status": "open",
+                    "hasUnseenContent": true
+                },
+                {
+                    "status": "locked"
+                },
+                {
+                    "status": "locked"
+                },
+                {
+                    "status": "locked"
+                }
+            ]
+        }
+    ]
+}

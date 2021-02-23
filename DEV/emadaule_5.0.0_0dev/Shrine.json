@@ -1,0 +1,63 @@
+{
+    "items": [
+        {
+            "id": "DecisiveStrike",
+            "bloodpointValue": 150000,
+            "experienceValue": 150000,
+            "unique": false,
+            "purchased": false,
+            "version": "steam",
+            "cost": [
+                {
+                    "currencyId": "Shards",
+                    "price": 2000
+                }
+            ]
+        },
+        {
+            "id": "DragonsGrip",
+            "bloodpointValue": 250000,
+            "experienceValue": 250000,
+            "unique": false,
+            "purchased": false,
+            "version": "steam",
+            "cost": [
+                {
+                    "currencyId": "Shards",
+                    "price": 2700
+                }
+            ]
+        },
+        {
+            "id": "Empathy",
+            "bloodpointValue": 150000,
+            "experienceValue": 150000,
+            "unique": false,
+            "purchased": false,
+            "version": "steam",
+            "cost": [
+                {
+                    "currencyId": "Shards",
+                    "price": 2000
+                }
+            ]
+        },
+        {
+            "id": "Thanatophobia",
+            "bloodpointValue": 150000,
+            "experienceValue": 150000,
+            "unique": false,
+            "purchased": false,
+            "version": "steam",
+            "cost": [
+                {
+                    "currencyId": "Shards",
+                    "price": 2000
+                }
+            ]
+        }
+    ],
+    "startDate": "2021-02-17T00:00:00",
+    "endDate": "2021-02-23T23:59:59",
+    "week": 227
+}
