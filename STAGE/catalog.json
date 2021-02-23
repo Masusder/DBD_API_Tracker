@@ -1155,8 +1155,8 @@
             "base_itemId": "DF_Head001",
             "character": "Dwight",
             "kind": "Customization",
-            "newEndDate": "2018-06-12T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2018-06-12T23:59:58",
+            "newStartDate": "2018-06-12T00:00:01",
             "outfitId": "Dwight_outfit_001",
             "quality": "V0",
             "qualityName": "quality1",
@@ -11280,6 +11280,10 @@
             {
                 "currencyId": "Cells",
                 "price": 400
+            },
+            {
+                "currencyId": "Shards",
+                "price": 7200
             }
         ],
         "eventCostList": [],
@@ -11289,8 +11293,8 @@
             "base_itemId": "CM_Head011",
             "character": "Claudette",
             "kind": "Customization",
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2021-01-29T15:59:59",
+            "newStartDate": "2021-01-15T16:00:00",
             "outfitId": "CM_outfit_011",
             "quality": "V0",
             "qualityName": "quality1",
@@ -11312,7 +11316,7 @@
         },
         "nonSecure": false,
         "premium": false,
-        "purchasable": false,
+        "purchasable": true,
         "unique": true
     },
     {
@@ -11326,6 +11330,10 @@
             {
                 "currencyId": "Cells",
                 "price": 400
+            },
+            {
+                "currencyId": "Shards",
+                "price": 7200
             }
         ],
         "eventCostList": [],
@@ -11335,8 +11343,8 @@
             "base_itemId": "CM_Torso011",
             "character": "Claudette",
             "kind": "Customization",
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2021-01-29T15:59:59",
+            "newStartDate": "2021-01-15T16:00:00",
             "outfitId": "CM_outfit_011",
             "quality": "V0",
             "qualityName": "quality1",
@@ -11358,7 +11366,7 @@
         },
         "nonSecure": false,
         "premium": false,
-        "purchasable": false,
+        "purchasable": true,
         "unique": true
     },
     {
@@ -11372,6 +11380,10 @@
             {
                 "currencyId": "Cells",
                 "price": 400
+            },
+            {
+                "currencyId": "Shards",
+                "price": 7200
             }
         ],
         "eventCostList": [],
@@ -11381,8 +11393,8 @@
             "base_itemId": "CM_Legs011",
             "character": "Claudette",
             "kind": "Customization",
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2021-01-29T15:59:59",
+            "newStartDate": "2021-01-15T16:00:00",
             "outfitId": "CM_outfit_011",
             "quality": "V0",
             "qualityName": "quality1",
@@ -11404,7 +11416,7 @@
         },
         "nonSecure": false,
         "premium": false,
-        "purchasable": false,
+        "purchasable": true,
         "unique": true
     },
     {
@@ -14496,6 +14508,10 @@
             {
                 "currencyId": "Cells",
                 "price": 250
+            },
+            {
+                "currencyId": "Shards",
+                "price": 4500
             }
         ],
         "eventCostList": [],
@@ -14505,8 +14521,8 @@
             "base_itemId": "JP_Head010",
             "character": "Jake",
             "kind": "Customization",
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2021-02-05T15:59:59",
+            "newStartDate": "2021-01-22T16:00:00",
             "outfitId": "JP_outfit_010",
             "quality": "V0",
             "qualityName": "quality1",
@@ -14528,7 +14544,7 @@
         },
         "nonSecure": false,
         "premium": false,
-        "purchasable": false,
+        "purchasable": true,
         "unique": true
     },
     {
@@ -14542,6 +14558,10 @@
             {
                 "currencyId": "Cells",
                 "price": 250
+            },
+            {
+                "currencyId": "Shards",
+                "price": 4500
             }
         ],
         "eventCostList": [],
@@ -14551,8 +14571,8 @@
             "base_itemId": "JP_Torso010",
             "character": "Jake",
             "kind": "Customization",
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2021-02-05T15:59:59",
+            "newStartDate": "2021-01-22T16:00:00",
             "outfitId": "JP_outfit_010",
             "quality": "V0",
             "qualityName": "quality1",
@@ -14574,7 +14594,7 @@
         },
         "nonSecure": false,
         "premium": false,
-        "purchasable": false,
+        "purchasable": true,
         "unique": true
     },
     {
@@ -14588,6 +14608,10 @@
             {
                 "currencyId": "Cells",
                 "price": 250
+            },
+            {
+                "currencyId": "Shards",
+                "price": 4500
             }
         ],
         "eventCostList": [],
@@ -14597,8 +14621,8 @@
             "base_itemId": "JP_Legs010",
             "character": "Jake",
             "kind": "Customization",
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2021-02-05T15:59:59",
+            "newStartDate": "2021-01-22T16:00:00",
             "outfitId": "JP_outfit_010",
             "quality": "V0",
             "qualityName": "quality1",
@@ -14620,7 +14644,7 @@
         },
         "nonSecure": false,
         "premium": false,
-        "purchasable": false,
+        "purchasable": true,
         "unique": true
     },
     {
@@ -14784,10 +14808,6 @@
             {
                 "currencyId": "Cells",
                 "price": 400
-            },
-            {
-                "currencyId": "Shards",
-                "price": 7200
             }
         ],
         "eventCostList": [],
@@ -14797,8 +14817,8 @@
             "base_itemId": "JP_Head012",
             "character": "Jake",
             "kind": "Customization",
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2021-02-25T15:59:59",
+            "newStartDate": "2021-02-11T16:00:00",
             "outfitId": "JP_outfit_012",
             "quality": "V0",
             "qualityName": "quality1",
@@ -14820,7 +14840,7 @@
         },
         "nonSecure": false,
         "premium": false,
-        "purchasable": false,
+        "purchasable": true,
         "unique": true
     },
     {
@@ -14834,10 +14854,6 @@
             {
                 "currencyId": "Cells",
                 "price": 400
-            },
-            {
-                "currencyId": "Shards",
-                "price": 7200
             }
         ],
         "eventCostList": [],
@@ -14847,8 +14863,8 @@
             "base_itemId": "JP_Torso012",
             "character": "Jake",
             "kind": "Customization",
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2021-02-25T15:59:59",
+            "newStartDate": "2021-02-11T16:00:00",
             "outfitId": "JP_outfit_012",
             "quality": "V0",
             "qualityName": "quality1",
@@ -14870,7 +14886,7 @@
         },
         "nonSecure": false,
         "premium": false,
-        "purchasable": false,
+        "purchasable": true,
         "unique": true
     },
     {
@@ -14884,10 +14900,6 @@
             {
                 "currencyId": "Cells",
                 "price": 400
-            },
-            {
-                "currencyId": "Shards",
-                "price": 7200
             }
         ],
         "eventCostList": [],
@@ -14897,8 +14909,8 @@
             "base_itemId": "JP_Legs012",
             "character": "Jake",
             "kind": "Customization",
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2021-02-25T15:59:59",
+            "newStartDate": "2021-02-11T16:00:00",
             "outfitId": "JP_outfit_012",
             "quality": "V0",
             "qualityName": "quality1",
@@ -14920,7 +14932,7 @@
         },
         "nonSecure": false,
         "premium": false,
-        "purchasable": false,
+        "purchasable": true,
         "unique": true
     },
     {
@@ -43103,6 +43115,10 @@
             {
                 "currencyId": "Cells",
                 "price": 400
+            },
+            {
+                "currencyId": "Shards",
+                "price": 7200
             }
         ],
         "eventCostList": [],
@@ -43112,8 +43128,8 @@
             "base_itemId": "TR_Mask009",
             "character": "Chuckles",
             "kind": "Customization",
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2021-01-29T15:59:59",
+            "newStartDate": "2021-01-15T16:00:00",
             "outfitId": "TR_outfit_009",
             "quality": "V0",
             "qualityName": "quality1",
@@ -43135,7 +43151,7 @@
         },
         "nonSecure": false,
         "premium": false,
-        "purchasable": false,
+        "purchasable": true,
         "unique": true
     },
     {
@@ -43149,6 +43165,10 @@
             {
                 "currencyId": "Cells",
                 "price": 400
+            },
+            {
+                "currencyId": "Shards",
+                "price": 7200
             }
         ],
         "eventCostList": [],
@@ -43158,8 +43178,8 @@
             "base_itemId": "TR_Body009",
             "character": "Chuckles",
             "kind": "Customization",
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2021-01-29T15:59:59",
+            "newStartDate": "2021-01-15T16:00:00",
             "outfitId": "TR_outfit_009",
             "quality": "V0",
             "qualityName": "quality1",
@@ -43181,7 +43201,7 @@
         },
         "nonSecure": false,
         "premium": false,
-        "purchasable": false,
+        "purchasable": true,
         "unique": true
     },
     {
@@ -43195,6 +43215,10 @@
             {
                 "currencyId": "Cells",
                 "price": 400
+            },
+            {
+                "currencyId": "Shards",
+                "price": 7200
             }
         ],
         "eventCostList": [],
@@ -43204,8 +43228,8 @@
             "base_itemId": "TR_W009",
             "character": "Chuckles",
             "kind": "Customization",
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2021-01-29T15:59:59",
+            "newStartDate": "2021-01-15T16:00:00",
             "outfitId": "TR_outfit_009",
             "quality": "V0",
             "qualityName": "quality1",
@@ -43227,7 +43251,7 @@
         },
         "nonSecure": false,
         "premium": false,
-        "purchasable": false,
+        "purchasable": true,
         "unique": true
     },
     {
@@ -45247,6 +45271,10 @@
             {
                 "currencyId": "Cells",
                 "price": 250
+            },
+            {
+                "currencyId": "Shards",
+                "price": 4500
             }
         ],
         "eventCostList": [],
@@ -45256,8 +45284,8 @@
             "base_itemId": "TW_Head009",
             "character": "Bob",
             "kind": "Customization",
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2021-02-05T15:59:59",
+            "newStartDate": "2021-01-22T16:00:00",
             "outfitId": "TW_outfit_009",
             "quality": "V0",
             "qualityName": "quality1",
@@ -45279,7 +45307,7 @@
         },
         "nonSecure": false,
         "premium": false,
-        "purchasable": false,
+        "purchasable": true,
         "unique": true
     },
     {
@@ -45293,6 +45321,10 @@
             {
                 "currencyId": "Cells",
                 "price": 250
+            },
+            {
+                "currencyId": "Shards",
+                "price": 4500
             }
         ],
         "eventCostList": [],
@@ -45302,8 +45334,8 @@
             "base_itemId": "TW_Body009",
             "character": "Bob",
             "kind": "Customization",
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2021-02-05T15:59:59",
+            "newStartDate": "2021-01-22T16:00:00",
             "outfitId": "TW_outfit_009",
             "quality": "V0",
             "qualityName": "quality1",
@@ -45325,7 +45357,7 @@
         },
         "nonSecure": false,
         "premium": false,
-        "purchasable": false,
+        "purchasable": true,
         "unique": true
     },
     {
@@ -45339,6 +45371,10 @@
             {
                 "currencyId": "Cells",
                 "price": 250
+            },
+            {
+                "currencyId": "Shards",
+                "price": 4500
             }
         ],
         "eventCostList": [],
@@ -45348,8 +45384,8 @@
             "base_itemId": "TW_W009",
             "character": "Bob",
             "kind": "Customization",
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2021-02-05T15:59:59",
+            "newStartDate": "2021-01-22T16:00:00",
             "outfitId": "TW_outfit_009",
             "quality": "V0",
             "qualityName": "quality1",
@@ -45371,7 +45407,7 @@
         },
         "nonSecure": false,
         "premium": false,
-        "purchasable": false,
+        "purchasable": true,
         "unique": true
     },
     {
@@ -84844,9 +84880,9 @@
             "base_itemId": "QF_Head009",
             "character": "Nancy",
             "kind": "Customization",
-            "newEndDate": "2021-02-16T15:59:59",
-            "newStartDate": "2021-02-02T16:00:00",
-            "outfitId": "QF_Outfit_009",
+            "newEndDate": "2021-02-23T15:59:59",
+            "newStartDate": "2021-02-09T16:00:00",
+            "outfitId": "QF_outfit_009",
             "quality": "V0",
             "qualityName": "quality1",
             "rarity": "VeryRare",
@@ -84890,9 +84926,9 @@
             "base_itemId": "QF_Torso009",
             "character": "Nancy",
             "kind": "Customization",
-            "newEndDate": "2021-02-16T15:59:59",
-            "newStartDate": "2021-02-02T16:00:00",
-            "outfitId": "QF_Outfit_009",
+            "newEndDate": "2021-02-23T15:59:59",
+            "newStartDate": "2021-02-09T16:00:00",
+            "outfitId": "QF_outfit_009",
             "quality": "V0",
             "qualityName": "quality1",
             "rarity": "VeryRare",
@@ -84936,9 +84972,9 @@
             "base_itemId": "QF_Legs009",
             "character": "Nancy",
             "kind": "Customization",
-            "newEndDate": "2021-02-16T15:59:59",
-            "newStartDate": "2021-02-02T16:00:00",
-            "outfitId": "QF_Outfit_009",
+            "newEndDate": "2021-02-23T15:59:59",
+            "newStartDate": "2021-02-09T16:00:00",
+            "outfitId": "QF_outfit_009",
             "quality": "V0",
             "qualityName": "quality1",
             "rarity": "VeryRare",
@@ -84982,8 +85018,8 @@
             "base_itemId": "QM_Head009",
             "character": "Steve",
             "kind": "Customization",
-            "newEndDate": "2021-02-16T15:59:59",
-            "newStartDate": "2021-02-02T16:00:00",
+            "newEndDate": "2021-02-23T15:59:59",
+            "newStartDate": "2021-02-09T16:00:00",
             "outfitId": "QM_Outfit_009",
             "quality": "V0",
             "qualityName": "quality1",
@@ -85028,8 +85064,8 @@
             "base_itemId": "QM_Torso009",
             "character": "Steve",
             "kind": "Customization",
-            "newEndDate": "2021-02-16T15:59:59",
-            "newStartDate": "2021-02-02T16:00:00",
+            "newEndDate": "2021-02-23T15:59:59",
+            "newStartDate": "2021-02-09T16:00:00",
             "outfitId": "QM_Outfit_009",
             "quality": "V0",
             "qualityName": "quality1",
@@ -85074,8 +85110,8 @@
             "base_itemId": "QM_Legs009",
             "character": "Steve",
             "kind": "Customization",
-            "newEndDate": "2021-02-16T15:59:59",
-            "newStartDate": "2021-02-02T16:00:00",
+            "newEndDate": "2021-02-23T15:59:59",
+            "newStartDate": "2021-02-09T16:00:00",
             "outfitId": "QM_Outfit_009",
             "quality": "V0",
             "qualityName": "quality1",
@@ -85120,8 +85156,8 @@
             "base_itemId": "QK_Head007",
             "character": "Demogorgon",
             "kind": "Customization",
-            "newEndDate": "2021-02-16T15:59:59",
-            "newStartDate": "2021-02-02T16:00:00",
+            "newEndDate": "2021-02-23T15:59:59",
+            "newStartDate": "2021-02-09T16:00:00",
             "outfitId": "QK_outfit_007",
             "quality": "V0",
             "qualityName": "quality1",
@@ -85166,8 +85202,8 @@
             "base_itemId": "QK_Body007",
             "character": "Demogorgon",
             "kind": "Customization",
-            "newEndDate": "2021-02-16T15:59:59",
-            "newStartDate": "2021-02-02T16:00:00",
+            "newEndDate": "2021-02-23T15:59:59",
+            "newStartDate": "2021-02-09T16:00:00",
             "outfitId": "QK_outfit_007",
             "quality": "V0",
             "qualityName": "quality1",
@@ -85212,8 +85248,8 @@
             "base_itemId": "QK_W007",
             "character": "Demogorgon",
             "kind": "Customization",
-            "newEndDate": "2021-02-16T15:59:59",
-            "newStartDate": "2021-02-02T16:00:00",
+            "newEndDate": "2021-02-23T15:59:59",
+            "newStartDate": "2021-02-09T16:00:00",
             "outfitId": "QK_outfit_007",
             "quality": "V0",
             "qualityName": "quality1",
@@ -87878,6 +87914,138 @@
             "rarity": "VeryRare",
             "type": "Legs",
             "unbreakable": false,
+            "version": {
+                "grdk": true,
+                "nintendo": true,
+                "ps4": true,
+                "ps5": true,
+                "psn": true,
+                "stadia": true,
+                "steam": true,
+                "switch": true,
+                "xbox": true,
+                "xsx": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": false,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 400
+            }
+        ],
+        "eventCostList": [],
+        "id": "HS_Torso02_02",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "HS_Torso02_02",
+            "character": "Adam",
+            "kind": "Customization",
+            "newEndDate": "2018-06-25T23:59:59",
+            "newStartDate": "2018-06-12T00:00:00",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "SpecialEvent",
+            "type": "Torso",
+            "version": {
+                "grdk": true,
+                "nintendo": true,
+                "ps4": true,
+                "ps5": true,
+                "psn": true,
+                "stadia": true,
+                "steam": true,
+                "switch": true,
+                "xbox": true,
+                "xsx": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": false,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 400
+            }
+        ],
+        "eventCostList": [],
+        "id": "US_Head01_05",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "US_Head01_05",
+            "character": "Zarina",
+            "kind": "Customization",
+            "newEndDate": "2018-06-25T23:59:59",
+            "newStartDate": "2018-06-12T00:00:00",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "SpecialEvent",
+            "type": "Head",
+            "version": {
+                "grdk": true,
+                "nintendo": true,
+                "ps4": true,
+                "ps5": true,
+                "psn": true,
+                "stadia": true,
+                "steam": true,
+                "switch": true,
+                "xbox": true,
+                "xsx": true
+            }
+        },
+        "nonSecure": false,
+        "premium": false,
+        "purchasable": false,
+        "unique": true
+    },
+    {
+        "categories": [
+            "item"
+        ],
+        "consumable": false,
+        "consumptionCurrenciesList": [],
+        "consumptionObjectList": [],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 400
+            }
+        ],
+        "eventCostList": [],
+        "id": "HK_W01_06",
+        "initialQuantity": 0,
+        "metaData": {
+            "base_itemId": "HK_W01_06",
+            "character": "Spirit",
+            "kind": "Customization",
+            "newEndDate": "2018-06-25T23:59:59",
+            "newStartDate": "2018-06-12T00:00:00",
+            "quality": "V0",
+            "qualityName": "quality1",
+            "rarity": "SpecialEvent",
+            "type": "Weapon",
             "version": {
                 "grdk": true,
                 "nintendo": true,
@@ -97194,8 +97362,8 @@
                 "DF_Torso001",
                 "DF_Legs001"
             ],
-            "newEndDate": "2018-06-12T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2018-06-12T23:59:58",
+            "newStartDate": "2018-06-12T00:00:01",
             "unbreakable": false
         },
         "nonSecure": false,
@@ -98646,12 +98814,12 @@
                 "CM_Torso011",
                 "CM_Legs011"
             ],
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2021-01-29T15:59:59",
+            "newStartDate": "2021-01-15T16:00:00",
             "unbreakable": false
         },
         "nonSecure": false,
-        "purchasable": false,
+        "purchasable": true,
         "unique": true
     },
     {
@@ -99130,12 +99298,12 @@
                 "JP_Torso010",
                 "JP_Legs010"
             ],
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2021-02-05T15:59:59",
+            "newStartDate": "2021-01-22T16:00:00",
             "unbreakable": false
         },
         "nonSecure": false,
-        "purchasable": false,
+        "purchasable": true,
         "unique": true
     },
     {
@@ -99152,12 +99320,12 @@
                 "JP_Torso012",
                 "JP_Legs012"
             ],
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2021-02-25T15:59:59",
+            "newStartDate": "2021-02-11T16:00:00",
             "unbreakable": false
         },
         "nonSecure": false,
-        "purchasable": false,
+        "purchasable": true,
         "unique": true
     },
     {
@@ -103411,12 +103579,12 @@
                 "TR_Body009",
                 "TR_W009"
             ],
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2021-01-29T15:59:59",
+            "newStartDate": "2021-01-15T16:00:00",
             "unbreakable": false
         },
         "nonSecure": false,
-        "purchasable": false,
+        "purchasable": true,
         "unique": true
     },
     {
@@ -103742,12 +103910,12 @@
                 "TW_Body009",
                 "TW_W009"
             ],
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2021-02-05T15:59:59",
+            "newStartDate": "2021-01-22T16:00:00",
             "unbreakable": false
         },
         "nonSecure": false,
-        "purchasable": false,
+        "purchasable": true,
         "unique": true
     },
     {
@@ -109502,7 +109670,7 @@
             "outfit"
         ],
         "consumable": false,
-        "id": "QF_Outfit_009",
+        "id": "QF_outfit_009",
         "metaData": {
             "character": "Nancy",
             "discountPercentage": 0.1,
