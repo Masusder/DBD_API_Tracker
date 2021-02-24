@@ -1,7 +1,21 @@
 {
     "items": [
         {
-            "id": "BetterTogether",
+            "id": "BuiltToLast",
+            "bloodpointValue": 250000,
+            "experienceValue": 250000,
+            "unique": false,
+            "purchased": false,
+            "version": "steam",
+            "cost": [
+                {
+                    "currencyId": "Shards",
+                    "price": 2700
+                }
+            ]
+        },
+        {
+            "id": "Hex_Devour_Hope",
             "bloodpointValue": 150000,
             "experienceValue": 150000,
             "unique": false,
@@ -15,7 +29,7 @@
             ]
         },
         {
-            "id": "Hex_HuntressLullaby",
+            "id": "NoMither",
             "bloodpointValue": 150000,
             "experienceValue": 150000,
             "unique": false,
@@ -29,21 +43,7 @@
             ]
         },
         {
-            "id": "Leader",
-            "bloodpointValue": 150000,
-            "experienceValue": 150000,
-            "unique": false,
-            "purchased": false,
-            "version": "steam",
-            "cost": [
-                {
-                    "currencyId": "Shards",
-                    "price": 2000
-                }
-            ]
-        },
-        {
-            "id": "Rancor",
+            "id": "NurseCalling",
             "bloodpointValue": 150000,
             "experienceValue": 150000,
             "unique": false,
@@ -57,7 +57,7 @@
             ]
         }
     ],
-    "startDate": "2021-02-17T00:00:00",
-    "endDate": "2021-02-23T23:59:59",
-    "week": 227
+    "startDate": "2021-02-24T00:00:00",
+    "endDate": "2021-03-02T23:59:59",
+    "week": 228
 }
