@@ -11,6 +11,28 @@
                 "xsx",
                 "ps5"
             ],
+            "description": "<font color=\"#FF0000\"><b><i>This is a test. Hi.</i></b></font>",
+            "dwnImagePath": "",
+            "imageHeight": "",
+            "imagePath": "UI/Icons/NewContentSplash/splashBanner_ARC2.png",
+            "isHidden": false,
+            "startDate": "2020-10-06T15:00:00",
+            "title": "Test",
+            "type": 4,
+            "version": "4.5.0",
+            "weight": 796.0
+        },
+        {
+            "contentTags": [
+                "steam",
+                "xbox",
+                "ps4",
+                "switch",
+                "grdk",
+                "stadia",
+                "xsx",
+                "ps5"
+            ],
             "description": "The Rift closes in less than 24h! Today is your last chance to get Tome IV rewards.",
             "dwnImagePath": "",
             "imageHeight": "",

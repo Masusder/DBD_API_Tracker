@@ -1799,6 +1799,52 @@
     },
     {
         "categories": [
+            "character"
+        ],
+        "defaultCost": [
+            {
+                "currencyId": "Shards",
+                "price": 9000
+            },
+            {
+                "currencyId": "Cells",
+                "price": 500
+            }
+        ],
+        "id": "K23",
+        "metaData": {
+            "grantedIfFree": false,
+            "role": "Slasher"
+        },
+        "nonSecure": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "character"
+        ],
+        "defaultCost": [
+            {
+                "currencyId": "Shards",
+                "price": 9000
+            },
+            {
+                "currencyId": "Cells",
+                "price": 500
+            }
+        ],
+        "id": "S25",
+        "metaData": {
+            "grantedIfFree": false,
+            "role": "Camper"
+        },
+        "nonSecure": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
             "entitlement"
         ],
         "defaultCost": [

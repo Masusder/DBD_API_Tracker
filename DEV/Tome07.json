@@ -1524,7 +1524,7 @@
                                         "operation": ">=",
                                         "parameters": "instigator:me",
                                         "questEventId": "QuestEvent.DownSuccessively",
-                                        "repetition": 3
+                                        "repetition": 2
                                     }
                                 ]
                             }
@@ -2451,12 +2451,14 @@
                     "node01": {
                         "clientInfoId": "UnhookProtectionHit",
                         "coordinates": {
-                            "x": 815,
-                            "y": 605
+                            "x": 185,
+                            "y": 455
                         },
                         "neighbors": [
-                            "node05",
-                            "node_T6L3_Glyph"
+                            "node03",
+                            "node20",
+                            "node_T7L3_Start01",
+                            "node02"
                         ],
                         "nodeType": "quest:task",
                         "objectives": {
@@ -2502,8 +2504,8 @@
                             "y": 605
                         },
                         "neighbors": [
-                            "node04",
-                            "node17"
+                            "node17",
+                            "node01"
                         ],
                         "nodeType": "quest:task",
                         "objectives": {
@@ -2553,7 +2555,7 @@
                         ],
                         "neighbors": [
                             "node13",
-                            "node04"
+                            "node01"
                         ],
                         "nodeType": "quest:challenge",
                         "objectives": {
@@ -2595,14 +2597,12 @@
                     "node04": {
                         "clientInfoId": "HideNearKiller",
                         "coordinates": {
-                            "x": 185,
-                            "y": 455
+                            "x": 815,
+                            "y": 605
                         },
                         "neighbors": [
-                            "node03",
-                            "node02",
-                            "node_T7L3_Start01",
-                            "node20"
+                            "node12",
+                            "node05"
                         ],
                         "nodeType": "quest:task",
                         "objectives": {
@@ -2649,7 +2649,7 @@
                         },
                         "neighbors": [
                             "node_T7L3_End01",
-                            "node01"
+                            "node04"
                         ],
                         "nodeType": "quest:task",
                         "objectives": {
@@ -2742,9 +2742,9 @@
                             "y": 305
                         },
                         "neighbors": [
-                            "node12",
                             "node13",
                             "node15",
+                            "node_T6L3_Glyph",
                             "node22"
                         ],
                         "nodeType": "quest:task",
@@ -2878,7 +2878,7 @@
                             "y": 455
                         },
                         "neighbors": [
-                            "node_T6L3_Glyph",
+                            "node12",
                             "node18"
                         ],
                         "nodeType": "quest:task",
@@ -2961,13 +2961,13 @@
                     "node12": {
                         "clientInfoId": "SabotageFinish",
                         "coordinates": {
-                            "x": 815,
-                            "y": 155
+                            "x": 725,
+                            "y": 455
                         },
                         "neighbors": [
-                            "node21",
-                            "node07",
-                            "node19"
+                            "node04",
+                            "node17",
+                            "node10"
                         ],
                         "nodeType": "quest:task",
                         "objectives": {
@@ -3226,8 +3226,8 @@
                             "Tome07_Observer"
                         ],
                         "neighbors": [
-                            "node02",
-                            "node_T6L3_Glyph"
+                            "node12",
+                            "node02"
                         ],
                         "nodeType": "quest:challenge",
                         "objectives": {
@@ -3335,8 +3335,8 @@
                             "y": 155
                         },
                         "neighbors": [
-                            "node12",
-                            "node_T7L3_End01"
+                            "node_T7L3_End01",
+                            "node_T6L3_Glyph"
                         ],
                         "nodeType": "quest:task",
                         "objectives": {
@@ -3383,7 +3383,7 @@
                         },
                         "neighbors": [
                             "node13",
-                            "node04"
+                            "node01"
                         ],
                         "nodeType": "quest:task",
                         "objectives": {
@@ -3429,7 +3429,7 @@
                             "y": 5
                         },
                         "neighbors": [
-                            "node12",
+                            "node_T6L3_Glyph",
                             "node06",
                             "node09"
                         ],
@@ -3520,13 +3520,13 @@
                     "node_T6L3_Glyph": {
                         "clientInfoId": "BlueGlyph",
                         "coordinates": {
-                            "x": 725,
-                            "y": 455
+                            "x": 815,
+                            "y": 155
                         },
                         "neighbors": [
-                            "node17",
-                            "node10",
-                            "node01"
+                            "node21",
+                            "node07",
+                            "node19"
                         ],
                         "nodeType": "quest:contextual",
                         "objectives": {
@@ -3540,7 +3540,7 @@
                                     }
                                 ],
                                 "incrementWithEventRepetitions": true,
-                                "neededProgression": 4,
+                                "neededProgression": 3,
                                 "objectiveId": "BlueGlyph",
                                 "questEvent": [
                                     {
@@ -3591,7 +3591,7 @@
                             "y": 455
                         },
                         "neighbors": [
-                            "node04",
+                            "node01",
                             "node08"
                         ],
                         "nodeType": "narrative"
@@ -3643,8 +3643,8 @@
                         },
                         "neighbors": [
                             "node05",
-                            "node23",
-                            "node18"
+                            "node18",
+                            "node23"
                         ],
                         "nodeType": "quest:task",
                         "objectives": {
@@ -3734,7 +3734,7 @@
                     "node03": {
                         "clientInfoId": "SkillCheckGreatSuccessInTerrorRadius",
                         "coordinates": {
-                            "x": 1085,
+                            "x": 1175,
                             "y": 5
                         },
                         "neighbors": [
@@ -3880,7 +3880,7 @@
                         },
                         "neighbors": [
                             "node_T7L4_End01",
-                            "node_T6L4_Glyph"
+                            "node09"
                         ],
                         "nodeType": "quest:task",
                         "objectives": {
@@ -3926,9 +3926,9 @@
                             "y": 605
                         },
                         "neighbors": [
-                            "node19",
+                            "node22",
                             "node20",
-                            "node22"
+                            "node19"
                         ],
                         "nodeType": "quest:task",
                         "objectives": {
@@ -4016,12 +4016,12 @@
                     "node09": {
                         "clientInfoId": "EscapeWithItemRarity",
                         "coordinates": {
-                            "x": 725,
+                            "x": 905,
                             "y": 305
                         },
                         "neighbors": [
-                            "node22",
-                            "node14",
+                            "node06",
+                            "node17",
                             "node_T6L4_Glyph"
                         ],
                         "nodeType": "quest:task",
@@ -4070,7 +4070,7 @@
                         "neighbors": [
                             "node02",
                             "node05",
-                            "node09"
+                            "node_T6L4_Glyph"
                         ],
                         "nodeType": "quest:task",
                         "objectives": {
@@ -4151,7 +4151,7 @@
                     "node16": {
                         "clientInfoId": "EscapeHatchWithMapInTrial",
                         "coordinates": {
-                            "x": 1175,
+                            "x": 1265,
                             "y": 155
                         },
                         "journal": [
@@ -4200,7 +4200,7 @@
                     "node17": {
                         "clientInfoId": "EscapeWithOffTheRecordInTrial",
                         "coordinates": {
-                            "x": 815,
+                            "x": 905,
                             "y": 155
                         },
                         "journal": [
@@ -4208,6 +4208,7 @@
                         ],
                         "neighbors": [
                             "node_T7L4_End03",
+                            "node09",
                             "node18"
                         ],
                         "nodeType": "quest:challenge",
@@ -4468,7 +4469,7 @@
                         "neighbors": [
                             "node15",
                             "node07",
-                            "node09"
+                            "node_T6L4_Glyph"
                         ],
                         "nodeType": "quest:task",
                         "objectives": {
@@ -4603,12 +4604,13 @@
                     "node_T6L4_Glyph": {
                         "clientInfoId": "RedGlyph",
                         "coordinates": {
-                            "x": 905,
+                            "x": 725,
                             "y": 305
                         },
                         "neighbors": [
-                            "node06",
-                            "node09"
+                            "node14",
+                            "node09",
+                            "node22"
                         ],
                         "nodeType": "quest:contextual",
                         "objectives": {
@@ -4672,7 +4674,7 @@
                     "node_T7L4_End03": {
                         "clientInfoId": "End",
                         "coordinates": {
-                            "x": 995,
+                            "x": 1085,
                             "y": 155
                         },
                         "neighbors": [
@@ -5690,6 +5692,6 @@
             }
         ],
         "rewardData": "Tome07",
-        "version": 60
+        "version": 61
     }
 }
