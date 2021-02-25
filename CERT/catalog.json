@@ -125,7 +125,7 @@
         ],
         "id": "Bob",
         "metaData": {
-            "grantedIfFree": true,
+            "grantedIfFree": false,
             "role": "Slasher"
         },
         "nonSecure": false,
@@ -265,7 +265,7 @@
         ],
         "id": "Smoke",
         "metaData": {
-            "grantedIfFree": true,
+            "grantedIfFree": false,
             "role": "Camper"
         },
         "nonSecure": false,
@@ -339,6 +339,44 @@
             }
         ],
         "id": "Cannibal",
+        "metaData": {
+            "grantedIfFree": false,
+            "role": "Slasher"
+        },
+        "nonSecure": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "character"
+        ],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 500
+            }
+        ],
+        "id": "Quentin",
+        "metaData": {
+            "grantedIfFree": false,
+            "role": "Camper"
+        },
+        "nonSecure": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "character"
+        ],
+        "defaultCost": [
+            {
+                "currencyId": "Cells",
+                "price": 500
+            }
+        ],
+        "id": "Nightmare",
         "metaData": {
             "grantedIfFree": false,
             "role": "Slasher"
@@ -534,10 +572,10 @@
                 "price": 500
             }
         ],
-        "id": "Jane",
+        "id": "Plague",
         "metaData": {
             "grantedIfFree": false,
-            "role": "Camper"
+            "role": "Slasher"
         },
         "nonSecure": false,
         "purchasable": true,
@@ -557,10 +595,10 @@
                 "price": 500
             }
         ],
-        "id": "Plague",
+        "id": "Jane",
         "metaData": {
             "grantedIfFree": false,
-            "role": "Slasher"
+            "role": "Camper"
         },
         "nonSecure": false,
         "purchasable": true,
@@ -667,43 +705,9 @@
         ],
         "defaultCost": [
             {
-                "currencyId": "Cells",
-                "price": 500
-            }
-        ],
-        "id": "Nightmare",
-        "metaData": {
-            "grantedIfFree": false,
-            "role": "Slasher"
-        },
-        "nonSecure": false,
-        "purchasable": true,
-        "unique": true
-    },
-    {
-        "categories": [
-            "character"
-        ],
-        "defaultCost": [
-            {
-                "currencyId": "Cells",
-                "price": 500
-            }
-        ],
-        "id": "Quentin",
-        "metaData": {
-            "grantedIfFree": false,
-            "role": "Camper"
-        },
-        "nonSecure": false,
-        "purchasable": true,
-        "unique": true
-    },
-    {
-        "categories": [
-            "character"
-        ],
-        "defaultCost": [
+                "currencyId": "Shards",
+                "price": 9000
+            },
             {
                 "currencyId": "Cells",
                 "price": 500
@@ -723,6 +727,10 @@
             "character"
         ],
         "defaultCost": [
+            {
+                "currencyId": "Shards",
+                "price": 9000
+            },
             {
                 "currencyId": "Cells",
                 "price": 500
@@ -907,6 +915,10 @@
         ],
         "defaultCost": [
             {
+                "currencyId": "Shards",
+                "price": 9000
+            },
+            {
                 "currencyId": "Cells",
                 "price": 500
             }
@@ -925,6 +937,10 @@
             "character"
         ],
         "defaultCost": [
+            {
+                "currencyId": "Shards",
+                "price": 9000
+            },
             {
                 "currencyId": "Cells",
                 "price": 500
@@ -945,6 +961,10 @@
         ],
         "defaultCost": [
             {
+                "currencyId": "Shards",
+                "price": 9000
+            },
+            {
                 "currencyId": "Cells",
                 "price": 500
             }
@@ -964,11 +984,61 @@
         ],
         "defaultCost": [
             {
+                "currencyId": "Shards",
+                "price": 9000
+            },
+            {
                 "currencyId": "Cells",
                 "price": 500
             }
         ],
         "id": "S24",
+        "metaData": {
+            "grantedIfFree": false,
+            "role": "Camper"
+        },
+        "nonSecure": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "character"
+        ],
+        "defaultCost": [
+            {
+                "currencyId": "Shards",
+                "price": 9000
+            },
+            {
+                "currencyId": "Cells",
+                "price": 500
+            }
+        ],
+        "id": "K23",
+        "metaData": {
+            "grantedIfFree": false,
+            "role": "Slasher"
+        },
+        "nonSecure": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "character"
+        ],
+        "defaultCost": [
+            {
+                "currencyId": "Shards",
+                "price": 9000
+            },
+            {
+                "currencyId": "Cells",
+                "price": 500
+            }
+        ],
+        "id": "S25",
         "metaData": {
             "grantedIfFree": false,
             "role": "Camper"

@@ -5,6 +5,7 @@
         ],
         "id": "Dwight",
         "metaData": {
+            "grantedIfFree": true,
             "role": "Camper"
         },
         "nonSecure": false,
@@ -17,6 +18,7 @@
         ],
         "id": "Meg",
         "metaData": {
+            "grantedIfFree": true,
             "role": "Camper"
         },
         "nonSecure": false,
@@ -29,6 +31,7 @@
         ],
         "id": "Claudette",
         "metaData": {
+            "grantedIfFree": true,
             "role": "Camper"
         },
         "nonSecure": false,
@@ -41,6 +44,7 @@
         ],
         "id": "Jake",
         "metaData": {
+            "grantedIfFree": true,
             "role": "Camper"
         },
         "nonSecure": false,
@@ -53,6 +57,7 @@
         ],
         "id": "Nea",
         "metaData": {
+            "grantedIfFree": true,
             "role": "Camper"
         },
         "nonSecure": false,
@@ -71,6 +76,7 @@
         ],
         "id": "Laurie",
         "metaData": {
+            "grantedIfFree": false,
             "role": "Camper"
         },
         "nonSecure": false,
@@ -93,6 +99,7 @@
         ],
         "id": "Ace",
         "metaData": {
+            "grantedIfFree": false,
             "role": "Camper"
         },
         "nonSecure": false,
@@ -105,6 +112,7 @@
         ],
         "id": "Chuckles",
         "metaData": {
+            "grantedIfFree": true,
             "role": "Slasher"
         },
         "nonSecure": false,
@@ -117,6 +125,7 @@
         ],
         "id": "Bob",
         "metaData": {
+            "grantedIfFree": false,
             "role": "Slasher"
         },
         "nonSecure": false,
@@ -129,6 +138,7 @@
         ],
         "id": "HillBilly",
         "metaData": {
+            "grantedIfFree": true,
             "role": "Slasher"
         },
         "nonSecure": false,
@@ -141,6 +151,7 @@
         ],
         "id": "Nurse",
         "metaData": {
+            "grantedIfFree": true,
             "role": "Slasher"
         },
         "nonSecure": false,
@@ -159,6 +170,7 @@
         ],
         "id": "Shape",
         "metaData": {
+            "grantedIfFree": false,
             "role": "Slasher"
         },
         "nonSecure": false,
@@ -181,6 +193,7 @@
         ],
         "id": "Witch",
         "metaData": {
+            "grantedIfFree": false,
             "role": "Slasher"
         },
         "nonSecure": false,
@@ -193,6 +206,7 @@
         ],
         "id": "Bill",
         "metaData": {
+            "grantedIfFree": true,
             "role": "Camper"
         },
         "nonSecure": false,
@@ -215,6 +229,7 @@
         ],
         "id": "Feng",
         "metaData": {
+            "grantedIfFree": false,
             "role": "Camper"
         },
         "nonSecure": false,
@@ -237,6 +252,7 @@
         ],
         "id": "Killer07",
         "metaData": {
+            "grantedIfFree": false,
             "role": "Slasher"
         },
         "nonSecure": false,
@@ -249,6 +265,7 @@
         ],
         "id": "Smoke",
         "metaData": {
+            "grantedIfFree": false,
             "role": "Camper"
         },
         "nonSecure": false,
@@ -261,6 +278,7 @@
         ],
         "id": "Bear",
         "metaData": {
+            "grantedIfFree": true,
             "role": "Slasher"
         },
         "nonSecure": false,
@@ -295,6 +313,7 @@
         ],
         "id": "Kate",
         "metaData": {
+            "grantedIfFree": false,
             "role": "Camper",
             "temporaryDiscounts": [
                 {
@@ -321,6 +340,7 @@
         ],
         "id": "Cannibal",
         "metaData": {
+            "grantedIfFree": false,
             "role": "Slasher"
         },
         "nonSecure": false,
@@ -339,6 +359,7 @@
         ],
         "id": "Quentin",
         "metaData": {
+            "grantedIfFree": false,
             "role": "Camper"
         },
         "nonSecure": false,
@@ -357,6 +378,7 @@
         ],
         "id": "Nightmare",
         "metaData": {
+            "grantedIfFree": false,
             "role": "Slasher"
         },
         "nonSecure": false,
@@ -375,6 +397,7 @@
         ],
         "id": "Eric",
         "metaData": {
+            "grantedIfFree": false,
             "role": "Camper"
         },
         "nonSecure": false,
@@ -393,6 +416,7 @@
         ],
         "id": "Pig",
         "metaData": {
+            "grantedIfFree": false,
             "role": "Slasher"
         },
         "nonSecure": false,
@@ -427,6 +451,7 @@
         ],
         "id": "Clown",
         "metaData": {
+            "grantedIfFree": false,
             "role": "Slasher",
             "temporaryDiscounts": [
                 {
@@ -457,6 +482,7 @@
         ],
         "id": "Adam",
         "metaData": {
+            "grantedIfFree": false,
             "role": "Camper"
         },
         "nonSecure": false,
@@ -479,6 +505,7 @@
         ],
         "id": "Spirit",
         "metaData": {
+            "grantedIfFree": false,
             "role": "Slasher"
         },
         "nonSecure": false,
@@ -501,6 +528,7 @@
         ],
         "id": "Legion",
         "metaData": {
+            "grantedIfFree": false,
             "role": "Slasher"
         },
         "nonSecure": false,
@@ -523,6 +551,7 @@
         ],
         "id": "Jeff",
         "metaData": {
+            "grantedIfFree": false,
             "role": "Camper"
         },
         "nonSecure": false,
@@ -545,6 +574,7 @@
         ],
         "id": "Plague",
         "metaData": {
+            "grantedIfFree": false,
             "role": "Slasher"
         },
         "nonSecure": false,
@@ -567,6 +597,7 @@
         ],
         "id": "Jane",
         "metaData": {
+            "grantedIfFree": false,
             "role": "Camper"
         },
         "nonSecure": false,
@@ -585,6 +616,7 @@
         ],
         "id": "Ash",
         "metaData": {
+            "grantedIfFree": false,
             "role": "Camper"
         },
         "nonSecure": false,
@@ -603,6 +635,7 @@
         ],
         "id": "Ghostface",
         "metaData": {
+            "grantedIfFree": false,
             "role": "Slasher"
         },
         "nonSecure": false,
@@ -621,6 +654,7 @@
         ],
         "id": "Steve",
         "metaData": {
+            "grantedIfFree": false,
             "role": "Camper"
         },
         "nonSecure": false,
@@ -639,6 +673,7 @@
         ],
         "id": "Nancy",
         "metaData": {
+            "grantedIfFree": false,
             "role": "Camper"
         },
         "nonSecure": false,
@@ -657,6 +692,7 @@
         ],
         "id": "Demogorgon",
         "metaData": {
+            "grantedIfFree": false,
             "role": "Slasher"
         },
         "nonSecure": false,
@@ -679,6 +715,7 @@
         ],
         "id": "Oni",
         "metaData": {
+            "grantedIfFree": false,
             "role": "Slasher"
         },
         "nonSecure": false,
@@ -701,6 +738,7 @@
         ],
         "id": "Yui",
         "metaData": {
+            "grantedIfFree": false,
             "role": "Camper"
         },
         "nonSecure": false,
@@ -735,6 +773,7 @@
         ],
         "id": "Gunslinger",
         "metaData": {
+            "grantedIfFree": false,
             "role": "Slasher",
             "temporaryDiscounts": [
                 {
@@ -777,6 +816,7 @@
         ],
         "id": "Zarina",
         "metaData": {
+            "grantedIfFree": false,
             "role": "Camper",
             "temporaryDiscounts": [
                 {
@@ -815,6 +855,7 @@
         ],
         "id": "K20",
         "metaData": {
+            "grantedIfFree": false,
             "role": "Slasher",
             "temporaryDiscounts": [
                 {
@@ -853,6 +894,7 @@
         ],
         "id": "S22",
         "metaData": {
+            "grantedIfFree": false,
             "role": "Camper",
             "temporaryDiscounts": [
                 {
@@ -883,6 +925,7 @@
         ],
         "id": "K21",
         "metaData": {
+            "grantedIfFree": false,
             "role": "Slasher"
         },
         "nonSecure": false,
@@ -905,6 +948,7 @@
         ],
         "id": "S23",
         "metaData": {
+            "grantedIfFree": false,
             "role": "Camper"
         },
         "nonSecure": false,
@@ -927,6 +971,7 @@
         ],
         "id": "K22",
         "metaData": {
+            "grantedIfFree": false,
             "role": "Slasher"
         },
         "nonSecure": false,
@@ -949,6 +994,53 @@
         ],
         "id": "S24",
         "metaData": {
+            "grantedIfFree": false,
+            "role": "Camper"
+        },
+        "nonSecure": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "character"
+        ],
+        "defaultCost": [
+            {
+                "currencyId": "Shards",
+                "price": 9000
+            },
+            {
+                "currencyId": "Cells",
+                "price": 500
+            }
+        ],
+        "id": "K23",
+        "metaData": {
+            "grantedIfFree": false,
+            "role": "Slasher"
+        },
+        "nonSecure": false,
+        "purchasable": true,
+        "unique": true
+    },
+    {
+        "categories": [
+            "character"
+        ],
+        "defaultCost": [
+            {
+                "currencyId": "Shards",
+                "price": 9000
+            },
+            {
+                "currencyId": "Cells",
+                "price": 500
+            }
+        ],
+        "id": "S25",
+        "metaData": {
+            "grantedIfFree": false,
             "role": "Camper"
         },
         "nonSecure": false,
