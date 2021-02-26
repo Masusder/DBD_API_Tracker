@@ -3648,7 +3648,7 @@
                         ],
                         "nodeType": "quest:task",
                         "objectives": {
-                            "RepairCoopPerc": {
+                            "RepairCoop": {
                                 "conditions": [
                                     {
                                         "key": "role",
@@ -3659,7 +3659,7 @@
                                 ],
                                 "incrementWithEventRepetitions": true,
                                 "neededProgression": 1000,
-                                "objectiveId": "RepairCoopPerc",
+                                "objectiveId": "RepairCoop",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
@@ -5692,6 +5692,6 @@
             }
         ],
         "rewardData": "Tome07",
-        "version": 61
+        "version": 62
     }
 }

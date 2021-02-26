@@ -7868,6 +7868,10 @@
             {
                 "currencyId": "Cells",
                 "price": 250
+            },
+            {
+                "currencyId": "Shards",
+                "price": 4500
             }
         ],
         "eventCostList": [],
@@ -7877,8 +7881,8 @@
             "base_itemId": "MT_Head004_03",
             "character": "Meg",
             "kind": "Customization",
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2021-03-12T15:59:59",
+            "newStartDate": "2021-02-26T16:00:00",
             "outfitId": "MT_outfit_004_03",
             "quality": "V0",
             "qualityName": "quality1",
@@ -7900,7 +7904,7 @@
         },
         "nonSecure": false,
         "premium": false,
-        "purchasable": false,
+        "purchasable": true,
         "unique": true
     },
     {
@@ -7914,6 +7918,10 @@
             {
                 "currencyId": "Cells",
                 "price": 250
+            },
+            {
+                "currencyId": "Shards",
+                "price": 4500
             }
         ],
         "eventCostList": [],
@@ -7923,8 +7931,8 @@
             "base_itemId": "MT_Torso004_03",
             "character": "Meg",
             "kind": "Customization",
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2021-03-12T15:59:59",
+            "newStartDate": "2021-02-26T16:00:00",
             "outfitId": "MT_outfit_004_03",
             "quality": "V0",
             "qualityName": "quality1",
@@ -7946,7 +7954,7 @@
         },
         "nonSecure": false,
         "premium": false,
-        "purchasable": false,
+        "purchasable": true,
         "unique": true
     },
     {
@@ -7960,6 +7968,10 @@
             {
                 "currencyId": "Cells",
                 "price": 250
+            },
+            {
+                "currencyId": "Shards",
+                "price": 4500
             }
         ],
         "eventCostList": [],
@@ -7969,8 +7981,8 @@
             "base_itemId": "MT_Legs004_03",
             "character": "Meg",
             "kind": "Customization",
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2021-03-12T15:59:59",
+            "newStartDate": "2021-02-26T16:00:00",
             "outfitId": "MT_outfit_004_03",
             "quality": "V0",
             "qualityName": "quality1",
@@ -7992,7 +8004,7 @@
         },
         "nonSecure": false,
         "premium": false,
-        "purchasable": false,
+        "purchasable": true,
         "unique": true
     },
     {
@@ -47611,6 +47623,10 @@
             {
                 "currencyId": "Cells",
                 "price": 400
+            },
+            {
+                "currencyId": "Shards",
+                "price": 7200
             }
         ],
         "eventCostList": [],
@@ -47620,8 +47636,8 @@
             "base_itemId": "TC_Torso05_03",
             "character": "HillBilly",
             "kind": "Customization",
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2021-03-12T15:59:59",
+            "newStartDate": "2021-02-26T16:00:00",
             "outfitId": "TC_outfit_05_03",
             "quality": "V0",
             "qualityName": "quality1",
@@ -47643,7 +47659,7 @@
         },
         "nonSecure": false,
         "premium": false,
-        "purchasable": false,
+        "purchasable": true,
         "unique": true
     },
     {
@@ -47657,6 +47673,10 @@
             {
                 "currencyId": "Cells",
                 "price": 400
+            },
+            {
+                "currencyId": "Shards",
+                "price": 7200
             }
         ],
         "eventCostList": [],
@@ -47666,8 +47686,8 @@
             "base_itemId": "TC_Legs05_03",
             "character": "HillBilly",
             "kind": "Customization",
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2021-03-12T15:59:59",
+            "newStartDate": "2021-02-26T16:00:00",
             "outfitId": "TC_outfit_05_03",
             "quality": "V0",
             "qualityName": "quality1",
@@ -47689,7 +47709,7 @@
         },
         "nonSecure": false,
         "premium": false,
-        "purchasable": false,
+        "purchasable": true,
         "unique": true
     },
     {
@@ -47703,6 +47723,10 @@
             {
                 "currencyId": "Cells",
                 "price": 400
+            },
+            {
+                "currencyId": "Shards",
+                "price": 7200
             }
         ],
         "eventCostList": [],
@@ -47712,8 +47736,8 @@
             "base_itemId": "TC_W05_03",
             "character": "HillBilly",
             "kind": "Customization",
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2021-03-12T15:59:59",
+            "newStartDate": "2021-02-26T16:00:00",
             "outfitId": "TC_outfit_05_03",
             "quality": "V0",
             "qualityName": "quality1",
@@ -47735,7 +47759,7 @@
         },
         "nonSecure": false,
         "premium": false,
-        "purchasable": false,
+        "purchasable": true,
         "unique": true
     },
     {
@@ -98382,12 +98406,12 @@
                 "MT_Torso004_03",
                 "MT_Legs004_03"
             ],
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2021-03-12T15:59:59",
+            "newStartDate": "2021-02-26T16:00:00",
             "unbreakable": false
         },
         "nonSecure": false,
-        "purchasable": false,
+        "purchasable": true,
         "unique": true
     },
     {
@@ -104345,12 +104369,12 @@
                 "TC_Legs05_03",
                 "TC_W05_03"
             ],
-            "newEndDate": "2018-06-25T23:59:59",
-            "newStartDate": "2018-06-12T00:00:00",
+            "newEndDate": "2021-03-12T15:59:59",
+            "newStartDate": "2021-02-26T16:00:00",
             "unbreakable": false
         },
         "nonSecure": false,
-        "purchasable": false,
+        "purchasable": true,
         "unique": true
     },
     {
