@@ -15,8 +15,8 @@
                 "DF_Torso001",
                 "DF_Legs001"
             ],
-            "newStartDate": "2018-06-12T00:00:00",
-            "newEndDate": "2018-06-12T23:59:59"
+            "newStartDate": "2018-06-12T00:00:01",
+            "newEndDate": "2018-06-12T23:59:58"
         },
         {
             "id": "Dwight_outfit_002",
@@ -909,15 +909,26 @@
         },
         {
             "id": "MT_outfit_004_03",
-            "defaultCost": [],
+            "defaultCost": [
+                {
+                    "currencyId": "Cells",
+                    "price": 675,
+                    "discountPercentage": 0.1
+                },
+                {
+                    "currencyId": "Shards",
+                    "price": 13500,
+                    "discountPercentage": 0
+                }
+            ],
             "character": "Meg",
             "storeItems": [
                 "MT_Head004_03",
                 "MT_Torso004_03",
                 "MT_Legs004_03"
             ],
-            "newStartDate": "2018-06-12T00:00:00",
-            "newEndDate": "2018-06-25T23:59:59"
+            "newStartDate": "2021-02-26T16:00:00",
+            "newEndDate": "2021-03-12T15:59:59"
         },
         {
             "id": "MT_outfit_011",
@@ -6469,15 +6480,26 @@
         },
         {
             "id": "TC_outfit_05_03",
-            "defaultCost": [],
+            "defaultCost": [
+                {
+                    "currencyId": "Cells",
+                    "price": 1080,
+                    "discountPercentage": 0.1
+                },
+                {
+                    "currencyId": "Shards",
+                    "price": 21600,
+                    "discountPercentage": 0
+                }
+            ],
             "character": "HillBilly",
             "storeItems": [
                 "TC_Torso05_03",
                 "TC_Legs05_03",
                 "TC_W05_03"
             ],
-            "newStartDate": "2018-06-12T00:00:00",
-            "newEndDate": "2018-06-25T23:59:59"
+            "newStartDate": "2021-02-26T16:00:00",
+            "newEndDate": "2021-03-12T15:59:59"
         },
         {
             "id": "TC_outfit_010",
