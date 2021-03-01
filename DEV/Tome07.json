@@ -34,8 +34,8 @@
                         },
                         "neighbors": [
                             "node_T7L1_03",
-                            "node_T7L1_02",
-                            "node_T7L1_Start02"
+                            "node_T7L1_Start02",
+                            "node_T7L1_07"
                         ],
                         "nodeType": "quest:task",
                         "objectives": {
@@ -77,12 +77,12 @@
                     "node_T7L1_02": {
                         "clientInfoId": "ConsumeToolbox",
                         "coordinates": {
-                            "x": 275,
-                            "y": 5
+                            "x": 995,
+                            "y": 155
                         },
                         "neighbors": [
-                            "node_T7L1_01",
-                            "node_T7L1_06"
+                            "node_T7L1_05",
+                            "node_T7L1_08"
                         ],
                         "nodeType": "quest:task",
                         "objectives": {
@@ -226,7 +226,7 @@
                         "neighbors": [
                             "node_T7L1_End02",
                             "node_T7L1_04",
-                            "node_T7L1_07",
+                            "node_T7L1_02",
                             "node_T7L1_17"
                         ],
                         "nodeType": "quest:task",
@@ -273,8 +273,8 @@
                             "y": 5
                         },
                         "neighbors": [
-                            "node_T7L1_02",
-                            "node_T7L1_08"
+                            "node_T7L1_08",
+                            "node_T7L1_07"
                         ],
                         "nodeType": "quest:task",
                         "objectives": {
@@ -316,12 +316,12 @@
                     "node_T7L1_07": {
                         "clientInfoId": "HealOther",
                         "coordinates": {
-                            "x": 995,
-                            "y": 155
+                            "x": 275,
+                            "y": 5
                         },
                         "neighbors": [
-                            "node_T7L1_05",
-                            "node_T7L1_08"
+                            "node_T7L1_01",
+                            "node_T7L1_06"
                         ],
                         "nodeType": "quest:task",
                         "objectives": {
@@ -368,7 +368,7 @@
                         },
                         "neighbors": [
                             "node_T7L1_Glyph01",
-                            "node_T7L1_07",
+                            "node_T7L1_02",
                             "node_T7L1_06"
                         ],
                         "nodeType": "quest:task",
@@ -552,7 +552,7 @@
                         ]
                     },
                     "node_T7L1_12": {
-                        "clientInfoId": "HookBasement",
+                        "clientInfoId": "HitObsession",
                         "coordinates": {
                             "x": 1175,
                             "y": 455
@@ -564,7 +564,7 @@
                         ],
                         "nodeType": "quest:task",
                         "objectives": {
-                            "HookBasement": {
+                            "HitObsession": {
                                 "conditions": [
                                     {
                                         "key": "role",
@@ -574,13 +574,13 @@
                                     }
                                 ],
                                 "incrementWithEventRepetitions": true,
-                                "neededProgression": 3,
-                                "objectiveId": "HookBasement",
+                                "neededProgression": 12,
+                                "objectiveId": "HitObsession",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
                                         "parameters": "instigator:me",
-                                        "questEventId": "QuestEvent.HookBasement",
+                                        "questEventId": "QuestEvent.HitObsession",
                                         "repetition": 1
                                     }
                                 ]
@@ -2133,7 +2133,7 @@
                         ]
                     },
                     "node_T7L2_21": {
-                        "clientInfoId": "SacrificeEndgameInTrial",
+                        "clientInfoId": "ChaseStartDifferentIntrial",
                         "coordinates": {
                             "x": 1175,
                             "y": 455
@@ -2146,7 +2146,7 @@
                         ],
                         "nodeType": "quest:challenge",
                         "objectives": {
-                            "SacrificeEndgameInTrial": {
+                            "ChaseStartDifferentIntrial": {
                                 "conditions": [
                                     {
                                         "key": "role",
@@ -2157,12 +2157,13 @@
                                 ],
                                 "incrementWithEventRepetitions": false,
                                 "neededProgression": 1,
-                                "objectiveId": "SacrificeEndgameInTrial",
+                                "objectiveId": "ChaseStartDifferentIntrial",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
-                                        "questEventId": "QuestEvent.SacrificeEndgame",
-                                        "repetition": 2
+                                        "parameters": "instigator:me",
+                                        "questEventId": "QuestEvent.ChaseStartDifferent",
+                                        "repetition": 3
                                     }
                                 ]
                             }
@@ -5352,6 +5353,6 @@
             }
         ],
         "rewardData": "Tome07",
-        "version": 64
+        "version": 65
     }
 }
