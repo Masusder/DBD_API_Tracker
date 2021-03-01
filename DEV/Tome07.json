@@ -32,7 +32,11 @@
                             "x": 185,
                             "y": 155
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T7L1_03",
+                            "node_T7L1_02",
+                            "node_T7L1_Start02"
+                        ],
                         "nodeType": "quest:task",
                         "objectives": {
                             "RepairPerc": {
@@ -59,9 +63,9 @@
                         },
                         "reward": [
                             {
-                                "amount": 3,
-                                "id": "star",
-                                "type": "progressionDbD"
+                                "amount": 15000,
+                                "id": "Bloodpoints",
+                                "type": "currency"
                             },
                             {
                                 "amount": 15000,
@@ -76,7 +80,10 @@
                             "x": 275,
                             "y": 5
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T7L1_01",
+                            "node_T7L1_06"
+                        ],
                         "nodeType": "quest:task",
                         "objectives": {
                             "ConsumeToolbox": {
@@ -103,9 +110,9 @@
                         },
                         "reward": [
                             {
-                                "amount": 3,
-                                "id": "star",
-                                "type": "progressionDbD"
+                                "amount": 15000,
+                                "id": "Bloodpoints",
+                                "type": "currency"
                             },
                             {
                                 "amount": 15000,
@@ -120,7 +127,11 @@
                             "x": 365,
                             "y": 155
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T7L1_Glyph01",
+                            "node_T7L1_01",
+                            "node_T7L1_18"
+                        ],
                         "nodeType": "quest:task",
                         "objectives": {
                             "Unhook": {
@@ -147,9 +158,9 @@
                         },
                         "reward": [
                             {
-                                "amount": 3,
-                                "id": "star",
-                                "type": "progressionDbD"
+                                "amount": 15000,
+                                "id": "Bloodpoints",
+                                "type": "currency"
                             },
                             {
                                 "amount": 15000,
@@ -164,7 +175,11 @@
                             "x": 1085,
                             "y": 305
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T7L1_05",
+                            "node_T7L1_15",
+                            "node_T7L1_12"
+                        ],
                         "nodeType": "quest:task",
                         "objectives": {
                             "ChasedByKiller": {
@@ -191,9 +206,9 @@
                         },
                         "reward": [
                             {
-                                "amount": 3,
-                                "id": "star",
-                                "type": "progressionDbD"
+                                "amount": 15000,
+                                "id": "Bloodpoints",
+                                "type": "currency"
                             },
                             {
                                 "amount": 15000,
@@ -208,7 +223,12 @@
                             "x": 1175,
                             "y": 155
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T7L1_End02",
+                            "node_T7L1_04",
+                            "node_T7L1_07",
+                            "node_T7L1_17"
+                        ],
                         "nodeType": "quest:task",
                         "objectives": {
                             "EscapeChase": {
@@ -235,9 +255,9 @@
                         },
                         "reward": [
                             {
-                                "amount": 3,
-                                "id": "star",
-                                "type": "progressionDbD"
+                                "amount": 15000,
+                                "id": "Bloodpoints",
+                                "type": "currency"
                             },
                             {
                                 "amount": 15000,
@@ -252,7 +272,10 @@
                             "x": 545,
                             "y": 5
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T7L1_02",
+                            "node_T7L1_08"
+                        ],
                         "nodeType": "quest:task",
                         "objectives": {
                             "CoopAction": {
@@ -279,9 +302,9 @@
                         },
                         "reward": [
                             {
-                                "amount": 3,
-                                "id": "star",
-                                "type": "progressionDbD"
+                                "amount": 15000,
+                                "id": "Bloodpoints",
+                                "type": "currency"
                             },
                             {
                                 "amount": 15000,
@@ -296,7 +319,10 @@
                             "x": 995,
                             "y": 155
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T7L1_05",
+                            "node_T7L1_08"
+                        ],
                         "nodeType": "quest:task",
                         "objectives": {
                             "HealOtherPerc": {
@@ -323,9 +349,9 @@
                         },
                         "reward": [
                             {
-                                "amount": 3,
-                                "id": "star",
-                                "type": "progressionDbD"
+                                "amount": 15000,
+                                "id": "Bloodpoints",
+                                "type": "currency"
                             },
                             {
                                 "amount": 15000,
@@ -340,7 +366,11 @@
                             "x": 815,
                             "y": 5
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T7L1_Glyph01",
+                            "node_T7L1_07",
+                            "node_T7L1_06"
+                        ],
                         "nodeType": "quest:task",
                         "objectives": {
                             "SearchFinish": {
@@ -367,9 +397,9 @@
                         },
                         "reward": [
                             {
-                                "amount": 3,
-                                "id": "star",
-                                "type": "progressionDbD"
+                                "amount": 15000,
+                                "id": "Bloodpoints",
+                                "type": "currency"
                             },
                             {
                                 "amount": 15000,
@@ -384,7 +414,10 @@
                             "x": 365,
                             "y": 605
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T7L1_13",
+                            "node_T7L1_11"
+                        ],
                         "nodeType": "quest:task",
                         "objectives": {
                             "HookDifferent": {
@@ -411,9 +444,9 @@
                         },
                         "reward": [
                             {
-                                "amount": 5,
-                                "id": "star",
-                                "type": "progressionDbD"
+                                "amount": 25000,
+                                "id": "Bloodpoints",
+                                "type": "currency"
                             },
                             {
                                 "amount": 25000,
@@ -428,7 +461,12 @@
                             "x": 815,
                             "y": 455
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T7L1_14",
+                            "node_T7L1_15",
+                            "node_T7L1_12",
+                            "node_T7L1_22"
+                        ],
                         "nodeType": "quest:task",
                         "objectives": {
                             "Sacrifice": {
@@ -454,9 +492,9 @@
                         },
                         "reward": [
                             {
-                                "amount": 3,
-                                "id": "star",
-                                "type": "progressionDbD"
+                                "amount": 15000,
+                                "id": "Bloodpoints",
+                                "type": "currency"
                             },
                             {
                                 "amount": 15000,
@@ -471,7 +509,11 @@
                             "x": 275,
                             "y": 455
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T7L1_18",
+                            "node_T7L1_Start01",
+                            "node_T7L1_09"
+                        ],
                         "nodeType": "quest:task",
                         "objectives": {
                             "BreakWallsPalletsGens": {
@@ -498,9 +540,9 @@
                         },
                         "reward": [
                             {
-                                "amount": 3,
-                                "id": "star",
-                                "type": "progressionDbD"
+                                "amount": 15000,
+                                "id": "Bloodpoints",
+                                "type": "currency"
                             },
                             {
                                 "amount": 15000,
@@ -515,7 +557,11 @@
                             "x": 1175,
                             "y": 455
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T7L1_04",
+                            "node_T7L1_10",
+                            "node_T7L1_End01"
+                        ],
                         "nodeType": "quest:task",
                         "objectives": {
                             "HookBasement": {
@@ -542,9 +588,9 @@
                         },
                         "reward": [
                             {
-                                "amount": 3,
-                                "id": "star",
-                                "type": "progressionDbD"
+                                "amount": 15000,
+                                "id": "Bloodpoints",
+                                "type": "currency"
                             },
                             {
                                 "amount": 15000,
@@ -559,7 +605,11 @@
                             "x": 545,
                             "y": 605
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T7L1_14",
+                            "node_T7L1_09",
+                            "node_T7L1_22"
+                        ],
                         "nodeType": "quest:task",
                         "objectives": {
                             "Down": {
@@ -586,9 +636,9 @@
                         },
                         "reward": [
                             {
-                                "amount": 3,
-                                "id": "star",
-                                "type": "progressionDbD"
+                                "amount": 15000,
+                                "id": "Bloodpoints",
+                                "type": "currency"
                             },
                             {
                                 "amount": 15000,
@@ -603,7 +653,11 @@
                             "x": 725,
                             "y": 605
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T7L1_13",
+                            "node_T7L1_10",
+                            "node_T7L1_19"
+                        ],
                         "nodeType": "quest:task",
                         "objectives": {
                             "Chase": {
@@ -630,9 +684,9 @@
                         },
                         "reward": [
                             {
-                                "amount": 3,
-                                "id": "star",
-                                "type": "progressionDbD"
+                                "amount": 15000,
+                                "id": "Bloodpoints",
+                                "type": "currency"
                             },
                             {
                                 "amount": 15000,
@@ -647,7 +701,12 @@
                             "x": 725,
                             "y": 305
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T7L1_04",
+                            "node_T7L1_Glyph01",
+                            "node_T7L1_21",
+                            "node_T7L1_10"
+                        ],
                         "nodeType": "quest:task",
                         "objectives": {
                             "EarnBloodpoints": {
@@ -666,9 +725,9 @@
                         },
                         "reward": [
                             {
-                                "amount": 3,
-                                "id": "star",
-                                "type": "progressionDbD"
+                                "amount": 15000,
+                                "id": "Bloodpoints",
+                                "type": "currency"
                             },
                             {
                                 "amount": 15000,
@@ -686,7 +745,9 @@
                         "journal": [
                             "Tome07_Bill"
                         ],
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T7L1_Glyph01"
+                        ],
                         "nodeType": "quest:challenge",
                         "objectives": {
                             "RepairFinishAsCharacterInTrial": {
@@ -719,9 +780,9 @@
                         },
                         "reward": [
                             {
-                                "amount": 5,
-                                "id": "star",
-                                "type": "progressionDbD"
+                                "amount": 25000,
+                                "id": "Bloodpoints",
+                                "type": "currency"
                             },
                             {
                                 "amount": 25000,
@@ -739,7 +800,9 @@
                         "journal": [
                             "Tome07_Bill"
                         ],
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T7L1_05"
+                        ],
                         "nodeType": "quest:challenge",
                         "objectives": {
                             "UnhookInTerrorRadiusWithPerkInTrial": {
@@ -771,9 +834,9 @@
                         },
                         "reward": [
                             {
-                                "amount": 5,
-                                "id": "star",
-                                "type": "progressionDbD"
+                                "amount": 25000,
+                                "id": "Bloodpoints",
+                                "type": "currency"
                             },
                             {
                                 "amount": 25000,
@@ -791,7 +854,11 @@
                         "journal": [
                             "Tome07_Plague"
                         ],
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T7L1_21",
+                            "node_T7L1_03",
+                            "node_T7L1_11"
+                        ],
                         "nodeType": "quest:challenge",
                         "objectives": {
                             "HookInTrial": {
@@ -818,9 +885,9 @@
                         },
                         "reward": [
                             {
-                                "amount": 5,
-                                "id": "star",
-                                "type": "progressionDbD"
+                                "amount": 25000,
+                                "id": "Bloodpoints",
+                                "type": "currency"
                             },
                             {
                                 "amount": 25000,
@@ -838,7 +905,10 @@
                         "journal": [
                             "Tome07_Plague"
                         ],
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T7L1_14",
+                            "node_T7L1_20"
+                        ],
                         "nodeType": "quest:challenge",
                         "objectives": {
                             "HitUndetectableWithPerkInTrial": {
@@ -870,9 +940,9 @@
                         },
                         "reward": [
                             {
-                                "amount": 5,
-                                "id": "star",
-                                "type": "progressionDbD"
+                                "amount": 25000,
+                                "id": "Bloodpoints",
+                                "type": "currency"
                             },
                             {
                                 "amount": 25000,
@@ -890,7 +960,10 @@
                         "journal": [
                             "Tome07_Plague"
                         ],
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T7L1_19",
+                            "node_T7L1_End01"
+                        ],
                         "nodeType": "quest:challenge",
                         "objectives": {
                             "PlagueInfectMaxInTrial": {
@@ -922,9 +995,9 @@
                         },
                         "reward": [
                             {
-                                "amount": 5,
-                                "id": "star",
-                                "type": "progressionDbD"
+                                "amount": 25000,
+                                "id": "Bloodpoints",
+                                "type": "currency"
                             },
                             {
                                 "amount": 25000,
@@ -942,7 +1015,10 @@
                         "journal": [
                             "Tome07_Plague"
                         ],
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T7L1_15",
+                            "node_T7L1_18"
+                        ],
                         "nodeType": "quest:challenge",
                         "objectives": {
                             "PlaguePurgeInjureInTrial": {
@@ -974,9 +1050,9 @@
                         },
                         "reward": [
                             {
-                                "amount": 5,
-                                "id": "star",
-                                "type": "progressionDbD"
+                                "amount": 25000,
+                                "id": "Bloodpoints",
+                                "type": "currency"
                             },
                             {
                                 "amount": 25000,
@@ -994,7 +1070,10 @@
                         "journal": [
                             "Tome07_Plague"
                         ],
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T7L1_13",
+                            "node_T7L1_10"
+                        ],
                         "nodeType": "quest:challenge",
                         "objectives": {
                             "HitDifferentInTrial": {
@@ -1021,9 +1100,9 @@
                         },
                         "reward": [
                             {
-                                "amount": 5,
-                                "id": "star",
-                                "type": "progressionDbD"
+                                "amount": 25000,
+                                "id": "Bloodpoints",
+                                "type": "currency"
                             },
                             {
                                 "amount": 25000,
@@ -1038,7 +1117,10 @@
                             "x": 1355,
                             "y": 455
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T7L1_12",
+                            "node_T7L1_20"
+                        ],
                         "nodeType": "narrative"
                     },
                     "node_T7L1_End02": {
@@ -1047,7 +1129,9 @@
                             "x": 1355,
                             "y": 155
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T7L1_05"
+                        ],
                         "nodeType": "narrative"
                     },
                     "node_T7L1_Glyph01": {
@@ -1056,7 +1140,12 @@
                             "x": 635,
                             "y": 155
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T7L1_15",
+                            "node_T7L1_03",
+                            "node_T7L1_08",
+                            "node_T7L1_16"
+                        ],
                         "nodeType": "quest:contextual",
                         "objectives": {
                             "BlueGlyph": {
@@ -1088,11 +1177,6 @@
                         },
                         "reward": [
                             {
-                                "amount": 5,
-                                "id": "star",
-                                "type": "progressionDbD"
-                            },
-                            {
                                 "amount": 25000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
@@ -1105,7 +1189,9 @@
                             "x": 5,
                             "y": 455
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T7L1_11"
+                        ],
                         "nodeType": "narrative"
                     },
                     "node_T7L1_Start02": {
@@ -1114,7 +1200,9 @@
                             "x": 5,
                             "y": 155
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T7L1_01"
+                        ],
                         "nodeType": "narrative"
                     }
                 },
@@ -1161,7 +1249,10 @@
                             "x": 725,
                             "y": 155
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T7L2_03",
+                            "node_T7L2_05"
+                        ],
                         "nodeType": "quest:task",
                         "objectives": {
                             "FallInChase": {
@@ -1188,11 +1279,6 @@
                         },
                         "reward": [
                             {
-                                "amount": 3,
-                                "id": "star",
-                                "type": "progressionDbD"
-                            },
-                            {
                                 "amount": 35000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
@@ -1205,7 +1291,10 @@
                             "x": 905,
                             "y": 305
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T7L2_13",
+                            "node_T7L2_Glyph01"
+                        ],
                         "nodeType": "quest:task",
                         "objectives": {
                             "RepairPerc": {
@@ -1232,11 +1321,6 @@
                         },
                         "reward": [
                             {
-                                "amount": 3,
-                                "id": "star",
-                                "type": "progressionDbD"
-                            },
-                            {
                                 "amount": 35000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
@@ -1249,7 +1333,10 @@
                             "x": 995,
                             "y": 155
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T7L2_06",
+                            "node_T7L2_01"
+                        ],
                         "nodeType": "quest:task",
                         "objectives": {
                             "SkillCheckGreatSuccessInTerrorRadius": {
@@ -1276,11 +1363,6 @@
                         },
                         "reward": [
                             {
-                                "amount": 3,
-                                "id": "star",
-                                "type": "progressionDbD"
-                            },
-                            {
                                 "amount": 35000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
@@ -1293,7 +1375,10 @@
                             "x": 185,
                             "y": 5
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T7L2_Start02",
+                            "node_T7L2_14"
+                        ],
                         "nodeType": "quest:task",
                         "objectives": {
                             "StunBlind": {
@@ -1320,11 +1405,6 @@
                         },
                         "reward": [
                             {
-                                "amount": 3,
-                                "id": "star",
-                                "type": "progressionDbD"
-                            },
-                            {
                                 "amount": 35000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
@@ -1337,7 +1417,12 @@
                             "x": 635,
                             "y": 5
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T7L2_16",
+                            "node_T7L2_22",
+                            "node_T7L2_01",
+                            "node_T7L2_14"
+                        ],
                         "nodeType": "quest:task",
                         "objectives": {
                             "UnhookWhoUnhooked": {
@@ -1364,11 +1449,6 @@
                         },
                         "reward": [
                             {
-                                "amount": 3,
-                                "id": "star",
-                                "type": "progressionDbD"
-                            },
-                            {
                                 "amount": 35000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
@@ -1381,7 +1461,10 @@
                             "x": 1175,
                             "y": 155
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T7L2_End01",
+                            "node_T7L2_03"
+                        ],
                         "nodeType": "quest:task",
                         "objectives": {
                             "UnhookProtectionHit": {
@@ -1408,11 +1491,6 @@
                         },
                         "reward": [
                             {
-                                "amount": 3,
-                                "id": "star",
-                                "type": "progressionDbD"
-                            },
-                            {
                                 "amount": 35000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
@@ -1425,7 +1503,10 @@
                             "x": 635,
                             "y": 605
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T7L2_11",
+                            "node_T7L2_18"
+                        ],
                         "nodeType": "quest:task",
                         "objectives": {
                             "Kill": {
@@ -1451,11 +1532,6 @@
                         },
                         "reward": [
                             {
-                                "amount": 3,
-                                "id": "star",
-                                "type": "progressionDbD"
-                            },
-                            {
                                 "amount": 35000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
@@ -1468,7 +1544,10 @@
                             "x": 185,
                             "y": 605
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T7L2_18",
+                            "node_T7L2_Start01"
+                        ],
                         "nodeType": "quest:task",
                         "objectives": {
                             "Hit": {
@@ -1495,11 +1574,6 @@
                         },
                         "reward": [
                             {
-                                "amount": 3,
-                                "id": "star",
-                                "type": "progressionDbD"
-                            },
-                            {
                                 "amount": 35000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
@@ -1512,7 +1586,11 @@
                             "x": 275,
                             "y": 455
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T7L2_18",
+                            "node_T7L2_Start01",
+                            "node_T7L2_12"
+                        ],
                         "nodeType": "quest:task",
                         "objectives": {
                             "EarnEmblemsKillerGold": {
@@ -1538,11 +1616,6 @@
                         },
                         "reward": [
                             {
-                                "amount": 3,
-                                "id": "star",
-                                "type": "progressionDbD"
-                            },
-                            {
                                 "amount": 35000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
@@ -1555,7 +1628,11 @@
                             "x": 995,
                             "y": 455
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T7L2_11",
+                            "node_T7L2_13",
+                            "node_T7L2_21"
+                        ],
                         "nodeType": "quest:task",
                         "objectives": {
                             "HookObsession": {
@@ -1582,11 +1659,6 @@
                         },
                         "reward": [
                             {
-                                "amount": 3,
-                                "id": "star",
-                                "type": "progressionDbD"
-                            },
-                            {
                                 "amount": 35000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
@@ -1599,7 +1671,12 @@
                             "x": 725,
                             "y": 455
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T7L2_07",
+                            "node_T7L2_10",
+                            "node_T7L2_20",
+                            "node_T7L2_12"
+                        ],
                         "nodeType": "quest:task",
                         "objectives": {
                             "BreakGens": {
@@ -1626,11 +1703,6 @@
                         },
                         "reward": [
                             {
-                                "amount": 3,
-                                "id": "star",
-                                "type": "progressionDbD"
-                            },
-                            {
                                 "amount": 35000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
@@ -1643,7 +1715,11 @@
                             "x": 545,
                             "y": 455
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T7L2_11",
+                            "node_T7L2_09",
+                            "node_T7L2_Glyph01"
+                        ],
                         "nodeType": "quest:task",
                         "objectives": {
                             "Down": {
@@ -1669,11 +1745,6 @@
                         },
                         "reward": [
                             {
-                                "amount": 3,
-                                "id": "star",
-                                "type": "progressionDbD"
-                            },
-                            {
                                 "amount": 35000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
@@ -1686,7 +1757,11 @@
                             "x": 1085,
                             "y": 305
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T7L2_End01",
+                            "node_T7L2_10",
+                            "node_T7L2_02"
+                        ],
                         "nodeType": "quest:task",
                         "objectives": {
                             "EarnBloodpoints": {
@@ -1705,11 +1780,6 @@
                         },
                         "reward": [
                             {
-                                "amount": 3,
-                                "id": "star",
-                                "type": "progressionDbD"
-                            },
-                            {
                                 "amount": 35000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
@@ -1725,7 +1795,10 @@
                         "journal": [
                             "Tome07_Bill"
                         ],
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T7L2_04",
+                            "node_T7L2_05"
+                        ],
                         "nodeType": "quest:challenge",
                         "objectives": {
                             "VaultInChaseInTrial": {
@@ -1752,11 +1825,6 @@
                         },
                         "reward": [
                             {
-                                "amount": 5,
-                                "id": "star",
-                                "type": "progressionDbD"
-                            },
-                            {
                                 "amount": 45000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
@@ -1772,7 +1840,10 @@
                         "journal": [
                             "Tome07_Bill"
                         ],
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T7L2_17",
+                            "node_T7L2_Glyph01"
+                        ],
                         "nodeType": "quest:challenge",
                         "objectives": {
                             "EscapeWithPerkIntrial": {
@@ -1805,11 +1876,6 @@
                         },
                         "reward": [
                             {
-                                "amount": 5,
-                                "id": "star",
-                                "type": "progressionDbD"
-                            },
-                            {
                                 "amount": 45000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
@@ -1825,7 +1891,9 @@
                         "journal": [
                             "Tome07_Bill"
                         ],
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T7L2_05"
+                        ],
                         "nodeType": "quest:challenge",
                         "objectives": {
                             "EscapeHatchWithPerkInTrial": {
@@ -1858,11 +1926,6 @@
                         },
                         "reward": [
                             {
-                                "amount": 5,
-                                "id": "star",
-                                "type": "progressionDbD"
-                            },
-                            {
                                 "amount": 45000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
@@ -1878,7 +1941,11 @@
                         "journal": [
                             "Tome07_Observer"
                         ],
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T7L2_22",
+                            "node_T7L2_Start02",
+                            "node_T7L2_15"
+                        ],
                         "nodeType": "quest:challenge",
                         "objectives": {
                             "EscapeChaseAsCharacterInTrial": {
@@ -1911,11 +1978,6 @@
                         },
                         "reward": [
                             {
-                                "amount": 5,
-                                "id": "star",
-                                "type": "progressionDbD"
-                            },
-                            {
                                 "amount": 45000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
@@ -1931,7 +1993,11 @@
                         "journal": [
                             "Tome07_Plague"
                         ],
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T7L2_07",
+                            "node_T7L2_08",
+                            "node_T7L2_09"
+                        ],
                         "nodeType": "quest:challenge",
                         "objectives": {
                             "CloseHatchInTrial": {
@@ -1958,11 +2024,6 @@
                         },
                         "reward": [
                             {
-                                "amount": 5,
-                                "id": "star",
-                                "type": "progressionDbD"
-                            },
-                            {
                                 "amount": 45000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
@@ -1978,7 +2039,10 @@
                         "journal": [
                             "Tome07_Plague"
                         ],
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T7L2_End01",
+                            "node_T7L2_20"
+                        ],
                         "nodeType": "quest:challenge",
                         "objectives": {
                             "DownSuccessively60WIthPerkInTrial": {
@@ -2011,11 +2075,6 @@
                         },
                         "reward": [
                             {
-                                "amount": 5,
-                                "id": "star",
-                                "type": "progressionDbD"
-                            },
-                            {
                                 "amount": 45000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
@@ -2031,7 +2090,10 @@
                         "journal": [
                             "Tome07_Plague"
                         ],
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T7L2_19",
+                            "node_T7L2_11"
+                        ],
                         "nodeType": "quest:challenge",
                         "objectives": {
                             "PlagueCorruptPurgeMultipleInTrial": {
@@ -2064,11 +2126,6 @@
                         },
                         "reward": [
                             {
-                                "amount": 5,
-                                "id": "star",
-                                "type": "progressionDbD"
-                            },
-                            {
                                 "amount": 45000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
@@ -2084,7 +2141,9 @@
                         "journal": [
                             "Tome07_Plague"
                         ],
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T7L2_10"
+                        ],
                         "nodeType": "quest:challenge",
                         "objectives": {
                             "SacrificeEndgameInTrial": {
@@ -2110,11 +2169,6 @@
                         },
                         "reward": [
                             {
-                                "amount": 5,
-                                "id": "star",
-                                "type": "progressionDbD"
-                            },
-                            {
                                 "amount": 45000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
@@ -2127,7 +2181,11 @@
                             "x": 545,
                             "y": 155
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T7L2_17",
+                            "node_T7L2_Glyph01",
+                            "node_T7L2_05"
+                        ],
                         "nodeType": "quest:task",
                         "objectives": {
                             "EarnEmblemsIridescent": {
@@ -2147,11 +2205,6 @@
                         },
                         "reward": [
                             {
-                                "amount": 3,
-                                "id": "star",
-                                "type": "progressionDbD"
-                            },
-                            {
                                 "amount": 35000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
@@ -2164,7 +2217,11 @@
                             "x": 1355,
                             "y": 305
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T7L2_06",
+                            "node_T7L2_19",
+                            "node_T7L2_13"
+                        ],
                         "nodeType": "narrative"
                     },
                     "node_T7L2_Glyph01": {
@@ -2173,7 +2230,12 @@
                             "x": 635,
                             "y": 305
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T7L2_22",
+                            "node_T7L2_02",
+                            "node_T7L2_12",
+                            "node_T7L2_15"
+                        ],
                         "nodeType": "quest:contextual",
                         "objectives": {
                             "RedGlyph": {
@@ -2198,11 +2260,6 @@
                         },
                         "reward": [
                             {
-                                "amount": 5,
-                                "id": "star",
-                                "type": "progressionDbD"
-                            },
-                            {
                                 "amount": 45000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
@@ -2215,7 +2272,10 @@
                             "x": 5,
                             "y": 455
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T7L2_08",
+                            "node_T7L2_09"
+                        ],
                         "nodeType": "narrative"
                     },
                     "node_T7L2_Start02": {
@@ -2224,7 +2284,10 @@
                             "x": 5,
                             "y": 155
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T7L2_17",
+                            "node_T7L2_04"
+                        ],
                         "nodeType": "narrative"
                     }
                 },
@@ -2271,7 +2334,12 @@
                             "x": 185,
                             "y": 455
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T7L3_18",
+                            "node_T7L3_08",
+                            "node_T7L3_Start01",
+                            "node_T7L3_02"
+                        ],
                         "nodeType": "quest:task",
                         "objectives": {
                             "UnhookProtectionHit": {
@@ -2298,11 +2366,6 @@
                         },
                         "reward": [
                             {
-                                "amount": 3,
-                                "id": "star",
-                                "type": "progressionDbD"
-                            },
-                            {
                                 "amount": 30000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
@@ -2315,7 +2378,10 @@
                             "x": 275,
                             "y": 605
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T7L3_17",
+                            "node_T7L3_01"
+                        ],
                         "nodeType": "quest:task",
                         "objectives": {
                             "CleanseFinish": {
@@ -2342,11 +2408,6 @@
                         },
                         "reward": [
                             {
-                                "amount": 3,
-                                "id": "star",
-                                "type": "progressionDbD"
-                            },
-                            {
                                 "amount": 30000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
@@ -2359,7 +2420,10 @@
                             "x": 815,
                             "y": 605
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T7L3_05",
+                            "node_T7L3_04"
+                        ],
                         "nodeType": "quest:task",
                         "objectives": {
                             "HideNearKiller": {
@@ -2386,11 +2450,6 @@
                         },
                         "reward": [
                             {
-                                "amount": 5,
-                                "id": "star",
-                                "type": "progressionDbD"
-                            },
-                            {
                                 "amount": 50000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
@@ -2403,7 +2462,10 @@
                             "x": 1175,
                             "y": 605
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T7L3_End01",
+                            "node_T7L3_03"
+                        ],
                         "nodeType": "quest:task",
                         "objectives": {
                             "RepairCoop": {
@@ -2430,11 +2492,6 @@
                         },
                         "reward": [
                             {
-                                "amount": 3,
-                                "id": "star",
-                                "type": "progressionDbD"
-                            },
-                            {
                                 "amount": 30000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
@@ -2447,7 +2504,11 @@
                             "x": 725,
                             "y": 455
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T7L3_16",
+                            "node_T7L3_17",
+                            "node_T7L3_03"
+                        ],
                         "nodeType": "quest:task",
                         "objectives": {
                             "SabotageFinish": {
@@ -2474,11 +2535,6 @@
                         },
                         "reward": [
                             {
-                                "amount": 3,
-                                "id": "star",
-                                "type": "progressionDbD"
-                            },
-                            {
                                 "amount": 30000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
@@ -2491,7 +2547,11 @@
                             "x": 455,
                             "y": 305
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T7L3_18",
+                            "node_T7L3_08",
+                            "node_T7L3_15"
+                        ],
                         "nodeType": "quest:task",
                         "objectives": {
                             "RepairPerc": {
@@ -2518,11 +2578,6 @@
                         },
                         "reward": [
                             {
-                                "amount": 3,
-                                "id": "star",
-                                "type": "progressionDbD"
-                            },
-                            {
                                 "amount": 30000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
@@ -2535,7 +2590,10 @@
                             "x": 1175,
                             "y": 155
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T7L3_End01",
+                            "node_T7L3_Glyph01"
+                        ],
                         "nodeType": "quest:task",
                         "objectives": {
                             "HealOtherPerc": {
@@ -2562,11 +2620,6 @@
                         },
                         "reward": [
                             {
-                                "amount": 3,
-                                "id": "star",
-                                "type": "progressionDbD"
-                            },
-                            {
                                 "amount": 30000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
@@ -2579,7 +2632,10 @@
                             "x": 455,
                             "y": 455
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T7L3_06",
+                            "node_T7L3_01"
+                        ],
                         "nodeType": "quest:task",
                         "objectives": {
                             "SearchFinish": {
@@ -2606,11 +2662,6 @@
                         },
                         "reward": [
                             {
-                                "amount": 3,
-                                "id": "star",
-                                "type": "progressionDbD"
-                            },
-                            {
                                 "amount": 30000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
@@ -2623,7 +2674,10 @@
                             "x": 995,
                             "y": 5
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T7L3_20",
+                            "node_T7L3_13"
+                        ],
                         "nodeType": "quest:task",
                         "objectives": {
                             "HookBasement": {
@@ -2650,11 +2704,6 @@
                         },
                         "reward": [
                             {
-                                "amount": 3,
-                                "id": "star",
-                                "type": "progressionDbD"
-                            },
-                            {
                                 "amount": 30000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
@@ -2667,7 +2716,11 @@
                             "x": 185,
                             "y": 155
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T7L3_Start01",
+                            "node_T7L3_12",
+                            "node_T7L3_14"
+                        ],
                         "nodeType": "quest:task",
                         "objectives": {
                             "BreakWallsPalletsGens": {
@@ -2694,11 +2747,6 @@
                         },
                         "reward": [
                             {
-                                "amount": 3,
-                                "id": "star",
-                                "type": "progressionDbD"
-                            },
-                            {
                                 "amount": 30000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
@@ -2711,7 +2759,10 @@
                             "x": 545,
                             "y": 5
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T7L3_13",
+                            "node_T7L3_14"
+                        ],
                         "nodeType": "quest:task",
                         "objectives": {
                             "Hit": {
@@ -2738,11 +2789,6 @@
                         },
                         "reward": [
                             {
-                                "amount": 3,
-                                "id": "star",
-                                "type": "progressionDbD"
-                            },
-                            {
                                 "amount": 30000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
@@ -2755,7 +2801,10 @@
                             "x": 275,
                             "y": 5
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T7L3_10",
+                            "node_T7L3_22"
+                        ],
                         "nodeType": "quest:task",
                         "objectives": {
                             "Hook": {
@@ -2782,11 +2831,6 @@
                         },
                         "reward": [
                             {
-                                "amount": 3,
-                                "id": "star",
-                                "type": "progressionDbD"
-                            },
-                            {
                                 "amount": 30000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
@@ -2799,7 +2843,11 @@
                             "x": 725,
                             "y": 5
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T7L3_09",
+                            "node_T7L3_11",
+                            "node_T7L3_Glyph01"
+                        ],
                         "nodeType": "quest:task",
                         "objectives": {
                             "Chase": {
@@ -2826,11 +2874,6 @@
                         },
                         "reward": [
                             {
-                                "amount": 3,
-                                "id": "star",
-                                "type": "progressionDbD"
-                            },
-                            {
                                 "amount": 30000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
@@ -2843,7 +2886,11 @@
                             "x": 455,
                             "y": 155
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T7L3_10",
+                            "node_T7L3_11",
+                            "node_T7L3_15"
+                        ],
                         "nodeType": "quest:task",
                         "objectives": {
                             "Sacrifice": {
@@ -2869,11 +2916,6 @@
                         },
                         "reward": [
                             {
-                                "amount": 3,
-                                "id": "star",
-                                "type": "progressionDbD"
-                            },
-                            {
                                 "amount": 30000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
@@ -2886,7 +2928,12 @@
                             "x": 635,
                             "y": 305
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T7L3_06",
+                            "node_T7L3_Glyph01",
+                            "node_T7L3_21",
+                            "node_T7L3_14"
+                        ],
                         "nodeType": "quest:task",
                         "objectives": {
                             "EarnBloodpoints": {
@@ -2905,11 +2952,6 @@
                         },
                         "reward": [
                             {
-                                "amount": 3,
-                                "id": "star",
-                                "type": "progressionDbD"
-                            },
-                            {
                                 "amount": 30000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
@@ -2922,7 +2964,10 @@
                             "x": 995,
                             "y": 455
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T7L3_19",
+                            "node_T7L3_05"
+                        ],
                         "nodeType": "quest:task",
                         "objectives": {
                             "EarnEmblemsGold": {
@@ -2942,11 +2987,6 @@
                         },
                         "reward": [
                             {
-                                "amount": 3,
-                                "id": "star",
-                                "type": "progressionDbD"
-                            },
-                            {
                                 "amount": 30000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
@@ -2962,7 +3002,10 @@
                         "journal": [
                             "Tome07_Observer"
                         ],
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T7L3_02",
+                            "node_T7L3_05"
+                        ],
                         "nodeType": "quest:challenge",
                         "objectives": {
                             "ForThePeopleTriggeredInTrial": {
@@ -2995,11 +3038,6 @@
                         },
                         "reward": [
                             {
-                                "amount": 5,
-                                "id": "star",
-                                "type": "progressionDbD"
-                            },
-                            {
                                 "amount": 50000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
@@ -3015,7 +3053,10 @@
                         "journal": [
                             "Tome07_Observer"
                         ],
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T7L3_06",
+                            "node_T7L3_01"
+                        ],
                         "nodeType": "quest:challenge",
                         "objectives": {
                             "HealFinishOtherInTrial": {
@@ -3042,11 +3083,6 @@
                         },
                         "reward": [
                             {
-                                "amount": 3,
-                                "id": "star",
-                                "type": "progressionDbD"
-                            },
-                            {
                                 "amount": 30000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
@@ -3062,7 +3098,11 @@
                         "journal": [
                             "Tome07_Observer"
                         ],
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T7L3_16",
+                            "node_T7L3_End01",
+                            "node_T7L3_21"
+                        ],
                         "nodeType": "quest:challenge",
                         "objectives": {
                             "TrapperCatchTrapNearPalletsVaultsWallsInTrial": {
@@ -3094,11 +3134,6 @@
                         },
                         "reward": [
                             {
-                                "amount": 5,
-                                "id": "star",
-                                "type": "progressionDbD"
-                            },
-                            {
                                 "amount": 50000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
@@ -3114,7 +3149,10 @@
                         "journal": [
                             "Tome07_Observer"
                         ],
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T7L3_End01",
+                            "node_T7L3_09"
+                        ],
                         "nodeType": "quest:challenge",
                         "objectives": {
                             "LivingAtEndTrialWithTrapperPerksInTrial": {
@@ -3148,11 +3186,6 @@
                         },
                         "reward": [
                             {
-                                "amount": 5,
-                                "id": "star",
-                                "type": "progressionDbD"
-                            },
-                            {
                                 "amount": 50000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
@@ -3168,7 +3201,10 @@
                         "journal": [
                             "Tome07_Plague"
                         ],
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T7L3_19",
+                            "node_T7L3_15"
+                        ],
                         "nodeType": "quest:challenge",
                         "objectives": {
                             "HookObsessionInTrial": {
@@ -3195,11 +3231,6 @@
                         },
                         "reward": [
                             {
-                                "amount": 5,
-                                "id": "star",
-                                "type": "progressionDbD"
-                            },
-                            {
                                 "amount": 50000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
@@ -3215,7 +3246,9 @@
                         "journal": [
                             "Tome07_Plague"
                         ],
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T7L3_12"
+                        ],
                         "nodeType": "quest:challenge",
                         "objectives": {
                             "FinishPreventGensRepairedWithPerkInTrial": {
@@ -3248,11 +3281,6 @@
                         },
                         "reward": [
                             {
-                                "amount": 5,
-                                "id": "star",
-                                "type": "progressionDbD"
-                            },
-                            {
                                 "amount": 50000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
@@ -3265,7 +3293,12 @@
                             "x": 1355,
                             "y": 305
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T7L3_07",
+                            "node_T7L3_19",
+                            "node_T7L3_20",
+                            "node_T7L3_04"
+                        ],
                         "nodeType": "narrative"
                     },
                     "node_T7L3_Glyph01": {
@@ -3274,7 +3307,11 @@
                             "x": 815,
                             "y": 155
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T7L3_07",
+                            "node_T7L3_13",
+                            "node_T7L3_15"
+                        ],
                         "nodeType": "quest:contextual",
                         "objectives": {
                             "BlueGlyph": {
@@ -3306,11 +3343,6 @@
                         },
                         "reward": [
                             {
-                                "amount": 5,
-                                "id": "star",
-                                "type": "progressionDbD"
-                            },
-                            {
                                 "amount": 50000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
@@ -3323,7 +3355,10 @@
                             "x": 5,
                             "y": 455
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T7L3_01",
+                            "node_T7L3_10"
+                        ],
                         "nodeType": "narrative"
                     }
                 },
@@ -3371,7 +3406,11 @@
                             "x": 545,
                             "y": 5
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T7L4_18",
+                            "node_T7L4_04",
+                            "node_T7L4_05"
+                        ],
                         "nodeType": "quest:task",
                         "objectives": {
                             "RepairCoop": {
@@ -3398,11 +3437,6 @@
                         },
                         "reward": [
                             {
-                                "amount": 3,
-                                "id": "star",
-                                "type": "progressionDbD"
-                            },
-                            {
                                 "amount": 45000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
@@ -3415,7 +3449,10 @@
                             "x": 275,
                             "y": 155
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T7L4_07",
+                            "node_T7L4_05"
+                        ],
                         "nodeType": "quest:task",
                         "objectives": {
                             "HideNearKIller": {
@@ -3442,11 +3479,6 @@
                         },
                         "reward": [
                             {
-                                "amount": 3,
-                                "id": "star",
-                                "type": "progressionDbD"
-                            },
-                            {
                                 "amount": 45000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
@@ -3456,10 +3488,13 @@
                     "node_T7L4_03": {
                         "clientInfoId": "SkillCheckGreatSuccessInTerrorRadius",
                         "coordinates": {
-                            "x": 1175,
+                            "x": 995,
                             "y": 5
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T7L4_16",
+                            "node_T7L4_04"
+                        ],
                         "nodeType": "quest:task",
                         "objectives": {
                             "SkillCheckGreatSuccessInTerrorRadius": {
@@ -3486,11 +3521,6 @@
                         },
                         "reward": [
                             {
-                                "amount": 3,
-                                "id": "star",
-                                "type": "progressionDbD"
-                            },
-                            {
                                 "amount": 45000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
@@ -3500,10 +3530,13 @@
                     "node_T7L4_04": {
                         "clientInfoId": "StunBlind",
                         "coordinates": {
-                            "x": 815,
+                            "x": 725,
                             "y": 5
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T7L4_01",
+                            "node_T7L4_03"
+                        ],
                         "nodeType": "quest:task",
                         "objectives": {
                             "StunBlind": {
@@ -3530,11 +3563,6 @@
                         },
                         "reward": [
                             {
-                                "amount": 3,
-                                "id": "star",
-                                "type": "progressionDbD"
-                            },
-                            {
                                 "amount": 45000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
@@ -3547,7 +3575,11 @@
                             "x": 455,
                             "y": 155
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T7L4_01",
+                            "node_T7L4_15",
+                            "node_T7L4_02"
+                        ],
                         "nodeType": "quest:task",
                         "objectives": {
                             "PalletDropInChase": {
@@ -3574,11 +3606,6 @@
                         },
                         "reward": [
                             {
-                                "amount": 3,
-                                "id": "star",
-                                "type": "progressionDbD"
-                            },
-                            {
                                 "amount": 45000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
@@ -3591,7 +3618,10 @@
                             "x": 1085,
                             "y": 305
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T7L4_08",
+                            "node_T7L4_End01"
+                        ],
                         "nodeType": "quest:task",
                         "objectives": {
                             "HealOtherPerc": {
@@ -3618,11 +3648,6 @@
                         },
                         "reward": [
                             {
-                                "amount": 3,
-                                "id": "star",
-                                "type": "progressionDbD"
-                            },
-                            {
                                 "amount": 45000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
@@ -3635,7 +3660,10 @@
                             "x": 185,
                             "y": 305
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T7L4_Start01",
+                            "node_T7L4_02"
+                        ],
                         "nodeType": "quest:task",
                         "objectives": {
                             "ConsumeMedkit": {
@@ -3661,11 +3689,6 @@
                         },
                         "reward": [
                             {
-                                "amount": 3,
-                                "id": "star",
-                                "type": "progressionDbD"
-                            },
-                            {
                                 "amount": 45000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
@@ -3678,7 +3701,11 @@
                             "x": 905,
                             "y": 305
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T7L4_17",
+                            "node_T7L4_06",
+                            "node_T7L4_Glyph01"
+                        ],
                         "nodeType": "quest:task",
                         "objectives": {
                             "EscapeWithItemUltraRare": {
@@ -3705,11 +3732,6 @@
                         },
                         "reward": [
                             {
-                                "amount": 3,
-                                "id": "star",
-                                "type": "progressionDbD"
-                            },
-                            {
                                 "amount": 45000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
@@ -3722,7 +3744,10 @@
                             "x": 1175,
                             "y": 455
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T7L4_End01",
+                            "node_T7L4_14"
+                        ],
                         "nodeType": "quest:task",
                         "objectives": {
                             "Kill": {
@@ -3748,11 +3773,6 @@
                         },
                         "reward": [
                             {
-                                "amount": 3,
-                                "id": "star",
-                                "type": "progressionDbD"
-                            },
-                            {
                                 "amount": 45000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
@@ -3765,7 +3785,11 @@
                             "x": 725,
                             "y": 605
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T7L4_19",
+                            "node_T7L4_14",
+                            "node_T7L4_20"
+                        ],
                         "nodeType": "quest:task",
                         "objectives": {
                             "HookObsession": {
@@ -3792,11 +3816,6 @@
                         },
                         "reward": [
                             {
-                                "amount": 3,
-                                "id": "star",
-                                "type": "progressionDbD"
-                            },
-                            {
                                 "amount": 45000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
@@ -3809,7 +3828,10 @@
                             "x": 95,
                             "y": 455
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T7L4_Start01",
+                            "node_T7L4_13"
+                        ],
                         "nodeType": "quest:task",
                         "objectives": {
                             "Down": {
@@ -3835,11 +3857,6 @@
                         },
                         "reward": [
                             {
-                                "amount": 3,
-                                "id": "star",
-                                "type": "progressionDbD"
-                            },
-                            {
                                 "amount": 45000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
@@ -3852,7 +3869,11 @@
                             "x": 455,
                             "y": 455
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T7L4_19",
+                            "node_T7L4_15",
+                            "node_T7L4_13"
+                        ],
                         "nodeType": "quest:task",
                         "objectives": {
                             "Chase": {
@@ -3879,11 +3900,6 @@
                         },
                         "reward": [
                             {
-                                "amount": 3,
-                                "id": "star",
-                                "type": "progressionDbD"
-                            },
-                            {
                                 "amount": 45000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
@@ -3896,7 +3912,10 @@
                             "x": 275,
                             "y": 455
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T7L4_11",
+                            "node_T7L4_12"
+                        ],
                         "nodeType": "quest:task",
                         "objectives": {
                             "Scream": {
@@ -3922,11 +3941,6 @@
                         },
                         "reward": [
                             {
-                                "amount": 3,
-                                "id": "star",
-                                "type": "progressionDbD"
-                            },
-                            {
                                 "amount": 45000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
@@ -3939,7 +3953,11 @@
                             "x": 815,
                             "y": 455
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T7L4_09",
+                            "node_T7L4_10",
+                            "node_T7L4_Glyph01"
+                        ],
                         "nodeType": "quest:task",
                         "objectives": {
                             "BreakGens": {
@@ -3966,11 +3984,6 @@
                         },
                         "reward": [
                             {
-                                "amount": 3,
-                                "id": "star",
-                                "type": "progressionDbD"
-                            },
-                            {
                                 "amount": 45000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
@@ -3983,7 +3996,11 @@
                             "x": 545,
                             "y": 305
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T7L4_12",
+                            "node_T7L4_05",
+                            "node_T7L4_Glyph01"
+                        ],
                         "nodeType": "quest:task",
                         "objectives": {
                             "EarnEmblemsIridescent": {
@@ -4003,11 +4020,6 @@
                         },
                         "reward": [
                             {
-                                "amount": 3,
-                                "id": "star",
-                                "type": "progressionDbD"
-                            },
-                            {
                                 "amount": 45000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
@@ -4017,13 +4029,16 @@
                     "node_T7L4_16": {
                         "clientInfoId": "EscapeHatchWithMapInTrial",
                         "coordinates": {
-                            "x": 1265,
-                            "y": 155
+                            "x": 1175,
+                            "y": 5
                         },
                         "journal": [
                             "Tome07_Observer"
                         ],
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T7L4_End01",
+                            "node_T7L4_03"
+                        ],
                         "nodeType": "quest:challenge",
                         "objectives": {
                             "EscapeHatchWithItemInTrial": {
@@ -4049,11 +4064,6 @@
                         },
                         "reward": [
                             {
-                                "amount": 5,
-                                "id": "star",
-                                "type": "progressionDbD"
-                            },
-                            {
                                 "amount": 60000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
@@ -4069,7 +4079,11 @@
                         "journal": [
                             "Tome07_Observer"
                         ],
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T7L4_08",
+                            "node_T7L4_18",
+                            "node_T7L4_End03"
+                        ],
                         "nodeType": "quest:challenge",
                         "objectives": {
                             "EscapeWithPerkInTrial": {
@@ -4102,11 +4116,6 @@
                         },
                         "reward": [
                             {
-                                "amount": 5,
-                                "id": "star",
-                                "type": "progressionDbD"
-                            },
-                            {
                                 "amount": 60000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
@@ -4122,7 +4131,10 @@
                         "journal": [
                             "Tome07_Observer"
                         ],
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T7L4_01",
+                            "node_T7L4_17"
+                        ],
                         "nodeType": "quest:challenge",
                         "objectives": {
                             "RedHerringTriggeredInTrial": {
@@ -4148,11 +4160,6 @@
                         },
                         "reward": [
                             {
-                                "amount": 5,
-                                "id": "star",
-                                "type": "progressionDbD"
-                            },
-                            {
                                 "amount": 60000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
@@ -4168,7 +4175,10 @@
                         "journal": [
                             "Tome07_Observer"
                         ],
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T7L4_10",
+                            "node_T7L4_12"
+                        ],
                         "nodeType": "quest:challenge",
                         "objectives": {
                             "TrapperCatchTrapResetInTrial": {
@@ -4200,11 +4210,6 @@
                         },
                         "reward": [
                             {
-                                "amount": 5,
-                                "id": "star",
-                                "type": "progressionDbD"
-                            },
-                            {
                                 "amount": 60000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
@@ -4220,7 +4225,10 @@
                         "journal": [
                             "Tome07_Observer"
                         ],
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T7L4_10",
+                            "node_T7L4_End02"
+                        ],
                         "nodeType": "quest:challenge",
                         "objectives": {
                             "TrapperCatchInChaseInTrial": {
@@ -4252,11 +4260,6 @@
                         },
                         "reward": [
                             {
-                                "amount": 5,
-                                "id": "star",
-                                "type": "progressionDbD"
-                            },
-                            {
                                 "amount": 50000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
@@ -4269,7 +4272,11 @@
                             "x": 1355,
                             "y": 305
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T7L4_09",
+                            "node_T7L4_06",
+                            "node_T7L4_16"
+                        ],
                         "nodeType": "narrative"
                     },
                     "node_T7L4_End02": {
@@ -4278,7 +4285,9 @@
                             "x": 1085,
                             "y": 605
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T7L4_20"
+                        ],
                         "nodeType": "narrative"
                     },
                     "node_T7L4_End03": {
@@ -4287,7 +4296,9 @@
                             "x": 1085,
                             "y": 155
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T7L4_17"
+                        ],
                         "nodeType": "narrative"
                     },
                     "node_T7L4_Glyph01": {
@@ -4296,7 +4307,11 @@
                             "x": 725,
                             "y": 305
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T7L4_08",
+                            "node_T7L4_15",
+                            "node_T7L4_14"
+                        ],
                         "nodeType": "quest:contextual",
                         "objectives": {
                             "RedGlyph": {
@@ -4321,11 +4336,6 @@
                         },
                         "reward": [
                             {
-                                "amount": 5,
-                                "id": "star",
-                                "type": "progressionDbD"
-                            },
-                            {
                                 "amount": 60000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
@@ -4338,7 +4348,10 @@
                             "x": 5,
                             "y": 305
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T7L4_11",
+                            "node_T7L4_07"
+                        ],
                         "nodeType": "narrative"
                     }
                 },
@@ -5339,6 +5352,6 @@
             }
         ],
         "rewardData": "Tome07",
-        "version": 63
+        "version": 64
     }
 }

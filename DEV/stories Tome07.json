@@ -4,6 +4,22 @@
             "nodeTreeCoordinate": {
                 "storyId": "Tome07",
                 "level": 0,
+                "nodeId": "node_T7L1_01"
+            },
+            "status": "open"
+        },
+        {
+            "nodeTreeCoordinate": {
+                "storyId": "Tome07",
+                "level": 0,
+                "nodeId": "node_T7L1_11"
+            },
+            "status": "open"
+        },
+        {
+            "nodeTreeCoordinate": {
+                "storyId": "Tome07",
+                "level": 0,
                 "nodeId": "node_T7L1_Start01"
             },
             "status": "completed"
