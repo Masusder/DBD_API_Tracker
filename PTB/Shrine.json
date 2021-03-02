@@ -1,21 +1,7 @@
 {
     "items": [
         {
-            "id": "BuiltToLast",
-            "bloodpointValue": 250000,
-            "experienceValue": 250000,
-            "unique": false,
-            "purchased": false,
-            "version": "steam",
-            "cost": [
-                {
-                    "currencyId": "Shards",
-                    "price": 2700
-                }
-            ]
-        },
-        {
-            "id": "Hex_Devour_Hope",
+            "id": "Diversion",
             "bloodpointValue": 150000,
             "experienceValue": 150000,
             "unique": false,
@@ -29,7 +15,7 @@
             ]
         },
         {
-            "id": "NoMither",
+            "id": "Hex_HauntedGround",
             "bloodpointValue": 150000,
             "experienceValue": 150000,
             "unique": false,
@@ -43,7 +29,21 @@
             ]
         },
         {
-            "id": "NurseCalling",
+            "id": "ThrillingTremors",
+            "bloodpointValue": 150000,
+            "experienceValue": 150000,
+            "unique": false,
+            "purchased": false,
+            "version": "steam",
+            "cost": [
+                {
+                    "currencyId": "Shards",
+                    "price": 2000
+                }
+            ]
+        },
+        {
+            "id": "WindowsOfOpportunity",
             "bloodpointValue": 150000,
             "experienceValue": 150000,
             "unique": false,

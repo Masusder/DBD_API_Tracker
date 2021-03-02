@@ -33,7 +33,7 @@
                             "y": 155
                         },
                         "neighbors": [
-                            "node_T7L1_03",
+                            "node_T7L1_Glyph01",
                             "node_T7L1_Start02",
                             "node_T7L1_07"
                         ],
@@ -78,11 +78,11 @@
                         "clientInfoId": "ConsumeToolbox",
                         "coordinates": {
                             "x": 995,
-                            "y": 155
+                            "y": 5
                         },
                         "neighbors": [
                             "node_T7L1_05",
-                            "node_T7L1_08"
+                            "node_T7L1_03"
                         ],
                         "nodeType": "quest:task",
                         "objectives": {
@@ -124,13 +124,13 @@
                     "node_T7L1_03": {
                         "clientInfoId": "Unhook",
                         "coordinates": {
-                            "x": 365,
-                            "y": 155
+                            "x": 815,
+                            "y": 5
                         },
                         "neighbors": [
-                            "node_T7L1_Glyph01",
-                            "node_T7L1_01",
-                            "node_T7L1_18"
+                            "node_T7L1_02",
+                            "node_T7L1_08",
+                            "node_T7L1_06"
                         ],
                         "nodeType": "quest:task",
                         "objectives": {
@@ -273,7 +273,7 @@
                             "y": 5
                         },
                         "neighbors": [
-                            "node_T7L1_08",
+                            "node_T7L1_03",
                             "node_T7L1_07"
                         ],
                         "nodeType": "quest:task",
@@ -363,13 +363,14 @@
                     "node_T7L1_08": {
                         "clientInfoId": "SearchFinish",
                         "coordinates": {
-                            "x": 815,
-                            "y": 5
+                            "x": 635,
+                            "y": 155
                         },
                         "neighbors": [
+                            "node_T7L1_15",
+                            "node_T7L1_03",
                             "node_T7L1_Glyph01",
-                            "node_T7L1_02",
-                            "node_T7L1_06"
+                            "node_T7L1_16"
                         ],
                         "nodeType": "quest:task",
                         "objectives": {
@@ -416,6 +417,7 @@
                         },
                         "neighbors": [
                             "node_T7L1_13",
+                            "node_T7L1_22",
                             "node_T7L1_11"
                         ],
                         "nodeType": "quest:task",
@@ -458,7 +460,7 @@
                     "node_T7L1_10": {
                         "clientInfoId": "Sacrifice",
                         "coordinates": {
-                            "x": 815,
+                            "x": 725,
                             "y": 455
                         },
                         "neighbors": [
@@ -510,8 +512,8 @@
                             "y": 455
                         },
                         "neighbors": [
+                            "node_T7L1_Start02",
                             "node_T7L1_18",
-                            "node_T7L1_Start01",
                             "node_T7L1_09"
                         ],
                         "nodeType": "quest:task",
@@ -607,8 +609,7 @@
                         },
                         "neighbors": [
                             "node_T7L1_14",
-                            "node_T7L1_09",
-                            "node_T7L1_22"
+                            "node_T7L1_09"
                         ],
                         "nodeType": "quest:task",
                         "objectives": {
@@ -654,9 +655,9 @@
                             "y": 605
                         },
                         "neighbors": [
-                            "node_T7L1_13",
+                            "node_T7L1_20",
                             "node_T7L1_10",
-                            "node_T7L1_19"
+                            "node_T7L1_13"
                         ],
                         "nodeType": "quest:task",
                         "objectives": {
@@ -703,9 +704,9 @@
                         },
                         "neighbors": [
                             "node_T7L1_04",
-                            "node_T7L1_Glyph01",
                             "node_T7L1_21",
-                            "node_T7L1_10"
+                            "node_T7L1_10",
+                            "node_T7L1_08"
                         ],
                         "nodeType": "quest:task",
                         "objectives": {
@@ -739,14 +740,14 @@
                     "node_T7L1_16": {
                         "clientInfoId": "RepairFinishAsBillInTrial",
                         "coordinates": {
-                            "x": 815,
+                            "x": 905,
                             "y": 155
                         },
                         "journal": [
                             "Tome07_Bill"
                         ],
                         "neighbors": [
-                            "node_T7L1_Glyph01"
+                            "node_T7L1_08"
                         ],
                         "nodeType": "quest:challenge",
                         "objectives": {
@@ -855,8 +856,8 @@
                             "Tome07_Plague"
                         ],
                         "neighbors": [
+                            "node_T7L1_Glyph01",
                             "node_T7L1_21",
-                            "node_T7L1_03",
                             "node_T7L1_11"
                         ],
                         "nodeType": "quest:challenge",
@@ -899,15 +900,15 @@
                     "node_T7L1_19": {
                         "clientInfoId": "HitUndetectableWithDarkDevotionInTrial",
                         "coordinates": {
-                            "x": 905,
+                            "x": 1175,
                             "y": 605
                         },
                         "journal": [
                             "Tome07_Plague"
                         ],
                         "neighbors": [
-                            "node_T7L1_14",
-                            "node_T7L1_20"
+                            "node_T7L1_20",
+                            "node_T7L1_End01"
                         ],
                         "nodeType": "quest:challenge",
                         "objectives": {
@@ -954,15 +955,15 @@
                     "node_T7L1_20": {
                         "clientInfoId": "PlagueInfectMaxInTrial",
                         "coordinates": {
-                            "x": 1265,
+                            "x": 905,
                             "y": 605
                         },
                         "journal": [
                             "Tome07_Plague"
                         ],
                         "neighbors": [
-                            "node_T7L1_19",
-                            "node_T7L1_End01"
+                            "node_T7L1_14",
+                            "node_T7L1_19"
                         ],
                         "nodeType": "quest:challenge",
                         "objectives": {
@@ -988,7 +989,7 @@
                                     {
                                         "operation": ">=",
                                         "questEventId": "QuestEvent.PlagueInfectMax",
-                                        "repetition": 5
+                                        "repetition": 4
                                     }
                                 ]
                             }
@@ -1064,14 +1065,14 @@
                     "node_T7L1_22": {
                         "clientInfoId": "HitDifferentInTrial",
                         "coordinates": {
-                            "x": 635,
+                            "x": 455,
                             "y": 455
                         },
                         "journal": [
                             "Tome07_Plague"
                         ],
                         "neighbors": [
-                            "node_T7L1_13",
+                            "node_T7L1_09",
                             "node_T7L1_10"
                         ],
                         "nodeType": "quest:challenge",
@@ -1119,7 +1120,7 @@
                         },
                         "neighbors": [
                             "node_T7L1_12",
-                            "node_T7L1_20"
+                            "node_T7L1_19"
                         ],
                         "nodeType": "narrative"
                     },
@@ -1137,14 +1138,13 @@
                     "node_T7L1_Glyph01": {
                         "clientInfoId": "BlueGlyph",
                         "coordinates": {
-                            "x": 635,
+                            "x": 365,
                             "y": 155
                         },
                         "neighbors": [
-                            "node_T7L1_15",
-                            "node_T7L1_03",
+                            "node_T7L1_18",
                             "node_T7L1_08",
-                            "node_T7L1_16"
+                            "node_T7L1_01"
                         ],
                         "nodeType": "quest:contextual",
                         "objectives": {
@@ -1189,19 +1189,18 @@
                             "x": 5,
                             "y": 455
                         },
-                        "neighbors": [
-                            "node_T7L1_11"
-                        ],
+                        "neighbors": [],
                         "nodeType": "narrative"
                     },
                     "node_T7L1_Start02": {
                         "clientInfoId": "Start",
                         "coordinates": {
                             "x": 5,
-                            "y": 155
+                            "y": 305
                         },
                         "neighbors": [
-                            "node_T7L1_01"
+                            "node_T7L1_01",
+                            "node_T7L1_11"
                         ],
                         "nodeType": "narrative"
                     }
@@ -5353,6 +5352,6 @@
             }
         ],
         "rewardData": "Tome07",
-        "version": 65
+        "version": 66
     }
 }

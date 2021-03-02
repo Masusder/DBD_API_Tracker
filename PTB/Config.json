@@ -440,8 +440,7 @@
                 "SaveGameSummaryPlayerStatsAnalytics",
                 "ShopAnalytics",
                 "SpecialEventAnalytics",
-                "SpecialEventBaseAnalytics",
-                "SyncLoadAnalytics"
+                "SpecialEventBaseAnalytics"
             ],
             "BL": [
                 "AtlantaControlsSettingsAnalytics",
@@ -450,7 +449,8 @@
                 "MatchmakingSearchResultAnalytics",
                 "MatchmakingSurviveWithFriendsAnalytics",
                 "PerformanceChartingAnalytics",
-                "RTMAnalytics"
+                "RTMAnalytics",
+                "SyncLoadAnalytics"
             ],
             "AF": [
                 "af_complete_registrationAnalytics",
@@ -619,6 +619,8 @@
             "4.4.0_381746ptb": "4.4.0_381746ptb-1608653531",
             "4.4.0_384414ptb": "4.4.0_384414ptb-1610124629",
             "4.5.0_385337ptb": "4.5.0_385337ptb-1610465041",
+            "4.6.0_404898ptb": "4.6.0_404898ptb-1614695085",
+            "4.6.0_404913ptb": "4.6.0_404913ptb-1614696180",
             "m_3.3.5_260791ptb": "m_3.3.5_260791ptb-1578947417",
             "m_3.3.5_281807ptb": "m_3.3.5_281807ptb-1584119023",
             "m_3.6.0_282086ptb": "m_3.6.0_282086ptb-1585750969"
