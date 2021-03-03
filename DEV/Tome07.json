@@ -34,7 +34,7 @@
                         },
                         "neighbors": [
                             "node_T7L1_Glyph01",
-                            "node_T7L1_Start02",
+                            "node_T7L1_Start01",
                             "node_T7L1_07"
                         ],
                         "nodeType": "quest:task",
@@ -63,9 +63,9 @@
                         },
                         "reward": [
                             {
-                                "amount": 15000,
-                                "id": "Bloodpoints",
-                                "type": "currency"
+                                "amount": 3,
+                                "id": "star",
+                                "type": "progressionDbD"
                             },
                             {
                                 "amount": 15000,
@@ -110,9 +110,9 @@
                         },
                         "reward": [
                             {
-                                "amount": 15000,
-                                "id": "Bloodpoints",
-                                "type": "currency"
+                                "amount": 3,
+                                "id": "star",
+                                "type": "progressionDbD"
                             },
                             {
                                 "amount": 15000,
@@ -158,9 +158,9 @@
                         },
                         "reward": [
                             {
-                                "amount": 15000,
-                                "id": "Bloodpoints",
-                                "type": "currency"
+                                "amount": 3,
+                                "id": "star",
+                                "type": "progressionDbD"
                             },
                             {
                                 "amount": 15000,
@@ -206,9 +206,9 @@
                         },
                         "reward": [
                             {
-                                "amount": 15000,
-                                "id": "Bloodpoints",
-                                "type": "currency"
+                                "amount": 3,
+                                "id": "star",
+                                "type": "progressionDbD"
                             },
                             {
                                 "amount": 15000,
@@ -255,9 +255,9 @@
                         },
                         "reward": [
                             {
-                                "amount": 15000,
-                                "id": "Bloodpoints",
-                                "type": "currency"
+                                "amount": 3,
+                                "id": "star",
+                                "type": "progressionDbD"
                             },
                             {
                                 "amount": 15000,
@@ -302,9 +302,9 @@
                         },
                         "reward": [
                             {
-                                "amount": 15000,
-                                "id": "Bloodpoints",
-                                "type": "currency"
+                                "amount": 3,
+                                "id": "star",
+                                "type": "progressionDbD"
                             },
                             {
                                 "amount": 15000,
@@ -349,9 +349,9 @@
                         },
                         "reward": [
                             {
-                                "amount": 15000,
-                                "id": "Bloodpoints",
-                                "type": "currency"
+                                "amount": 3,
+                                "id": "star",
+                                "type": "progressionDbD"
                             },
                             {
                                 "amount": 15000,
@@ -398,9 +398,9 @@
                         },
                         "reward": [
                             {
-                                "amount": 15000,
-                                "id": "Bloodpoints",
-                                "type": "currency"
+                                "amount": 3,
+                                "id": "star",
+                                "type": "progressionDbD"
                             },
                             {
                                 "amount": 15000,
@@ -417,8 +417,8 @@
                         },
                         "neighbors": [
                             "node_T7L1_13",
-                            "node_T7L1_22",
-                            "node_T7L1_11"
+                            "node_T7L1_11",
+                            "node_T7L1_22"
                         ],
                         "nodeType": "quest:task",
                         "objectives": {
@@ -446,9 +446,9 @@
                         },
                         "reward": [
                             {
-                                "amount": 25000,
-                                "id": "Bloodpoints",
-                                "type": "currency"
+                                "amount": 3,
+                                "id": "star",
+                                "type": "progressionDbD"
                             },
                             {
                                 "amount": 25000,
@@ -494,9 +494,9 @@
                         },
                         "reward": [
                             {
-                                "amount": 15000,
-                                "id": "Bloodpoints",
-                                "type": "currency"
+                                "amount": 3,
+                                "id": "star",
+                                "type": "progressionDbD"
                             },
                             {
                                 "amount": 15000,
@@ -512,9 +512,9 @@
                             "y": 455
                         },
                         "neighbors": [
-                            "node_T7L1_Start02",
-                            "node_T7L1_18",
-                            "node_T7L1_09"
+                            "node_T7L1_Start01",
+                            "node_T7L1_09",
+                            "node_T7L1_18"
                         ],
                         "nodeType": "quest:task",
                         "objectives": {
@@ -542,9 +542,9 @@
                         },
                         "reward": [
                             {
-                                "amount": 15000,
-                                "id": "Bloodpoints",
-                                "type": "currency"
+                                "amount": 3,
+                                "id": "star",
+                                "type": "progressionDbD"
                             },
                             {
                                 "amount": 15000,
@@ -554,7 +554,7 @@
                         ]
                     },
                     "node_T7L1_12": {
-                        "clientInfoId": "HitObsession",
+                        "clientInfoId": "HookObsession",
                         "coordinates": {
                             "x": 1175,
                             "y": 455
@@ -566,7 +566,7 @@
                         ],
                         "nodeType": "quest:task",
                         "objectives": {
-                            "HitObsession": {
+                            "HookObsession": {
                                 "conditions": [
                                     {
                                         "key": "role",
@@ -576,13 +576,13 @@
                                     }
                                 ],
                                 "incrementWithEventRepetitions": true,
-                                "neededProgression": 12,
-                                "objectiveId": "HitObsession",
+                                "neededProgression": 4,
+                                "objectiveId": "HookObsession",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
                                         "parameters": "instigator:me",
-                                        "questEventId": "QuestEvent.HitObsession",
+                                        "questEventId": "QuestEvent.HookObsession",
                                         "repetition": 1
                                     }
                                 ]
@@ -590,9 +590,9 @@
                         },
                         "reward": [
                             {
-                                "amount": 15000,
-                                "id": "Bloodpoints",
-                                "type": "currency"
+                                "amount": 3,
+                                "id": "star",
+                                "type": "progressionDbD"
                             },
                             {
                                 "amount": 15000,
@@ -637,9 +637,9 @@
                         },
                         "reward": [
                             {
-                                "amount": 15000,
-                                "id": "Bloodpoints",
-                                "type": "currency"
+                                "amount": 3,
+                                "id": "star",
+                                "type": "progressionDbD"
                             },
                             {
                                 "amount": 15000,
@@ -685,9 +685,9 @@
                         },
                         "reward": [
                             {
-                                "amount": 15000,
-                                "id": "Bloodpoints",
-                                "type": "currency"
+                                "amount": 3,
+                                "id": "star",
+                                "type": "progressionDbD"
                             },
                             {
                                 "amount": 15000,
@@ -726,9 +726,9 @@
                         },
                         "reward": [
                             {
-                                "amount": 15000,
-                                "id": "Bloodpoints",
-                                "type": "currency"
+                                "amount": 3,
+                                "id": "star",
+                                "type": "progressionDbD"
                             },
                             {
                                 "amount": 15000,
@@ -781,9 +781,9 @@
                         },
                         "reward": [
                             {
-                                "amount": 25000,
-                                "id": "Bloodpoints",
-                                "type": "currency"
+                                "amount": 5,
+                                "id": "star",
+                                "type": "progressionDbD"
                             },
                             {
                                 "amount": 25000,
@@ -835,9 +835,9 @@
                         },
                         "reward": [
                             {
-                                "amount": 25000,
-                                "id": "Bloodpoints",
-                                "type": "currency"
+                                "amount": 5,
+                                "id": "star",
+                                "type": "progressionDbD"
                             },
                             {
                                 "amount": 25000,
@@ -886,9 +886,9 @@
                         },
                         "reward": [
                             {
-                                "amount": 25000,
-                                "id": "Bloodpoints",
-                                "type": "currency"
+                                "amount": 5,
+                                "id": "star",
+                                "type": "progressionDbD"
                             },
                             {
                                 "amount": 25000,
@@ -941,9 +941,9 @@
                         },
                         "reward": [
                             {
-                                "amount": 25000,
-                                "id": "Bloodpoints",
-                                "type": "currency"
+                                "amount": 5,
+                                "id": "star",
+                                "type": "progressionDbD"
                             },
                             {
                                 "amount": 25000,
@@ -996,9 +996,9 @@
                         },
                         "reward": [
                             {
-                                "amount": 25000,
-                                "id": "Bloodpoints",
-                                "type": "currency"
+                                "amount": 5,
+                                "id": "star",
+                                "type": "progressionDbD"
                             },
                             {
                                 "amount": 25000,
@@ -1051,9 +1051,9 @@
                         },
                         "reward": [
                             {
-                                "amount": 25000,
-                                "id": "Bloodpoints",
-                                "type": "currency"
+                                "amount": 5,
+                                "id": "star",
+                                "type": "progressionDbD"
                             },
                             {
                                 "amount": 25000,
@@ -1072,8 +1072,8 @@
                             "Tome07_Plague"
                         ],
                         "neighbors": [
-                            "node_T7L1_09",
-                            "node_T7L1_10"
+                            "node_T7L1_10",
+                            "node_T7L1_09"
                         ],
                         "nodeType": "quest:challenge",
                         "objectives": {
@@ -1101,9 +1101,9 @@
                         },
                         "reward": [
                             {
-                                "amount": 25000,
-                                "id": "Bloodpoints",
-                                "type": "currency"
+                                "amount": 5,
+                                "id": "star",
+                                "type": "progressionDbD"
                             },
                             {
                                 "amount": 25000,
@@ -1177,6 +1177,11 @@
                         },
                         "reward": [
                             {
+                                "amount": 5,
+                                "id": "star",
+                                "type": "progressionDbD"
+                            },
+                            {
                                 "amount": 25000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
@@ -1184,15 +1189,6 @@
                         ]
                     },
                     "node_T7L1_Start01": {
-                        "clientInfoId": "Start",
-                        "coordinates": {
-                            "x": 5,
-                            "y": 455
-                        },
-                        "neighbors": [],
-                        "nodeType": "narrative"
-                    },
-                    "node_T7L1_Start02": {
                         "clientInfoId": "Start",
                         "coordinates": {
                             "x": 5,
@@ -1206,8 +1202,7 @@
                     }
                 },
                 "start": [
-                    "node_T7L1_Start01",
-                    "node_T7L1_Start02"
+                    "node_T7L1_Start01"
                 ],
                 "startDate": "2021-01-01T00:00:00",
                 "taskRewards": [
@@ -1278,6 +1273,11 @@
                         },
                         "reward": [
                             {
+                                "amount": 3,
+                                "id": "star",
+                                "type": "progressionDbD"
+                            },
+                            {
                                 "amount": 35000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
@@ -1319,6 +1319,11 @@
                             }
                         },
                         "reward": [
+                            {
+                                "amount": 3,
+                                "id": "star",
+                                "type": "progressionDbD"
+                            },
                             {
                                 "amount": 35000,
                                 "id": "Bloodpoints",
@@ -1362,6 +1367,11 @@
                         },
                         "reward": [
                             {
+                                "amount": 3,
+                                "id": "star",
+                                "type": "progressionDbD"
+                            },
+                            {
                                 "amount": 35000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
@@ -1403,6 +1413,11 @@
                             }
                         },
                         "reward": [
+                            {
+                                "amount": 3,
+                                "id": "star",
+                                "type": "progressionDbD"
+                            },
                             {
                                 "amount": 35000,
                                 "id": "Bloodpoints",
@@ -1448,6 +1463,11 @@
                         },
                         "reward": [
                             {
+                                "amount": 3,
+                                "id": "star",
+                                "type": "progressionDbD"
+                            },
+                            {
                                 "amount": 35000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
@@ -1490,6 +1510,11 @@
                         },
                         "reward": [
                             {
+                                "amount": 3,
+                                "id": "star",
+                                "type": "progressionDbD"
+                            },
+                            {
                                 "amount": 35000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
@@ -1530,6 +1555,11 @@
                             }
                         },
                         "reward": [
+                            {
+                                "amount": 3,
+                                "id": "star",
+                                "type": "progressionDbD"
+                            },
                             {
                                 "amount": 35000,
                                 "id": "Bloodpoints",
@@ -1573,6 +1603,11 @@
                         },
                         "reward": [
                             {
+                                "amount": 3,
+                                "id": "star",
+                                "type": "progressionDbD"
+                            },
+                            {
                                 "amount": 35000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
@@ -1614,6 +1649,11 @@
                             }
                         },
                         "reward": [
+                            {
+                                "amount": 3,
+                                "id": "star",
+                                "type": "progressionDbD"
+                            },
                             {
                                 "amount": 35000,
                                 "id": "Bloodpoints",
@@ -1657,6 +1697,11 @@
                             }
                         },
                         "reward": [
+                            {
+                                "amount": 3,
+                                "id": "star",
+                                "type": "progressionDbD"
+                            },
                             {
                                 "amount": 35000,
                                 "id": "Bloodpoints",
@@ -1702,6 +1747,11 @@
                         },
                         "reward": [
                             {
+                                "amount": 3,
+                                "id": "star",
+                                "type": "progressionDbD"
+                            },
+                            {
                                 "amount": 35000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
@@ -1744,6 +1794,11 @@
                         },
                         "reward": [
                             {
+                                "amount": 3,
+                                "id": "star",
+                                "type": "progressionDbD"
+                            },
+                            {
                                 "amount": 35000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
@@ -1778,6 +1833,11 @@
                             }
                         },
                         "reward": [
+                            {
+                                "amount": 3,
+                                "id": "star",
+                                "type": "progressionDbD"
+                            },
                             {
                                 "amount": 35000,
                                 "id": "Bloodpoints",
@@ -1823,6 +1883,11 @@
                             }
                         },
                         "reward": [
+                            {
+                                "amount": 5,
+                                "id": "star",
+                                "type": "progressionDbD"
+                            },
                             {
                                 "amount": 45000,
                                 "id": "Bloodpoints",
@@ -1875,6 +1940,11 @@
                         },
                         "reward": [
                             {
+                                "amount": 5,
+                                "id": "star",
+                                "type": "progressionDbD"
+                            },
+                            {
                                 "amount": 45000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
@@ -1924,6 +1994,11 @@
                             }
                         },
                         "reward": [
+                            {
+                                "amount": 5,
+                                "id": "star",
+                                "type": "progressionDbD"
+                            },
                             {
                                 "amount": 45000,
                                 "id": "Bloodpoints",
@@ -1977,6 +2052,11 @@
                         },
                         "reward": [
                             {
+                                "amount": 5,
+                                "id": "star",
+                                "type": "progressionDbD"
+                            },
+                            {
                                 "amount": 45000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
@@ -2022,6 +2102,11 @@
                             }
                         },
                         "reward": [
+                            {
+                                "amount": 5,
+                                "id": "star",
+                                "type": "progressionDbD"
+                            },
                             {
                                 "amount": 45000,
                                 "id": "Bloodpoints",
@@ -2074,6 +2159,11 @@
                         },
                         "reward": [
                             {
+                                "amount": 5,
+                                "id": "star",
+                                "type": "progressionDbD"
+                            },
+                            {
                                 "amount": 45000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
@@ -2125,6 +2215,11 @@
                         },
                         "reward": [
                             {
+                                "amount": 5,
+                                "id": "star",
+                                "type": "progressionDbD"
+                            },
+                            {
                                 "amount": 45000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
@@ -2169,6 +2264,11 @@
                         },
                         "reward": [
                             {
+                                "amount": 5,
+                                "id": "star",
+                                "type": "progressionDbD"
+                            },
+                            {
                                 "amount": 45000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
@@ -2204,6 +2304,11 @@
                             }
                         },
                         "reward": [
+                            {
+                                "amount": 3,
+                                "id": "star",
+                                "type": "progressionDbD"
+                            },
                             {
                                 "amount": 35000,
                                 "id": "Bloodpoints",
@@ -2259,6 +2364,11 @@
                             }
                         },
                         "reward": [
+                            {
+                                "amount": 5,
+                                "id": "star",
+                                "type": "progressionDbD"
+                            },
                             {
                                 "amount": 45000,
                                 "id": "Bloodpoints",
@@ -2366,6 +2476,11 @@
                         },
                         "reward": [
                             {
+                                "amount": 3,
+                                "id": "star",
+                                "type": "progressionDbD"
+                            },
+                            {
                                 "amount": 30000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
@@ -2408,6 +2523,11 @@
                         },
                         "reward": [
                             {
+                                "amount": 3,
+                                "id": "star",
+                                "type": "progressionDbD"
+                            },
+                            {
                                 "amount": 30000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
@@ -2417,7 +2537,7 @@
                     "node_T7L3_03": {
                         "clientInfoId": "HideNearKiller",
                         "coordinates": {
-                            "x": 815,
+                            "x": 905,
                             "y": 605
                         },
                         "neighbors": [
@@ -2450,7 +2570,12 @@
                         },
                         "reward": [
                             {
-                                "amount": 50000,
+                                "amount": 3,
+                                "id": "star",
+                                "type": "progressionDbD"
+                            },
+                            {
+                                "amount": 30000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
                             }
@@ -2492,6 +2617,11 @@
                         },
                         "reward": [
                             {
+                                "amount": 3,
+                                "id": "star",
+                                "type": "progressionDbD"
+                            },
+                            {
                                 "amount": 30000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
@@ -2501,7 +2631,7 @@
                     "node_T7L3_05": {
                         "clientInfoId": "SabotageFinish",
                         "coordinates": {
-                            "x": 725,
+                            "x": 815,
                             "y": 455
                         },
                         "neighbors": [
@@ -2535,6 +2665,11 @@
                         },
                         "reward": [
                             {
+                                "amount": 3,
+                                "id": "star",
+                                "type": "progressionDbD"
+                            },
+                            {
                                 "amount": 30000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
@@ -2544,11 +2679,10 @@
                     "node_T7L3_06": {
                         "clientInfoId": "Repair",
                         "coordinates": {
-                            "x": 455,
-                            "y": 305
+                            "x": 545,
+                            "y": 455
                         },
                         "neighbors": [
-                            "node_T7L3_18",
                             "node_T7L3_08",
                             "node_T7L3_15"
                         ],
@@ -2577,6 +2711,11 @@
                             }
                         },
                         "reward": [
+                            {
+                                "amount": 3,
+                                "id": "star",
+                                "type": "progressionDbD"
+                            },
                             {
                                 "amount": 30000,
                                 "id": "Bloodpoints",
@@ -2620,6 +2759,11 @@
                         },
                         "reward": [
                             {
+                                "amount": 3,
+                                "id": "star",
+                                "type": "progressionDbD"
+                            },
+                            {
                                 "amount": 30000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
@@ -2629,7 +2773,7 @@
                     "node_T7L3_08": {
                         "clientInfoId": "SearchFinish",
                         "coordinates": {
-                            "x": 455,
+                            "x": 365,
                             "y": 455
                         },
                         "neighbors": [
@@ -2661,6 +2805,11 @@
                             }
                         },
                         "reward": [
+                            {
+                                "amount": 3,
+                                "id": "star",
+                                "type": "progressionDbD"
+                            },
                             {
                                 "amount": 30000,
                                 "id": "Bloodpoints",
@@ -2703,6 +2852,11 @@
                             }
                         },
                         "reward": [
+                            {
+                                "amount": 3,
+                                "id": "star",
+                                "type": "progressionDbD"
+                            },
                             {
                                 "amount": 30000,
                                 "id": "Bloodpoints",
@@ -2747,6 +2901,11 @@
                         },
                         "reward": [
                             {
+                                "amount": 3,
+                                "id": "star",
+                                "type": "progressionDbD"
+                            },
+                            {
                                 "amount": 30000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
@@ -2789,6 +2948,11 @@
                         },
                         "reward": [
                             {
+                                "amount": 3,
+                                "id": "star",
+                                "type": "progressionDbD"
+                            },
+                            {
                                 "amount": 30000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
@@ -2830,6 +2994,11 @@
                             }
                         },
                         "reward": [
+                            {
+                                "amount": 3,
+                                "id": "star",
+                                "type": "progressionDbD"
+                            },
                             {
                                 "amount": 30000,
                                 "id": "Bloodpoints",
@@ -2874,6 +3043,11 @@
                         },
                         "reward": [
                             {
+                                "amount": 3,
+                                "id": "star",
+                                "type": "progressionDbD"
+                            },
+                            {
                                 "amount": 30000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
@@ -2916,6 +3090,11 @@
                         },
                         "reward": [
                             {
+                                "amount": 3,
+                                "id": "star",
+                                "type": "progressionDbD"
+                            },
+                            {
                                 "amount": 30000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
@@ -2930,6 +3109,7 @@
                         },
                         "neighbors": [
                             "node_T7L3_06",
+                            "node_T7L3_18",
                             "node_T7L3_Glyph01",
                             "node_T7L3_21",
                             "node_T7L3_14"
@@ -2951,6 +3131,11 @@
                             }
                         },
                         "reward": [
+                            {
+                                "amount": 3,
+                                "id": "star",
+                                "type": "progressionDbD"
+                            },
                             {
                                 "amount": 30000,
                                 "id": "Bloodpoints",
@@ -2987,6 +3172,11 @@
                         },
                         "reward": [
                             {
+                                "amount": 3,
+                                "id": "star",
+                                "type": "progressionDbD"
+                            },
+                            {
                                 "amount": 30000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
@@ -2996,7 +3186,7 @@
                     "node_T7L3_17": {
                         "clientInfoId": "ForThePeopleTriggeredInTrial",
                         "coordinates": {
-                            "x": 635,
+                            "x": 725,
                             "y": 605
                         },
                         "journal": [
@@ -3038,6 +3228,11 @@
                         },
                         "reward": [
                             {
+                                "amount": 5,
+                                "id": "star",
+                                "type": "progressionDbD"
+                            },
+                            {
                                 "amount": 50000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
@@ -3054,8 +3249,8 @@
                             "Tome07_Observer"
                         ],
                         "neighbors": [
-                            "node_T7L3_06",
-                            "node_T7L3_01"
+                            "node_T7L3_01",
+                            "node_T7L3_15"
                         ],
                         "nodeType": "quest:challenge",
                         "objectives": {
@@ -3083,7 +3278,12 @@
                         },
                         "reward": [
                             {
-                                "amount": 30000,
+                                "amount": 5,
+                                "id": "star",
+                                "type": "progressionDbD"
+                            },
+                            {
+                                "amount": 50000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
                             }
@@ -3133,6 +3333,11 @@
                             }
                         },
                         "reward": [
+                            {
+                                "amount": 5,
+                                "id": "star",
+                                "type": "progressionDbD"
+                            },
                             {
                                 "amount": 50000,
                                 "id": "Bloodpoints",
@@ -3186,6 +3391,11 @@
                         },
                         "reward": [
                             {
+                                "amount": 5,
+                                "id": "star",
+                                "type": "progressionDbD"
+                            },
+                            {
                                 "amount": 50000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
@@ -3230,6 +3440,11 @@
                             }
                         },
                         "reward": [
+                            {
+                                "amount": 5,
+                                "id": "star",
+                                "type": "progressionDbD"
+                            },
                             {
                                 "amount": 50000,
                                 "id": "Bloodpoints",
@@ -3280,6 +3495,11 @@
                             }
                         },
                         "reward": [
+                            {
+                                "amount": 5,
+                                "id": "star",
+                                "type": "progressionDbD"
+                            },
                             {
                                 "amount": 50000,
                                 "id": "Bloodpoints",
@@ -3342,6 +3562,11 @@
                             }
                         },
                         "reward": [
+                            {
+                                "amount": 5,
+                                "id": "star",
+                                "type": "progressionDbD"
+                            },
                             {
                                 "amount": 50000,
                                 "id": "Bloodpoints",
@@ -3437,6 +3662,11 @@
                         },
                         "reward": [
                             {
+                                "amount": 3,
+                                "id": "star",
+                                "type": "progressionDbD"
+                            },
+                            {
                                 "amount": 45000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
@@ -3478,6 +3708,11 @@
                             }
                         },
                         "reward": [
+                            {
+                                "amount": 3,
+                                "id": "star",
+                                "type": "progressionDbD"
+                            },
                             {
                                 "amount": 45000,
                                 "id": "Bloodpoints",
@@ -3521,6 +3756,11 @@
                         },
                         "reward": [
                             {
+                                "amount": 3,
+                                "id": "star",
+                                "type": "progressionDbD"
+                            },
+                            {
                                 "amount": 45000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
@@ -3562,6 +3802,11 @@
                             }
                         },
                         "reward": [
+                            {
+                                "amount": 3,
+                                "id": "star",
+                                "type": "progressionDbD"
+                            },
                             {
                                 "amount": 45000,
                                 "id": "Bloodpoints",
@@ -3606,6 +3851,11 @@
                         },
                         "reward": [
                             {
+                                "amount": 3,
+                                "id": "star",
+                                "type": "progressionDbD"
+                            },
+                            {
                                 "amount": 45000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
@@ -3648,6 +3898,11 @@
                         },
                         "reward": [
                             {
+                                "amount": 3,
+                                "id": "star",
+                                "type": "progressionDbD"
+                            },
+                            {
                                 "amount": 45000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
@@ -3688,6 +3943,11 @@
                             }
                         },
                         "reward": [
+                            {
+                                "amount": 3,
+                                "id": "star",
+                                "type": "progressionDbD"
+                            },
                             {
                                 "amount": 45000,
                                 "id": "Bloodpoints",
@@ -3732,6 +3992,11 @@
                         },
                         "reward": [
                             {
+                                "amount": 3,
+                                "id": "star",
+                                "type": "progressionDbD"
+                            },
+                            {
                                 "amount": 45000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
@@ -3772,6 +4037,11 @@
                             }
                         },
                         "reward": [
+                            {
+                                "amount": 3,
+                                "id": "star",
+                                "type": "progressionDbD"
+                            },
                             {
                                 "amount": 45000,
                                 "id": "Bloodpoints",
@@ -3816,6 +4086,11 @@
                         },
                         "reward": [
                             {
+                                "amount": 3,
+                                "id": "star",
+                                "type": "progressionDbD"
+                            },
+                            {
                                 "amount": 45000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
@@ -3856,6 +4131,11 @@
                             }
                         },
                         "reward": [
+                            {
+                                "amount": 3,
+                                "id": "star",
+                                "type": "progressionDbD"
+                            },
                             {
                                 "amount": 45000,
                                 "id": "Bloodpoints",
@@ -3900,6 +4180,11 @@
                         },
                         "reward": [
                             {
+                                "amount": 3,
+                                "id": "star",
+                                "type": "progressionDbD"
+                            },
+                            {
                                 "amount": 45000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
@@ -3940,6 +4225,11 @@
                             }
                         },
                         "reward": [
+                            {
+                                "amount": 3,
+                                "id": "star",
+                                "type": "progressionDbD"
+                            },
                             {
                                 "amount": 45000,
                                 "id": "Bloodpoints",
@@ -3984,6 +4274,11 @@
                         },
                         "reward": [
                             {
+                                "amount": 3,
+                                "id": "star",
+                                "type": "progressionDbD"
+                            },
+                            {
                                 "amount": 45000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
@@ -4019,6 +4314,11 @@
                             }
                         },
                         "reward": [
+                            {
+                                "amount": 3,
+                                "id": "star",
+                                "type": "progressionDbD"
+                            },
                             {
                                 "amount": 45000,
                                 "id": "Bloodpoints",
@@ -4063,6 +4363,11 @@
                             }
                         },
                         "reward": [
+                            {
+                                "amount": 5,
+                                "id": "star",
+                                "type": "progressionDbD"
+                            },
                             {
                                 "amount": 60000,
                                 "id": "Bloodpoints",
@@ -4116,6 +4421,11 @@
                         },
                         "reward": [
                             {
+                                "amount": 5,
+                                "id": "star",
+                                "type": "progressionDbD"
+                            },
+                            {
                                 "amount": 60000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
@@ -4159,6 +4469,11 @@
                             }
                         },
                         "reward": [
+                            {
+                                "amount": 5,
+                                "id": "star",
+                                "type": "progressionDbD"
+                            },
                             {
                                 "amount": 60000,
                                 "id": "Bloodpoints",
@@ -4210,6 +4525,11 @@
                         },
                         "reward": [
                             {
+                                "amount": 5,
+                                "id": "star",
+                                "type": "progressionDbD"
+                            },
+                            {
                                 "amount": 60000,
                                 "id": "Bloodpoints",
                                 "type": "currency"
@@ -4259,6 +4579,11 @@
                             }
                         },
                         "reward": [
+                            {
+                                "amount": 5,
+                                "id": "star",
+                                "type": "progressionDbD"
+                            },
                             {
                                 "amount": 50000,
                                 "id": "Bloodpoints",
@@ -4335,6 +4660,11 @@
                             }
                         },
                         "reward": [
+                            {
+                                "amount": 5,
+                                "id": "star",
+                                "type": "progressionDbD"
+                            },
                             {
                                 "amount": 60000,
                                 "id": "Bloodpoints",
@@ -5352,6 +5682,6 @@
             }
         ],
         "rewardData": "Tome07",
-        "version": 66
+        "version": 67
     }
 }
