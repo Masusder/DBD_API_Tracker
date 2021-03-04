@@ -312,23 +312,6 @@
         "keyName": "ANALYTICS_ENDPOINTS"
     },
     {
-        "value": {
-            "Mobile": {
-                "dbd_match_making_filter_unidirectional_always": true,
-                "dbd_match_making_filter_good_latency": 120,
-                "dbd_match_making_filter_min_geo_distance": 1000,
-                "dbd_match_making_filter_skip_region_checks": false,
-                "dbd_match_making_filter_ok_latency": 250,
-                "dbd_match_making_filter_expansion_duration": 240000,
-                "dbd_match_making_filter_max_geo_distance": 7000,
-                "dbd_match_making_filter_max_rank_diff": 20,
-                "dbd_match_making_filter_unidirectional": true,
-                "dbd_match_making_filter_min_rank_diff": 1
-            }
-        },
-        "keyName": "MATCHMAKING_CONFIG"
-    },
-    {
         "value": "https://cdn.qa.dbd.bhvronline.com",
         "keyName": "ASSET_MANAGEMENT_CDN_PATH"
     },
@@ -640,6 +623,7 @@
             "m_4.3.2_402831qa": "m_4.3.2_402831qa-1614199938",
             "m_4.3.2_403270qa": "m_4.3.2_403270qa-1614274341",
             "m_4.3.2_404030qa": "m_4.3.2_404030qa-1614371520",
+            "m_4.3.2_404410qa": "m_4.3.2_404410qa-1614616431",
             "m_4.4.0_400367qa": "m_4.4.0_400367qa-1613683987",
             "m_4.4.0_400689qa": "m_4.4.0_400689qa-1613752353"
         },
