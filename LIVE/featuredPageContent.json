@@ -709,6 +709,17 @@
                     "Banner_BB_D"
                 ],
                 "startDate": "2021-02-26T16:00:00"
+            },
+            {
+                "endDate": "2021-03-15T15:59:59",
+                "ids": [
+                    "Banner_BB_RCJKNM",
+                    "Banner_BB_AOR1",
+                    "Banner_BB_LNYDW",
+                    "Banner_BB_JP",
+                    "Banner_BB_NS"
+                ],
+                "startDate": "2021-03-05T16:00:00"
             }
         ],
         "right": [
@@ -1227,8 +1238,35 @@
                     ]
                 }
             ],
-            "endDate": "2021-03-08T15:59:59",
+            "endDate": "2021-03-05T15:59:59",
             "startDate": "2021-02-25T16:00:00"
+        },
+        {
+            "data": [
+                {
+                    "category": "outfit",
+                    "ids": [
+                        "MS_outfit_014",
+                        "GS_outfit_014",
+                        "MT_Outfit_015",
+                        "NK_outfit_014",
+                        "QF_Outfit_009",
+                        "QM_Outfit_009",
+                        "QK_outfit_007",
+                        "TW_outfit_013",
+                        "UK_outfit_008",
+                        "NK_outfit_012",
+                        "FM_outfit_012",
+                        "FM_outfit_011",
+                        "OK_outfit_009",
+                        "KK_outfit_018",
+                        "S22_outfit_006",
+                        "Bear_outfit_006"
+                    ]
+                }
+            ],
+            "endDate": "2021-03-15T15:59:59",
+            "startDate": "2021-03-05T16:00:00"
         }
     ]
 }

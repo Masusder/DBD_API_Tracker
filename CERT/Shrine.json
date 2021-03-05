@@ -1,7 +1,7 @@
 {
     "items": [
         {
-            "id": "Diversion",
+            "id": "Nemesis",
             "bloodpointValue": 150000,
             "experienceValue": 150000,
             "unique": false,
@@ -15,7 +15,7 @@
             ]
         },
         {
-            "id": "Hex_HauntedGround",
+            "id": "Self_Care",
             "bloodpointValue": 150000,
             "experienceValue": 150000,
             "unique": false,
@@ -29,7 +29,7 @@
             ]
         },
         {
-            "id": "ThrillingTremors",
+            "id": "Streetwise",
             "bloodpointValue": 150000,
             "experienceValue": 150000,
             "unique": false,
@@ -43,7 +43,7 @@
             ]
         },
         {
-            "id": "WindowsOfOpportunity",
+            "id": "Surge",
             "bloodpointValue": 150000,
             "experienceValue": 150000,
             "unique": false,
@@ -57,7 +57,7 @@
             ]
         }
     ],
-    "startDate": "2021-02-24T00:00:00",
-    "endDate": "2021-03-02T23:59:59",
-    "week": 228
+    "startDate": "2021-03-03T00:00:00",
+    "endDate": "2021-03-09T23:59:59",
+    "week": 229
 }
