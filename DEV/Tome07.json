@@ -1149,15 +1149,28 @@
                         "nodeType": "quest:contextual",
                         "objectives": {
                             "BlueGlyph": {
-                                "conditions": [],
+                                "conditions": [
+                                    {
+                                        "key": "role",
+                                        "value": [
+                                            "survivor"
+                                        ]
+                                    }
+                                ],
                                 "incrementWithEventRepetitions": true,
-                                "neededProgression": 2,
+                                "neededProgression": 1,
                                 "objectiveId": "BlueGlyph",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
                                         "parameters": "instigator:me",
                                         "questEventId": "QuestEvent.BlueGlyph",
+                                        "repetition": 1
+                                    },
+                                    {
+                                        "operation": ">=",
+                                        "parameters": "instigator:me",
+                                        "questEventId": "QuestEvent.Escape",
                                         "repetition": 1
                                     }
                                 ],
@@ -3319,6 +3332,7 @@
                                 "questEvent": [
                                     {
                                         "operation": ">=",
+                                        "parameters": "instigator:me;distance:1000",
                                         "questEventId": "QuestEvent.TrapperCatchTrapNearPalletsVaultsWalls",
                                         "repetition": 4
                                     }
@@ -3537,13 +3551,19 @@
                                     }
                                 ],
                                 "incrementWithEventRepetitions": true,
-                                "neededProgression": 3,
+                                "neededProgression": 2,
                                 "objectiveId": "BlueGlyph",
                                 "questEvent": [
                                     {
                                         "operation": ">=",
                                         "parameters": "instigator:me",
                                         "questEventId": "QuestEvent.BlueGlyph",
+                                        "repetition": 1
+                                    },
+                                    {
+                                        "operation": ">=",
+                                        "parameters": "instigator:me",
+                                        "questEventId": "QuestEvent.Escape",
                                         "repetition": 1
                                     }
                                 ],
@@ -4455,6 +4475,7 @@
                                 "questEvent": [
                                     {
                                         "operation": ">=",
+                                        "parameters": "instigator:me;time:30;distance:1500",
                                         "questEventId": "QuestEvent.RedHerringTriggered",
                                         "repetition": 2
                                     }
@@ -4510,6 +4531,7 @@
                                 "questEvent": [
                                     {
                                         "operation": ">=",
+                                        "parameters": "instigator:me",
                                         "questEventId": "QuestEvent.TrapperCatchTrapReset",
                                         "repetition": 1
                                     }
@@ -4565,6 +4587,7 @@
                                 "questEvent": [
                                     {
                                         "operation": ">=",
+                                        "parameters": "instigator:me",
                                         "questEventId": "QuestEvent.TrapperCatchInChase",
                                         "repetition": 2
                                     }
@@ -5675,6 +5698,6 @@
             }
         ],
         "rewardData": "Tome07",
-        "version": 67
+        "version": 68
     }
 }
