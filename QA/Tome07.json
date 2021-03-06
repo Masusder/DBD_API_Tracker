@@ -1214,7 +1214,7 @@
                 "start": [
                     "node_T7L1_Start01"
                 ],
-                "startDate": "2021-01-01T00:00:00",
+                "startDate": "2021-05-05T15:00:00",
                 "taskRewards": [
                     {
                         "amount": 0,
@@ -2415,7 +2415,7 @@
                     "node_T7L2_Start01",
                     "node_T7L2_Start02"
                 ],
-                "startDate": "2021-01-02T00:00:00",
+                "startDate": "2021-05-19T15:00:00",
                 "taskRewards": [
                     {
                         "amount": 0,
@@ -3607,7 +3607,7 @@
                 "start": [
                     "node_T7L3_Start01"
                 ],
-                "startDate": "2021-01-03T00:00:00",
+                "startDate": "2021-06-02T15:00:00",
                 "taskRewards": [
                     {
                         "amount": 0,
@@ -4709,7 +4709,7 @@
                 "start": [
                     "node_T7L4_Start01"
                 ],
-                "startDate": "2021-01-04T00:00:00",
+                "startDate": "2021-06-23T15:00:00",
                 "taskRewards": [
                     {
                         "amount": 0,
@@ -5602,7 +5602,7 @@
                 "start": [
                     "node_T7L5_Start01"
                 ],
-                "startDate": "2021-01-05T00:00:00",
+                "startDate": "2021-06-23T15:00:00",
                 "taskRewards": [
                     {
                         "amount": 0,
@@ -5613,6 +5613,6 @@
             }
         ],
         "rewardData": "Tome07",
-        "version": 69
+        "version": 1
     }
 }
