@@ -4742,13 +4742,15 @@
                     }
                 ],
                 "nodes": {
-                    "1": {
+                    "node_01": {
                         "clientInfoId": "UnhookInTerrorRadiusWithBorrowedTimeInTrial",
                         "coordinates": {
                             "x": 0,
                             "y": 0
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T7L5_Start01"
+                        ],
                         "nodeType": "quest:challenge",
                         "objectives": {
                             "UnhookInTerrorRadiusWithPerkInTrial": {
@@ -4792,13 +4794,431 @@
                             }
                         ]
                     },
-                    "10": {
+                    "node_02": {
+                        "clientInfoId": "HitUndetectableWithDarkDevotionInTrial",
+                        "coordinates": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "neighbors": [
+                            "node_T7L5_Start01"
+                        ],
+                        "nodeType": "quest:challenge",
+                        "objectives": {
+                            "HitUndetectableWithPerkInTrial": {
+                                "conditions": [
+                                    {
+                                        "key": "role",
+                                        "value": [
+                                            "killer"
+                                        ]
+                                    },
+                                    {
+                                        "key": "perk",
+                                        "value": [
+                                            "DarkDevotion"
+                                        ]
+                                    }
+                                ],
+                                "incrementWithEventRepetitions": false,
+                                "neededProgression": 1,
+                                "objectiveId": "HitUndetectableWithPerkInTrial",
+                                "questEvent": [
+                                    {
+                                        "operation": ">=",
+                                        "parameters": "instigator:me",
+                                        "questEventId": "QuestEvent.HitUndetectable",
+                                        "repetition": 3
+                                    }
+                                ]
+                            }
+                        },
+                        "reward": [
+                            {
+                                "amount": 5,
+                                "id": "star",
+                                "type": "progressionDbD"
+                            },
+                            {
+                                "amount": 25000,
+                                "id": "Bloodpoints",
+                                "type": "currency"
+                            }
+                        ]
+                    },
+                    "node_03": {
+                        "clientInfoId": "PlagueInfectMaxInTrial",
+                        "coordinates": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "neighbors": [
+                            "node_T7L5_Start01"
+                        ],
+                        "nodeType": "quest:challenge",
+                        "objectives": {
+                            "PlagueInfectMaxInTrial": {
+                                "conditions": [
+                                    {
+                                        "key": "role",
+                                        "value": [
+                                            "killer"
+                                        ]
+                                    },
+                                    {
+                                        "key": "character",
+                                        "value": [
+                                            "Plague"
+                                        ]
+                                    }
+                                ],
+                                "incrementWithEventRepetitions": false,
+                                "neededProgression": 1,
+                                "objectiveId": "PlagueInfectMaxInTrial",
+                                "questEvent": [
+                                    {
+                                        "operation": ">=",
+                                        "parameters": "instigator:me",
+                                        "questEventId": "QuestEvent.PlagueInfectMax",
+                                        "repetition": 4
+                                    }
+                                ]
+                            }
+                        },
+                        "reward": [
+                            {
+                                "amount": 5,
+                                "id": "star",
+                                "type": "progressionDbD"
+                            },
+                            {
+                                "amount": 25000,
+                                "id": "Bloodpoints",
+                                "type": "currency"
+                            }
+                        ]
+                    },
+                    "node_04": {
+                        "clientInfoId": "PlaguePurgeInjureInTrial",
+                        "coordinates": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "neighbors": [
+                            "node_T7L5_Start01"
+                        ],
+                        "nodeType": "quest:challenge",
+                        "objectives": {
+                            "PlaguePurgeInjureInTrial": {
+                                "conditions": [
+                                    {
+                                        "key": "role",
+                                        "value": [
+                                            "killer"
+                                        ]
+                                    },
+                                    {
+                                        "key": "character",
+                                        "value": [
+                                            "Plague"
+                                        ]
+                                    }
+                                ],
+                                "incrementWithEventRepetitions": false,
+                                "neededProgression": 1,
+                                "objectiveId": "PlaguePurgeInjureInTrial",
+                                "questEvent": [
+                                    {
+                                        "operation": ">=",
+                                        "parameters": "instigator:me",
+                                        "questEventId": "QuestEvent.PlaguePurgeInjure",
+                                        "repetition": 6
+                                    }
+                                ]
+                            }
+                        },
+                        "reward": [
+                            {
+                                "amount": 5,
+                                "id": "star",
+                                "type": "progressionDbD"
+                            },
+                            {
+                                "amount": 25000,
+                                "id": "Bloodpoints",
+                                "type": "currency"
+                            }
+                        ]
+                    },
+                    "node_05": {
+                        "clientInfoId": "EscapeWithUnbreakableInTrial",
+                        "coordinates": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "neighbors": [
+                            "node_T7L5_Start01"
+                        ],
+                        "nodeType": "quest:challenge",
+                        "objectives": {
+                            "EscapeWithPerkIntrial": {
+                                "conditions": [
+                                    {
+                                        "key": "role",
+                                        "value": [
+                                            "survivor"
+                                        ]
+                                    },
+                                    {
+                                        "key": "perk",
+                                        "value": [
+                                            "SelfSufficient"
+                                        ]
+                                    }
+                                ],
+                                "incrementWithEventRepetitions": false,
+                                "neededProgression": 1,
+                                "objectiveId": "EscapeWithPerkIntrial",
+                                "questEvent": [
+                                    {
+                                        "operation": ">=",
+                                        "parameters": "instigator:me",
+                                        "questEventId": "QuestEvent.Escape",
+                                        "repetition": 1
+                                    }
+                                ]
+                            }
+                        },
+                        "reward": [
+                            {
+                                "amount": 5,
+                                "id": "star",
+                                "type": "progressionDbD"
+                            },
+                            {
+                                "amount": 45000,
+                                "id": "Bloodpoints",
+                                "type": "currency"
+                            }
+                        ]
+                    },
+                    "node_06": {
+                        "clientInfoId": "EscapeHatchWithLeftBehindInTrial",
+                        "coordinates": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "neighbors": [
+                            "node_T7L5_Start01"
+                        ],
+                        "nodeType": "quest:challenge",
+                        "objectives": {
+                            "EscapeHatchWithPerkInTrial": {
+                                "conditions": [
+                                    {
+                                        "key": "role",
+                                        "value": [
+                                            "survivor"
+                                        ]
+                                    },
+                                    {
+                                        "key": "perk",
+                                        "value": [
+                                            "LeftBehind"
+                                        ]
+                                    }
+                                ],
+                                "incrementWithEventRepetitions": false,
+                                "neededProgression": 1,
+                                "objectiveId": "EscapeHatchWithPerkInTrial",
+                                "questEvent": [
+                                    {
+                                        "operation": ">=",
+                                        "parameters": "instigator:me",
+                                        "questEventId": "QuestEvent.EscapeHatch",
+                                        "repetition": 1
+                                    }
+                                ]
+                            }
+                        },
+                        "reward": [
+                            {
+                                "amount": 5,
+                                "id": "star",
+                                "type": "progressionDbD"
+                            },
+                            {
+                                "amount": 45000,
+                                "id": "Bloodpoints",
+                                "type": "currency"
+                            }
+                        ]
+                    },
+                    "node_07": {
+                        "clientInfoId": "DownSuccessively60WIthInfectiousFrightInTrial",
+                        "coordinates": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "neighbors": [
+                            "node_T7L5_Start01"
+                        ],
+                        "nodeType": "quest:challenge",
+                        "objectives": {
+                            "DownSuccessively60WIthPerkInTrial": {
+                                "conditions": [
+                                    {
+                                        "key": "role",
+                                        "value": [
+                                            "killer"
+                                        ]
+                                    },
+                                    {
+                                        "key": "perk",
+                                        "value": [
+                                            "InfectiousFright"
+                                        ]
+                                    }
+                                ],
+                                "incrementWithEventRepetitions": false,
+                                "neededProgression": 1,
+                                "objectiveId": "DownSuccessively60WIthPerkInTrial",
+                                "questEvent": [
+                                    {
+                                        "operation": ">=",
+                                        "parameters": "instigator:me",
+                                        "questEventId": "QuestEvent.DownSuccessively",
+                                        "repetition": 2
+                                    }
+                                ]
+                            }
+                        },
+                        "reward": [
+                            {
+                                "amount": 5,
+                                "id": "star",
+                                "type": "progressionDbD"
+                            },
+                            {
+                                "amount": 45000,
+                                "id": "Bloodpoints",
+                                "type": "currency"
+                            }
+                        ]
+                    },
+                    "node_08": {
+                        "clientInfoId": "PlagueCorruptPurgeMultipleInTrial",
+                        "coordinates": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "neighbors": [
+                            "node_T7L5_Start01"
+                        ],
+                        "nodeType": "quest:challenge",
+                        "objectives": {
+                            "PlagueCorruptPurgeMultipleInTrial": {
+                                "conditions": [
+                                    {
+                                        "key": "role",
+                                        "value": [
+                                            "killer"
+                                        ]
+                                    },
+                                    {
+                                        "key": "character",
+                                        "value": [
+                                            "Plague"
+                                        ]
+                                    }
+                                ],
+                                "incrementWithEventRepetitions": false,
+                                "neededProgression": 1,
+                                "objectiveId": "PlagueCorruptPurgeMultipleInTrial",
+                                "questEvent": [
+                                    {
+                                        "operation": ">=",
+                                        "parameters": "instigator:me",
+                                        "questEventId": "QuestEvent.PlagueCorruptPurgeMultiple",
+                                        "repetition": 2
+                                    }
+                                ]
+                            }
+                        },
+                        "reward": [
+                            {
+                                "amount": 5,
+                                "id": "star",
+                                "type": "progressionDbD"
+                            },
+                            {
+                                "amount": 45000,
+                                "id": "Bloodpoints",
+                                "type": "currency"
+                            }
+                        ]
+                    },
+                    "node_09": {
+                        "clientInfoId": "ForThePeopleTriggeredInTrial",
+                        "coordinates": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "neighbors": [
+                            "node_T7L5_Start01"
+                        ],
+                        "nodeType": "quest:challenge",
+                        "objectives": {
+                            "ForThePeopleTriggeredInTrial": {
+                                "conditions": [
+                                    {
+                                        "key": "role",
+                                        "value": [
+                                            "survivor"
+                                        ]
+                                    },
+                                    {
+                                        "key": "perk",
+                                        "value": [
+                                            "ForThePeople"
+                                        ]
+                                    }
+                                ],
+                                "incrementWithEventRepetitions": false,
+                                "neededProgression": 1,
+                                "objectiveId": "ForThePeopleTriggeredInTrial",
+                                "questEvent": [
+                                    {
+                                        "operation": ">=",
+                                        "parameters": "instigator:me",
+                                        "questEventId": "QuestEvent.ForThePeopleTriggered",
+                                        "repetition": 2
+                                    }
+                                ]
+                            }
+                        },
+                        "reward": [
+                            {
+                                "amount": 5,
+                                "id": "star",
+                                "type": "progressionDbD"
+                            },
+                            {
+                                "amount": 50000,
+                                "id": "Bloodpoints",
+                                "type": "currency"
+                            }
+                        ]
+                    },
+                    "node_10": {
                         "clientInfoId": "TrapperCatchTrapNearPalletsVaultsWallsInTrial",
                         "coordinates": {
                             "x": 0,
                             "y": 0
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T7L5_Start01"
+                        ],
                         "nodeType": "quest:challenge",
                         "objectives": {
                             "TrapperCatchTrapNearPalletsVaultsWallsInTrial": {
@@ -4842,13 +5262,15 @@
                             }
                         ]
                     },
-                    "11": {
+                    "node_11": {
                         "clientInfoId": "LivingAtEndTrialWithTrapperPerksInTrial",
                         "coordinates": {
                             "x": 0,
                             "y": 0
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T7L5_Start01"
+                        ],
                         "nodeType": "quest:challenge",
                         "objectives": {
                             "LivingAtEndTrialWithTrapperPerksInTrial": {
@@ -4893,13 +5315,15 @@
                             }
                         ]
                     },
-                    "12": {
+                    "node_12": {
                         "clientInfoId": "FinishPreventGensRepairedWithCorruptInterventionInTrial",
                         "coordinates": {
                             "x": 0,
                             "y": 0
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T7L5_Start01"
+                        ],
                         "nodeType": "quest:challenge",
                         "objectives": {
                             "FinishPreventGensRepairedWithPerkInTrial": {
@@ -4943,13 +5367,15 @@
                             }
                         ]
                     },
-                    "13": {
+                    "node_13": {
                         "clientInfoId": "EscapeHatchWithMapInTrial",
                         "coordinates": {
                             "x": 0,
                             "y": 0
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T7L5_Start01"
+                        ],
                         "nodeType": "quest:challenge",
                         "objectives": {
                             "EscapeHatchWithItemInTrial": {
@@ -4986,13 +5412,15 @@
                             }
                         ]
                     },
-                    "14": {
+                    "node_14": {
                         "clientInfoId": "EscapeWithOffTheRecordInTrial",
                         "coordinates": {
                             "x": 0,
                             "y": 0
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T7L5_Start01"
+                        ],
                         "nodeType": "quest:challenge",
                         "objectives": {
                             "EscapeWithPerkInTrial": {
@@ -5036,13 +5464,15 @@
                             }
                         ]
                     },
-                    "15": {
+                    "node_15": {
                         "clientInfoId": "RedHerringTriggeredInTrial",
                         "coordinates": {
                             "x": 0,
                             "y": 0
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T7L5_Start01"
+                        ],
                         "nodeType": "quest:challenge",
                         "objectives": {
                             "RedHerringTriggeredInTrial": {
@@ -5080,13 +5510,15 @@
                             }
                         ]
                     },
-                    "16": {
+                    "node_16": {
                         "clientInfoId": "TrapperCatchTrapResetInTrial",
                         "coordinates": {
                             "x": 0,
                             "y": 0
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T7L5_Start01"
+                        ],
                         "nodeType": "quest:challenge",
                         "objectives": {
                             "TrapperCatchTrapResetInTrial": {
@@ -5130,13 +5562,15 @@
                             }
                         ]
                     },
-                    "17": {
+                    "node_17": {
                         "clientInfoId": "TrapperCatchInChaseInTrial",
                         "coordinates": {
                             "x": 0,
                             "y": 0
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_T7L5_Start01"
+                        ],
                         "nodeType": "quest:challenge",
                         "objectives": {
                             "TrapperCatchInChaseInTrial": {
@@ -5180,406 +5614,6 @@
                             }
                         ]
                     },
-                    "2": {
-                        "clientInfoId": "HitUndetectableWithDarkDevotionInTrial",
-                        "coordinates": {
-                            "x": 0,
-                            "y": 0
-                        },
-                        "neighbors": [],
-                        "nodeType": "quest:challenge",
-                        "objectives": {
-                            "HitUndetectableWithPerkInTrial": {
-                                "conditions": [
-                                    {
-                                        "key": "role",
-                                        "value": [
-                                            "killer"
-                                        ]
-                                    },
-                                    {
-                                        "key": "perk",
-                                        "value": [
-                                            "DarkDevotion"
-                                        ]
-                                    }
-                                ],
-                                "incrementWithEventRepetitions": false,
-                                "neededProgression": 1,
-                                "objectiveId": "HitUndetectableWithPerkInTrial",
-                                "questEvent": [
-                                    {
-                                        "operation": ">=",
-                                        "parameters": "instigator:me",
-                                        "questEventId": "QuestEvent.HitUndetectable",
-                                        "repetition": 3
-                                    }
-                                ]
-                            }
-                        },
-                        "reward": [
-                            {
-                                "amount": 5,
-                                "id": "star",
-                                "type": "progressionDbD"
-                            },
-                            {
-                                "amount": 25000,
-                                "id": "Bloodpoints",
-                                "type": "currency"
-                            }
-                        ]
-                    },
-                    "3": {
-                        "clientInfoId": "PlagueInfectMaxInTrial",
-                        "coordinates": {
-                            "x": 0,
-                            "y": 0
-                        },
-                        "neighbors": [],
-                        "nodeType": "quest:challenge",
-                        "objectives": {
-                            "PlagueInfectMaxInTrial": {
-                                "conditions": [
-                                    {
-                                        "key": "role",
-                                        "value": [
-                                            "killer"
-                                        ]
-                                    },
-                                    {
-                                        "key": "character",
-                                        "value": [
-                                            "Plague"
-                                        ]
-                                    }
-                                ],
-                                "incrementWithEventRepetitions": false,
-                                "neededProgression": 1,
-                                "objectiveId": "PlagueInfectMaxInTrial",
-                                "questEvent": [
-                                    {
-                                        "operation": ">=",
-                                        "parameters": "instigator:me",
-                                        "questEventId": "QuestEvent.PlagueInfectMax",
-                                        "repetition": 4
-                                    }
-                                ]
-                            }
-                        },
-                        "reward": [
-                            {
-                                "amount": 5,
-                                "id": "star",
-                                "type": "progressionDbD"
-                            },
-                            {
-                                "amount": 25000,
-                                "id": "Bloodpoints",
-                                "type": "currency"
-                            }
-                        ]
-                    },
-                    "4": {
-                        "clientInfoId": "PlaguePurgeInjureInTrial",
-                        "coordinates": {
-                            "x": 0,
-                            "y": 0
-                        },
-                        "neighbors": [],
-                        "nodeType": "quest:challenge",
-                        "objectives": {
-                            "PlaguePurgeInjureInTrial": {
-                                "conditions": [
-                                    {
-                                        "key": "role",
-                                        "value": [
-                                            "killer"
-                                        ]
-                                    },
-                                    {
-                                        "key": "character",
-                                        "value": [
-                                            "Plague"
-                                        ]
-                                    }
-                                ],
-                                "incrementWithEventRepetitions": false,
-                                "neededProgression": 1,
-                                "objectiveId": "PlaguePurgeInjureInTrial",
-                                "questEvent": [
-                                    {
-                                        "operation": ">=",
-                                        "parameters": "instigator:me",
-                                        "questEventId": "QuestEvent.PlaguePurgeInjure",
-                                        "repetition": 6
-                                    }
-                                ]
-                            }
-                        },
-                        "reward": [
-                            {
-                                "amount": 5,
-                                "id": "star",
-                                "type": "progressionDbD"
-                            },
-                            {
-                                "amount": 25000,
-                                "id": "Bloodpoints",
-                                "type": "currency"
-                            }
-                        ]
-                    },
-                    "5": {
-                        "clientInfoId": "EscapeWithUnbreakableInTrial",
-                        "coordinates": {
-                            "x": 0,
-                            "y": 0
-                        },
-                        "neighbors": [],
-                        "nodeType": "quest:challenge",
-                        "objectives": {
-                            "EscapeWithPerkIntrial": {
-                                "conditions": [
-                                    {
-                                        "key": "role",
-                                        "value": [
-                                            "survivor"
-                                        ]
-                                    },
-                                    {
-                                        "key": "perk",
-                                        "value": [
-                                            "SelfSufficient"
-                                        ]
-                                    }
-                                ],
-                                "incrementWithEventRepetitions": false,
-                                "neededProgression": 1,
-                                "objectiveId": "EscapeWithPerkIntrial",
-                                "questEvent": [
-                                    {
-                                        "operation": ">=",
-                                        "parameters": "instigator:me",
-                                        "questEventId": "QuestEvent.Escape",
-                                        "repetition": 1
-                                    }
-                                ]
-                            }
-                        },
-                        "reward": [
-                            {
-                                "amount": 5,
-                                "id": "star",
-                                "type": "progressionDbD"
-                            },
-                            {
-                                "amount": 45000,
-                                "id": "Bloodpoints",
-                                "type": "currency"
-                            }
-                        ]
-                    },
-                    "6": {
-                        "clientInfoId": "EscapeHatchWithLeftBehindInTrial",
-                        "coordinates": {
-                            "x": 0,
-                            "y": 0
-                        },
-                        "neighbors": [],
-                        "nodeType": "quest:challenge",
-                        "objectives": {
-                            "EscapeHatchWithPerkInTrial": {
-                                "conditions": [
-                                    {
-                                        "key": "role",
-                                        "value": [
-                                            "survivor"
-                                        ]
-                                    },
-                                    {
-                                        "key": "perk",
-                                        "value": [
-                                            "LeftBehind"
-                                        ]
-                                    }
-                                ],
-                                "incrementWithEventRepetitions": false,
-                                "neededProgression": 1,
-                                "objectiveId": "EscapeHatchWithPerkInTrial",
-                                "questEvent": [
-                                    {
-                                        "operation": ">=",
-                                        "parameters": "instigator:me",
-                                        "questEventId": "QuestEvent.EscapeHatch",
-                                        "repetition": 1
-                                    }
-                                ]
-                            }
-                        },
-                        "reward": [
-                            {
-                                "amount": 5,
-                                "id": "star",
-                                "type": "progressionDbD"
-                            },
-                            {
-                                "amount": 45000,
-                                "id": "Bloodpoints",
-                                "type": "currency"
-                            }
-                        ]
-                    },
-                    "7": {
-                        "clientInfoId": "DownSuccessively60WIthInfectiousFrightInTrial",
-                        "coordinates": {
-                            "x": 0,
-                            "y": 0
-                        },
-                        "neighbors": [],
-                        "nodeType": "quest:challenge",
-                        "objectives": {
-                            "DownSuccessively60WIthPerkInTrial": {
-                                "conditions": [
-                                    {
-                                        "key": "role",
-                                        "value": [
-                                            "killer"
-                                        ]
-                                    },
-                                    {
-                                        "key": "perk",
-                                        "value": [
-                                            "InfectiousFright"
-                                        ]
-                                    }
-                                ],
-                                "incrementWithEventRepetitions": false,
-                                "neededProgression": 1,
-                                "objectiveId": "DownSuccessively60WIthPerkInTrial",
-                                "questEvent": [
-                                    {
-                                        "operation": ">=",
-                                        "parameters": "instigator:me",
-                                        "questEventId": "QuestEvent.DownSuccessively",
-                                        "repetition": 2
-                                    }
-                                ]
-                            }
-                        },
-                        "reward": [
-                            {
-                                "amount": 5,
-                                "id": "star",
-                                "type": "progressionDbD"
-                            },
-                            {
-                                "amount": 45000,
-                                "id": "Bloodpoints",
-                                "type": "currency"
-                            }
-                        ]
-                    },
-                    "8": {
-                        "clientInfoId": "PlagueCorruptPurgeMultipleInTrial",
-                        "coordinates": {
-                            "x": 0,
-                            "y": 0
-                        },
-                        "neighbors": [],
-                        "nodeType": "quest:challenge",
-                        "objectives": {
-                            "PlagueCorruptPurgeMultipleInTrial": {
-                                "conditions": [
-                                    {
-                                        "key": "role",
-                                        "value": [
-                                            "killer"
-                                        ]
-                                    },
-                                    {
-                                        "key": "character",
-                                        "value": [
-                                            "Plague"
-                                        ]
-                                    }
-                                ],
-                                "incrementWithEventRepetitions": false,
-                                "neededProgression": 1,
-                                "objectiveId": "PlagueCorruptPurgeMultipleInTrial",
-                                "questEvent": [
-                                    {
-                                        "operation": ">=",
-                                        "parameters": "instigator:me",
-                                        "questEventId": "QuestEvent.PlagueCorruptPurgeMultiple",
-                                        "repetition": 2
-                                    }
-                                ]
-                            }
-                        },
-                        "reward": [
-                            {
-                                "amount": 5,
-                                "id": "star",
-                                "type": "progressionDbD"
-                            },
-                            {
-                                "amount": 45000,
-                                "id": "Bloodpoints",
-                                "type": "currency"
-                            }
-                        ]
-                    },
-                    "9": {
-                        "clientInfoId": "ForThePeopleTriggeredInTrial",
-                        "coordinates": {
-                            "x": 0,
-                            "y": 0
-                        },
-                        "neighbors": [],
-                        "nodeType": "quest:challenge",
-                        "objectives": {
-                            "ForThePeopleTriggeredInTrial": {
-                                "conditions": [
-                                    {
-                                        "key": "role",
-                                        "value": [
-                                            "survivor"
-                                        ]
-                                    },
-                                    {
-                                        "key": "perk",
-                                        "value": [
-                                            "ForThePeople"
-                                        ]
-                                    }
-                                ],
-                                "incrementWithEventRepetitions": false,
-                                "neededProgression": 1,
-                                "objectiveId": "ForThePeopleTriggeredInTrial",
-                                "questEvent": [
-                                    {
-                                        "operation": ">=",
-                                        "parameters": "instigator:me",
-                                        "questEventId": "QuestEvent.ForThePeopleTriggered",
-                                        "repetition": 2
-                                    }
-                                ]
-                            }
-                        },
-                        "reward": [
-                            {
-                                "amount": 5,
-                                "id": "star",
-                                "type": "progressionDbD"
-                            },
-                            {
-                                "amount": 50000,
-                                "id": "Bloodpoints",
-                                "type": "currency"
-                            }
-                        ]
-                    },
                     "node_T7L5_End01": {
                         "clientInfoId": "End",
                         "coordinates": {
@@ -5595,7 +5629,25 @@
                             "x": 5,
                             "y": 305
                         },
-                        "neighbors": [],
+                        "neighbors": [
+                            "node_01",
+                            "node_02",
+                            "node_03",
+                            "node_04",
+                            "node_05",
+                            "node_06",
+                            "node_07",
+                            "node_08",
+                            "node_09",
+                            "node_10",
+                            "node_11",
+                            "node_12",
+                            "node_13",
+                            "node_14",
+                            "node_15",
+                            "node_16",
+                            "node_17"
+                        ],
                         "nodeType": "narrative"
                     }
                 },
@@ -5613,6 +5665,6 @@
             }
         ],
         "rewardData": "Tome07",
-        "version": 69
+        "version": 70
     }
 }

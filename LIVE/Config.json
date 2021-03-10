@@ -31,7 +31,7 @@
         "keyName": "SOCIAL_PLATFORM_FRIENDLIST_QUERY_RATE"
     },
     {
-        "value": "false",
+        "value": "true",
         "keyName": "DDOS_DETECTION"
     },
     {
@@ -251,6 +251,8 @@
                 "LevelLoadingStepAnalytics",
                 "LevelLoadingTimeoutAnalytics",
                 "PerformanceAnalytics",
+                "PostGame_KillerAnalytics",
+                "PostGame_SurvivorAnalytics",
                 "S3CommandAnalytics"
             ]
         },
@@ -287,12 +289,12 @@
             },
             "fallback": {
                 "ios": {
-                    "date": "2021-02-04T20:00:00.000Z",
-                    "version": "4.3.2018"
+                    "date": "2021-02-23T19:00:00.000Z",
+                    "version": "4.4.0018"
                 },
                 "android": {
-                    "date": "2021-02-04T20:00:00.000Z",
-                    "version": "4.3.2018"
+                    "date": "2021-02-23T19:00:00.000Z",
+                    "version": "4.4.0021"
                 }
             }
         },
@@ -422,8 +424,7 @@
                 "SaveGameSummaryPlayerStatsAnalytics",
                 "ShopAnalytics",
                 "SpecialEventAnalytics",
-                "SpecialEventBaseAnalytics",
-                "SyncLoadAnalytics"
+                "SpecialEventBaseAnalytics"
             ],
             "BL": [
                 "AtlantaControlsSettingsAnalytics",
@@ -432,7 +433,8 @@
                 "MatchmakingSearchResultAnalytics",
                 "MatchmakingSurviveWithFriendsAnalytics",
                 "PerformanceChartingAnalytics",
-                "RTMAnalytics"
+                "RTMAnalytics",
+                "SyncLoadAnalytics"
             ],
             "AF": [
                 "af_complete_registrationAnalytics",
@@ -484,8 +486,6 @@
                 "MenuFlowAnalytics",
                 "PerkAcquisitionAnalytics",
                 "PlagueSurvivorAnalytics",
-                "PostGame_KillerAnalytics",
-                "PostGame_SurvivorAnalytics",
                 "ProceduralGenerationAnalytics",
                 "QueueAnalytics",
                 "ScoreAnalytics",
@@ -510,6 +510,8 @@
                 "LoadOutAnalytics",
                 "MatchInfoAnalytics",
                 "PerformanceAnalytics",
+                "PostGame_KillerAnalytics",
+                "PostGame_SurvivorAnalytics",
                 "ReportAnalytics",
                 "S3CommandAnalytics",
                 "WalesCypherAnalytics"
@@ -717,6 +719,7 @@
             "m_4.4.0_399804live": "m_4.4.0_399804live-1613598012",
             "m_4.4.0_401266live": "m_4.4.0_401266live-1614009581",
             "m_4.4.0_402034live": "m_4.4.0_402034live-1614106191",
+            "m_4.4.0_407701live": "m_4.4.0_407701live-1615305454",
             "m_4.4.1_406284live": "m_4.4.1_406284live-1614884513",
             "m_4.4.1_406413live": "m_4.4.1_406413live-1614891116"
         },

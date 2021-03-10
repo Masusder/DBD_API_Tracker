@@ -1265,8 +1265,34 @@
                     ]
                 }
             ],
-            "endDate": "2021-03-15T15:59:59",
+            "endDate": "2021-03-08T15:59:59",
             "startDate": "2021-03-05T16:00:00"
+        },
+        {
+            "data": [
+                {
+                    "category": "outfit",
+                    "ids": [
+                        "MS_outfit_014"
+                    ]
+                }
+            ],
+            "endDate": "2021-03-08T15:59:59",
+            "startDate": "2021-03-08T16:00:00"
+        },
+        {
+            "data": [
+                {
+                    "category": "outfit",
+                    "ids": [
+                        "GS_outfit_014",
+                        "MT_Outfit_015",
+                        "NK_outfit_014"
+                    ]
+                }
+            ],
+            "endDate": "2021-03-14T15:59:59",
+            "startDate": "2021-03-08T16:00:00"
         }
     ]
 }
