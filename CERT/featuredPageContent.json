@@ -628,6 +628,16 @@
                     "Banner_BB_D"
                 ],
                 "startDate": "2021-01-23T16:00:00"
+            },
+            {
+                "endDate": "2021-04-01T16:00:00",
+                "ids": [
+                    "Banner_C_WY",
+                    "Banner_C_CF",
+                    "Banner_C_CF2",
+                    "Banner_COM"
+                ],
+                "startDate": "2021-03-01T16:00:00"
             }
         ],
         "right": [
@@ -681,6 +691,13 @@
                     "storeBanner_AURR_small"
                 ],
                 "startDate": "2020-12-04T16:00:00"
+            },
+            {
+                "endDate": "2021-04-01T16:00:00",
+                "ids": [
+                    "Banner_COM_small"
+                ],
+                "startDate": "2021-03-01T16:00:00"
             }
         ]
     },
